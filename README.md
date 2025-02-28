@@ -17,6 +17,8 @@ A command-line tool for converting CHM (Compiled HTML Help) files to Wiki.js-com
 
 - Python 3.7 or higher
 - Git (for repository integration)
+- Microsoft Visual C++ 14.0 or greater (for building pychm)
+  - Available with [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
 ### Setup
 
@@ -40,6 +42,29 @@ A command-line tool for converting CHM (Compiled HTML Help) files to Wiki.js-com
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+
+   **Note**: If you encounter issues installing `pychm`, you have several options:
+   
+   a. Install Microsoft C++ Build Tools and try again:
+      ```bash
+      pip install -r requirements.txt
+      ```
+   
+   b. Install a pre-built wheel (if available for your platform):
+      ```bash
+      # Example for Windows
+      pip install https://github.com/dottedmag/pychm/releases/download/v0.8.6/pychm-0.8.6-cp39-cp39-win_amd64.whl
+      ```
+   
+   c. Install other dependencies and modify the code to use an alternative CHM library:
+      ```bash
+      pip install beautifulsoup4 markdownify markdown click tqdm gitpython pytest black flake8 mypy
+      ```
+
+4. Verify installation:
+   ```bash
+   python test_chm_processor.py
    ```
 
 ## Usage
