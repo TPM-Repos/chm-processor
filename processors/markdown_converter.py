@@ -4,116 +4,68 @@ from typing import Optional
 from logging import Logger
 from bs4 import BeautifulSoup
 import re
+from markdownify import markdownify as md
+import os
 
 class MarkdownConverter:
     def __init__(self, logger: Logger):
         self.logger = logger
+        self.processed_images = set()
 
-    def convert(self, html_content: str) -> str:
-        """Convert HTML content to Wiki.js compatible Markdown."""
+    def convert(self, html_content: str, base_path: str = "", output_assets_dir: str = "") -> str:
+        """
+        Convert HTML content to Wiki.js compatible Markdown.
+        
+        Args:
+            html_content: The HTML content to convert
+            base_path: Base path for resolving relative URLs
+            output_assets_dir: Directory to save extracted assets
+        """
         try:
+            # Parse HTML with BeautifulSoup
             soup = BeautifulSoup(html_content, 'html.parser')
-            markdown_content = self._process_element(soup.body)
+            
+            # Process images if output_assets_dir is provided
+            if output_assets_dir:
+                self._process_images(soup, base_path, output_assets_dir)
+            
+            # Convert to Markdown using markdownify
+            markdown_content = md(str(soup), heading_style="ATX")
+            
+            # Apply Wiki.js specific post-processing
             return self._post_process(markdown_content)
+            
         except Exception as e:
             self.logger.error(f"Error converting HTML to Markdown: {str(e)}")
             raise
 
-    def _process_element(self, element) -> str:
-        """Process HTML elements recursively and convert to Markdown."""
-        if element is None:
-            return ""
-
-        content = []
-        for child in element.children:
-            if child.name is None:  # Text node
-                text = child.string
-                if text and not text.isspace():
-                    content.append(text.strip())
-            else:
-                content.append(self._convert_element(child))
-
-        return '\n'.join(filter(None, content))
-
-    def _convert_element(self, element) -> str:
-        """Convert specific HTML elements to Markdown format."""
-        tag = element.name
-
-        # Handle headers
-        if tag and tag.startswith('h') and len(tag) == 2:
-            level = int(tag[1])
-            return f"{'#' * level} {element.get_text().strip()}"
-
-        # Handle paragraphs
-        if tag == 'p':
-            return f"\n{self._process_element(element)}\n"
-
-        # Handle lists
-        if tag == 'ul':
-            items = [f"- {self._process_element(li)}" for li in element.find_all('li', recursive=False)]
-            return '\n'.join(items)
-        if tag == 'ol':
-            items = [f"{i+1}. {self._process_element(li)}" for i, li in enumerate(element.find_all('li', recursive=False))]
-            return '\n'.join(items)
-
-        # Handle code blocks
-        if tag == 'pre':
-            code = element.find('code')
-            if code:
-                return f"```\n{code.get_text()}\n```"
-            return f"```\n{element.get_text()}\n```"
-
-        # Handle inline code
-        if tag == 'code':
-            return f"`{element.get_text()}`"
-
-        # Handle links
-        if tag == 'a':
-            href = element.get('href', '')
-            text = element.get_text() or href
-            return f"[{text}]({href})"
-
-        # Handle images
-        if tag == 'img':
-            src = element.get('src', '')
-            alt = element.get('alt', '')
-            return f"![{alt}]({src})"
-
-        # Handle tables
-        if tag == 'table':
-            return self._convert_table(element)
-
-        # Handle blockquotes
-        if tag == 'blockquote':
-            lines = self._process_element(element).split('\n')
-            return '\n'.join(f"> {line}" for line in lines)
-
-        # Default case: process children
-        return self._process_element(element)
-
-    def _convert_table(self, table) -> str:
-        """Convert HTML table to Markdown table format."""
-        rows = []
-        headers = []
-
-        # Process headers
-        for th in table.find_all('th'):
-            headers.append(th.get_text().strip())
-
-        if headers:
-            rows.append('| ' + ' | '.join(headers) + ' |')
-            rows.append('| ' + ' | '.join(['---'] * len(headers)) + ' |')
-
-        # Process rows
-        for tr in table.find_all('tr'):
-            cells = [td.get_text().strip() for td in tr.find_all('td')]
-            if cells:  # Skip empty rows and header rows
-                rows.append('| ' + ' | '.join(cells) + ' |')
-
-        return '\n'.join(rows)
+    def _process_images(self, soup, base_path: str, output_assets_dir: str) -> None:
+        """Process images to follow Wiki.js conventions."""
+        for img in soup.find_all('img'):
+            src = img.get('src', '')
+            if not src:
+                continue
+                
+            try:
+                # Resolve relative URLs
+                if not src.startswith(('http://', 'https://', '/')):
+                    src = os.path.join(base_path, src)
+                
+                # Generate Wiki.js compatible path
+                filename = os.path.basename(src)
+                wiki_path = f"/assets/images/{filename}"
+                
+                # Update image src to use Wiki.js path
+                img['src'] = wiki_path
+                
+                # Track processed image for potential extraction
+                self.processed_images.add((src, os.path.join(output_assets_dir, 'images', filename)))
+                
+            except Exception as e:
+                self.logger.warning(f"Error processing image {src}: {str(e)}")
 
     def _post_process(self, content: str) -> str:
-        """Clean up and format the final Markdown content."""
+        """Clean up and format the final Markdown content for Wiki.js."""
         # Remove multiple blank lines
         content = re.sub(r'\n{3,}', '\n\n', content)
         
@@ -123,4 +75,17 @@ class MarkdownConverter:
         # Ensure proper spacing around code blocks
         content = re.sub(r'```\n*([^`]+)\n*```', r'\n```\n\1\n```\n', content)
         
+        # Fix list formatting
+        content = re.sub(r'^(\s*)[*+](\s)', r'\1-\2', content, flags=re.MULTILINE)
+        
+        # Ensure tables have proper formatting
+        content = re.sub(r'\n(\|[^\n]+\|)\n', r'\n\1\n', content)
+        
+        # Fix blockquote formatting
+        content = re.sub(r'^(\s*)>\s*$', r'\1>', content, flags=re.MULTILINE)
+        
         return content.strip()
+        
+    def get_processed_images(self):
+        """Return the set of processed images for extraction."""
+        return self.processed_images

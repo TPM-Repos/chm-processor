@@ -3,7 +3,7 @@
 import os
 from pathlib import Path
 from typing import Dict, Generator
-import chm
+import pychm as chm  # Import pychm as chm for compatibility
 from logging import Logger
 
 class CHMExtractor:

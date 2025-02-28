@@ -43,3 +43,8 @@ env/
 # Operating System
 .DS_Store
 Thumbs.db
+
+# CHM Files
+*.chm
+chm_files/
+extracted_chm/
