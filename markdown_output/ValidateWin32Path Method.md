@@ -1,0 +1,66 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+ValidateWin32Path Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13326.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [ValidationUtility Class](topic13287.md) : ValidateWin32Path Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_path_
+    The path to validate
+
+Glossary Item Box
+
+Validates a path according to NTFS guidelines 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Shared Function ValidateWin32Path( _
+       ByVal _path_ As String _
+    ) As [ValidatePathResult](topic13194.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim path As String
+    Dim value As [ValidatePathResult](topic13194.md)
+     
+    value = [ValidationUtility](topic13287.md).ValidateWin32Path(path)  
+  
+C#|   
+---|---  
+      
+    
+    public static [ValidatePathResult](topic13194.md) ValidateWin32Path( 
+       string _path_
+    )  
+  
+#### Parameters
+
+ _path_
+    The path to validate
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ValidationUtility Class](topic13287.md)   
+[ValidationUtility Members](topic13288.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

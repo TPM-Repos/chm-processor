@@ -1,0 +1,58 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Id Property   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7800.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlDynamicPropertyRule Class](topic7788.md) : Id Property  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Gets the unique identifier for this rule. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public ReadOnly Property Id As String  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [ControlDynamicPropertyRule](topic7788.md)
+    Dim value As String
+     
+    value = instance.Id  
+  
+C#|   
+---|---  
+      
+    
+    public string Id {get;}  
+  
+# ![](dotnetimages/collapse.gif)Remarks
+
+This will be the name of the control and the name of the property formatted as {controlName}:{propertyName}.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ControlDynamicPropertyRule Class](topic7788.md)   
+[ControlDynamicPropertyRule Members](topic7789.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

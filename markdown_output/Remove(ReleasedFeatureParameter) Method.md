@@ -1,0 +1,68 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Remove(ReleasedFeatureParameter) Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14920.md)  
+[DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedFeatureParameterCollection Class](topic14911.md) > [Remove Method](topic14919.md) : Remove(ReleasedFeatureParameter) Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_parameter_
+    The parameter to remove from the collection.
+
+Glossary Item Box
+
+Removes the given parameter from the collection. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Overloads Function Remove( _
+       ByVal _parameter_ As [ReleasedFeatureParameter](topic14903.md) _
+    ) As Boolean  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [ReleasedFeatureParameterCollection](topic14911.md)
+    Dim parameter As [ReleasedFeatureParameter](topic14903.md)
+    Dim value As Boolean
+     
+    value = instance.Remove(parameter)  
+  
+C#|   
+---|---  
+      
+    
+    public bool Remove( 
+       [ReleasedFeatureParameter](topic14903.md) _parameter_
+    )  
+  
+#### Parameters
+
+ _parameter_
+    The parameter to remove from the collection.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ReleasedFeatureParameterCollection Class](topic14911.md)   
+[ReleasedFeatureParameterCollection Members](topic14912.md)   
+[Overload List](topic14919.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

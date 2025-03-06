@@ -1,0 +1,60 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Distance2 Property   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13806.md)  
+[DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [MergedBreakLineInfo Class](topic13797.md) : Distance2 Property  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Storage for the second distance offset for the breakline 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Property Distance2 As Double  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [MergedBreakLineInfo](topic13797.md)
+    Dim value As Double
+     
+    instance.Distance2 = value
+     
+    value = instance.Distance2  
+  
+C#|   
+---|---  
+      
+    
+    public double Distance2 {get; set;}  
+  
+#### Property Value
+
+Distance in system unitsSecond Breakline Offset from the Right of the view in system units
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[MergedBreakLineInfo Class](topic13797.md)   
+[MergedBreakLineInfo Members](topic13798.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

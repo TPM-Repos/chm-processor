@@ -1,0 +1,56 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Status Property   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5746.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TriggeredActionFileResult Class](topic5737.md) : Status Property  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Gets or sets the status of the file entry. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Property Status As [FileResultStatus](topic2353.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [TriggeredActionFileResult](topic5737.md)
+    Dim value As [FileResultStatus](topic2353.md)
+     
+    instance.Status = value
+     
+    value = instance.Status  
+  
+C#|   
+---|---  
+      
+    
+    public [FileResultStatus](topic2353.md) Status {get; set;}  
+  
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[TriggeredActionFileResult Class](topic5737.md)   
+[TriggeredActionFileResult Members](topic5738.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

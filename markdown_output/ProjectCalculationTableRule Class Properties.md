@@ -1,0 +1,38 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+ProjectCalculationTableRule Class Properties   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3986.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectCalculationTableRule Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [ProjectCalculationTableRule members](topic3987.md).
+
+# ![](dotnetimages/collapse.gif)Public Properties
+
+| Name| Description  
+---|---|---  
+![Public Property](dotnetimages/publicProperty.gif)| [Column](topic3994.md)| Gets the column for this rule.   
+![Public Property](dotnetimages/publicProperty.gif)| [Comment](topic3995.md)| Gets the comment of this rule.   
+![Public Property](dotnetimages/publicProperty.gif)| [Formula](topic3996.md)| Gets the formula of this rule   
+![Public Property](dotnetimages/publicProperty.gif)| [Name](topic3997.md)| Gets the name of this rule.   
+![Public Property](dotnetimages/publicProperty.gif)| [RowIndex](topic3998.md)| Gets the row index of this rule.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ProjectCalculationTableRule Class](topic3986.md)   
+[DriveWorks Namespace](topic2159.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

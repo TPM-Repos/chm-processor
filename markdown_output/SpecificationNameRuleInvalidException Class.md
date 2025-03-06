@@ -1,0 +1,65 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+SpecificationNameRuleInvalidException Class   
+[Members](topic11500.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11499.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : SpecificationNameRuleInvalidException Class  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Thrown when a transition could not be invoked because the specification's name rule is invalid. 
+
+# ![](dotnetimages/collapse.gif)Object Model
+
+![](dotnetdiagramimages/image585.png)
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    <SerializableAttribute()>
+    Public Class SpecificationNameRuleInvalidException 
+       Inherits System.Exception  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [SpecificationNameRuleInvalidException](topic11499.md)  
+  
+C#|   
+---|---  
+      
+    
+    [SerializableAttribute()]
+    public class SpecificationNameRuleInvalidException : System.Exception   
+  
+# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+
+System.Object  
+System.Exception  
+**DriveWorks.Specification.SpecificationNameRuleInvalidException**  
+
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[SpecificationNameRuleInvalidException Members](topic11500.md)   
+[DriveWorks.Specification Namespace](topic10764.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

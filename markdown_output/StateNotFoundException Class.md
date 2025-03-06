@@ -1,0 +1,66 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+StateNotFoundException Class   
+[Members](topic11602.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11601.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : StateNotFoundException Class  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Thrown when a project cannot be loaded because one or more referenced states could not be found. 
+
+# ![](dotnetimages/collapse.gif)Object Model
+
+![](dotnetdiagramimages/image593.png)
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    <SerializableAttribute()>
+    Public Class StateNotFoundException 
+       Inherits [DriveWorks.ItemNotFoundException](topic3571.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [StateNotFoundException](topic11601.md)  
+  
+C#|   
+---|---  
+      
+    
+    [SerializableAttribute()]
+    public class StateNotFoundException : [DriveWorks.ItemNotFoundException](topic3571.md)   
+  
+# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+
+System.Object  
+System.Exception  
+[DriveWorks.ItemNotFoundException](topic3571.md)  
+**DriveWorks.Specification.StateNotFoundException**  
+
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[StateNotFoundException Members](topic11602.md)   
+[DriveWorks.Specification Namespace](topic10764.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

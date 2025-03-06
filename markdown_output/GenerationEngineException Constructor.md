@@ -1,0 +1,37 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+GenerationEngineException Constructor   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15224.md)  
+[DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [GenerationEngineException Class](topic15218.md) : GenerationEngineException Constructor  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+# ![](dotnetimages/collapse.gif)Overload List
+
+Overload| Description  
+---|---  
+[GenerationEngineException Constructor(String)](topic15225.md)| Initializes an instance of the [GenerationEngineException](topic15218.md) class.   
+[GenerationEngineException Constructor(String,Exception)](topic15226.md)| Initializes an instance of the [GenerationEngineException](topic15218.md) class.   
+[GenerationEngineException Constructor(SerializationInfo,StreamingContext)](topic15227.md)| Deserializes an instance of the [GenerationEngineException](topic15218.md) class.   
+  
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[GenerationEngineException Class](topic15218.md)   
+[GenerationEngineException Members](topic15219.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

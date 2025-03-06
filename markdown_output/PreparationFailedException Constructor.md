@@ -1,0 +1,37 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+PreparationFailedException Constructor   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15287.md)  
+[DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [PreparationFailedException Class](topic15281.md) : PreparationFailedException Constructor  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+# ![](dotnetimages/collapse.gif)Overload List
+
+Overload| Description  
+---|---  
+[PreparationFailedException Constructor(String)](topic15288.md)| Initializes an instance of the [PreparationFailedException](topic15281.md) class.   
+[PreparationFailedException Constructor(String,Exception)](topic15289.md)| Initializes an instance of the [PreparationFailedException](topic15281.md) class.   
+[PreparationFailedException Constructor(SerializationInfo,StreamingContext)](topic15290.md)| Deserializes an instance of the [PreparationFailedException](topic15281.md) class.   
+  
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[PreparationFailedException Class](topic15281.md)   
+[PreparationFailedException Members](topic15282.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

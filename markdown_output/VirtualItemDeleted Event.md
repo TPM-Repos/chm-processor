@@ -1,0 +1,62 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+VirtualItemDeleted Event   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic604.md)  
+[DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IVirtualSplitCommandButton Interface](topic598.md) : VirtualItemDeleted Event  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Raised after the user presses the delete key on a virtual item on the drop down list. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Event VirtualItemDeleted As [VirtualItemDeletedEventHandler](topic1273.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [IVirtualSplitCommandButton](topic598.md)
+    Dim handler As [VirtualItemDeletedEventHandler](topic1273.md)
+     
+    AddHandler instance.VirtualItemDeleted, handler  
+  
+C#|   
+---|---  
+      
+    
+    event [VirtualItemDeletedEventHandler](topic1273.md) VirtualItemDeleted  
+  
+# ![](dotnetimages/collapse.gif)Event Data
+
+The event handler receives an argument of type [VirtualItemDeletedEventArgs](topic1167.md) containing data related to this event. The following **VirtualItemDeletedEventArgs** properties provide information specific to this event.
+
+Property| Description  
+---|---  
+[Item](topic1174.md)| Gets the data for the virtual item that was selected.   
+  
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[IVirtualSplitCommandButton Interface](topic598.md)   
+[IVirtualSplitCommandButton Members](topic599.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

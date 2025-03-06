@@ -1,0 +1,37 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Teams Class Properties   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11737.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : Teams Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [Teams members](topic11738.md).
+
+# ![](dotnetimages/collapse.gif)Public Properties
+
+| Name| Description  
+---|---|---  
+![Public Property](dotnetimages/publicProperty.gif)| [Count](topic11753.md)| Gets the current number of teams.   
+![Public Property](dotnetimages/publicProperty.gif)| [IsCreatorPermitted](topic11754.md)| Gets/sets whether the creator of a specification is permitted.   
+![Public Property](dotnetimages/publicProperty.gif)| [IsOwnerPermitted](topic11755.md)| Gets/sets whether the owner of a specification is permitted.   
+![Public Property](dotnetimages/publicProperty.gif)| [IsUniversal](topic11756.md)| Gets/sets whether the instance is Universal, i.e. all teams are allowed by the instance.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[Teams Class](topic11737.md)   
+[DriveWorks.Specification Namespace](topic10764.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

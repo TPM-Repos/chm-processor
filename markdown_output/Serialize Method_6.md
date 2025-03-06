@@ -1,0 +1,74 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Serialize Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7718.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlBase Class](topic7698.md) : Serialize Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_writer_
+    The XML writer to which to write the serialized control data.
+
+_options_
+    Options which configure the serialization process.
+
+Glossary Item Box
+
+Serializes the control and any contents to the given XML writer. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Sub Serialize( _
+       ByVal _writer_ As XmlWriter, _
+       ByVal _options_ As [SerializationMode](topic7318.md) _
+    )   
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [ControlBase](topic7698.md)
+    Dim writer As XmlWriter
+    Dim options As [SerializationMode](topic7318.md)
+     
+    instance.Serialize(writer, options)  
+  
+C#|   
+---|---  
+      
+    
+    public void Serialize( 
+       XmlWriter _writer_ ,
+       [SerializationMode](topic7318.md) _options_
+    )  
+  
+#### Parameters
+
+ _writer_
+    The XML writer to which to write the serialized control data.
+_options_
+    Options which configure the serialization process.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ControlBase Class](topic7698.md)   
+[ControlBase Members](topic7699.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

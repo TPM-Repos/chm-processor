@@ -1,0 +1,55 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Padding Class Members   
+See Also Fields Properties Methods [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8676.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : Padding Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members  
+
+
+Glossary Item Box
+
+The following tables list the members exposed by [Padding](topic8676.md).
+
+# ![](dotnetimages/collapse.gif)Public Constructors
+
+| Name| Description  
+---|---|---  
+![Public Constructor](dotnetimages/publicConstructor.gif)| [Padding Constructor](topic8682.md)| Constructs a new instance of the [Padding](topic8676.md) type.   
+Top
+
+# ![](dotnetimages/collapse.gif)Public Fields
+
+| Name| Description  
+---|---|---  
+![Public Field](dotnetimages/publicField.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Empty](topic8685.md)| Gets an instance of the [Padding](topic8676.md) type that represents no padding.   
+Top
+
+# ![](dotnetimages/collapse.gif)Public Properties
+
+| Name| Description  
+---|---|---  
+![Public Property](dotnetimages/publicProperty.gif)| [Value](topic8684.md)| Gets the string describing the parameters of the value.   
+Top
+
+# ![](dotnetimages/collapse.gif)Public Methods
+
+| Name| Description  
+---|---|---  
+![Public Method](dotnetimages/publicMethod.gif)| [ToString](topic8683.md)|   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[Padding Class](topic8676.md)   
+[DriveWorks.Forms Namespace](topic7266.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

@@ -1,0 +1,67 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+TeamDetails Class   
+[Members](topic10704.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10703.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : TeamDetails Class  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Provides information about a registered team of users in a DriveWorks group. 
+
+# ![](dotnetimages/collapse.gif)Object Model
+
+![](dotnetdiagramimages/image539.png)
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    <SerializableAttribute()>
+    Public NotInheritable Class TeamDetails   
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [TeamDetails](topic10703.md)  
+  
+C#|   
+---|---  
+      
+    
+    [SerializableAttribute()]
+    public sealed class TeamDetails   
+  
+# ![](dotnetimages/collapse.gif)Remarks
+
+Modifications made to an instance of TeamDetails are not immediately reflected in the group from which the instance was obtained. To apply any modifications, call the [DriveWorks.GroupSecurity.TryUpdateTeam](topic3337.md) method.
+
+# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+
+System.Object  
+**DriveWorks.Security.TeamDetails**  
+
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[TeamDetails Members](topic10704.md)   
+[DriveWorks.Security Namespace](topic10574.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

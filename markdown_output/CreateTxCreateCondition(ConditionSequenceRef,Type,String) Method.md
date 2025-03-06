@@ -1,0 +1,84 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+CreateTxCreateCondition(ConditionSequenceRef,Type,String) Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13035.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxCreateCondition Method](topic13034.md) : CreateTxCreateCondition(ConditionSequenceRef,Type,String) Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_conditionSequenceRef_
+    The reference to the condition sequence.
+
+_conditionType_
+    The type of the condition to create.
+
+_conditionTitle_
+    The title to give the condition.
+
+Glossary Item Box
+
+Creates a transaction which, when committed, will create a new condition. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Overloads Function CreateTxCreateCondition( _
+       ByVal _conditionSequenceRef_ As [ConditionSequenceRef](topic12852.md), _
+       ByVal _conditionType_ As Type, _
+       ByVal _conditionTitle_ As String _
+    ) As [ITransaction](topic12837.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [ProjectTransactionFactory](topic12928.md)
+    Dim conditionSequenceRef As [ConditionSequenceRef](topic12852.md)
+    Dim conditionType As Type
+    Dim conditionTitle As String
+    Dim value As [ITransaction](topic12837.md)
+     
+    value = instance.CreateTxCreateCondition(conditionSequenceRef, conditionType, conditionTitle)  
+  
+C#|   
+---|---  
+      
+    
+    public [ITransaction](topic12837.md) CreateTxCreateCondition( 
+       [ConditionSequenceRef](topic12852.md) _conditionSequenceRef_ ,
+       Type _conditionType_ ,
+       string _conditionTitle_
+    )  
+  
+#### Parameters
+
+ _conditionSequenceRef_
+    The reference to the condition sequence.
+_conditionType_
+    The type of the condition to create.
+_conditionTitle_
+    The title to give the condition.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ProjectTransactionFactory Class](topic12928.md)   
+[ProjectTransactionFactory Members](topic12929.md)   
+[Overload List](topic13034.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

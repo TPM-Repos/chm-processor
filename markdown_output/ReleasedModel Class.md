@@ -1,0 +1,67 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+ReleasedModel Class   
+[Members](topic14989.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14988.md)  
+[DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : ReleasedModel Class  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+The base class for released SolidWorks parts or assemblies. 
+
+# ![](dotnetimages/collapse.gif)Object Model
+
+![](dotnetdiagramimages/image853.png)
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public MustInherit Class ReleasedModel 
+       Inherits [ReleasedSolidWorksComponent](topic15029.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [ReleasedModel](topic14988.md)  
+  
+C#|   
+---|---  
+      
+    
+    public abstract class ReleasedModel : [ReleasedSolidWorksComponent](topic15029.md)   
+  
+# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+
+System.Object  
+System.MarshalByRefObject  
+[DriveWorks.Components.ReleasedComponent](topic6324.md)  
+[DriveWorks.SolidWorks.Components.ReleasedSolidWorksComponent](topic15029.md)  
+**DriveWorks.SolidWorks.Components.ReleasedModel**  
+[DriveWorks.SolidWorks.Components.ReleasedAssembly](topic14768.md)  
+[DriveWorks.SolidWorks.Components.ReleasedPart](topic14994.md)  
+
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ReleasedModel Members](topic14989.md)   
+[DriveWorks.SolidWorks.Components Namespace](topic13925.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

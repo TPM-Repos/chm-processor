@@ -1,0 +1,35 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+PollingAutopilotQueueBase Class Properties   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1898.md)  
+[DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : PollingAutopilotQueueBase Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [PollingAutopilotQueueBase members](topic1899.md).
+
+# ![](dotnetimages/collapse.gif)Public Properties
+
+| Name| Description  
+---|---|---  
+![Public Property](dotnetimages/publicProperty.gif)| [IsStopping](topic1912.md)| Determines whether the queue is in the process of stopping.   
+![Public Property](dotnetimages/publicProperty.gif)| [SyncRoot](topic1913.md)| Gets an object which can be use to synchronize access to the queue.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[PollingAutopilotQueueBase Class](topic1898.md)   
+[DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

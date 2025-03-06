@@ -1,0 +1,71 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+AuthenticateAsync Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10587.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [IAuthenticationProviderAsync Interface](topic10582.md) : AuthenticateAsync Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_credentials_
+    The credentials to authenticate.
+
+Glossary Item Box
+
+Authenticates the given credentials and returns the relevant principal. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Function AuthenticateAsync( _
+       ByVal _credentials_ As [IProviderCredentials](topic10588.md) _
+    ) As Task(Of IProviderPrincipal)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [IAuthenticationProviderAsync](topic10582.md)
+    Dim credentials As [IProviderCredentials](topic10588.md)
+    Dim value As Task(Of IProviderPrincipal)
+     
+    value = instance.AuthenticateAsync(credentials)  
+  
+C#|   
+---|---  
+      
+    
+    Task<IProviderPrincipal> AuthenticateAsync( 
+       [IProviderCredentials](topic10588.md) _credentials_
+    )  
+  
+#### Parameters
+
+ _credentials_
+    The credentials to authenticate.
+
+#### Return Value
+
+An instance of a type derived from [IProviderPrincipal](topic10597.md) which represents the authenticated principal, or a null reference if the credentials are invalid.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[IAuthenticationProviderAsync Interface](topic10582.md)   
+[IAuthenticationProviderAsync Members](topic10583.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

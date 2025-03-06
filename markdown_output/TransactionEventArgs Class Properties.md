@@ -1,0 +1,36 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+TransactionEventArgs Class Properties   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1109.md)  
+[DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : TransactionEventArgs Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [TransactionEventArgs members](topic1110.md).
+
+# ![](dotnetimages/collapse.gif)Public Properties
+
+| Name| Description  
+---|---|---  
+![Public Property](dotnetimages/publicProperty.gif)| [IsRegistering](topic1116.md)| Gets whether this transaction is being registered for the first time. As apposed to being run through undo or redo.   
+![Public Property](dotnetimages/publicProperty.gif)| [TransactionType](topic1117.md)| Gets the type of the transaction that was committed.   
+![Public Property](dotnetimages/publicProperty.gif)| [View](topic1118.md)| Gets the view responsible for the transaction.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[TransactionEventArgs Class](topic1109.md)   
+[DriveWorks.Applications Namespace](topic16.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

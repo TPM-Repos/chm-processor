@@ -1,0 +1,37 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+DriveWorks.Reporting Namespace Inheritance Hierarchy   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10334.md)  
+[DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Reporting Namespace  
+---  
+  
+Glossary Item Box
+
+# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+
+System.Object  
+[DriveWorks.Reporting.CompositeReportWriter](topic10363.md)  
+[DriveWorks.Reporting.ProxyReportWriter](topic10434.md)  
+[DriveWorks.Reporting.EventProxyReportWriter](topic10392.md)  
+DriveWorks.Specification.SpecificationContextReportWriter  
+[DriveWorks.Reporting.ReportPackage](topic10451.md)  
+[DriveWorks.Reporting.ReportReader](topic10462.md)  
+[DriveWorks.Reporting.ReportWriterBase](topic10476.md)  
+[DriveWorks.Reporting.EventReportWriter](topic10409.md)  
+[DriveWorks.Reporting.TraceReportWriter](topic10494.md)  
+System.EventArgs  
+[DriveWorks.Reporting.EntryEventArgs](topic10379.md)  
+[DriveWorks.Reporting.ProcessEventArgs](topic10424.md)  
+
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[DriveWorks.Engine Assembly](topic2156.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

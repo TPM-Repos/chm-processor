@@ -1,0 +1,76 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+GetSpecificationsByModifiedDate(Boolean,Boolean) Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3379.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) > [GetSpecificationsByModifiedDate Method](topic3377.md) : GetSpecificationsByModifiedDate(Boolean,Boolean) Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_descending_
+    True to retrieve specifications in reverse chronological order.
+
+_includeArchived_
+    True to also retrieve archived specifications.
+
+Glossary Item Box
+
+Gets specifications in chronological order. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Overloads Function GetSpecificationsByModifiedDate( _
+       ByVal _descending_ As Boolean, _
+       ByVal _includeArchived_ As Boolean _
+    ) As IEnumerable(Of SpecificationDetails)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [GroupSpecifications](topic3355.md)
+    Dim descending As Boolean
+    Dim includeArchived As Boolean
+    Dim value As IEnumerable(Of SpecificationDetails)
+     
+    value = instance.GetSpecificationsByModifiedDate(descending, includeArchived)  
+  
+C#|   
+---|---  
+      
+    
+    public IEnumerable<SpecificationDetails> GetSpecificationsByModifiedDate( 
+       bool _descending_ ,
+       bool _includeArchived_
+    )  
+  
+#### Parameters
+
+ _descending_
+    True to retrieve specifications in reverse chronological order.
+_includeArchived_
+    True to also retrieve archived specifications.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[GroupSpecifications Class](topic3355.md)   
+[GroupSpecifications Members](topic3356.md)   
+[Overload List](topic3377.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

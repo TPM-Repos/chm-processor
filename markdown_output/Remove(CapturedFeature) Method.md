@@ -1,0 +1,67 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Remove(CapturedFeature) Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14211.md)  
+[DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedFeatureCollection Class](topic14201.md) > [Remove Method](topic14210.md) : Remove(CapturedFeature) Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_feature_
+    The feature to remove.
+
+Glossary Item Box
+
+Removes the given feature. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Overloads Sub Remove( _
+       ByVal _feature_ As [CapturedFeature](topic14191.md) _
+    )   
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [CapturedFeatureCollection](topic14201.md)
+    Dim feature As [CapturedFeature](topic14191.md)
+     
+    instance.Remove(feature)  
+  
+C#|   
+---|---  
+      
+    
+    public void Remove( 
+       [CapturedFeature](topic14191.md) _feature_
+    )  
+  
+#### Parameters
+
+ _feature_
+    The feature to remove.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[CapturedFeatureCollection Class](topic14201.md)   
+[CapturedFeatureCollection Members](topic14202.md)   
+[Overload List](topic14210.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

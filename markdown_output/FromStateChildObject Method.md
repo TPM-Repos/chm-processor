@@ -1,0 +1,74 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+FromStateChildObject Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13167.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [TaskSequenceRef Class](topic13159.md) : FromStateChildObject Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_state_
+    The state to which the transition, operation, or event belongs.
+
+_obj_
+    The transition, operation, or event for which to get a reference.
+
+Glossary Item Box
+
+Gets a task sequence ref from a transition, operation, or event on the given state. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Shared Function FromStateChildObject( _
+       ByVal _state_ As [State](topic11559.md), _
+       ByVal _obj_ As Object _
+    ) As [TaskSequenceRef](topic13159.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim state As [State](topic11559.md)
+    Dim obj As Object
+    Dim value As [TaskSequenceRef](topic13159.md)
+     
+    value = [TaskSequenceRef](topic13159.md).FromStateChildObject(state, obj)  
+  
+C#|   
+---|---  
+      
+    
+    public static [TaskSequenceRef](topic13159.md) FromStateChildObject( 
+       [State](topic11559.md) _state_ ,
+       object _obj_
+    )  
+  
+#### Parameters
+
+ _state_
+    The state to which the transition, operation, or event belongs.
+_obj_
+    The transition, operation, or event for which to get a reference.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[TaskSequenceRef Class](topic13159.md)   
+[TaskSequenceRef Members](topic13160.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

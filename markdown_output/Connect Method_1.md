@@ -1,0 +1,66 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Connect Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5180.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupManager Class](topic5174.md) : Connect Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_serverName_
+    The name of the server to which to connect.
+
+Glossary Item Box
+
+Connects to the specified remote group server. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Shared Function Connect( _
+       ByVal _serverName_ As String _
+    ) As [RemoteGroupManager](topic5174.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim serverName As String
+    Dim value As [RemoteGroupManager](topic5174.md)
+     
+    value = [RemoteGroupManager](topic5174.md).Connect(serverName)  
+  
+C#|   
+---|---  
+      
+    
+    public static [RemoteGroupManager](topic5174.md) Connect( 
+       string _serverName_
+    )  
+  
+#### Parameters
+
+ _serverName_
+    The name of the server to which to connect.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[RemoteGroupManager Class](topic5174.md)   
+[RemoteGroupManager Members](topic5175.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

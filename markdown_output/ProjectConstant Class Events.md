@@ -1,0 +1,38 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+ProjectConstant Class Events   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4171.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectConstant Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [ProjectConstant members](topic4172.md).
+
+# ![](dotnetimages/collapse.gif)Public Events
+
+| Name| Description  
+---|---|---  
+![Public Event](dotnetimages/publicEvent.gif)| [CommentChanged](topic4197.md)| Raised when the comment is changed.   
+![Public Event](dotnetimages/publicEvent.gif)| [Deleted](topic4198.md)| Raised when the constant is deleted.   
+![Public Event](dotnetimages/publicEvent.gif)| [NameChanged](topic4199.md)| Raised when the name is changed.   
+![Public Event](dotnetimages/publicEvent.gif)| [ParentChanged](topic4200.md)| Raised when the constant's category is changed.   
+![Public Event](dotnetimages/publicEvent.gif)| [ValueChanged](topic4201.md)| Raised when the value is changed.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ProjectConstant Class](topic4171.md)   
+[DriveWorks Namespace](topic2159.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

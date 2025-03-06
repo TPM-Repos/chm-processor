@@ -1,0 +1,67 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+SetInputValue(Object) Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7643.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ComboBox Class](topic7630.md) > [SetInputValue Method](topic7642.md) : SetInputValue(Object) Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_value_
+    The value to set to the input property.
+
+Glossary Item Box
+
+Sets the selected item of the control. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Overloads Overrides Sub SetInputValue( _
+       ByVal _value_ As Object _
+    )   
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [ComboBox](topic7630.md)
+    Dim value As Object
+     
+    instance.SetInputValue(value)  
+  
+C#|   
+---|---  
+      
+    
+    public override void SetInputValue( 
+       object _value_
+    )  
+  
+#### Parameters
+
+ _value_
+    The value to set to the input property.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ComboBox Class](topic7630.md)   
+[ComboBox Members](topic7631.md)   
+[Overload List](topic7642.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

@@ -1,0 +1,67 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+GetConditionRef Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12862.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ConditionSequenceRef Class](topic12852.md) : GetConditionRef Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_conditionIndex_
+    The index of the condition in the sequence.
+
+Glossary Item Box
+
+Gets a reference to the specified condition. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Function GetConditionRef( _
+       ByVal _conditionIndex_ As Integer _
+    ) As [ConditionRef](topic12843.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [ConditionSequenceRef](topic12852.md)
+    Dim conditionIndex As Integer
+    Dim value As [ConditionRef](topic12843.md)
+     
+    value = instance.GetConditionRef(conditionIndex)  
+  
+C#|   
+---|---  
+      
+    
+    public [ConditionRef](topic12843.md) GetConditionRef( 
+       int _conditionIndex_
+    )  
+  
+#### Parameters
+
+ _conditionIndex_
+    The index of the condition in the sequence.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ConditionSequenceRef Class](topic12852.md)   
+[ConditionSequenceRef Members](topic12853.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

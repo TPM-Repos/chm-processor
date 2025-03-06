@@ -1,0 +1,41 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+TableExportDetails Class Methods   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5589.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : TableExportDetails Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [TableExportDetails members](topic5590.md).
+
+# ![](dotnetimages/collapse.gif)Public Methods
+
+| Name| Description  
+---|---|---  
+![Public Method](dotnetimages/publicMethod.gif)| [CommitChanges](topic5595.md)| Applies all changed values to the export document.   
+Top
+
+# ![](dotnetimages/collapse.gif)Protected Methods
+
+| Name| Description  
+---|---|---  
+![Protected Method](dotnetimages/protectedMethod.gif)| [CommitChangesCore](topic5596.md)| Applies all changed values to the element.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[TableExportDetails Class](topic5589.md)   
+[DriveWorks Namespace](topic2159.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

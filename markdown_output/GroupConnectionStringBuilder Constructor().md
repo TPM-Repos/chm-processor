@@ -1,0 +1,52 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+GroupConnectionStringBuilder Constructor()   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3075.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupConnectionStringBuilder Class](topic3068.md) > [GroupConnectionStringBuilder Constructor](topic3074.md) : GroupConnectionStringBuilder Constructor()  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Creates a new instance of the [GroupConnectionStringBuilder](topic3068.md) class. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Function New()  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As New [GroupConnectionStringBuilder](topic3068.md)()  
+  
+C#|   
+---|---  
+      
+    
+    public GroupConnectionStringBuilder()  
+  
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[GroupConnectionStringBuilder Class](topic3068.md)   
+[GroupConnectionStringBuilder Members](topic3069.md)   
+[Overload List](topic3074.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

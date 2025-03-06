@@ -1,0 +1,35 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+DriveWorks.Messaging Namespace Inheritance Hierarchy   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10038.md)  
+[DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Messaging Namespace  
+---  
+  
+Glossary Item Box
+
+# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+
+System.Object  
+[DriveWorks.Messaging.AgentMessage](topic10040.md)  
+[DriveWorks.Messaging.GetAgentSettingMessage](topic10049.md)  
+[DriveWorks.Messaging.GetAgentStatusMessage](topic10057.md)  
+[DriveWorks.Messaging.SetAgentSettingMessage](topic10079.md)  
+[DriveWorks.Messaging.StandardAgentSettingNames](topic10088.md)  
+[DriveWorks.Messaging.StartAgentNotification](topic10100.md)  
+[DriveWorks.Messaging.StopAgentNotification](topic10107.md)  
+System.EventArgs  
+[DriveWorks.Messaging.NotificationEventArgs](topic10064.md)  
+[DriveWorks.Messaging.RequestEventArgs](topic10071.md)  
+
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[DriveWorks.Engine Assembly](topic2156.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

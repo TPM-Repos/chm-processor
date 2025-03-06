@@ -1,0 +1,70 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+RemoveTeam Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11747.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Teams Class](topic11737.md) : RemoveTeam Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_teamId_
+    The unique identifier of the team to remove.
+
+Glossary Item Box
+
+Removes the team with the specified identifier from the collection. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Sub RemoveTeam( _
+       ByVal _teamId_ As Guid _
+    )   
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [Teams](topic11737.md)
+    Dim teamId As Guid
+     
+    instance.RemoveTeam(teamId)  
+  
+C#|   
+---|---  
+      
+    
+    public void RemoveTeam( 
+       Guid _teamId_
+    )  
+  
+#### Parameters
+
+ _teamId_
+    The unique identifier of the team to remove.
+
+# ![](dotnetimages/collapse.gif)Remarks
+
+If an attempt is made to remove a team from an instance which is marked as "All Teams Allowed", i.e. the [IsUniversal](topic11756.md) property returns true, no action is taken by this method.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[Teams Class](topic11737.md)   
+[Teams Members](topic11738.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

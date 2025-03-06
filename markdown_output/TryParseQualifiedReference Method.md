@@ -1,0 +1,94 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+TryParseQualifiedReference Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7221.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [LibraryAttribute Class](topic7201.md) : TryParseQualifiedReference Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_reference_
+    The reference to parse.
+
+_namespaceName_
+    The namespace of the referenced type, or an empty string if no namespace is present.
+
+_typeName_
+    The unqualified name of the referenced type.
+
+_libraryName_
+    The name of the library containing the referenced type.
+
+Glossary Item Box
+
+Attempts to parse a qualified reference. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Shared Function TryParseQualifiedReference( _
+       ByVal _reference_ As String, _
+       ByRef _namespaceName_ As String, _
+       ByRef _typeName_ As String, _
+       ByRef _libraryName_ As String _
+    ) As Boolean  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim reference As String
+    Dim namespaceName As String
+    Dim typeName As String
+    Dim libraryName As String
+    Dim value As Boolean
+     
+    value = [LibraryAttribute](topic7201.md).TryParseQualifiedReference(reference, namespaceName, typeName, libraryName)  
+  
+C#|   
+---|---  
+      
+    
+    public static bool TryParseQualifiedReference( 
+       string _reference_ ,
+       out string _namespaceName_ ,
+       out string _typeName_ ,
+       out string _libraryName_
+    )  
+  
+#### Parameters
+
+ _reference_
+    The reference to parse.
+_namespaceName_
+    The namespace of the referenced type, or an empty string if no namespace is present.
+_typeName_
+    The unqualified name of the referenced type.
+_libraryName_
+    The name of the library containing the referenced type.
+
+#### Return Value
+
+True if the parse was successful, otherwise false.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[LibraryAttribute Class](topic7201.md)   
+[LibraryAttribute Members](topic7202.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

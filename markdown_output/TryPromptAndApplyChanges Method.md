@@ -1,0 +1,71 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+TryPromptAndApplyChanges Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic360.md)  
+[DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IPendingChangesService Interface](topic355.md) : TryPromptAndApplyChanges Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_showCancelOption_
+    
+
+Glossary Item Box
+
+If there are pending changes, a message will be displayed to the user asking if they want to apply them, then apply changes if they wish to. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Function TryPromptAndApplyChanges( _
+       ByVal _showCancelOption_ As Boolean _
+    ) As [PromptAndApplyChangesResult](topic660.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [IPendingChangesService](topic355.md)
+    Dim showCancelOption As Boolean
+    Dim value As [PromptAndApplyChangesResult](topic660.md)
+     
+    value = instance.TryPromptAndApplyChanges(showCancelOption)  
+  
+C#|   
+---|---  
+      
+    
+    [PromptAndApplyChangesResult](topic660.md) TryPromptAndApplyChanges( 
+       bool _showCancelOption_
+    )  
+  
+#### Parameters
+
+ _showCancelOption_
+    
+
+#### Return Value
+
+The result of the prompt and apply dialog, result is None if there were no changes.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[IPendingChangesService Interface](topic355.md)   
+[IPendingChangesService Members](topic356.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

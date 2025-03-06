@@ -1,0 +1,35 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+SpecificationRequestInputsDrivenEventArgs Class Properties   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1960.md)  
+[DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : SpecificationRequestInputsDrivenEventArgs Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [SpecificationRequestInputsDrivenEventArgs members](topic1961.md).
+
+# ![](dotnetimages/collapse.gif)Public Properties
+
+| Name| Description  
+---|---|---  
+![Public Property](dotnetimages/publicProperty.gif)| Cancel|  (Inherited from System.ComponentModel.CancelEventArgs)  
+![Public Property](dotnetimages/publicProperty.gif)| [FailedInputNames](topic1967.md)| Gets the names of the inputs that were unable to be driven.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[SpecificationRequestInputsDrivenEventArgs Class](topic1960.md)   
+[DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

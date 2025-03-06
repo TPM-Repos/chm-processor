@@ -1,0 +1,67 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+StateType Enumeration   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10773.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : StateType Enumeration  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Represents the type of state. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Enum StateType 
+       Inherits System.Enum  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [StateType](topic10773.md)  
+  
+C#|   
+---|---  
+      
+    
+    public enum StateType : System.Enum   
+  
+# ![](dotnetimages/collapse.gif)Members
+
+Member| Description  
+---|---  
+**Automatic**|  If a state is an "Automatic" state, it means it is waiting for a DriveWorks Server machine to enact an operation which will move the specification into another state.  
+**Paused**|  If a state is a "Paused" state, it means it is waiting for the user to perform an operation which will move the specification into another state.  
+**Running**|  If a state is a "Running" state it means it provides forms to the end-user.  
+  
+# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+
+System.Object  
+System.ValueType  
+System.Enum  
+**DriveWorks.Specification.StateType**  
+
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[DriveWorks.Specification Namespace](topic10764.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

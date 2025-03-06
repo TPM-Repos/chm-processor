@@ -1,0 +1,37 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+JobQueue Class Methods   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3594.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : JobQueue Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [JobQueue members](topic3595.md).
+
+# ![](dotnetimages/collapse.gif)Public Methods
+
+| Name| Description  
+---|---|---  
+![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic3600.md)|   
+![Public Method](dotnetimages/publicMethod.gif)| [GetNextJob](topic3601.md)| Gets the next job in the queue.   
+![Public Method](dotnetimages/publicMethod.gif)| [SetCompleted](topic3602.md)| Flags the specified job as having been completed by the current client.   
+![Public Method](dotnetimages/publicMethod.gif)| [SetFailed](topic3603.md)| Flags the specified job as having failed to be processed by the current client.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[JobQueue Class](topic3594.md)   
+[DriveWorks Namespace](topic2159.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

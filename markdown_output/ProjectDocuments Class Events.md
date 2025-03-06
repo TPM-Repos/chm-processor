@@ -1,0 +1,36 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+ProjectDocuments Class Events   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4434.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectDocuments Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members    
+
+
+Glossary Item Box
+
+For a list of all members of this type, see [ProjectDocuments members](topic4435.md).
+
+# ![](dotnetimages/collapse.gif)Public Events
+
+| Name| Description  
+---|---|---  
+![Public Event](dotnetimages/publicEvent.gif)| [DocumentCreated](topic4447.md)| Raised when a document is created.   
+![Public Event](dotnetimages/publicEvent.gif)| [DocumentDeleted](topic4448.md)| Raised when a document is deleted.   
+![Public Event](dotnetimages/publicEvent.gif)| [DocumentNameChanged](topic4449.md)| Raised when a document's name changes.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ProjectDocuments Class](topic4434.md)   
+[DriveWorks Namespace](topic2159.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

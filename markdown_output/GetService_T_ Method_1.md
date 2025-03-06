@@ -1,0 +1,80 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+_T_
+    The type of service to retrieve.
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+GetService<T> Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic821.md)  
+[DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [Extensions Class](topic814.md) : GetService<T> Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_serviceProvider_
+    The service provider from which to get the service.
+
+Glossary Item Box
+
+Gets the specified service from the given service provider. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    <ExtensionAttribute()>
+    Public Shared Function GetService(Of T)( _
+       ByVal _serviceProvider_ As IServiceProvider _
+    ) As T  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim serviceProvider As IServiceProvider
+    Dim value As T
+     
+    value = [Extensions](topic814.md).GetService(Of T)(serviceProvider)  
+  
+C#|   
+---|---  
+      
+    
+    [ExtensionAttribute()]
+    public static T GetService<T>( 
+       IServiceProvider _serviceProvider_
+    )  
+  
+#### Parameters
+
+ _serviceProvider_
+    The service provider from which to get the service.
+
+#### Type Parameters
+
+_T_
+    The type of service to retrieve.
+
+#### Return Value
+
+A service of the specified type, or the default value for the specified type if the service isn't available.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[Extensions Class](topic814.md)   
+[Extensions Members](topic815.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

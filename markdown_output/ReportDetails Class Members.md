@@ -1,0 +1,49 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+ReportDetails Class Members   
+See Also Properties [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5221.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ReportDetails Class  
+---  
+  
+Include Inherited Members    
+Include Protected Members  
+
+
+Glossary Item Box
+
+The following tables list the members exposed by [ReportDetails](topic5221.md).
+
+# ![](dotnetimages/collapse.gif)Public Constructors
+
+| Name| Description  
+---|---|---  
+![Public Constructor](dotnetimages/publicConstructor.gif)| [ReportDetails Constructor](topic5227.md)| Overloaded.   
+Top
+
+# ![](dotnetimages/collapse.gif)Public Properties
+
+| Name| Description  
+---|---|---  
+![Public Property](dotnetimages/publicProperty.gif)| [DateCompleted](topic5231.md)| Gets the date and time the report was completed, or a null reference if the report has not been completed.   
+![Public Property](dotnetimages/publicProperty.gif)| [DateStarted](topic5232.md)| Gets the date and time the report was started.   
+![Public Property](dotnetimages/publicProperty.gif)| [ErrorCount](topic5233.md)| Gets the number of error entries in this report.   
+![Public Property](dotnetimages/publicProperty.gif)| [Id](topic5234.md)| Gets the unique identifier of the report.   
+![Public Property](dotnetimages/publicProperty.gif)| [InformationCount](topic5235.md)| Gets the number of information entries in this report.   
+![Public Property](dotnetimages/publicProperty.gif)| [Path](topic5236.md)| Gets the path to the report file if the report is a legacy DriveWorks 6 report.   
+![Public Property](dotnetimages/publicProperty.gif)| [ReportingLevel](topic5237.md)| Gets the reporting level of this report.   
+![Public Property](dotnetimages/publicProperty.gif)| [Title](topic5238.md)| Gets the title of the report.   
+![Public Property](dotnetimages/publicProperty.gif)| [WarningCount](topic5239.md)| Gets the number of warning entries in this report.   
+Top
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ReportDetails Class](topic5221.md)   
+[DriveWorks Namespace](topic2159.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

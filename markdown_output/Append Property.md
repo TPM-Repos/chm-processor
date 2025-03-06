@@ -1,0 +1,56 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+Append Property   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12608.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SetStatesToTriggerOnTask Class](topic12600.md) : Append Property  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Gets/sets whether to append the new states to trigger on. False if we want to replace the existing states. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Property Append As [FlowProperty(Of Boolean)](topic10978.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [SetStatesToTriggerOnTask](topic12600.md)
+    Dim value As [FlowProperty(Of Boolean)](topic10978.md)
+     
+    instance.Append = value
+     
+    value = instance.Append  
+  
+C#|   
+---|---  
+      
+    
+    public [FlowProperty<bool>](topic10978.md) Append {get; set;}  
+  
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[SetStatesToTriggerOnTask Class](topic12600.md)   
+[SetStatesToTriggerOnTask Members](topic12601.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

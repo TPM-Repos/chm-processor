@@ -1,0 +1,71 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+AddRow Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2184.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IDataExportDefinition Interface](topic2177.md) : AddRow Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_fields_
+    The dictionary of fields that are specified on this row. Key is the field name and the value is the rule for the cell.
+
+Glossary Item Box
+
+Adds a row to the list of export rows. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Function AddRow( _
+       ByVal _fields_ As IDictionary(Of String,IHasRule) _
+    ) As [DataExportRowDefinition](topic2635.md)  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [IDataExportDefinition](topic2177.md)
+    Dim fields As IDictionary(Of String,IHasRule)
+    Dim value As [DataExportRowDefinition](topic2635.md)
+     
+    value = instance.AddRow(fields)  
+  
+C#|   
+---|---  
+      
+    
+    [DataExportRowDefinition](topic2635.md) AddRow( 
+       IDictionary<string,IHasRule> _fields_
+    )  
+  
+#### Parameters
+
+ _fields_
+    The dictionary of fields that are specified on this row. Key is the field name and the value is the rule for the cell.
+
+#### Return Value
+
+Returns the added row.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[IDataExportDefinition Interface](topic2177.md)   
+[IDataExportDefinition Members](topic2178.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

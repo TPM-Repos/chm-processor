@@ -1,0 +1,39 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+CreateStep Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic744.md)  
+[DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [DiscreteWizardBase Class](topic737.md) : CreateStep Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Creates a new instance of the **DiscreteWizardStep`2** class. 
+
+# ![](dotnetimages/collapse.gif)Overload List
+
+Overload| Description  
+---|---  
+[CreateStep<TControl>(String,String,Image,Func<TControl,DiscreteWizardStep>)](topic745.md)| Creates a new instance of the **DiscreteWizardStep`2** class.   
+[CreateStep<TControl>(String,String,Image,Func<TControl,DiscreteWizardStep>,Func<TControl,IEvent>)](topic746.md)| Creates a new instance of the **DiscreteWizardStep`2** class.   
+[CreateStep<TControl>(String,String,Image,Func<TControl,DiscreteWizardStep>,Func<TControl,IEvent>,Func<TControl>)](topic747.md)| Creates a new instance of the **DiscreteWizardStep`2** class.   
+  
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[DiscreteWizardBase Class](topic737.md)   
+[DiscreteWizardBase Members](topic738.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

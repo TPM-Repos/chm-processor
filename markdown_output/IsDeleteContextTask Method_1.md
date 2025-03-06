@@ -1,0 +1,65 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+IsDeleteContextTask Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12185.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [DeleteSpecificationTask Class](topic12177.md) : IsDeleteContextTask Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_ctx_
+    
+
+Glossary Item Box
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Protected Overrides Function IsDeleteContextTask( _
+       ByVal _ctx_ As [SpecificationContext](topic11149.md) _
+    ) As Boolean  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [DeleteSpecificationTask](topic12177.md)
+    Dim ctx As [SpecificationContext](topic11149.md)
+    Dim value As Boolean
+     
+    value = instance.IsDeleteContextTask(ctx)  
+  
+C#|   
+---|---  
+      
+    
+    protected override bool IsDeleteContextTask( 
+       [SpecificationContext](topic11149.md) _ctx_
+    )  
+  
+#### Parameters
+
+ _ctx_
+    
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[DeleteSpecificationTask Class](topic12177.md)   
+[DeleteSpecificationTask Members](topic12178.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

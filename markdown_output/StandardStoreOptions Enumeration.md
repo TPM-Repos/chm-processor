@@ -1,0 +1,73 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+StandardStoreOptions Enumeration   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9384.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) : StandardStoreOptions Enumeration  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+Glossary Item Box
+
+Standard DriveWorks property stores. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Public Enum StandardStoreOptions 
+       Inherits System.Enum  
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [StandardStoreOptions](topic9384.md)  
+  
+C#|   
+---|---  
+      
+    
+    public enum StandardStoreOptions : System.Enum   
+  
+# ![](dotnetimages/collapse.gif)Members
+
+Member| Description  
+---|---  
+**Enabled**|  Identifies the backing store used for the enabled value of the control.  
+**Increment**|  Identifies the backing store used principally for the increment value of the control.  
+**ListData**|  Identifies the backing store used for the list data for the control.  
+**Maximum**|  Identifies the backing store used for the maximum value of the control.  
+**MessageCode**|  Identifies the backing store used for the message code value of the control.  
+**Minimum**|  Identifies the backing store used for the minimum value of the control.  
+**Source**|  Identifies the backing store used for the pre-processed principal value of the control.  
+**Value**|  Identifies the backing store used for the post-processed principal value of the control.  
+**Visible**|  Identifies the backing store used for the visible value of the control.  
+  
+# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+
+System.Object  
+System.ValueType  
+System.Enum  
+**DriveWorks.Forms.DataModel.StandardStoreOptions**  
+
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[DriveWorks.Forms.DataModel Namespace](topic9371.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.

@@ -1,0 +1,66 @@
+![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+
+![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+---  
+DriveWorks SDK Documentation  |   
+---|---  
+RaiseRuleChanged Method   
+See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6206.md)  
+[DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ProjectComponentRule Class](topic6198.md) : RaiseRuleChanged Method  
+---  
+  
+Visual Basic (Declaration)    
+Visual Basic (Usage)    
+C# 
+
+_args_
+    Argument to raise in the event.
+
+Glossary Item Box
+
+Raises the RuleChanged event. 
+
+# ![](dotnetimages/collapse.gif)Syntax
+
+Visual Basic (Declaration)|   
+---|---  
+      
+    
+    Protected Sub RaiseRuleChanged( _
+       ByVal _args_ As [ValueChangedEventArgs(Of String)](topic5834.md) _
+    )   
+  
+Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+---|---  
+      
+    
+    Dim instance As [ProjectComponentRule](topic6198.md)
+    Dim args As [ValueChangedEventArgs(Of String)](topic5834.md)
+     
+    instance.RaiseRuleChanged(args)  
+  
+C#|   
+---|---  
+      
+    
+    protected void RaiseRuleChanged( 
+       [ValueChangedEventArgs<string>](topic5834.md) _args_
+    )  
+  
+#### Parameters
+
+ _args_
+    Argument to raise in the event.
+
+# ![](dotnetimages/collapse.gif)Requirements
+
+**Target Platforms:** Please see DriveWorks software prerequisites.
+
+# ![](dotnetimages/collapse.gif)See Also
+
+#### Reference
+
+[ProjectComponentRule Class](topic6198.md)   
+[ProjectComponentRule Members](topic6199.md)
+
+©2024 DriveWorks Ltd. All Rights Reserved.
