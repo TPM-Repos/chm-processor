@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 RuleParseErrorType Enumeration   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) : RuleParseErrorType Enumeration  

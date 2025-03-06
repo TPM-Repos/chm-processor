@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 ToggleCategories Field   
   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) > [AdministratorCommands Class](topic1297.md) : ToggleCategories Field  

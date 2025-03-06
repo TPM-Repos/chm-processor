@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 ReleasedAssembly Class Members   
 See Also Properties Methods [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14768.md)  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : ReleasedAssembly Class  

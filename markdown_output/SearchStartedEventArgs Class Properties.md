@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 SearchStartedEventArgs Class Properties   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) : SearchStartedEventArgs Class  

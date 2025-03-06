@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 SpecificationDetailsEventArgs Constructor(SerializationInfo,StreamingContext)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationDetailsEventArgs Class](topic11322.md) > [SpecificationDetailsEventArgs Constructor](topic11328.md) : SpecificationDetailsEventArgs Constructor(SerializationInfo,StreamingContext)  

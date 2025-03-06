@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 SupportLegacyMaterialCustomProperties Property   
   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [GenerationSettings Class](topic15238.md) : SupportLegacyMaterialCustomProperties Property  

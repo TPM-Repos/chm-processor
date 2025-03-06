@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 Value Property   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md) > [PropertyData Class](topic9611.md) : Value Property  

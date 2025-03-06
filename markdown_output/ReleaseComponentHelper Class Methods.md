@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 ReleaseComponentHelper Class Methods   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : ReleaseComponentHelper Class  

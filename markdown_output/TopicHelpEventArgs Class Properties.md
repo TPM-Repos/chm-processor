@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 TopicHelpEventArgs Class Properties   
   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : TopicHelpEventArgs Class  

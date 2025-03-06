@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 StateNotFoundException Constructor(String)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateNotFoundException Class](topic11601.md) > [StateNotFoundException Constructor](topic11607.md) : StateNotFoundException Constructor(String)  

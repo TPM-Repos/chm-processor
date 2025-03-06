@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 SimpleGroupTable Class   
 [Members](topic10010.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupTables Namespace](topic10007.md) : SimpleGroupTable Class  

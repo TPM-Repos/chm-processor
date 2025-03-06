@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 ReplaceReferenceException Constructor(SerializationInfo,StreamingContext)   
   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [ReplaceReferenceException Class](topic15291.md) > [ReplaceReferenceException Constructor](topic15297.md) : ReplaceReferenceException Constructor(SerializationInfo,StreamingContext)  

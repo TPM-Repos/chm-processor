@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 SharedProjectExtender Class Properties   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) : SharedProjectExtender Class  

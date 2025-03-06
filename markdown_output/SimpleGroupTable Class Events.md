@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 SimpleGroupTable Class Events   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupTables Namespace](topic10007.md) : SimpleGroupTable Class  

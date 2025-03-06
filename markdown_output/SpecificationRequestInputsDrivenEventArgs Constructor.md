@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 SpecificationRequestInputsDrivenEventArgs Constructor   
   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [SpecificationRequestInputsDrivenEventArgs Class](topic1960.md) : SpecificationRequestInputsDrivenEventArgs Constructor  

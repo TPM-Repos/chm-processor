@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 TextDocumentLine Constructor(ProjectDocumentRules,Int32)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TextDocumentLine Class](topic5659.md) > [TextDocumentLine Constructor](topic5665.md) : TextDocumentLine Constructor(ProjectDocumentRules,Int32)  

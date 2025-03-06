@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 ValueChangedEventArgs Constructor(DynamicProperty,Object,Object)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [ValueChangedEventArgs Class](topic9575.md) > [ValueChangedEventArgs Constructor](topic9581.md) : ValueChangedEventArgs Constructor(DynamicProperty,Object,Object)  

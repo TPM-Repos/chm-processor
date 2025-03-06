@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 VariableEventArgs Constructor(ProjectVariable)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [VariableEventArgs Class](topic5874.md) > [VariableEventArgs Constructor](topic5880.md) : VariableEventArgs Constructor(ProjectVariable)  

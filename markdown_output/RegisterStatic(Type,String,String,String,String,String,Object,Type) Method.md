@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 RegisterStatic(Type,String,String,String,String,String,Object,Type) Method   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicProperty Class](topic9398.md) > [RegisterStatic Method](topic9435.md) : RegisterStatic(Type,String,String,String,String,String,Object,Type) Method  

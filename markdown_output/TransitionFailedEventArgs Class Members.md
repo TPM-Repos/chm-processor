@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 TransitionFailedEventArgs Class Members   
 See Also Properties [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1968.md)  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : TransitionFailedEventArgs Class  

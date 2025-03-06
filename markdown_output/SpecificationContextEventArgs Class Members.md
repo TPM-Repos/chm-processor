@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 SpecificationContextEventArgs Class Members   
 See Also Properties [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11284.md)  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : SpecificationContextEventArgs Class  

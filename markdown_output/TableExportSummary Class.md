@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 TableExportSummary Class   
 [Members](topic5623.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : TableExportSummary Class  

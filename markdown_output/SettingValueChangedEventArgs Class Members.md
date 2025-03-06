@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 SettingValueChangedEventArgs Class Members   
 See Also Properties [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic975.md)  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : SettingValueChangedEventArgs Class  

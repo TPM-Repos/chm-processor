@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 StateEventArgs Constructor(SerializationInfo,StreamingContext)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateEventArgs Class](topic11590.md) > [StateEventArgs Constructor](topic11596.md) : StateEventArgs Constructor(SerializationInfo,StreamingContext)  

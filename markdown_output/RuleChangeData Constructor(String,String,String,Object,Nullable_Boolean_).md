@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 RuleChangeData Constructor(String,String,String,Object,Nullable<Boolean>)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RuleChangeData Class](topic5254.md) > [RuleChangeData Constructor](topic5260.md) : RuleChangeData Constructor(String,String,String,Object,Nullable<Boolean>)  

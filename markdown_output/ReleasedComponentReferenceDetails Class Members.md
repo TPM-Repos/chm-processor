@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 ReleasedComponentReferenceDetails Class Members   
 See Also Properties [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6356.md)  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : ReleasedComponentReferenceDetails Class  

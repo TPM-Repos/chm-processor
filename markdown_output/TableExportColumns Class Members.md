@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 TableExportColumns Class Members   
 See Also Methods [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5579.md)  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : TableExportColumns Class  

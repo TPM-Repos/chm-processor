@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 StandardProjectPermissions Class Members   
 See Also Fields [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10695.md)  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : StandardProjectPermissions Class  

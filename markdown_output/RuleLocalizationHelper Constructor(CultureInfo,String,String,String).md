@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 RuleLocalizationHelper Constructor(CultureInfo,String,String,String)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Localization Namespace](topic10015.md) > [RuleLocalizationHelper Class](topic10018.md) > [RuleLocalizationHelper Constructor](topic10024.md) : RuleLocalizationHelper Constructor(CultureInfo,String,String,String)  

@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 SettingsPageAttribute Constructor(String,String,String,String,Type,String,SettingsPagePosition)   
   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [SettingsPageAttribute Class](topic959.md) > [SettingsPageAttribute Constructor](topic965.md) : SettingsPageAttribute Constructor(String,String,String,String,Type,String,SettingsPagePosition)  

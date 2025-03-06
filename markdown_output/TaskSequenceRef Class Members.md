@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 TaskSequenceRef Class Members   
 See Also Methods [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13159.md)  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) : TaskSequenceRef Class  

@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
----  
-DriveWorks SDK Documentation  |   
----|---  
 SelectionChangeEventArgs Class Members   
 See Also Properties [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic926.md)  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : SelectionChangeEventArgs Class  

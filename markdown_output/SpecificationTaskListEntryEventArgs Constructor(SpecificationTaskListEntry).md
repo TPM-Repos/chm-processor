@@ -1,9 +1,3 @@
-       
-
- Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
----  
-DriveWorks SDK Documentation  |   
----|---  
 SpecificationTaskListEntryEventArgs Constructor(SpecificationTaskListEntry)   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationTaskListEntryEventArgs Class](topic11548.md) > [SpecificationTaskListEntryEventArgs Constructor](topic11554.md) : SpecificationTaskListEntryEventArgs Constructor(SpecificationTaskListEntry)  
