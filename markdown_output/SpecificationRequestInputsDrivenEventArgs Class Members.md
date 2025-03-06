@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+ Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +17,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [SpecificationRequestInputsDrivenEventArgs](topic1960.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [SpecificationRequestInputsDrivenEventArgs Constructor](topic1966.md)| Initializes a new instance of the [SpecificationRequestInputsDrivenEventArgs](topic1960.md) class.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -32,7 +32,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [FailedInputNames](topic1967.md)| Gets the names of the inputs that were unable to be driven.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

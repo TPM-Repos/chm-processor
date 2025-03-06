@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+ Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +17,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [SpecificationContext](topic11149.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -65,7 +65,7 @@ The following tables list the members exposed by [SpecificationContext](topic111
 ![Public Property](dotnetimages/publicProperty.gif)| [Type](topic11236.md)| Gets the type of the specification.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -92,7 +92,7 @@ Top
 ![Public Method](dotnetimages/publicMethod.gif)| [UpdateArchivedState](topic11194.md)| Sets the archived state of a loaded/running specification.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -114,7 +114,7 @@ Top
 ![Protected Method](dotnetimages/protectedMethod.gif)| [OnDialogOpening](topic11187.md)| Raises the [OnDialogOpening](topic11187.md) event.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -167,7 +167,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [TransitionSequenceInvoking](topic11283.md)| Raised when a transition task-sequence is about to be invoked.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

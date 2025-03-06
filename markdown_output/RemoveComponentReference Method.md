@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+ Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,18 +17,18 @@ Glossary Item Box
 
 Uncaptures the specified child from the parent and returns the number of places where the child is still used. 
 
-# ![](dotnetimages/collapse.gif)Overload List
+# Overload List
 
 Overload| Description  
 ---|---  
 [RemoveComponentReference(ComponentHandle,ComponentHandle)](topic13405.md)| Uncaptures the specified child from the parent and returns the number of places where the child is still used.   
 [RemoveComponentReference(ComponentHandle,ComponentHandle,Boolean)](topic13406.md)| Uncaptures the specified child from the parent and returns the number of places where the child is still used.   
   
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

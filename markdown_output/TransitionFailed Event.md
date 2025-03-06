@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+ Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +17,7 @@ Glossary Item Box
 
 Occurs when the specification is being processed and a transition with the given name is invalid. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -25,7 +25,7 @@ Visual Basic (Declaration)|
     
     Event TransitionFailed As EventHandler(Of TransitionFailedEventArgs)  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -40,7 +40,7 @@ C#|
     
     event EventHandler<TransitionFailedEventArgs> TransitionFailed  
   
-# ![](dotnetimages/collapse.gif)Event Data
+# Event Data
 
 The event handler receives an argument of type [TransitionFailedEventArgs](topic1968.md) containing data related to this event. The following **TransitionFailedEventArgs** properties provide information specific to this event.
 
@@ -49,11 +49,11 @@ Property| Description
 [Exception](topic1975.md)| The exception that occurred during execution of the transition, e.g. if the transition could not be found, or the user doesn't have permissions to access the transition.   
 [Result](topic1976.md)| The result of executing the transition, e.g. false if the conditions on the transition could not be satisfied.   
   
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

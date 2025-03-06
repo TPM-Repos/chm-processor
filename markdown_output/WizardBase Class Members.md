@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+ Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +17,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [WizardBase](topic1200.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -25,7 +25,7 @@ The following tables list the members exposed by [WizardBase](topic1200.md).
 ![Public Property](dotnetimages/publicProperty.gif)| [IsSizeable](topic1245.md)| Indicates whether the wizard should be resizable.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
@@ -45,14 +45,14 @@ Top
 ![Protected Property](dotnetimages/protectedProperty.gif)| [WizardTitle](topic1247.md)| Gets the title of the wizard.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
 ![Public Method](dotnetimages/publicMethod.gif)| [ShowHelp](topic1231.md)| Shows the wizards help.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -83,7 +83,7 @@ Top
 ![Protected Method](dotnetimages/protectedMethod.gif)| [PushStep](topic1230.md)| Manual pushes a step on to the list of previous steps. May be useful if GetInitialStep returns a step other than the zeroeth.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Events
+# Protected Events
 
 | Name| Description  
 ---|---|---  
@@ -98,7 +98,7 @@ Top
 ![Protected Event](dotnetimages/protectedEvent.gif)| [PreviousInvoking](topic1256.md)| Raised when backwards navigation is requested in the wizard.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

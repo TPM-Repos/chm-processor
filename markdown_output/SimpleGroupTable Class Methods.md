@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+ Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +17,7 @@ Glossary Item Box
 
 For a list of all members of this type, see [SimpleGroupTable members](topic10010.md).
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -28,7 +28,7 @@ For a list of all members of this type, see [SimpleGroupTable members](topic1001
 ![Public Method](dotnetimages/publicMethod.gif)| [SetTableData](topic3127.md)| Sets the data of this table to the specified data. (Inherited from [DriveWorks.GroupDataTable](topic3110.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -39,7 +39,7 @@ Top
 ![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseTableDataChanged](topic3125.md)| Raises the [DriveWorks.GroupDataTable.TableDataChanged](topic3135.md) event. (Inherited from [DriveWorks.GroupDataTable](topic3110.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

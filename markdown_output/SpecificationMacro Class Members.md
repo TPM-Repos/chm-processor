@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+ Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +17,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [SpecificationMacro](topic11429.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -32,7 +32,7 @@ The following tables list the members exposed by [SpecificationMacro](topic11429
 ![Public Property](dotnetimages/publicProperty.gif)| [Tasks](topic11450.md)| Gets/sets the tasks which make up the macro.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -45,7 +45,7 @@ Top
 ![Public Method](dotnetimages/publicMethod.gif)| [TryGetNode](topic11442.md)| Overridden.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -53,7 +53,7 @@ Top
 ![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseCategoryChanged](topic11437.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -65,7 +65,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [ParentChanged](topic11455.md)| Raised when the category is changed.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

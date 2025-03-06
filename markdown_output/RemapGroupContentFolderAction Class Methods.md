@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+ Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +17,7 @@ Glossary Item Box
 
 For a list of all members of this type, see [RemapGroupContentFolderAction members](topic9960.md).
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -25,14 +25,14 @@ For a list of all members of this type, see [RemapGroupContentFolderAction membe
 ![Public Method](dotnetimages/publicMethod.gif)| [GetCanExecute](topic9966.md)| Overridden. Checks to see if the action can be executed or not.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 ![Protected Method](dotnetimages/protectedMethod.gif)| [RaisePropertyChanged](topic9943.md)| Raises the [PropertyChanged](topic9948.md) event. (Inherited from [DriveWorks.GroupMaintenance.ProcessActionBase](topic9935.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

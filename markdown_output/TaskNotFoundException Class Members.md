@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+ Collapse All Expand All  Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +17,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [TaskNotFoundException](topic11702.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [TaskNotFoundException Constructor](topic11708.md)| Overloaded.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -39,7 +39,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [TypeName](topic11712.md)| Gets the type name of the task for which an implementation could not be found.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -49,14 +49,14 @@ Top
 ![Public Method](dotnetimages/publicMethod.gif)| ToString|  (Inherited from System.Exception)  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Events
+# Protected Events
 
 | Name| Description  
 ---|---|---  
 ![Protected Event](dotnetimages/protectedEvent.gif)| SerializeObjectState|  (Inherited from System.Exception)  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

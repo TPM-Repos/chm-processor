@@ -1,6 +1,6 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
+       
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+ Collapse All Expand All  Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -23,7 +23,7 @@ Glossary Item Box
 
 Serializes the contents of the control. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -34,7 +34,7 @@ Visual Basic (Declaration)|
        ByVal _options_ As [SerializationMode](topic7318.md) _
     )   
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -60,7 +60,7 @@ C#|
 _options_
     Options which configure the serialization process.
 
-# ![](dotnetimages/collapse.gif)Remarks
+# Remarks
 
 This method is called by the [Serialize](topic7718.md) method after having already written the `<Control Name="$(Name)"> tag.`
 
@@ -70,11 +70,11 @@ By default, this method will serialize all the dynamic properties which have bee
 
 To perform custom serialization of a property in a control, specify a custom property converter (see the [DriveWorks.Forms.DataModel.IPropertyValueConverter](topic9373.md) interface documentation for more details) when the property is registered using the [DriveWorks.Forms.DataModel.DynamicProperty.Register](topic9430.md) method.
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 
