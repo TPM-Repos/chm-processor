@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopySpecifications Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9750.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupOptions Class](topic9736.md) : CopySpecifications Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CopyGroupOptions Class](topic9736.md)   
 [CopyGroupOptions Members](topic9737.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

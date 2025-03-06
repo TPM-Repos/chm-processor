@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SolidWorksOperationPriority Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1808.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : SolidWorksOperationPriority Enumeration  
 ---  
   
@@ -63,4 +63,4 @@ System.Enum
 
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

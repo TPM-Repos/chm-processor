@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasCapturedCustomProperties Interface   
-[Members](topic13934.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13933.md)  
+[Members](topic13934.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : IHasCapturedCustomProperties Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IHasCapturedCustomProperties Members](topic13934.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

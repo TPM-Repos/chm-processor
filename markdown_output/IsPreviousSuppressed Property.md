@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsPreviousSuppressed Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic764.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [DiscreteWizardStep Class](topic750.md) : IsPreviousSuppressed Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [DiscreteWizardStep Class](topic750.md)   
 [DiscreteWizardStep Members](topic751.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

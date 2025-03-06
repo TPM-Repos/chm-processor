@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TestConnection(Exception) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1672.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [IAutopilotService Interface](topic1654.md) > [TestConnection Method](topic1670.md) : TestConnection(Exception) Method  
 ---  
   
@@ -69,4 +69,4 @@ True if the connection was successful, otherwise False.
 [IAutopilotService Members](topic1655.md)   
 [Overload List](topic1670.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

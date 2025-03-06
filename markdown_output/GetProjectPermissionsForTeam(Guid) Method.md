@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetProjectPermissionsForTeam(Guid) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3303.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [GetProjectPermissionsForTeam Method](topic3301.md) : GetProjectPermissionsForTeam(Guid) Method  
 ---  
   
@@ -69,4 +69,4 @@ An array of instances of the [DriveWorks.Security.TeamProjectPermission](topic10
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3301.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

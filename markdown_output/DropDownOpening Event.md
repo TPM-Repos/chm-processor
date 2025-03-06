@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DropDownOpening Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic603.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IVirtualSplitCommandButton Interface](topic598.md) : DropDownOpening Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [IVirtualSplitCommandButton Interface](topic598.md)   
 [IVirtualSplitCommandButton Members](topic599.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

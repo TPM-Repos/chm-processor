@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectNameInvalid Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1788.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ISpecificationRequest Interface](topic1778.md) : ProjectNameInvalid Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ISpecificationRequest Interface](topic1778.md)   
 [ISpecificationRequest Members](topic1779.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

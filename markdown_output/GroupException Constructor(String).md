@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3168.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupException Class](topic3160.md) > [GroupException Constructor](topic3166.md) : GroupException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [GroupException Members](topic3161.md)   
 [Overload List](topic3166.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

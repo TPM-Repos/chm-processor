@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationFlowDefinition Class   
-[Members](topic11388.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11387.md)  
+[Members](topic11388.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : SpecificationFlowDefinition Class  
 ---  
   
@@ -67,4 +67,4 @@ System.MarshalByRefObject
 [SpecificationFlowDefinition Members](topic11388.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

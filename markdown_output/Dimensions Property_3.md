@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Dimensions Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14016.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [IHasReleasedDimensions Interface](topic14011.md) : Dimensions Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasReleasedDimensions Interface](topic14011.md)   
 [IHasReleasedDimensions Members](topic14012.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

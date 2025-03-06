@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsChildSpecificationCondition Class   
-[Members](topic11871.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11870.md)  
+[Members](topic11871.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardConditions Namespace](topic11828.md) : IsChildSpecificationCondition Class  
 ---  
   
@@ -69,4 +69,4 @@ System.MarshalByRefObject
 [IsChildSpecificationCondition Members](topic11871.md)   
 [DriveWorks.Specification.StandardConditions Namespace](topic11828.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

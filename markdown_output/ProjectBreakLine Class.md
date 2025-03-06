@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectBreakLine Class   
-[Members](topic14445.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14444.md)  
+[Members](topic14445.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : ProjectBreakLine Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ProjectBreakLine Members](topic14445.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

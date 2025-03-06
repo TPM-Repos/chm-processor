@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OdbcExport Class   
-[Members](topic3764.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3763.md)  
+[Members](topic3764.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : OdbcExport Class  
 ---  
   
@@ -66,4 +66,4 @@ System.MarshalByRefObject
 [OdbcExport Members](topic3764.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

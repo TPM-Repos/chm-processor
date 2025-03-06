@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VerifyingGenerationRequiredEventArgs Class   
-[Members](topic13918.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13917.md)  
+[Members](topic13918.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : VerifyingGenerationRequiredEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [VerifyingGenerationRequiredEventArgs Members](topic13918.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

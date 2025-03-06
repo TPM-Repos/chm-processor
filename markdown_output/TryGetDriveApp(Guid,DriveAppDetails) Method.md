@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetDriveApp(Guid,DriveAppDetails) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3229.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupProjects Class](topic3190.md) > [TryGetDriveApp Method](topic3227.md) : TryGetDriveApp(Guid,DriveAppDetails) Method  
 ---  
   
@@ -77,4 +77,4 @@ The [DriveAppDetails](topic2750.md) for the DriveApp with the specified id, or a
 [GroupProjects Members](topic3191.md)   
 [Overload List](topic3227.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

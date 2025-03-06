@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Minor Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5220.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupVersionDetails Class](topic5213.md) : Minor Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RemoteGroupVersionDetails Class](topic5213.md)   
 [RemoteGroupVersionDetails Members](topic5214.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

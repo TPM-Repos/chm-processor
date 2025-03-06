@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentFactoryAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6173.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ComponentFactoryAttribute Class](topic6167.md) : ComponentFactoryAttribute Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ComponentFactoryAttribute Class](topic6167.md)   
 [ComponentFactoryAttribute Members](topic6168.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

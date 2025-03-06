@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.SolidWorks Assembly   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13342.md)  
+  
   
 Glossary Item Box
 
@@ -36,4 +36,4 @@ Namespace| Description
 [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer](topic15361.md)|   
 [DriveWorks.SolidWorks.Integration](topic15418.md)|   
   
-©2024 DriveWorks Ltd. All Rights Reserved.
+

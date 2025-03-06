@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectComponentSets Class   
-[Members](topic4144.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4143.md)  
+[Members](topic4144.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectComponentSets Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [ProjectComponentSets Members](topic4144.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

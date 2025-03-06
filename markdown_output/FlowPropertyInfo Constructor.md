@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FlowPropertyInfo Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10998.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowPropertyInfo Class](topic10992.md) : FlowPropertyInfo Constructor  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [FlowPropertyInfo Class](topic10992.md)   
 [FlowPropertyInfo Members](topic10993.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

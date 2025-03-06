@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ThemeStartResult Class   
-[Members](topic1093.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1092.md)  
+[Members](topic1093.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ThemeStartResult Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [ThemeStartResult Members](topic1093.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

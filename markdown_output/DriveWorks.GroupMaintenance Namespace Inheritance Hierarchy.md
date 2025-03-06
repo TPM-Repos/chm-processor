@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.GroupMaintenance Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9628.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.GroupMaintenance Namespace  
 ---  
   
@@ -56,4 +56,4 @@ System.EventArgs
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

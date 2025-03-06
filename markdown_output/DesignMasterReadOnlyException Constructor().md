@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DesignMasterReadOnlyException Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2702.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DesignMasterReadOnlyException Class](topic2695.md) > [DesignMasterReadOnlyException Constructor](topic2701.md) : DesignMasterReadOnlyException Constructor()  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [DesignMasterReadOnlyException Members](topic2696.md)   
 [Overload List](topic2701.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

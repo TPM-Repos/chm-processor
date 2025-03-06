@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyFileAction Class   
-[Members](topic9697.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9696.md)  
+[Members](topic9697.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : CopyFileAction Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [CopyFileAction Members](topic9697.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

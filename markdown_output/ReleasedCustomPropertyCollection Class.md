@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReleasedCustomPropertyCollection Class   
-[Members](topic14813.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14812.md)  
+[Members](topic14813.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : ReleasedCustomPropertyCollection Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ReleasedCustomPropertyCollection Members](topic14813.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

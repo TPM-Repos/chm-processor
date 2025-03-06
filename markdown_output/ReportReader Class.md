@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportReader Class   
-[Members](topic10463.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10462.md)  
+[Members](topic10463.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : ReportReader Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ReportReader Members](topic10463.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

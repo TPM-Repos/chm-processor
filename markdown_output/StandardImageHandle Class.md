@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StandardImageHandle Class   
-[Members](topic1052.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1051.md)  
+[Members](topic1052.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : StandardImageHandle Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Object
 [StandardImageHandle Members](topic1052.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

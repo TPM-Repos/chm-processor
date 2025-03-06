@@ -39,4 +39,4 @@ Top
 [FileOpenNotifyEventArgs Class](topic13653.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

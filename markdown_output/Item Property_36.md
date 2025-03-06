@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14637.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectInstanceCollection Class](topic14628.md) : Item Property  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [ProjectInstanceCollection Class](topic14628.md)   
 [ProjectInstanceCollection Members](topic14629.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

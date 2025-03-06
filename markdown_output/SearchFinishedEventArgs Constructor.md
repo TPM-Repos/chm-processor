@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SearchFinishedEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10323.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) > [SearchFinishedEventArgs Class](topic10317.md) : SearchFinishedEventArgs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _uses_
 [SearchFinishedEventArgs Class](topic10317.md)   
 [SearchFinishedEventArgs Members](topic10318.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

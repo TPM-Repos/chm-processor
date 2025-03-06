@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataTableControl Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7870.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DataTableControl Class](topic7864.md) : DataTableControl Constructor  
 ---  
   
@@ -52,4 +52,4 @@ Custom controls should make their constructors private to prevent end-users acci
 [DataTableControl Class](topic7864.md)   
 [DataTableControl Members](topic7865.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

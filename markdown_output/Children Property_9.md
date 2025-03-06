@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Children Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9900.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [DirectoryStorageItemModel Class](topic9893.md) : Children Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DirectoryStorageItemModel Class](topic9893.md)   
 [DirectoryStorageItemModel Members](topic9894.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

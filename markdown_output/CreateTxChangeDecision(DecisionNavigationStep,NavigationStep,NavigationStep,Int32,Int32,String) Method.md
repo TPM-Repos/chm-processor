@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeDecision(DecisionNavigationStep,NavigationStep,NavigationStep,Int32,Int32,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12964.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxChangeDecision Method](topic12962.md) : CreateTxChangeDecision(DecisionNavigationStep,NavigationStep,NavigationStep,Int32,Int32,String) Method  
 ---  
   
@@ -105,4 +105,4 @@ _conditionExpression_
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic12962.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

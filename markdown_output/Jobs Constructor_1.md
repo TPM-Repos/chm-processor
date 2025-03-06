@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Jobs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3622.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Jobs Class](topic3615.md) : Jobs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _pendingJobs_
 [Jobs Class](topic3615.md)   
 [Jobs Members](topic3616.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

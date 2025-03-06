@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportingClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11924.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [AddUserTask Class](topic11914.md) : ReportingClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [AddUserTask Class](topic11914.md)   
 [AddUserTask Members](topic11915.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

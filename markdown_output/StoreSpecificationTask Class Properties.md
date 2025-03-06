@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StoreSpecificationTask Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12685.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : StoreSpecificationTask Class  
 ---  
   
@@ -56,4 +56,4 @@ Top
 [StoreSpecificationTask Class](topic12685.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

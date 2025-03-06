@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RequestElevation Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic453.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISettingsManager Interface](topic442.md) : RequestElevation Method  
 ---  
   
@@ -55,4 +55,4 @@ True if the request for elevation successfully results in elevation, otherwise f
 [ISettingsManager Interface](topic442.md)   
 [ISettingsManager Members](topic443.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3964.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumn Class](topic3946.md) : Name Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectCalculationTableColumn Class](topic3946.md)   
 [ProjectCalculationTableColumn Members](topic3947.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

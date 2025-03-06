@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14627.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectInstance Class](topic14616.md) : RuleChanged Event  
 ---  
   
@@ -60,4 +60,4 @@ Property| Description
 [ProjectInstance Class](topic14616.md)   
 [ProjectInstance Members](topic14617.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

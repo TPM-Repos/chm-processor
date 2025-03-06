@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ASSEMBLIES Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13751.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [GenerationTaskTypeKeys Class](topic13743.md) : ASSEMBLIES Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [GenerationTaskTypeKeys Class](topic13743.md)   
 [GenerationTaskTypeKeys Members](topic13744.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

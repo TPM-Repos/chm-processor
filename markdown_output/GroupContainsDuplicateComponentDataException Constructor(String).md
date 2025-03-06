@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupContainsDuplicateComponentDataException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13762.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [GroupContainsDuplicateComponentDataException Class](topic13754.md) > [GroupContainsDuplicateComponentDataException Constructor](topic13760.md) : GroupContainsDuplicateComponentDataException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [GroupContainsDuplicateComponentDataException Members](topic13755.md)   
 [Overload List](topic13760.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

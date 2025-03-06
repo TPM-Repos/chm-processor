@@ -45,4 +45,4 @@ Top
 [IViewEnvironment Interface](topic549.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

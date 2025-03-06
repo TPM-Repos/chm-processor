@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2152.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [ProjectTemplateHelperAttribute Class](topic2144.md) : Name Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectTemplateHelperAttribute Class](topic2144.md)   
 [ProjectTemplateHelperAttribute Members](topic2145.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

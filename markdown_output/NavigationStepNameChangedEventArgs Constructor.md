@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NavigationStepNameChangedEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10219.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [NavigationStepNameChangedEventArgs Class](topic10213.md) : NavigationStepNameChangedEventArgs Constructor  
 ---  
   
@@ -78,4 +78,4 @@ _newName_
 [NavigationStepNameChangedEventArgs Class](topic10213.md)   
 [NavigationStepNameChangedEventArgs Members](topic10214.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

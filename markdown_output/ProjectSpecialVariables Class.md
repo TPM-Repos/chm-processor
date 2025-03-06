@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectSpecialVariables Class   
-[Members](topic4783.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4782.md)  
+[Members](topic4783.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectSpecialVariables Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [ProjectSpecialVariables Members](topic4783.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

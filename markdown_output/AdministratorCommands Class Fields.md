@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdministratorCommands Class Fields   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1297.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) : AdministratorCommands Class  
 ---  
   
@@ -115,4 +115,4 @@ Top
 [AdministratorCommands Class](topic1297.md)   
 [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

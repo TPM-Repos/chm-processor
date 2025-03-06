@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateVariable Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5016.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariables Class](topic5010.md) : CreateVariable Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ProjectVariables Class](topic5010.md)   
 [ProjectVariables Members](topic5011.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

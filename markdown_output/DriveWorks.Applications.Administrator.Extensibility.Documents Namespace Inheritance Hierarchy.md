@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Applications.Administrator.Extensibility.Documents Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1507.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) : DriveWorks.Applications.Administrator.Extensibility.Documents Namespace  
 ---  
   
@@ -26,4 +26,4 @@ System.Attribute
 
 [DriveWorks.Applications Assembly](topic13.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

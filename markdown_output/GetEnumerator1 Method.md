@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEnumerator1 Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5097.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedComponentTaskCollection Class](topic5090.md) : GetEnumerator1 Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedComponentTaskCollection Class](topic5090.md)   
 [ReleasedComponentTaskCollection Members](topic5091.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

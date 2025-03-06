@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterInt64Property Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10935.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperties Class](topic10905.md) : RegisterInt64Property Method  
 ---  
   
@@ -37,4 +37,4 @@ Overload| Description
 [FlowProperties Class](topic10905.md)   
 [FlowProperties Members](topic10906.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

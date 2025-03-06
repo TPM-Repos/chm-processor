@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlsEventArgs Constructor(ControlBase[])   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7823.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlsEventArgs Class](topic7816.md) > [ControlsEventArgs Constructor](topic7822.md) : ControlsEventArgs Constructor(ControlBase[])  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ControlsEventArgs Members](topic7817.md)   
 [Overload List](topic7822.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ScheduleConnectorConfiguration Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6851.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Schedule Namespace](topic6848.md) : ScheduleConnectorConfiguration Class  
 ---  
   
@@ -51,4 +51,4 @@ Top
 [ScheduleConnectorConfiguration Class](topic6851.md)   
 [DriveWorks.Connectors.Schedule Namespace](topic6848.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BorderRadius Class   
-[Members](topic7329.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7328.md)  
+[Members](topic7329.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : BorderRadius Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Object
 [BorderRadius Members](topic7329.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

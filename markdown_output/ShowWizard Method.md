@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ShowWizard Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic647.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IWizardService Interface](topic642.md) : ShowWizard Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [IWizardService Interface](topic642.md)   
 [IWizardService Members](topic643.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

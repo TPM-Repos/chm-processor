@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SimpleTableExport Class   
-[Members](topic5321.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5320.md)  
+[Members](topic5321.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : SimpleTableExport Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [SimpleTableExport Members](topic5321.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

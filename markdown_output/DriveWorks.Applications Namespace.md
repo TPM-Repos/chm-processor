@@ -169,4 +169,4 @@ Contains types for services that can be requested by DriveWorks extensions.
 
 [DriveWorks.Applications Assembly](topic13.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

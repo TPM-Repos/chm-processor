@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitializeExistingCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3491.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ImportedDataTable Class](topic3483.md) : InitializeExistingCore Method  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ImportedDataTable Class](topic3483.md)   
 [ImportedDataTable Members](topic3484.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

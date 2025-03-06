@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ItemDeletedException Class   
-[Members](topic3550.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3549.md)  
+[Members](topic3550.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ItemDeletedException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [ItemDeletedException Members](topic3550.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

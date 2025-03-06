@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasRuleType Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5969.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) : IHasRuleType Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [IHasRuleType Interface](topic5969.md)   
 [DriveWorks.Abstractions Namespace](topic5939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

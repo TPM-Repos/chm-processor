@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Table(String) Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4016.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTables Class](topic4000.md) > [Table Property](topic4014.md) : Table(String) Property  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [ProjectCalculationTables Members](topic4001.md)   
 [Overload List](topic4014.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DialogName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8061.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DialogButton Class](topic8051.md) : DialogName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [DialogButton Class](topic8051.md)   
 [DialogButton Members](topic8052.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

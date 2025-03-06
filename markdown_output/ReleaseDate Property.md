@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReleaseDate Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5119.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedEmail Class](topic5098.md) : ReleaseDate Property  
 ---  
   
@@ -57,4 +57,4 @@ Nothing, if this was an email created before DriveWorks 12.2, otherwise the date
 [ReleasedEmail Class](topic5098.md)   
 [ReleasedEmail Members](topic5099.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

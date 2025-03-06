@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MergedAnnotationInfo Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13796.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [MergedAnnotationInfo Class](topic13790.md) : MergedAnnotationInfo Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [MergedAnnotationInfo Class](topic13790.md)   
 [MergedAnnotationInfo Members](topic13791.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -93,4 +93,4 @@ Provides common SolidWorks services and types.
 
 [DriveWorks.SolidWorks Assembly](topic13342.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Message Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2594.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConstantDataCorruptException Class](topic2583.md) : Message Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ConstantDataCorruptException Class](topic2583.md)   
 [ConstantDataCorruptException Members](topic2584.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

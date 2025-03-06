@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Stop Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5173.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupBrowser Class](topic5165.md) : Stop Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [RemoteGroupBrowser Class](topic5165.md)   
 [RemoteGroupBrowser Members](topic5166.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

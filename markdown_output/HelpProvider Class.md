@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HelpProvider Class   
-[Members](topic845.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic844.md)  
+[Members](topic845.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : HelpProvider Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [HelpProvider Members](topic845.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

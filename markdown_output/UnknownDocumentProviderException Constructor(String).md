@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UnknownDocumentProviderException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5779.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [UnknownDocumentProviderException Class](topic5772.md) > [UnknownDocumentProviderException Constructor](topic5778.md) : UnknownDocumentProviderException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [UnknownDocumentProviderException Members](topic5773.md)   
 [Overload List](topic5778.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

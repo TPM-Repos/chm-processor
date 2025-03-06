@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidCharactersException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3520.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [InvalidCharactersException Class](topic3514.md) : InvalidCharactersException Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [InvalidCharactersException Class](topic3514.md)   
 [InvalidCharactersException Members](topic3515.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Release Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6281.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseComponentHelper Class](topic6275.md) : Release Method  
 ---  
   
@@ -43,4 +43,4 @@ Overload| Description
 [ReleaseComponentHelper Class](topic6275.md)   
 [ReleaseComponentHelper Members](topic6276.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

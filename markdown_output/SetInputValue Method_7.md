@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetInputValue Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8486.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [NumericTextBox Class](topic8474.md) : SetInputValue Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [NumericTextBox Class](topic8474.md)   
 [NumericTextBox Members](topic8475.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

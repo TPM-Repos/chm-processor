@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidTransitionTargetException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11036.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [InvalidTransitionTargetException Class](topic11027.md) > [InvalidTransitionTargetException Constructor](topic11033.md) : InvalidTransitionTargetException Constructor(String,Exception)  
 ---  
   
@@ -69,4 +69,4 @@ _inner_
 [InvalidTransitionTargetException Members](topic11028.md)   
 [Overload List](topic11033.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

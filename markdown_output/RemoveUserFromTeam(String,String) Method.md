@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveUserFromTeam(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3321.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [RemoveUserFromTeam Method](topic3320.md) : RemoveUserFromTeam(String,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ True if both the user and the team were found, and the user was removed from the
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3320.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

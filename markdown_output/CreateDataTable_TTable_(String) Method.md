@@ -8,7 +8,7 @@ _TTable_
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateDataTable<TTable>(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4318.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDataTables Class](topic4311.md) > [CreateDataTable Method](topic4317.md) : CreateDataTable<TTable>(String) Method  
 ---  
   
@@ -85,4 +85,4 @@ System.ArgumentOutOfRangeException| The specified type does not inherit from [Pr
 [ProjectDataTables Members](topic4312.md)   
 [Overload List](topic4317.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

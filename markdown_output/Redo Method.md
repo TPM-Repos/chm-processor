@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Redo Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic509.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ITransactionManager Interface](topic502.md) : Redo Method  
 ---  
   
@@ -55,4 +55,4 @@ True if there was a transaction in the redo chain, otherwise false.
 [ITransactionManager Interface](topic502.md)   
 [ITransactionManager Members](topic503.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

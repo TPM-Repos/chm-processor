@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsIncluded Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1087.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [StateFilter Class](topic1077.md) : IsIncluded Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the filtered entity is included, false if the filtered entity is exclude
 [StateFilter Class](topic1077.md)   
 [StateFilter Members](topic1078.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

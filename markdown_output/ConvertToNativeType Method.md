@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConvertToNativeType Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10956.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperty Class](topic10946.md) : ConvertToNativeType Method  
 ---  
   
@@ -78,4 +78,4 @@ This takes any value, and converts it to a type suitable to pass into [SetValue]
 [FlowProperty Class](topic10946.md)   
 [FlowProperty Members](topic10947.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

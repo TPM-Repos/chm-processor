@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AliasRule Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6001.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) : AliasRule Class  
 ---  
   
@@ -37,4 +37,4 @@ Top
 [AliasRule Class](topic6001.md)   
 [DriveWorks.Abstractions Namespace](topic5939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

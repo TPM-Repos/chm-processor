@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitializeCommands Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic287.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IHasCommands Interface](topic282.md) : InitializeCommands Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IHasCommands Interface](topic282.md)   
 [IHasCommands Members](topic283.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

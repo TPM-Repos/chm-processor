@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Save Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6557.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskConditionProperties Class](topic6549.md) : Save Method  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ComponentTaskConditionProperties Class](topic6549.md)   
 [ComponentTaskConditionProperties Members](topic6550.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

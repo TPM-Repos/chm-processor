@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTestController Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1454.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) > [IDataTableTestProvider Interface](topic1449.md) : GetTestController Method  
 ---  
   
@@ -72,4 +72,4 @@ _dataTable_
 [IDataTableTestProvider Interface](topic1449.md)   
 [IDataTableTestProvider Members](topic1450.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

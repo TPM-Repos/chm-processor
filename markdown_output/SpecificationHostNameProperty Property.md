@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationHostNameProperty Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11970.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CancelHostedSpecificationTask Class](topic11961.md) : SpecificationHostNameProperty Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CancelHostedSpecificationTask Class](topic11961.md)   
 [CancelHostedSpecificationTask Members](topic11962.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

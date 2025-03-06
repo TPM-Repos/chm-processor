@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectMessages Class   
-[Members](topic4628.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4627.md)  
+[Members](topic4628.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectMessages Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [ProjectMessages Members](topic4628.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

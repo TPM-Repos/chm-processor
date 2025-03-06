@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateProjectMetadataTask Class   
-[Members](topic12108.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12107.md)  
+[Members](topic12108.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : CreateProjectMetadataTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [CreateProjectMetadataTask Members](topic12108.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTask(Type,String,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11726.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskSequence Class](topic11713.md) > [CreateTask Method](topic11720.md) : CreateTask(Type,String,Boolean) Method  
 ---  
   
@@ -91,4 +91,4 @@ System.ArgumentOutOfRangeException| The type specified in taskType does not inhe
 [TaskSequence Members](topic11714.md)   
 [Overload List](topic11720.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

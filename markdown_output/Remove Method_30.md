@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4154.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentSets Class](topic4143.md) : Remove Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the component set was found and removed.
 [ProjectComponentSets Class](topic4143.md)   
 [ProjectComponentSets Members](topic4144.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14798.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedBreakLineCollection Class](topic14792.md) : Add Method  
 ---  
   
@@ -84,4 +84,4 @@ The newly created break-line.
 [ReleasedBreakLineCollection Class](topic14792.md)   
 [ReleasedBreakLineCollection Members](topic14793.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

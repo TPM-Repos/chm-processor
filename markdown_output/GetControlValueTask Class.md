@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetControlValueTask Class   
-[Members](topic12296.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12295.md)  
+[Members](topic12296.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : GetControlValueTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [GetControlValueTask Members](topic12296.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

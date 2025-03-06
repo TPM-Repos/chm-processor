@@ -8,7 +8,7 @@ _TDocument_
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateDocument<TDocument>(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4441.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocuments Class](topic4434.md) > [CreateDocument Method](topic4440.md) : CreateDocument<TDocument>(String) Method  
 ---  
   
@@ -85,4 +85,4 @@ System.ArgumentOutOfRangeException| The specified type does not inherit from [Pr
 [ProjectDocuments Members](topic4435.md)   
 [Overload List](topic4440.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

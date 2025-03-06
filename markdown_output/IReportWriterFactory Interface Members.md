@@ -30,4 +30,4 @@ Top
 [IReportWriterFactory Interface](topic10355.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

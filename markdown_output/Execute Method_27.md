@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12172.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [DeleteSimpleTableRowsTask Class](topic12165.md) : Execute Method  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [DeleteSimpleTableRowsTask Class](topic12165.md)   
 [DeleteSimpleTableRowsTask Members](topic12166.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IViewManager Interface   
-[Members](topic565.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic564.md)  
+[Members](topic565.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IViewManager Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IViewManager Members](topic565.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

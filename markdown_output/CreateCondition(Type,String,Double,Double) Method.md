@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateCondition(Type,String,Double,Double) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10876.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Conditions Class](topic10865.md) > [CreateCondition Method](topic10872.md) : CreateCondition(Type,String,Double,Double) Method  
 ---  
   
@@ -100,4 +100,4 @@ System.ArgumentOutOfRangeException| The type specified in conditionType does not
 [Conditions Members](topic10866.md)   
 [Overload List](topic10872.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

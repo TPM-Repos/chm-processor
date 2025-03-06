@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataTableDeleted Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4328.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDataTables Class](topic4311.md) : DataTableDeleted Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [ProjectDataTables Class](topic4311.md)   
 [ProjectDataTables Members](topic4312.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

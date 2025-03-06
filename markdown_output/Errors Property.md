@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Errors Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10532.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) > [IParseResult Interface](topic10526.md) : Errors Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IParseResult Interface](topic10526.md)   
 [IParseResult Members](topic10527.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

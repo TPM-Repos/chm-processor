@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IDataTableViewController Interface   
-[Members](topic1456.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1455.md)  
+[Members](topic1456.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) : IDataTableViewController Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IDataTableViewController Members](topic1456.md)   
 [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

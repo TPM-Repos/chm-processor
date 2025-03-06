@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreatePrincipal Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10643.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [AzureAuthenticationProvider Class](topic10634.md) : CreatePrincipal Method  
 ---  
   
@@ -92,4 +92,4 @@ An object implementing the [IProviderPrincipal](topic10597.md) interface.
 [AzureAuthenticationProvider Class](topic10634.md)   
 [AzureAuthenticationProvider Members](topic10635.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

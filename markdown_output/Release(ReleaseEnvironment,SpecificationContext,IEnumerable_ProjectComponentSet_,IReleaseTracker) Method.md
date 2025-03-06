@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Release(ReleaseEnvironment,SpecificationContext,IEnumerable<ProjectComponentSet>,IReleaseTracker) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6290.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseComponentHelper Class](topic6275.md) > [Release Method](topic6281.md) : Release(ReleaseEnvironment,SpecificationContext,IEnumerable<ProjectComponentSet>,IReleaseTracker) Method  
 ---  
   
@@ -92,4 +92,4 @@ The release results.
 [ReleaseComponentHelper Members](topic6276.md)   
 [Overload List](topic6281.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

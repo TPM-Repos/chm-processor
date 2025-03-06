@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6734.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskRuleCollection Class](topic6723.md) : RuleChanged Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [ComponentTaskRuleCollection Class](topic6723.md)   
 [ComponentTaskRuleCollection Members](topic6724.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReleasedSheet Class   
-[Members](topic15008.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15007.md)  
+[Members](topic15008.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : ReleasedSheet Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ReleasedSheet Members](topic15008.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

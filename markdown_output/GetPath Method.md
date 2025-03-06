@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetPath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6556.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskConditionProperties Class](topic6549.md) : GetPath Method  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ComponentTaskConditionProperties Class](topic6549.md)   
 [ComponentTaskConditionProperties Members](topic6550.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetStream Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1796.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ITranslationRequest Interface](topic1791.md) : GetStream Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ITranslationRequest Interface](topic1791.md)   
 [ITranslationRequest Members](topic1792.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

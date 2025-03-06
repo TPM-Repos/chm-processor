@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Parameters Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6404.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [IComponentTaskCondition Interface](topic6399.md) : Parameters Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IComponentTaskCondition Interface](topic6399.md)   
 [IComponentTaskCondition Members](topic6400.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

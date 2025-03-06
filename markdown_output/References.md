@@ -18,4 +18,4 @@ Reference |  Description |  Requires
 [DriveWorks.Applications](topic13.md) |  The main extensibility library for extending and working with DriveWorks Applications. This is sufficient for many plugins. |  DriveWorks.Engine  
 [DriveWorks.SolidWorks](topic13342.md) | Provides support for interacting with DriveWorks' SolidWorks capabilities such as model generation. |  DriveWorks.Engine DriveWorks.Applications  
   
-©2024 DriveWorks Ltd. All Rights Reserved.
+

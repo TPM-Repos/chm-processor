@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StandardRuleTypes Class   
-[Members](topic5462.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5461.md)  
+[Members](topic5462.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : StandardRuleTypes Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [StandardRuleTypes Members](topic5462.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

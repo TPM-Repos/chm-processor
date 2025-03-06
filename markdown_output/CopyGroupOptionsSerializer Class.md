@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyGroupOptionsSerializer Class   
-[Members](topic9769.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9768.md)  
+[Members](topic9769.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : CopyGroupOptionsSerializer Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [CopyGroupOptionsSerializer Members](topic9769.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

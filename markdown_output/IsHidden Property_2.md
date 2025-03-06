@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsHidden Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5058.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReferencedFile Class](topic5046.md) : IsHidden Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReferencedFile Class](topic5046.md)   
 [ReferencedFile Members](topic5047.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

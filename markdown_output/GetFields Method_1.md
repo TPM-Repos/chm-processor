@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetFields Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5402.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SqlServerDataTable Class](topic5396.md) : GetFields Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SqlServerDataTable Class](topic5396.md)   
 [SqlServerDataTable Members](topic5397.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

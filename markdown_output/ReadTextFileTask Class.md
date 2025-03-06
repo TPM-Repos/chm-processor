@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReadTextFileTask Class   
-[Members](topic12396.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12395.md)  
+[Members](topic12396.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : ReadTextFileTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [ReadTextFileTask Members](topic12396.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

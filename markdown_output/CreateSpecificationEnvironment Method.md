@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateSpecificationEnvironment Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic477.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISpecificationFactory Interface](topic471.md) : CreateSpecificationEnvironment Method  
 ---  
   
@@ -55,4 +55,4 @@ The returned specification environment may be locked from further changes.
 [ISpecificationFactory Interface](topic471.md)   
 [ISpecificationFactory Members](topic472.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

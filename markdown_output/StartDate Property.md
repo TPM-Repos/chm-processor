@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartDate Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2302.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IReportProcessItem Interface](topic2285.md) : StartDate Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IReportProcessItem Interface](topic2285.md)   
 [IReportProcessItem Members](topic2286.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

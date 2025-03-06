@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RenameItem Class   
-[Members](topic8840.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8839.md)  
+[Members](topic8840.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : RenameItem Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [RenameItem Members](topic8840.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

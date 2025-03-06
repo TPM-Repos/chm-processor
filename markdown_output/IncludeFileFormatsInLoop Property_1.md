@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IncludeFileFormatsInLoop Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6332.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleasedComponent Class](topic6324.md) : IncludeFileFormatsInLoop Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedComponent Class](topic6324.md)   
 [ReleasedComponent Members](topic6325.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

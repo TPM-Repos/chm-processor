@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Column Class   
-[Members](topic2507.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2506.md)  
+[Members](topic2507.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : Column Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [Column Members](topic2507.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

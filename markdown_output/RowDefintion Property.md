@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RowDefintion Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2652.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DataExportSummaryInfo Class](topic2644.md) : RowDefintion Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [DataExportSummaryInfo Class](topic2644.md)   
 [DataExportSummaryInfo Members](topic2645.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

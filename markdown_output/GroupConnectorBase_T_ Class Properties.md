@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupConnectorBase<T> Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1857.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : GroupConnectorBase<T> Class  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [GroupConnectorBase<T> Class](topic1857.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

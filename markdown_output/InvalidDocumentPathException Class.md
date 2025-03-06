@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidDocumentPathException Class   
-[Members](topic3532.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3531.md)  
+[Members](topic3532.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : InvalidDocumentPathException Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Exception
 [InvalidDocumentPathException Members](topic3532.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

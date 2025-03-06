@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeScopedComponentTaskIndex Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12995.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) : CreateTxChangeScopedComponentTaskIndex Method  
 ---  
   
@@ -76,4 +76,4 @@ A transaction that when executed will change the index of the given task.
 [ProjectTransactionFactory Class](topic12928.md)   
 [ProjectTransactionFactory Members](topic12929.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

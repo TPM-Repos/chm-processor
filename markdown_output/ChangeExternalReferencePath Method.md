@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChangeExternalReferencePath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14084.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedAssembly Class](topic14078.md) : ChangeExternalReferencePath Method  
 ---  
   
@@ -68,4 +68,4 @@ Whether or not any paths were changed.
 [CapturedAssembly Class](topic14078.md)   
 [CapturedAssembly Members](topic14079.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

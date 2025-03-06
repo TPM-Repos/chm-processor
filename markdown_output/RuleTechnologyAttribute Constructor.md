@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleTechnologyAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8854.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [RuleTechnologyAttribute Class](topic8848.md) : RuleTechnologyAttribute Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [RuleTechnologyAttribute Class](topic8848.md)   
 [RuleTechnologyAttribute Members](topic8849.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

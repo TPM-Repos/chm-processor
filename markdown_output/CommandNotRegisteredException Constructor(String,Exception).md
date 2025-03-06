@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandNotRegisteredException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic717.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [CommandNotRegisteredException Class](topic709.md) > [CommandNotRegisteredException Constructor](topic715.md) : CommandNotRegisteredException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [CommandNotRegisteredException Members](topic710.md)   
 [Overload List](topic715.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

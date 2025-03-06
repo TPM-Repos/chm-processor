@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 QueryUserForGroupCredentials Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic249.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IGroupCredentialsProvider Interface](topic244.md) : QueryUserForGroupCredentials Method  
 ---  
   
@@ -68,4 +68,4 @@ A credentials object which can be passed to the Group open method to log on to t
 [IGroupCredentialsProvider Interface](topic244.md)   
 [IGroupCredentialsProvider Members](topic245.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

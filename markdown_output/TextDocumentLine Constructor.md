@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TextDocumentLine Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5665.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TextDocumentLine Class](topic5659.md) : TextDocumentLine Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [TextDocumentLine Class](topic5659.md)   
 [TextDocumentLine Members](topic5660.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

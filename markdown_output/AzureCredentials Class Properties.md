@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AzureCredentials Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10646.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : AzureCredentials Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [AzureCredentials Class](topic10646.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

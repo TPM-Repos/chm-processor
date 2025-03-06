@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SearchFinished Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10303.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) > [RenameProcess Class](topic10287.md) : SearchFinished Event  
 ---  
   
@@ -60,4 +60,4 @@ Property| Description
 [RenameProcess Class](topic10287.md)   
 [RenameProcess Members](topic10288.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

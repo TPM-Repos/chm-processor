@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetGroupSettingAsBoolean(String,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2973.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Group Class](topic2958.md) > [GetGroupSettingAsBoolean Method](topic2972.md) : GetGroupSettingAsBoolean(String,Boolean) Method  
 ---  
   
@@ -73,4 +73,4 @@ _defaultValue_
 [Group Members](topic2959.md)   
 [Overload List](topic2972.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

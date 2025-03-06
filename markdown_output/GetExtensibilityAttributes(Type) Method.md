@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetExtensibilityAttributes(Type) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2062.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [ILibraryInfo Interface](topic2055.md) > [GetExtensibilityAttributes Method](topic2060.md) : GetExtensibilityAttributes(Type) Method  
 ---  
   
@@ -69,4 +69,4 @@ An array of the extensibility attribute of the specified type.
 [ILibraryInfo Members](topic2056.md)   
 [Overload List](topic2060.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

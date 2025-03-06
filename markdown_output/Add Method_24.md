@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15023.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedSheetCollection Class](topic15017.md) : Add Method  
 ---  
   
@@ -84,4 +84,4 @@ The newly created sheet.
 [ReleasedSheetCollection Class](topic15017.md)   
 [ReleasedSheetCollection Members](topic15018.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

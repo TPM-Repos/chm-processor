@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetOutput Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4541.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectItemListTypeDef Class](topic4533.md) : TryGetOutput Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the output was found.
 [ProjectItemListTypeDef Class](topic4533.md)   
 [ProjectItemListTypeDef Members](topic4534.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MergedViewInfo Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13858.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : MergedViewInfo Class  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [MergedViewInfo Class](topic13858.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

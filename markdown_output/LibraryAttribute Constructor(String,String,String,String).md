@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LibraryAttribute Constructor(String,String,String,String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7212.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [LibraryAttribute Class](topic7201.md) > [LibraryAttribute Constructor](topic7207.md) : LibraryAttribute Constructor(String,String,String,String)  
 ---  
   
@@ -87,4 +87,4 @@ _publisherUrl_
 [LibraryAttribute Members](topic7202.md)   
 [Overload List](topic7207.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartAgentNotification Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10106.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) > [StartAgentNotification Class](topic10100.md) : StartAgentNotification Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [StartAgentNotification Class](topic10100.md)   
 [StartAgentNotification Members](topic10101.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14145.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedCustomPropertyCollection Class](topic14139.md) : Add Method  
 ---  
   
@@ -68,4 +68,4 @@ The newly added custom property.
 [CapturedCustomPropertyCollection Class](topic14139.md)   
 [CapturedCustomPropertyCollection Members](topic14140.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

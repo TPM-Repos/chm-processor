@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasProjectFunctions Interface   
-[Members](topic2232.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2231.md)  
+[Members](topic2232.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IHasProjectFunctions Interface  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasProjectFunctions Members](topic2232.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartAgentNotification Class   
-[Members](topic10101.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10100.md)  
+[Members](topic10101.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) : StartAgentNotification Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [StartAgentNotification Members](topic10101.md)   
 [DriveWorks.Messaging Namespace](topic10038.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

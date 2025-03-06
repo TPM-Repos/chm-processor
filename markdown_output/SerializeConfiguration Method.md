@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SerializeConfiguration Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9775.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupOptionsSerializer Class](topic9768.md) : SerializeConfiguration Method  
 ---  
   
@@ -67,4 +67,4 @@ Returns the values for the provided CopyGroupOptions as XML.
 [CopyGroupOptionsSerializer Class](topic9768.md)   
 [CopyGroupOptionsSerializer Members](topic9769.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

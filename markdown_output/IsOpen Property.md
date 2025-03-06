@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsOpen Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3004.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Group Class](topic2958.md) : IsOpen Property  
 ---  
   
@@ -55,4 +55,4 @@ True if the group is open, otherwise false.
 [Group Class](topic2958.md)   
 [Group Members](topic2959.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetOutputEndpoint Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11646.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Task Class](topic11629.md) : TryGetOutputEndpoint Method  
 ---  
   
@@ -84,4 +84,4 @@ True if the end point was found, otherwise false.
 [Task Class](topic11629.md)   
 [Task Members](topic11630.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

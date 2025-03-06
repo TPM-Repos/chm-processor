@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MergedSheetInfo Class   
-[Members](topic13843.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13842.md)  
+[Members](topic13843.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : MergedSheetInfo Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [MergedSheetInfo Members](topic13843.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

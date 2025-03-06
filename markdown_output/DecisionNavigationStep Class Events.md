@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DecisionNavigationStep Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10125.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) : DecisionNavigationStep Class  
 ---  
   
@@ -42,4 +42,4 @@ Top
 [DecisionNavigationStep Class](topic10125.md)   
 [DriveWorks.Navigation Namespace](topic10114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

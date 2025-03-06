@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15325.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Extensibility.GenerationTasks.Tasks Namespace](topic15301.md) > [DeleteFeaturesGenerationTask Class](topic15318.md) : Execute Method  
 ---  
   
@@ -77,4 +77,4 @@ _generationSettings_
 [DeleteFeaturesGenerationTask Class](topic15318.md)   
 [DeleteFeaturesGenerationTask Members](topic15319.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

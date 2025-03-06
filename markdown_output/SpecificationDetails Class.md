@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationDetails Class   
-[Members](topic11293.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11292.md)  
+[Members](topic11293.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : SpecificationDetails Class  
 ---  
   
@@ -76,4 +76,4 @@ System.Object
 [SpecificationDetails Members](topic11293.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

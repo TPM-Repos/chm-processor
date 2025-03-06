@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectItems Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9718.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupConfigurationReport Class](topic9709.md) : ProjectItems Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CopyGroupConfigurationReport Class](topic9709.md)   
 [CopyGroupConfigurationReport Members](topic9710.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic185.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandOverride Interface](topic180.md) : CommandName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ICommandOverride Interface](topic180.md)   
 [ICommandOverride Members](topic181.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

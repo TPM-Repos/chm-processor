@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearEvents Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic55.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IApplicationEventService Interface](topic49.md) : ClearEvents Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IApplicationEventService Interface](topic49.md)   
 [IApplicationEventService Members](topic50.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

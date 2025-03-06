@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetDetails Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5329.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SimpleTableExport Class](topic5320.md) : GetDetails Method  
 ---  
   
@@ -55,4 +55,4 @@ This is used to view and edit most information for this document. Changes must b
 [SimpleTableExport Class](topic5320.md)   
 [SimpleTableExport Members](topic5321.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

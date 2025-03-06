@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsEnabled Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4724.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectProfiler Class](topic4712.md) : IsEnabled Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectProfiler Class](topic4712.md)   
 [ProjectProfiler Members](topic4713.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

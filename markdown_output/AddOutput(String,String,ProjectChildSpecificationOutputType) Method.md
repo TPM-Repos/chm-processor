@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddOutput(String,String,ProjectChildSpecificationOutputType) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4077.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectChildSpecificationProjectDef Class](topic4067.md) > [AddOutput Method](topic4075.md) : AddOutput(String,String,ProjectChildSpecificationOutputType) Method  
 ---  
   
@@ -85,4 +85,4 @@ The child specification output.
 [ProjectChildSpecificationProjectDef Members](topic4068.md)   
 [Overload List](topic4075.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

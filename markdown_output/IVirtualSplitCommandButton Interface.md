@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IVirtualSplitCommandButton Interface   
-[Members](topic599.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic598.md)  
+[Members](topic599.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IVirtualSplitCommandButton Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [IVirtualSplitCommandButton Members](topic599.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

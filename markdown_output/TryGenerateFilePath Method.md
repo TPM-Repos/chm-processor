@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGenerateFilePath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13591.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatGenerator Class](topic13579.md) : TryGenerateFilePath Method  
 ---  
   
@@ -76,4 +76,4 @@ Whether or not generation is possible based on the result of the new path.
 [FileFormatGenerator Class](topic13579.md)   
 [FileFormatGenerator Members](topic13580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

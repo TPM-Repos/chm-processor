@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExecuteCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13189.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [TxBase Class](topic13182.md) : ExecuteCore Method  
 ---  
   
@@ -55,4 +55,4 @@ A transaction which can undo the result of the executed transaction.
 [TxBase Class](topic13182.md)   
 [TxBase Members](topic13183.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

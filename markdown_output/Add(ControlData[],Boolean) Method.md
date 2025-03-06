@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add(ControlData[],Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7775.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlCollection Class](topic7766.md) > [Add Method](topic7772.md) : Add(ControlData[],Boolean) Method  
 ---  
   
@@ -77,4 +77,4 @@ An array of the top-level controls that were added.
 [ControlCollection Members](topic7767.md)   
 [Overload List](topic7772.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

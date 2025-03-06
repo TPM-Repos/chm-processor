@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectProfileRuleEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4735.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectProfileRuleEventArgs Class](topic4728.md) : ProjectProfileRuleEventArgs Constructor  
 ---  
   
@@ -68,4 +68,4 @@ _context_
 [ProjectProfileRuleEventArgs Class](topic4728.md)   
 [ProjectProfileRuleEventArgs Members](topic4729.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

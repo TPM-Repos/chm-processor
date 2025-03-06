@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxCreateCondition(ConditionSequenceRef,Type,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13035.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxCreateCondition Method](topic13034.md) : CreateTxCreateCondition(ConditionSequenceRef,Type,String) Method  
 ---  
   
@@ -81,4 +81,4 @@ _conditionTitle_
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic13034.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

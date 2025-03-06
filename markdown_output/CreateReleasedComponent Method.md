@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateReleasedComponent Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6098.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [IComponentFactory Interface](topic6091.md) : CreateReleasedComponent Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IComponentFactory Interface](topic6091.md)   
 [IComponentFactory Members](topic6092.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

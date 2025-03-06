@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AgentLogEntry Class   
-[Members](topic2392.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2391.md)  
+[Members](topic2392.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : AgentLogEntry Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [AgentLogEntry Members](topic2392.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

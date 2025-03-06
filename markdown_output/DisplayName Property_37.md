@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DisplayName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6926.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [ConnectionEndpoint Class](topic6918.md) : DisplayName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ConnectionEndpoint Class](topic6918.md)   
 [ConnectionEndpoint Members](topic6919.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetRange(String,String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5928.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [XmlTemplateDocument Class](topic5909.md) > [SetRange Method](topic5926.md) : SetRange(String,String,String) Method  
 ---  
   
@@ -84,4 +84,4 @@ A name must exactly equal XML file's range name.
 [XmlTemplateDocument Members](topic5910.md)   
 [Overload List](topic5926.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

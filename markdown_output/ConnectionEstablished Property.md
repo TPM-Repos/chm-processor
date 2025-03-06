@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConnectionEstablished Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5457.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SqlTestResult Class](topic5450.md) : ConnectionEstablished Property  
 ---  
   
@@ -55,4 +55,4 @@ C#|
 [SqlTestResult Class](topic5450.md)   
 [SqlTestResult Members](topic5451.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

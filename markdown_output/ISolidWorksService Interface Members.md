@@ -38,4 +38,4 @@ Top
 [ISolidWorksService Interface](topic13411.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

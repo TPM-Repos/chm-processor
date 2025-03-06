@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetProjectComponents Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9767.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupOptionsEnvironment Class](topic9759.md) : GetProjectComponents Method  
 ---  
   
@@ -55,4 +55,4 @@ A Task that when awaited will return a collection of project component informati
 [CopyGroupOptionsEnvironment Class](topic9759.md)   
 [CopyGroupOptionsEnvironment Members](topic9760.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

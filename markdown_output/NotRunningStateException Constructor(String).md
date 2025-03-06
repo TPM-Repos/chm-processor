@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotRunningStateException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11066.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [NotRunningStateException Class](topic11058.md) > [NotRunningStateException Constructor](topic11064.md) : NotRunningStateException Constructor(String)  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [NotRunningStateException Members](topic11059.md)   
 [Overload List](topic11064.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

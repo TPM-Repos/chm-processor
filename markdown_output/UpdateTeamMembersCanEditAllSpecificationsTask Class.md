@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateTeamMembersCanEditAllSpecificationsTask Class   
-[Members](topic12754.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12753.md)  
+[Members](topic12754.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : UpdateTeamMembersCanEditAllSpecificationsTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [UpdateTeamMembersCanEditAllSpecificationsTask Members](topic12754.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExceptionEventArgs Class   
-[Members](topic807.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic806.md)  
+[Members](topic807.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ExceptionEventArgs Class  
 ---  
   
@@ -61,4 +61,4 @@ System.EventArgs
 [ExceptionEventArgs Members](topic807.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CapturedInstanceCollection Class   
-[Members](topic14275.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14274.md)  
+[Members](topic14275.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : CapturedInstanceCollection Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [CapturedInstanceCollection Members](topic14275.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

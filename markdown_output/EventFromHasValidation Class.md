@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventFromHasValidation Class   
-[Members](topic793.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic792.md)  
+[Members](topic793.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : EventFromHasValidation Class  
 ---  
   
@@ -59,4 +59,4 @@ System.Object
 [EventFromHasValidation Members](topic793.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

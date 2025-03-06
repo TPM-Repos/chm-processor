@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2159.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks Namespace  
 ---  
   
@@ -280,4 +280,4 @@ DriveWorks.Internal.DesignMasters.TitanDM.TitanVariablesProvider
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

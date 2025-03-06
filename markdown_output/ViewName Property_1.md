@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ViewName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic560.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IViewEnvironment Interface](topic549.md) : ViewName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IViewEnvironment Interface](topic549.md)   
 [IViewEnvironment Members](topic550.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

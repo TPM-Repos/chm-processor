@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 JobRequestTagInformation Class   
-[Members](topic3605.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3604.md)  
+[Members](topic3605.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : JobRequestTagInformation Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [JobRequestTagInformation Members](topic3605.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

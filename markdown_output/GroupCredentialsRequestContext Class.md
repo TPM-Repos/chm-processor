@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupCredentialsRequestContext Class   
-[Members](topic836.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic835.md)  
+[Members](topic836.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : GroupCredentialsRequestContext Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [GroupCredentialsRequestContext Members](topic836.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

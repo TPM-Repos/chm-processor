@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopySpecificationTask Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12084.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : CopySpecificationTask Class  
 ---  
   
@@ -55,4 +55,4 @@ Top
 [CopySpecificationTask Class](topic12084.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

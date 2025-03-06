@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdditionalFormatGenerationFailedException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15179.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [AdditionalFormatGenerationFailedException Class](topic15170.md) > [AdditionalFormatGenerationFailedException Constructor](topic15176.md) : AdditionalFormatGenerationFailedException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -71,4 +71,4 @@ _context_
 [AdditionalFormatGenerationFailedException Members](topic15171.md)   
 [Overload List](topic15176.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

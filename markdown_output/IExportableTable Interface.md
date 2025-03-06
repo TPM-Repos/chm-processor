@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IExportableTable Interface   
-[Members](topic2200.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2199.md)  
+[Members](topic2200.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IExportableTable Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IExportableTable Members](topic2200.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

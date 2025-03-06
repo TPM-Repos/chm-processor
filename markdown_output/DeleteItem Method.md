@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteItem Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4028.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectChildSpecificationDef Class](topic4019.md) : DeleteItem Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ProjectChildSpecificationDef Class](topic4019.md)   
 [ProjectChildSpecificationDef Members](topic4020.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

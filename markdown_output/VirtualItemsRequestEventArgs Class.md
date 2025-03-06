@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VirtualItemsRequestEventArgs Class   
-[Members](topic1193.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1192.md)  
+[Members](topic1193.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : VirtualItemsRequestEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [VirtualItemsRequestEventArgs Members](topic1193.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

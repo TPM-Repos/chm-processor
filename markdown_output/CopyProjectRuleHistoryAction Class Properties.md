@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyProjectRuleHistoryAction Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9856.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : CopyProjectRuleHistoryAction Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [CopyProjectRuleHistoryAction Class](topic9856.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

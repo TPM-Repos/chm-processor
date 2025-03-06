@@ -74,4 +74,4 @@ Top
 [AdministratorViewNames Class](topic1388.md)   
 [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DelayMacroTimeoutTask Class   
-[Members](topic12116.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12115.md)  
+[Members](topic12116.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : DelayMacroTimeoutTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [DelayMacroTimeoutTask Members](topic12116.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

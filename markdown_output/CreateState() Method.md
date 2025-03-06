@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateState() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11619.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [States Class](topic11612.md) : CreateState() Method  
 ---  
   
@@ -55,4 +55,4 @@ A new instance of the [State](topic11559.md) type.
 [States Class](topic11612.md)   
 [States Members](topic11613.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

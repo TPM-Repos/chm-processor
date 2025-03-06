@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FilePaths Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5139.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedTriggeredAction Class](topic5123.md) : FilePaths Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedTriggeredAction Class](topic5123.md)   
 [ReleasedTriggeredAction Members](topic5124.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

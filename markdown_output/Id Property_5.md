@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Id Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11206.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationContext Class](topic11149.md) : Id Property  
 ---  
   
@@ -55,4 +55,4 @@ If no specification is open, this property will return System.Int32.MinValue.
 [SpecificationContext Class](topic11149.md)   
 [SpecificationContext Members](topic11150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

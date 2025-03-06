@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Contains Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6574.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskConditions Class](topic6561.md) : Contains Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the condition was found in the collection, otherwise False.
 [ComponentTaskConditions Class](topic6561.md)   
 [ComponentTaskConditions Members](topic6562.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

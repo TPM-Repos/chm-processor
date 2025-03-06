@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FilePathsDisplayValue Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5140.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedTriggeredAction Class](topic5123.md) : FilePathsDisplayValue Property  
 ---  
   
@@ -57,4 +57,4 @@ This is to be used when displaying the calculated file paths in the UI.
 [ReleasedTriggeredAction Class](topic5123.md)   
 [ReleasedTriggeredAction Members](topic5124.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

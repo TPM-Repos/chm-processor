@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetSettingAsDecryptedString Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic823.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [Extensions Class](topic814.md) : GetSettingAsDecryptedString Method  
 ---  
   
@@ -93,4 +93,4 @@ A null reference (Nothing in Visual Basic) if the setting doesn't exist, otherwi
 [Extensions Class](topic814.md)   
 [Extensions Members](topic815.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

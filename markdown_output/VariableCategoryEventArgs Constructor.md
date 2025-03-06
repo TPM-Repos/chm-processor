@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VariableCategoryEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5857.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [VariableCategoryEventArgs Class](topic5851.md) : VariableCategoryEventArgs Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [VariableCategoryEventArgs Class](topic5851.md)   
 [VariableCategoryEventArgs Members](topic5852.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

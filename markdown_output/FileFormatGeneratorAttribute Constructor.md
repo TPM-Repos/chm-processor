@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileFormatGeneratorAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13613.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatGeneratorAttribute Class](topic13607.md) : FileFormatGeneratorAttribute Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [FileFormatGeneratorAttribute Class](topic13607.md)   
 [FileFormatGeneratorAttribute Members](topic13608.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

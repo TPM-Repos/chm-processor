@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Data Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6814.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) > [SqlDataSourceConfiguration Class](topic6807.md) : Data Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SqlDataSourceConfiguration Class](topic6807.md)   
 [SqlDataSourceConfiguration Members](topic6808.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

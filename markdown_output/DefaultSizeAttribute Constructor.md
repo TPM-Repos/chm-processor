@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DefaultSizeAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8048.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DefaultSizeAttribute Class](topic8042.md) : DefaultSizeAttribute Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _height_
 [DefaultSizeAttribute Class](topic8042.md)   
 [DefaultSizeAttribute Members](topic8043.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

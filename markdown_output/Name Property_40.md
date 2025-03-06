@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2255.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [INamedItem Interface](topic2249.md) : Name Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [INamedItem Interface](topic2249.md)   
 [INamedItem Members](topic2250.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

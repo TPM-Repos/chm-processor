@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetCreationWizard Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1439.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) > [IDataTableDesigner Interface](topic1434.md) : GetCreationWizard Method  
 ---  
   
@@ -72,4 +72,4 @@ If a null reference (Nothing in Visual Basic) is returned, then no further wizar
 [IDataTableDesigner Interface](topic1434.md)   
 [IDataTableDesigner Members](topic1435.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

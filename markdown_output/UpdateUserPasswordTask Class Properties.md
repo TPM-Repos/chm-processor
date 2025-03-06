@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateUserPasswordTask Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12811.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : UpdateUserPasswordTask Class  
 ---  
   
@@ -57,4 +57,4 @@ Top
 [UpdateUserPasswordTask Class](topic12811.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

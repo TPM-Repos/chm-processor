@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerationEngineException Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15218.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) : GenerationEngineException Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [GenerationEngineException Class](topic15218.md)   
 [DriveWorks.SolidWorks.Generation Namespace](topic15094.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

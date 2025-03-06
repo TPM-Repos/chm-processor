@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateDataTable(Type,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4319.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDataTables Class](topic4311.md) > [CreateDataTable Method](topic4317.md) : CreateDataTable(Type,String) Method  
 ---  
   
@@ -84,4 +84,4 @@ System.ArgumentOutOfRangeException| The type specified in tableType does not inh
 [ProjectDataTables Members](topic4312.md)   
 [Overload List](topic4317.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

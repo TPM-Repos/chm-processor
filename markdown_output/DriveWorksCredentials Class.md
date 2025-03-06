@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorksCredentials Class   
-[Members](topic10670.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10669.md)  
+[Members](topic10670.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : DriveWorksCredentials Class  
 ---  
   
@@ -61,4 +61,4 @@ System.Object
 [DriveWorksCredentials Members](topic10670.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

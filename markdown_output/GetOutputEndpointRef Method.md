@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetOutputEndpointRef Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12871.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ExecutableNodeRef Class](topic12864.md) : GetOutputEndpointRef Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ExecutableNodeRef Class](topic12864.md)   
 [ExecutableNodeRef Members](topic12865.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

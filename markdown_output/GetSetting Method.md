@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetSetting Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic449.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISettingsManager Interface](topic442.md) : GetSetting Method  
 ---  
   
@@ -84,4 +84,4 @@ A null reference (Nothing in Visual Basic) if the setting doesn't exist, otherwi
 [ISettingsManager Interface](topic442.md)   
 [ISettingsManager Members](topic443.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

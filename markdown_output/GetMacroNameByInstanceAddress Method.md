@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetMacroNameByInstanceAddress Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2268.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IPreviewDocument Interface](topic2263.md) : GetMacroNameByInstanceAddress Method  
 ---  
   
@@ -68,4 +68,4 @@ The name of the macro for the instance with the given address.
 [IPreviewDocument Interface](topic2263.md)   
 [IPreviewDocument Members](topic2264.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

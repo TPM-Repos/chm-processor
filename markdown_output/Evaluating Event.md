@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Evaluating Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic361.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IPendingChangesService Interface](topic355.md) : Evaluating Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IPendingChangesService Interface](topic355.md)   
 [IPendingChangesService Members](topic356.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

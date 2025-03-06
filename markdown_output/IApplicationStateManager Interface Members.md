@@ -32,4 +32,4 @@ Top
 [IApplicationStateManager Interface](topic2035.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StopAutopilotTask Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12676.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : StopAutopilotTask Class  
 ---  
   
@@ -59,4 +59,4 @@ Top
 [StopAutopilotTask Class](topic12676.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

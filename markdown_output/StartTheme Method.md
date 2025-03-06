@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartTheme Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic347.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ILiveThemeStarter Interface](topic342.md) : StartTheme Method  
 ---  
   
@@ -80,4 +80,4 @@ _exceptionHandler_
 [ILiveThemeStarter Interface](topic342.md)   
 [ILiveThemeStarter Members](topic343.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

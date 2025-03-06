@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterContextualCommand Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic153.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandManager Interface](topic143.md) : RegisterContextualCommand Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ICommandManager Interface](topic143.md)   
 [ICommandManager Members](topic144.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

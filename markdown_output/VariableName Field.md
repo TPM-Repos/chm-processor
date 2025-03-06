@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VariableName Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5520.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [StandardRuleTypes Class](topic5461.md) : VariableName Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [StandardRuleTypes Class](topic5461.md)   
 [StandardRuleTypes Members](topic5462.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

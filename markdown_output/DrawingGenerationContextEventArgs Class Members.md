@@ -39,4 +39,4 @@ Top
 [DrawingGenerationContextEventArgs Class](topic15180.md)   
 [DriveWorks.SolidWorks.Generation Namespace](topic15094.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

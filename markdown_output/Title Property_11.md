@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Title Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic541.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IView Interface](topic534.md) : Title Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IView Interface](topic534.md)   
 [IView Members](topic535.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

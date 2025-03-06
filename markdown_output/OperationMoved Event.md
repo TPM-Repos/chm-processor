@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OperationMoved Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11111.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Operations Class](topic11095.md) : OperationMoved Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [Operations Class](topic11095.md)   
 [Operations Members](topic11096.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

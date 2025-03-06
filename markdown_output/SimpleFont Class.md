@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SimpleFont Class   
-[Members](topic8883.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8882.md)  
+[Members](topic8883.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : SimpleFont Class  
 ---  
   
@@ -66,4 +66,4 @@ System.Object
 [SimpleFont Members](topic8883.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EDrawingSaveBomFeatures Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13639.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatStandardParameters Class](topic13624.md) : EDrawingSaveBomFeatures Field  
 ---  
   
@@ -54,4 +54,4 @@ This is used by easm, eprt, edrw file formats.
 [FileFormatStandardParameters Class](topic13624.md)   
 [FileFormatStandardParameters Members](topic13625.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

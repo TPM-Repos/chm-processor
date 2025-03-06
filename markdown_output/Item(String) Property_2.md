@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item(String) Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14589.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectFileFormatCollection Class](topic14579.md) > [Item Property](topic14587.md) : Item(String) Property  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [ProjectFileFormatCollection Members](topic14580.md)   
 [Overload List](topic14587.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

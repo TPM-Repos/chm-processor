@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetComponentReferences Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13396.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [IComponentManager Interface](topic13385.md) : GetComponentReferences Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [IComponentManager Interface](topic13385.md)   
 [IComponentManager Members](topic13386.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

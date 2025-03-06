@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReleaseDocumentsTask Class   
-[Members](topic12467.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12466.md)  
+[Members](topic12467.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : ReleaseDocumentsTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [ReleaseDocumentsTask Members](topic12467.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

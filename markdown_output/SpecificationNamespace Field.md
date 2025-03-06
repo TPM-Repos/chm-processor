@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationNamespace Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5546.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [StandardSchemas Class](topic5523.md) : SpecificationNamespace Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [StandardSchemas Class](topic5523.md)   
 [StandardSchemas Members](topic5524.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

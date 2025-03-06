@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RoamingUserContentFolder Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic467.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISettingsManager Interface](topic442.md) : RoamingUserContentFolder Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ISettingsManager Interface](topic442.md)   
 [ISettingsManager Members](topic443.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

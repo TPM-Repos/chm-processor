@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExportWhen Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3786.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [OdbcExport Class](topic3763.md) : ExportWhen Property  
 ---  
   
@@ -57,4 +57,4 @@ The value can either be OnFinished or OnRelease.
 [OdbcExport Class](topic3763.md)   
 [OdbcExport Members](topic3764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

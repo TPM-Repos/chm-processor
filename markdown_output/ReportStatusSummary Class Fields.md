@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportStatusSummary Class Fields   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15407.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md) : ReportStatusSummary Class  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [ReportStatusSummary Class](topic15407.md)   
 [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

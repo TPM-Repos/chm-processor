@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectDetails Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic914.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ProjectRenameEventArgs Class](topic907.md) : ProjectDetails Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectRenameEventArgs Class](topic907.md)   
 [ProjectRenameEventArgs Members](topic908.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

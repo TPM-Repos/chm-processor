@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DefaultFontProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7697.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ContainerControlBase Class](topic7684.md) : DefaultFontProperty Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ContainerControlBase Class](topic7684.md)   
 [ContainerControlBase Members](topic7685.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MessageEventArgs Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3704.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : MessageEventArgs Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [MessageEventArgs Class](topic3704.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

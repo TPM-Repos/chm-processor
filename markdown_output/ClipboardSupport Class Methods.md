@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClipboardSupport Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13507.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : ClipboardSupport Class  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [ClipboardSupport Class](topic13507.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

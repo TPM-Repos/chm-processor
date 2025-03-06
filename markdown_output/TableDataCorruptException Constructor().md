@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TableDataCorruptException Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5555.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableDataCorruptException Class](topic5548.md) > [TableDataCorruptException Constructor](topic5554.md) : TableDataCorruptException Constructor()  
 ---  
   
@@ -47,4 +47,4 @@ C#|
 [TableDataCorruptException Members](topic5549.md)   
 [Overload List](topic5554.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

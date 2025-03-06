@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Deserialize Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9610.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md) > [ControlDeserializer Class](topic9604.md) : Deserialize Method  
 ---  
   
@@ -83,4 +83,4 @@ The deserialized control data.
 [ControlDeserializer Class](topic9604.md)   
 [ControlDeserializer Members](topic9605.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

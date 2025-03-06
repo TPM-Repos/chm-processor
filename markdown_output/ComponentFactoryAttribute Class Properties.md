@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentFactoryAttribute Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6167.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : ComponentFactoryAttribute Class  
 ---  
   
@@ -32,4 +32,4 @@ Top
 [ComponentFactoryAttribute Class](topic6167.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

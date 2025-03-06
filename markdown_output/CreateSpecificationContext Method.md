@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateSpecificationContext Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic476.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISpecificationFactory Interface](topic471.md) : CreateSpecificationContext Method  
 ---  
   
@@ -75,4 +75,4 @@ System.ArgumentOutOfRangeException| The specified group belongs to a different h
 [ISpecificationFactory Interface](topic471.md)   
 [ISpecificationFactory Members](topic472.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CanConvertTo(ITypeDescriptorContext,Type) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3478.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IArrayValueConverter Class](topic3468.md) > [CanConvertTo Method](topic3477.md) : CanConvertTo(ITypeDescriptorContext,Type) Method  
 ---  
   
@@ -71,4 +71,4 @@ _destinationType_
 [IArrayValueConverter Members](topic3469.md)   
 [Overload List](topic3477.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

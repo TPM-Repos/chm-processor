@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetSpecificationsByModifiedDate(Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3378.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) > [GetSpecificationsByModifiedDate Method](topic3377.md) : GetSpecificationsByModifiedDate(Boolean) Method  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [GroupSpecifications Members](topic3356.md)   
 [Overload List](topic3377.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NavigateForward Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12393.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [NavigateForward Class](topic12387.md) : NavigateForward Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [NavigateForward Class](topic12387.md)   
 [NavigateForward Members](topic12388.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

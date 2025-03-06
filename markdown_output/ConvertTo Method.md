@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConvertTo Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3481.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IArrayValueConverter Class](topic3468.md) : ConvertTo Method  
 ---  
   
@@ -33,4 +33,4 @@ ConvertTo(Object,Type)|  (Inherited from System.ComponentModel.TypeConverter)
 [IArrayValueConverter Class](topic3468.md)   
 [IArrayValueConverter Members](topic3469.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

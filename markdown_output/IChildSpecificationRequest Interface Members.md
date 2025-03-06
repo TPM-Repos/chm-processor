@@ -30,4 +30,4 @@ Top
 [IChildSpecificationRequest Interface](topic1691.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

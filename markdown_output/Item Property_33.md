@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14578.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectFeatureParameterCollection Class](topic14569.md) : Item Property  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [ProjectFeatureParameterCollection Class](topic14569.md)   
 [ProjectFeatureParameterCollection Members](topic14570.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

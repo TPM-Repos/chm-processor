@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Count Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14238.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedFeatureParameterCollection Class](topic14225.md) : Count Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CapturedFeatureParameterCollection Class](topic14225.md)   
 [CapturedFeatureParameterCollection Members](topic14226.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

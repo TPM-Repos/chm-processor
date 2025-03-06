@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CompositeReportWriter Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10369.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [CompositeReportWriter Class](topic10363.md) : CompositeReportWriter Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [CompositeReportWriter Class](topic10363.md)   
 [CompositeReportWriter Members](topic10364.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

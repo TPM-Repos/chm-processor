@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12026.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ClickatellTask Class](topic12020.md) : Execute Method  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [ClickatellTask Class](topic12020.md)   
 [ClickatellTask Members](topic12021.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

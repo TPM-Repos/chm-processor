@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitializeNewCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5717.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TriggeredAction Class](topic5708.md) : InitializeNewCore Method  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [TriggeredAction Class](topic5708.md)   
 [TriggeredAction Members](topic5709.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

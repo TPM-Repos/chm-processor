@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetConstant Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4263.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectConstants Class](topic4246.md) : TryGetConstant Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the constant is found and returned, otherwise false.
 [ProjectConstants Class](topic4246.md)   
 [ProjectConstants Members](topic4247.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DefaultRuleAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8040.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DefaultRuleAttribute Class](topic8034.md) : DefaultRuleAttribute Constructor  
 ---  
   
@@ -66,4 +66,4 @@ To use the control name in the rule, use {0} as a place holder.
 [DefaultRuleAttribute Class](topic8034.md)   
 [DefaultRuleAttribute Members](topic8035.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

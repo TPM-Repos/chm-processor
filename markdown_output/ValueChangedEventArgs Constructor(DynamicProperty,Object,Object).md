@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValueChangedEventArgs Constructor(DynamicProperty,Object,Object)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9582.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [ValueChangedEventArgs Class](topic9575.md) > [ValueChangedEventArgs Constructor](topic9581.md) : ValueChangedEventArgs Constructor(DynamicProperty,Object,Object)  
 ---  
   
@@ -79,4 +79,4 @@ _newValue_
 [ValueChangedEventArgs Members](topic9576.md)   
 [Overload List](topic9581.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitializeTemplate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1531.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [IDocumentTemplateHelper Interface](topic1526.md) : InitializeTemplate Method  
 ---  
   
@@ -87,4 +87,4 @@ _templateData_
 [IDocumentTemplateHelper Interface](topic1526.md)   
 [IDocumentTemplateHelper Members](topic1527.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

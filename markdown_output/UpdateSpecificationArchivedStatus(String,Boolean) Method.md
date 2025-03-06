@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateSpecificationArchivedStatus(String,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3409.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) > [UpdateSpecificationArchivedStatus Method](topic3408.md) : UpdateSpecificationArchivedStatus(String,Boolean) Method  
 ---  
   
@@ -79,4 +79,4 @@ System.InvalidOperationException| The specification is running, the **DriveWorks
 [GroupSpecifications Members](topic3356.md)   
 [Overload List](topic3408.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1581.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) : DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace  
 ---  
   
@@ -23,4 +23,4 @@ System.Object
 
 [DriveWorks.Applications Assembly](topic13.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TraceReportWriter Class   
-[Members](topic10495.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10494.md)  
+[Members](topic10495.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : TraceReportWriter Class  
 ---  
   
@@ -59,4 +59,4 @@ System.Object
 [TraceReportWriter Members](topic10495.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

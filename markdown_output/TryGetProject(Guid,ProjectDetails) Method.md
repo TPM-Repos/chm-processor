@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetProject(Guid,ProjectDetails) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3232.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupProjects Class](topic3190.md) > [TryGetProject Method](topic3230.md) : TryGetProject(Guid,ProjectDetails) Method  
 ---  
   
@@ -81,4 +81,4 @@ This method will return a project even if the current user doesn't have access t
 [GroupProjects Members](topic3191.md)   
 [Overload List](topic3230.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

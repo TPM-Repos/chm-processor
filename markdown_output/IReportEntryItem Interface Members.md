@@ -35,4 +35,4 @@ Top
 [IReportEntryItem Interface](topic2274.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

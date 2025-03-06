@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Dispose Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4101.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentManager Class](topic4094.md) : Dispose Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ProjectComponentManager Class](topic4094.md)   
 [ProjectComponentManager Members](topic4095.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

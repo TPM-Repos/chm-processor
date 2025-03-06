@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Description Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13468.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [CaptureViewAttribute Class](topic13455.md) : Description Property  
 ---  
   
@@ -55,4 +55,4 @@ This is display in the icons tool tip.
 [CaptureViewAttribute Class](topic13455.md)   
 [CaptureViewAttribute Members](topic13456.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

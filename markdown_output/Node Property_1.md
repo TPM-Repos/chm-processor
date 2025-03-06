@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Node Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6989.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [ExecutableNodeEventArgs Class](topic6983.md) : Node Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ExecutableNodeEventArgs Class](topic6983.md)   
 [ExecutableNodeEventArgs Members](topic6984.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

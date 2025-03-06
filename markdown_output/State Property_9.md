@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 State Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5642.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportSummaryRow Class](topic5633.md) : State Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [TableExportSummaryRow Class](topic5633.md)   
 [TableExportSummaryRow Members](topic5634.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

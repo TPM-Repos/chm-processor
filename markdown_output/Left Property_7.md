@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Left Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7129.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [StartNode Class](topic7120.md) : Left Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [StartNode Class](topic7120.md)   
 [StartNode Members](topic7121.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

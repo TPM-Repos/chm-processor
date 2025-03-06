@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LowerTolerance Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14856.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedDimensionToleranceData Class](topic14850.md) : LowerTolerance Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedDimensionToleranceData Class](topic14850.md)   
 [ReleasedDimensionToleranceData Members](topic14851.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

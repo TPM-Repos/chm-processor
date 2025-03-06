@@ -40,4 +40,4 @@ Top
 [RenameRuleEventArgs Class](topic10306.md)   
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

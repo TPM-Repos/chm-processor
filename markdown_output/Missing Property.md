@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Missing Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14382.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedViewDimension Class](topic14374.md) : Missing Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CapturedViewDimension Class](topic14374.md)   
 [CapturedViewDimension Members](topic14375.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

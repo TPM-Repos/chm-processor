@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Comment Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6224.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ProjectComponentRuleProxy Class](topic6216.md) : Comment Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectComponentRuleProxy Class](topic6216.md)   
 [ProjectComponentRuleProxy Members](topic6217.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

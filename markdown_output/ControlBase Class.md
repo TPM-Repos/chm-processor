@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlBase Class   
-[Members](topic7699.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7698.md)  
+[Members](topic7699.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : ControlBase Class  
 ---  
   
@@ -86,4 +86,4 @@ System.MarshalByRefObject
 [ControlBase Members](topic7699.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

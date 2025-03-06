@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetAccessor Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4169.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentTasks Class](topic4163.md) : TryGetAccessor Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the accessor was successfully retrieved.
 [ProjectComponentTasks Class](topic4163.md)   
 [ProjectComponentTasks Members](topic4164.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

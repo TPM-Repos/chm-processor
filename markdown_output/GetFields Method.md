@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetFields Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2642.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DataExportRowDefinition Class](topic2635.md) : GetFields Method  
 ---  
   
@@ -55,4 +55,4 @@ The key value is the name of the column and the value is the rule for that cell.
 [DataExportRowDefinition Class](topic2635.md)   
 [DataExportRowDefinition Members](topic2636.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

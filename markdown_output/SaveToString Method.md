@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SaveToString Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3935.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTable Class](topic3926.md) : SaveToString Method  
 ---  
   
@@ -55,4 +55,4 @@ A string representation of the underlying XML of the Calculation Table.
 [ProjectCalculationTable Class](topic3926.md)   
 [ProjectCalculationTable Members](topic3927.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

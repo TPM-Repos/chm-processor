@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyGroupTeamAction Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9806.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : CopyGroupTeamAction Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [CopyGroupTeamAction Class](topic9806.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

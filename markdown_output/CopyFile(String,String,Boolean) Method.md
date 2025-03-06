@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyFile(String,String,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2327.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ISpecificationFileCopyService Interface](topic2316.md) > [CopyFile Method](topic2325.md) : CopyFile(String,String,Boolean) Method  
 ---  
   
@@ -80,4 +80,4 @@ _deleteSource_
 [ISpecificationFileCopyService Members](topic2317.md)   
 [Overload List](topic2325.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

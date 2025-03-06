@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InputBinding Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6788.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) : InputBinding Class  
 ---  
   
@@ -39,4 +39,4 @@ Top
 [InputBinding Class](topic6788.md)   
 [DriveWorks.Connectors.Database Namespace](topic6754.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

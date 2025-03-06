@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyGroupOptionsEnvironment Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9765.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupOptionsEnvironment Class](topic9759.md) : CopyGroupOptionsEnvironment Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [CopyGroupOptionsEnvironment Class](topic9759.md)   
 [CopyGroupOptionsEnvironment Members](topic9760.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetRange(String,String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5904.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [WordDocument Class](topic5885.md) > [SetRange Method](topic5902.md) : SetRange(String,String,String) Method  
 ---  
   
@@ -84,4 +84,4 @@ A name must exactly equal the Word file's range name.
 [WordDocument Members](topic5886.md)   
 [Overload List](topic5902.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

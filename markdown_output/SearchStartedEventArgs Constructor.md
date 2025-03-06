@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SearchStartedEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10332.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) > [SearchStartedEventArgs Class](topic10326.md) : SearchStartedEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [SearchStartedEventArgs Class](topic10326.md)   
 [SearchStartedEventArgs Members](topic10327.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

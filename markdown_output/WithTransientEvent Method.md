@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WithTransientEvent Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7725.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlBase Class](topic7698.md) : WithTransientEvent Method  
 ---  
   
@@ -78,4 +78,4 @@ An implementation of System.IDisposable that will detach when it is disposed.
 [ControlBase Class](topic7698.md)   
 [ControlBase Members](topic7699.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

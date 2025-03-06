@@ -35,4 +35,4 @@ Top
 [SpecificationDocumentDetails Class](topic11333.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

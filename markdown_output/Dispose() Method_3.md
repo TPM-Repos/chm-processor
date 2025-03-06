@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Dispose() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5201.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupServer Class](topic5192.md) > [Dispose Method](topic5199.md) : Dispose() Method  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [RemoteGroupServer Members](topic5193.md)   
 [Overload List](topic5199.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

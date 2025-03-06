@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Layers Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14188.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedDrawing Class](topic14177.md) : Layers Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CapturedDrawing Class](topic14177.md)   
 [CapturedDrawing Members](topic14178.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Task Class   
-[Members](topic11630.md) Example See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11629.md)  
+[Members](topic11630.md) Example   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : Task Class  
 ---  
   
@@ -189,4 +189,4 @@ System.MarshalByRefObject
 [Task Members](topic11630.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

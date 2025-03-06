@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartChildSpecificationTask Class   
-[Members](topic12654.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12653.md)  
+[Members](topic12654.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : StartChildSpecificationTask Class  
 ---  
   
@@ -70,4 +70,4 @@ System.MarshalByRefObject
 [StartChildSpecificationTask Members](topic12654.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

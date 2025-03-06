@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetComponentParents Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13395.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [IComponentManager Interface](topic13385.md) : GetComponentParents Method  
 ---  
   
@@ -76,4 +76,4 @@ An array of all parents that holds a reference to the given component.
 [IComponentManager Interface](topic13385.md)   
 [IComponentManager Members](topic13386.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

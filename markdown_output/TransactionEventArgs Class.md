@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TransactionEventArgs Class   
-[Members](topic1110.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1109.md)  
+[Members](topic1110.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : TransactionEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [TransactionEventArgs Members](topic1110.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

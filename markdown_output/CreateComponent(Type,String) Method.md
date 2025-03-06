@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateComponent(Type,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3033.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) > [CreateComponent Method](topic3031.md) : CreateComponent(Type,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ An instance of type derived from [DriveWorks.Components.CapturedComponent](topic
 [GroupCapturedComponents Members](topic3023.md)   
 [Overload List](topic3031.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

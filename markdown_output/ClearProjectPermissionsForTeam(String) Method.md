@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearProjectPermissionsForTeam(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3293.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [ClearProjectPermissionsForTeam Method](topic3292.md) : ClearProjectPermissionsForTeam(String) Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3292.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

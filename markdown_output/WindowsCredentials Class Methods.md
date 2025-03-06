@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WindowsCredentials Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10756.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : WindowsCredentials Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [WindowsCredentials Class](topic10756.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

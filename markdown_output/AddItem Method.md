@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddItem Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4025.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectChildSpecificationDef Class](topic4019.md) : AddItem Method  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [ProjectChildSpecificationDef Class](topic4019.md)   
 [ProjectChildSpecificationDef Members](topic4020.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

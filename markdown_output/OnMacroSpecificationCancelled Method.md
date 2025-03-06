@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OnMacroSpecificationCancelled Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7245.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [ProjectExtender Class](topic7232.md) : OnMacroSpecificationCancelled Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ProjectExtender Class](topic7232.md)   
 [ProjectExtender Members](topic7233.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

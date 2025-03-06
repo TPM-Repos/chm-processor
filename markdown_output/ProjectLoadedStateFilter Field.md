@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectLoadedStateFilter Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1076.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [StandardStates Class](topic1067.md) : ProjectLoadedStateFilter Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [StandardStates Class](topic1067.md)   
 [StandardStates Members](topic1068.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

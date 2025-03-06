@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReplaceSequenceInRule Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4920.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectUtility Class](topic4899.md) : ReplaceSequenceInRule Method  
 ---  
   
@@ -84,4 +84,4 @@ The new formula.
 [ProjectUtility Class](topic4899.md)   
 [ProjectUtility Members](topic4900.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

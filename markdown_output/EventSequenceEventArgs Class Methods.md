@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventSequenceEventArgs Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10886.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : EventSequenceEventArgs Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [EventSequenceEventArgs Class](topic10886.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetLocalizedName Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10029.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Localization Namespace](topic10015.md) > [RuleLocalizationHelper Class](topic10018.md) : GetLocalizedName Method  
 ---  
   
@@ -68,4 +68,4 @@ The localized version of the name or the invariant version if no localized versi
 [RuleLocalizationHelper Class](topic10018.md)   
 [RuleLocalizationHelper Members](topic10019.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

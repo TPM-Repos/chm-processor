@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FailedCount Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5114.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedEmail Class](topic5098.md) : FailedCount Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedEmail Class](topic5098.md)   
 [ReleasedEmail Members](topic5099.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

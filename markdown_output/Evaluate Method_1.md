@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Evaluate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13543.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [DimensionValueCondition Class](topic13536.md) : Evaluate Method  
 ---  
   
@@ -78,4 +78,4 @@ _generationSettings_
 [DimensionValueCondition Class](topic13536.md)   
 [DimensionValueCondition Members](topic13537.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

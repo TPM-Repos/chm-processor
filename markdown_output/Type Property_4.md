@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Type Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11836.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardConditions Namespace](topic11828.md) > [ApplicationTypeCondition Class](topic11830.md) : Type Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ApplicationTypeCondition Class](topic11830.md)   
 [ApplicationTypeCondition Members](topic11831.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

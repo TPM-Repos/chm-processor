@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OutputName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7119.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [NodeOutputEventArgs Class](topic7113.md) : OutputName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [NodeOutputEventArgs Class](topic7113.md)   
 [NodeOutputEventArgs Members](topic7114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddField Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2641.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DataExportRowDefinition Class](topic2635.md) : AddField Method  
 ---  
   
@@ -79,4 +79,4 @@ _comment_
 [DataExportRowDefinition Class](topic2635.md)   
 [DataExportRowDefinition Members](topic2636.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

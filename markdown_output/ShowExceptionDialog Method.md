@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ShowExceptionDialog Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic612.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IWebHostExceptionListener Interface](topic607.md) : ShowExceptionDialog Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IWebHostExceptionListener Interface](topic607.md)   
 [IWebHostExceptionListener Members](topic608.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

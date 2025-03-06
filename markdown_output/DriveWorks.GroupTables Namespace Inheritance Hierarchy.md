@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.GroupTables Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10007.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.GroupTables Namespace  
 ---  
   
@@ -24,4 +24,4 @@ System.Object
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

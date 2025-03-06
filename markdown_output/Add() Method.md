@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4420.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocumentRules Class](topic4413.md) > [Add Method](topic4419.md) : Add() Method  
 ---  
   
@@ -56,4 +56,4 @@ An instance of the [ProjectDocumentRule](topic4399.md) type which provides acces
 [ProjectDocumentRules Members](topic4414.md)   
 [Overload List](topic4419.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

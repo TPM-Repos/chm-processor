@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetItems Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1296.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) > [IListPropertyEditor Interface](topic1291.md) : GetItems Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IListPropertyEditor Interface](topic1291.md)   
 [IListPropertyEditor Members](topic1292.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

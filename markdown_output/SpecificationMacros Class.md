@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationMacros Class   
-[Members](topic11468.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11467.md)  
+[Members](topic11468.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : SpecificationMacros Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [SpecificationMacros Members](topic11468.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

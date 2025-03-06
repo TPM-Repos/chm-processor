@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DestinationFile Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12067.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CopyFileTask Class](topic12060.md) : DestinationFile Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CopyFileTask Class](topic12060.md)   
 [CopyFileTask Members](topic12061.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EnumerationInterruptedException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2833.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [EnumerationInterruptedException Class](topic2824.md) > [EnumerationInterruptedException Constructor](topic2830.md) : EnumerationInterruptedException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [EnumerationInterruptedException Members](topic2825.md)   
 [Overload List](topic2830.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

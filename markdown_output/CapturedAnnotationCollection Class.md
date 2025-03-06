@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CapturedAnnotationCollection Class   
-[Members](topic14064.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14063.md)  
+[Members](topic14064.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : CapturedAnnotationCollection Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [CapturedAnnotationCollection Members](topic14064.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -43,4 +43,4 @@ What do you want to do? | What DriveWorks extensibility concepts apply? | What e
 **Create a plugin to listen for specification events** , to interact with the specification process, e.g. to implement a PDM plugin, or do things at certain events during a specification | [Extension Library](topic4.md) | It's also possible to create SolidWorks macros which are called by DriveWorks during generation at certain points during the model generation process, for more information about these, see the [DriveWorks Help file](http://docs.driveworkspro.com/HowToCreateAMacroToRunOnASolidWorksFile.md).  
 **Something else...** | [Extension Library](topic4.md) | If you're doing anything that isn't a macro or function, you probably want an extension library, if you have any questions, you can contact our API support address at [apisupport@driveworks.co.uk](mailto:apisupport@driveworks.co.uk) \- please note that although we try to respond as quickly as we can, API support can necessarily be more complex than regular support and so it may take a while to respond.  
   
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -40,4 +40,4 @@ Top
 [RulesBuilderResult Class](topic1622.md)   
 [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

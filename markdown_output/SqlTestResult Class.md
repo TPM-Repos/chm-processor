@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SqlTestResult Class   
-[Members](topic5451.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5450.md)  
+[Members](topic5451.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : SqlTestResult Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [SqlTestResult Members](topic5451.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

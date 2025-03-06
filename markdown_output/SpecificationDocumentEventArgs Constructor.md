@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationDocumentEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11350.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationDocumentEventArgs Class](topic11344.md) : SpecificationDocumentEventArgs Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [SpecificationDocumentEventArgs Class](topic11344.md)   
 [SpecificationDocumentEventArgs Members](topic11345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

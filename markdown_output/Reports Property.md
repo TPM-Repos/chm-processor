@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Reports Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10475.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [ReportReader Class](topic10462.md) : Reports Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReportReader Class](topic10462.md)   
 [ReportReader Members](topic10463.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxRenameCalculationTableColumn Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13123.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) : CreateTxRenameCalculationTableColumn Method  
 ---  
   
@@ -84,4 +84,4 @@ A transaction that will perform the operation.
 [ProjectTransactionFactory Class](topic12928.md)   
 [ProjectTransactionFactory Members](topic12929.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetCell Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5610.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportRow Class](topic5600.md) : TryGetCell Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the cell was found.
 [TableExportRow Class](topic5600.md)   
 [TableExportRow Members](topic5601.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

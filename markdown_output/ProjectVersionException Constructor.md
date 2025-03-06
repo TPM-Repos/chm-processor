@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectVersionException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5043.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVersionException Class](topic5037.md) : ProjectVersionException Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [ProjectVersionException Class](topic5037.md)   
 [ProjectVersionException Members](topic5038.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

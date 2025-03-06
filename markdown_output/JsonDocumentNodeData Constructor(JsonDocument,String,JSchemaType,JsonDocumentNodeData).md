@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 JsonDocumentNodeData Constructor(JsonDocument,String,JSchemaType,JsonDocumentNodeData)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3666.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JsonDocumentNodeData Class](topic3659.md) > [JsonDocumentNodeData Constructor](topic3665.md) : JsonDocumentNodeData Constructor(JsonDocument,String,JSchemaType,JsonDocumentNodeData)  
 ---  
   
@@ -87,4 +87,4 @@ _parent_
 [JsonDocumentNodeData Members](topic3660.md)   
 [Overload List](topic3665.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

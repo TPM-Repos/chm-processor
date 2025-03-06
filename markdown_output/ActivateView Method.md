@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ActivateView Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic569.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IViewManager Interface](topic564.md) : ActivateView Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the view was successfully activated, otherwise false.
 [IViewManager Interface](topic564.md)   
 [IViewManager Members](topic565.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

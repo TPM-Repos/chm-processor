@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddTeamTask Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11905.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : AddTeamTask Class  
 ---  
   
@@ -55,4 +55,4 @@ Top
 [AddTeamTask Class](topic11905.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

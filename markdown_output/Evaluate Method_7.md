@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Evaluate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6752.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks.StandardConditions Namespace](topic6735.md) > [ReleaseToAutopilotCondition Class](topic6746.md) : Evaluate Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ReleaseToAutopilotCondition Class](topic6746.md)   
 [ReleaseToAutopilotCondition Members](topic6747.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

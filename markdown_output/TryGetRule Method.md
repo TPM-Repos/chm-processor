@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetRule Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4428.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocumentRules Class](topic4413.md) : TryGetRule Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the rule is found and returned, otherwise false.
 [ProjectDocumentRules Class](topic4413.md)   
 [ProjectDocumentRules Members](topic4414.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

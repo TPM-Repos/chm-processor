@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationNameInvalidException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11494.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationNameInvalidException Class](topic11488.md) : SpecificationNameInvalidException Constructor  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [SpecificationNameInvalidException Class](topic11488.md)   
 [SpecificationNameInvalidException Members](topic11489.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

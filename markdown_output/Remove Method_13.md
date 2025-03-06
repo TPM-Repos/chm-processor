@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14392.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedViewDimensionCollection Class](topic14384.md) : Remove Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [CapturedViewDimensionCollection Class](topic14384.md)   
 [CapturedViewDimensionCollection Members](topic14385.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

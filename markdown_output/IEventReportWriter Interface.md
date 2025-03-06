@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IEventReportWriter Interface   
-[Members](topic10337.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10336.md)  
+[Members](topic10337.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : IEventReportWriter Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [IEventReportWriter Members](topic10337.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

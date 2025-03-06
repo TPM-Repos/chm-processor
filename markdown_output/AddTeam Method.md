@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddTeam Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11743.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Teams Class](topic11737.md) : AddTeam Method  
 ---  
   
@@ -67,4 +67,4 @@ If an attempt is made to add a team to an instance which is marked as "All Teams
 [Teams Class](topic11737.md)   
 [Teams Members](topic11738.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

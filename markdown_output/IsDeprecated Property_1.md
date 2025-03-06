@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDeprecated Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2939.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [FunctionInformation Class](topic2924.md) : IsDeprecated Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [FunctionInformation Class](topic2924.md)   
 [FunctionInformation Members](topic2925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MacroFailedException Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3682.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [MacroFailedException Class](topic3675.md) > [MacroFailedException Constructor](topic3681.md) : MacroFailedException Constructor()  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [MacroFailedException Members](topic3676.md)   
 [Overload List](topic3681.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

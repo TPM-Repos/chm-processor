@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TeamGroupTablePermission Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10718.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : TeamGroupTablePermission Class  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [TeamGroupTablePermission Class](topic10718.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

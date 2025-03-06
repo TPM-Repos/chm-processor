@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetFullPath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5370.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SpecificationMacroCategory Class](topic5359.md) : GetFullPath Method  
 ---  
   
@@ -55,4 +55,4 @@ A string of the form "RootCategoryName\ChildCategory0\ChildCategory1\ChildCatego
 [SpecificationMacroCategory Class](topic5359.md)   
 [SpecificationMacroCategory Members](topic5360.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

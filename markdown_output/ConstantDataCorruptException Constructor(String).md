@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConstantDataCorruptException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2591.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConstantDataCorruptException Class](topic2583.md) > [ConstantDataCorruptException Constructor](topic2589.md) : ConstantDataCorruptException Constructor(String)  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [ConstantDataCorruptException Members](topic2584.md)   
 [Overload List](topic2589.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

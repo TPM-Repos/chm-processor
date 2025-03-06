@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RenameRuleEventArgs Class   
-[Members](topic10307.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10306.md)  
+[Members](topic10307.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) : RenameRuleEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [RenameRuleEventArgs Members](topic10307.md)   
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

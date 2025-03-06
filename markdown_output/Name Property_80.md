@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7007.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [FlowBase Class](topic6999.md) : Name Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [FlowBase Class](topic6999.md)   
 [FlowBase Members](topic7000.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

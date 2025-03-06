@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StandardStoreOptions Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9384.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) : StandardStoreOptions Enumeration  
 ---  
   
@@ -70,4 +70,4 @@ System.Enum
 
 [DriveWorks.Forms.DataModel Namespace](topic9371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

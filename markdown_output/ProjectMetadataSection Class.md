@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectMetadataSection Class   
-[Members](topic4655.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4654.md)  
+[Members](topic4655.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectMetadataSection Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [ProjectMetadataSection Members](topic4655.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

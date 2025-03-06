@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReleaseToAutopilotCondition Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6746.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks.StandardConditions Namespace](topic6735.md) : ReleaseToAutopilotCondition Class  
 ---  
   
@@ -38,4 +38,4 @@ Top
 [ReleaseToAutopilotCondition Class](topic6746.md)   
 [DriveWorks.Components.Tasks.StandardConditions Namespace](topic6735.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

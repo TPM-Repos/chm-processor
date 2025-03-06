@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Password Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5441.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SqlServerExport Class](topic5417.md) : Password Property  
 ---  
   
@@ -57,4 +57,4 @@ May be nothing if Windows Authentication is used to connect to the SQL Server.
 [SqlServerExport Class](topic5417.md)   
 [SqlServerExport Members](topic5418.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

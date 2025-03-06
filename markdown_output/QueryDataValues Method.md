@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 QueryDataValues Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2568.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConnectionManager Class](topic2554.md) : QueryDataValues Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ConnectionManager Class](topic2554.md)   
 [ConnectionManager Members](topic2555.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

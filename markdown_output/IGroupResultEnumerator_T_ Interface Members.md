@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IGroupResultEnumerator<T> Interface Members   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2220.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IGroupResultEnumerator<T> Interface  
 ---  
   
@@ -23,4 +23,4 @@ The following tables list the members exposed by [IGroupResultEnumerator<T>](top
 [IGroupResultEnumerator<T> Interface](topic2220.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

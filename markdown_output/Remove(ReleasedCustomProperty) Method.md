@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove(ReleasedCustomProperty) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14822.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedCustomPropertyCollection Class](topic14812.md) > [Remove Method](topic14820.md) : Remove(ReleasedCustomProperty) Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [ReleasedCustomPropertyCollection Members](topic14813.md)   
 [Overload List](topic14820.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

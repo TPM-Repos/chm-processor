@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Parameters Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13780.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [HasCustomPropertyCondition Class](topic13772.md) : Parameters Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [HasCustomPropertyCondition Class](topic13772.md)   
 [HasCustomPropertyCondition Members](topic13773.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

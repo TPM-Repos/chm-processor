@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportingClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12424.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [RefreshTableTask Class](topic12415.md) : ReportingClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RefreshTableTask Class](topic12415.md)   
 [RefreshTableTask Members](topic12416.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

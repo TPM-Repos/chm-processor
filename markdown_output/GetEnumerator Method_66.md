@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEnumerator Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7017.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [FlowNodeCollection Class](topic7011.md) : GetEnumerator Method  
 ---  
   
@@ -55,4 +55,4 @@ An IEnumerator specialized for the [ExecutableNodeBase](topic6938.md) type.
 [FlowNodeCollection Class](topic7011.md)   
 [FlowNodeCollection Members](topic7012.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

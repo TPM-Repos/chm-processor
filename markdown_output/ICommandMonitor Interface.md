@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ICommandMonitor Interface   
-[Members](topic159.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic158.md)  
+[Members](topic159.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ICommandMonitor Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ICommandMonitor Members](topic159.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

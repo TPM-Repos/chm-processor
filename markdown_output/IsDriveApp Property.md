@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDriveApp Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11367.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationEnvironment Class](topic11355.md) : IsDriveApp Property  
 ---  
   
@@ -55,4 +55,4 @@ This is only True if [DriveAppId](topic11365.md) has a value.
 [SpecificationEnvironment Class](topic11355.md)   
 [SpecificationEnvironment Members](topic11356.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

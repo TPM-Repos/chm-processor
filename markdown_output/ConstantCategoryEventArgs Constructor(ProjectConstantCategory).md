@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConstantCategoryEventArgs Constructor(ProjectConstantCategory)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2579.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConstantCategoryEventArgs Class](topic2572.md) > [ConstantCategoryEventArgs Constructor](topic2578.md) : ConstantCategoryEventArgs Constructor(ProjectConstantCategory)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ConstantCategoryEventArgs Members](topic2573.md)   
 [Overload List](topic2578.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

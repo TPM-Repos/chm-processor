@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IEvent Interface Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic201.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IEvent Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [IEvent Interface](topic201.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

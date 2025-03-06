@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 Add<T>(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6690.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskReleaseConditions Class](topic6682.md) > [Add Method](topic6688.md) : Add<T>(String) Method  
 ---  
   
@@ -78,4 +78,4 @@ The newly created condition.
 [ComponentTaskReleaseConditions Members](topic6683.md)   
 [Overload List](topic6688.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

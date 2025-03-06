@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ResumeUpdates Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic524.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IUpdateable Interface](topic519.md) : ResumeUpdates Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IUpdateable Interface](topic519.md)   
 [IUpdateable Members](topic520.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

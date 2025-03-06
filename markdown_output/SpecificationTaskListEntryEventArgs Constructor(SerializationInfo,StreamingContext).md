@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationTaskListEntryEventArgs Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11556.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationTaskListEntryEventArgs Class](topic11548.md) > [SpecificationTaskListEntryEventArgs Constructor](topic11554.md) : SpecificationTaskListEntryEventArgs Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [SpecificationTaskListEntryEventArgs Members](topic11549.md)   
 [Overload List](topic11554.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

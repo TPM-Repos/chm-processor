@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TitleChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11775.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Transition Class](topic11757.md) : TitleChanged Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Transition Class](topic11757.md)   
 [Transition Members](topic11758.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

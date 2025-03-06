@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Project Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7255.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [SharedProjectExtender Class](topic7248.md) : Project Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SharedProjectExtender Class](topic7248.md)   
 [SharedProjectExtender Members](topic7249.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

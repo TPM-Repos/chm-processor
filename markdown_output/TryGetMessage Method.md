@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetMessage Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4641.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectMessages Class](topic4627.md) : TryGetMessage Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the message is found and returned, otherwise false.
 [ProjectMessages Class](topic4627.md)   
 [ProjectMessages Members](topic4628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

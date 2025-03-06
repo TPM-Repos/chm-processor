@@ -51,4 +51,4 @@ Top
 [ProjectTemplateHelperAttribute Class](topic2144.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

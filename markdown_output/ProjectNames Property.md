@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectNames Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11997.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ChangeChildSpecificationStateTask Class](topic11988.md) : ProjectNames Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ChangeChildSpecificationStateTask Class](topic11988.md)   
 [ChangeChildSpecificationStateTask Members](topic11989.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

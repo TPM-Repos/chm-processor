@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ViewExists Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic597.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IViewRegistrationService Interface](topic578.md) : ViewExists Method  
 ---  
   
@@ -68,4 +68,4 @@ True if a view exists with the provided name.
 [IViewRegistrationService Interface](topic578.md)   
 [IViewRegistrationService Members](topic579.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

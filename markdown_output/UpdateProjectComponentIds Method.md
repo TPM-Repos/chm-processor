@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateProjectComponentIds Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4104.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentManager Class](topic4094.md) : UpdateProjectComponentIds Method  
 ---  
   
@@ -67,4 +67,4 @@ Typically used after importing a project to a new group and some component ident
 [ProjectComponentManager Class](topic4094.md)   
 [ProjectComponentManager Members](topic4095.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

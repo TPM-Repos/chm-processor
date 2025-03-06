@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Clear Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11744.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Teams Class](topic11737.md) : Clear Method  
 ---  
   
@@ -54,4 +54,4 @@ If the instance is marked as "All Teams Allowed", i.e. the [IsUniversal](topic11
 [Teams Class](topic11737.md)   
 [Teams Members](topic11738.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item(Int32) Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14216.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedFeatureCollection Class](topic14201.md) > [Item Property](topic14215.md) : Item(Int32) Property  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [CapturedFeatureCollection Members](topic14202.md)   
 [Overload List](topic14215.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

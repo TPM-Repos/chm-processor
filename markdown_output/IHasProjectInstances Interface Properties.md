@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasProjectInstances Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13999.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : IHasProjectInstances Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [IHasProjectInstances Interface](topic13999.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11734.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskSequence Class](topic11713.md) : Item Property  
 ---  
   
@@ -70,4 +70,4 @@ System.IndexOutOfRangeException| Thrown if the specified index is out of range.
 [TaskSequence Class](topic11713.md)   
 [TaskSequence Members](topic11714.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

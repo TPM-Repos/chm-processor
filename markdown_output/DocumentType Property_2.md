@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DocumentType Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1579.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [DocumentDesignerAttribute Class](topic1568.md) : DocumentType Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DocumentDesignerAttribute Class](topic1568.md)   
 [DocumentDesignerAttribute Members](topic1569.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

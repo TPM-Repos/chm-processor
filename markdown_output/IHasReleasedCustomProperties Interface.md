@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasReleasedCustomProperties Interface   
-[Members](topic14006.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14005.md)  
+[Members](topic14006.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : IHasReleasedCustomProperties Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IHasReleasedCustomProperties Members](topic14006.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

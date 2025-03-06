@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OnAdditionalFileGenerated Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13587.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatGenerator Class](topic13579.md) : OnAdditionalFileGenerated Method  
 ---  
   
@@ -67,4 +67,4 @@ Should only be used for additional files (besides the main additional files).
 [FileFormatGenerator Class](topic13579.md)   
 [FileFormatGenerator Members](topic13580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

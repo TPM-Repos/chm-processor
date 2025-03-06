@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Messaging Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10038.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Messaging Namespace  
 ---  
   
@@ -32,4 +32,4 @@ System.EventArgs
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

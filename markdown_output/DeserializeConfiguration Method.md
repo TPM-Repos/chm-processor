@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeserializeConfiguration Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9774.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupOptionsSerializer Class](topic9768.md) : DeserializeConfiguration Method  
 ---  
   
@@ -81,4 +81,4 @@ Exception| Description
 [CopyGroupOptionsSerializer Class](topic9768.md)   
 [CopyGroupOptionsSerializer Members](topic9769.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateImportManager Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3034.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) : CreateImportManager Method  
 ---  
   
@@ -55,4 +55,4 @@ An instance of a capture import manager.
 [GroupCapturedComponents Class](topic3022.md)   
 [GroupCapturedComponents Members](topic3023.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

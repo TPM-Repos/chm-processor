@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetOutputEndpoint Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6879.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [IFlowNode Interface](topic6873.md) : TryGetOutputEndpoint Method  
 ---  
   
@@ -84,4 +84,4 @@ True if the end point was found, otherwise false.
 [IFlowNode Interface](topic6873.md)   
 [IFlowNode Members](topic6874.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

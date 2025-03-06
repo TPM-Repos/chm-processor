@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IParseResult Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10526.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) : IParseResult Interface  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [IParseResult Interface](topic10526.md)   
 [DriveWorks.Rules Namespace](topic10510.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

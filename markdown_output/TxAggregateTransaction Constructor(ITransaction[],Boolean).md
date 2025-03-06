@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TxAggregateTransaction Constructor(ITransaction[],Boolean)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13180.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [TxAggregateTransaction Class](topic13172.md) > [TxAggregateTransaction Constructor](topic13178.md) : TxAggregateTransaction Constructor(ITransaction[],Boolean)  
 ---  
   
@@ -71,4 +71,4 @@ _preserveOrder_
 [TxAggregateTransaction Members](topic13173.md)   
 [Overload List](topic13178.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

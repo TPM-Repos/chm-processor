@@ -72,4 +72,4 @@ Top
 [SimpleGroupTable Class](topic10009.md)   
 [DriveWorks.GroupTables Namespace](topic10007.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

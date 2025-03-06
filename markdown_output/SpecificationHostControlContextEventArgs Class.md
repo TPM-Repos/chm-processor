@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationHostControlContextEventArgs Class   
-[Members](topic11419.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11418.md)  
+[Members](topic11419.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : SpecificationHostControlContextEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [SpecificationHostControlContextEventArgs Members](topic11419.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

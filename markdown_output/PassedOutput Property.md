@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PassedOutput Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10824.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Condition Class](topic10804.md) : PassedOutput Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Condition Class](topic10804.md)   
 [Condition Members](topic10805.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

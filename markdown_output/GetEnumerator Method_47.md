@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEnumerator Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2524.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Columns Class](topic2516.md) : GetEnumerator Method  
 ---  
   
@@ -55,4 +55,4 @@ An enumerator that iterates through the [Columns](topic2516.md).
 [Columns Class](topic2516.md)   
 [Columns Members](topic2517.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

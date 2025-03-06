@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EntryEventHandler Delegate   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10508.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : EntryEventHandler Delegate  
 ---  
   
@@ -67,4 +67,4 @@ _e_
 [EntryEventHandler Members](topic10508.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

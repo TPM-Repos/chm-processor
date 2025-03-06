@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDeferred Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11642.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Task Class](topic11629.md) : IsDeferred Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the task should be executed after the design master is closed.
 [Task Class](topic11629.md)   
 [Task Members](topic11630.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

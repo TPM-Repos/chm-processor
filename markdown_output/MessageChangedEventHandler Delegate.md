@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MessageChangedEventHandler Delegate   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5932.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : MessageChangedEventHandler Delegate  
 ---  
   
@@ -67,4 +67,4 @@ _e_
 [MessageChangedEventHandler Members](topic5932.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

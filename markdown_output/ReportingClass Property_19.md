@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportingClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12132.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [DeleteCalculationTableRowsTask Class](topic12122.md) : ReportingClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DeleteCalculationTableRowsTask Class](topic12122.md)   
 [DeleteCalculationTableRowsTask Members](topic12123.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

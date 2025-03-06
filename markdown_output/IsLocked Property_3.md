@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsLocked Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5986.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [ILockable Interface](topic5981.md) : IsLocked Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ILockable Interface](topic5981.md)   
 [ILockable Members](topic5982.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

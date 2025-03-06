@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreviewControlException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3807.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [PreviewControlException Class](topic3801.md) : PreviewControlException Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [PreviewControlException Class](topic3801.md)   
 [PreviewControlException Members](topic3802.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetParameterValue Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5156.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleaseParameterDataContainer Class](topic5145.md) : TryGetParameterValue Method  
 ---  
   
@@ -37,4 +37,4 @@ Overload| Description
 [ReleaseParameterDataContainer Class](topic5145.md)   
 [ReleaseParameterDataContainer Members](topic5146.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

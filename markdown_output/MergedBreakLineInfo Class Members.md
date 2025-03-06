@@ -51,4 +51,4 @@ Top
 [MergedBreakLineInfo Class](topic13797.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

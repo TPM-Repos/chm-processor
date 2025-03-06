@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Message Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2923.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [FormDataCorruptException Class](topic2912.md) : Message Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [FormDataCorruptException Class](topic2912.md)   
 [FormDataCorruptException Members](topic2913.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

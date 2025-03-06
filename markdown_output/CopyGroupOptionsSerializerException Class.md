@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyGroupOptionsSerializerException Class   
-[Members](topic2616.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2615.md)  
+[Members](topic2616.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : CopyGroupOptionsSerializerException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [CopyGroupOptionsSerializerException Members](topic2616.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

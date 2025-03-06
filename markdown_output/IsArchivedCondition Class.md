@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsArchivedCondition Class   
-[Members](topic11859.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11858.md)  
+[Members](topic11859.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardConditions Namespace](topic11828.md) : IsArchivedCondition Class  
 ---  
   
@@ -69,4 +69,4 @@ System.MarshalByRefObject
 [IsArchivedCondition Members](topic11859.md)   
 [DriveWorks.Specification.StandardConditions Namespace](topic11828.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

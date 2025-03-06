@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Count Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11482.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationMacros Class](topic11467.md) : Count Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SpecificationMacros Class](topic11467.md)   
 [SpecificationMacros Members](topic11468.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

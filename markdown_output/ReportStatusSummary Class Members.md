@@ -476,4 +476,4 @@ Top
 [ReportStatusSummary Class](topic15407.md)   
 [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

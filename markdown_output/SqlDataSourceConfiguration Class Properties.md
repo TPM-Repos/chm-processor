@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SqlDataSourceConfiguration Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6807.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) : SqlDataSourceConfiguration Class  
 ---  
   
@@ -36,4 +36,4 @@ Top
 [SqlDataSourceConfiguration Class](topic6807.md)   
 [DriveWorks.Connectors.Database Namespace](topic6754.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

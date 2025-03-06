@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleSearchResult Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13227.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) : RuleSearchResult Class  
 ---  
   
@@ -38,4 +38,4 @@ Top
 [RuleSearchResult Class](topic13227.md)   
 [DriveWorks.Utility Namespace](topic13190.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

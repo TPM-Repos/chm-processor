@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateUserPasswordTask Class   
-[Members](topic12812.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12811.md)  
+[Members](topic12812.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : UpdateUserPasswordTask Class  
 ---  
   
@@ -70,4 +70,4 @@ System.MarshalByRefObject
 [UpdateUserPasswordTask Members](topic12812.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

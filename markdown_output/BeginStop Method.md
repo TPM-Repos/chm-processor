@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginStop Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1641.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [IAutopilotQueue Interface](topic1635.md) : BeginStop Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IAutopilotQueue Interface](topic1635.md)   
 [IAutopilotQueue Members](topic1636.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

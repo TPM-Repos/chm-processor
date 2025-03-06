@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove(CapturedFeature) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14211.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedFeatureCollection Class](topic14201.md) > [Remove Method](topic14210.md) : Remove(CapturedFeature) Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [CapturedFeatureCollection Members](topic14202.md)   
 [Overload List](topic14210.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

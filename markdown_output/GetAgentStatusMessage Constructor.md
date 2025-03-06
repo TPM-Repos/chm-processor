@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetAgentStatusMessage Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10063.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) > [GetAgentStatusMessage Class](topic10057.md) : GetAgentStatusMessage Constructor  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [GetAgentStatusMessage Class](topic10057.md)   
 [GetAgentStatusMessage Members](topic10058.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

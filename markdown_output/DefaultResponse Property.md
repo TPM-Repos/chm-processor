@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DefaultResponse Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5793.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [UpgradeGroupDialogMessage Class](topic5785.md) : DefaultResponse Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [UpgradeGroupDialogMessage Class](topic5785.md)   
 [UpgradeGroupDialogMessage Members](topic5786.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

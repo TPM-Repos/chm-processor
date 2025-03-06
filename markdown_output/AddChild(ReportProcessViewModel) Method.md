@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddChild(ReportProcessViewModel) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15398.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md) > [ReportProcessViewModel Class](topic15390.md) > [AddChild Method](topic15397.md) : AddChild(ReportProcessViewModel) Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ReportProcessViewModel Members](topic15391.md)   
 [Overload List](topic15397.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

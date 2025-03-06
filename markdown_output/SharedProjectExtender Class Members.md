@@ -38,4 +38,4 @@ Top
 [SharedProjectExtender Class](topic7248.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

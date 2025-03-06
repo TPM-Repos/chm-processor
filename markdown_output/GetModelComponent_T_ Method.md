@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 GetModelComponent<T> Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13426.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ISolidWorksState Interface](topic13419.md) : GetModelComponent<T> Method  
 ---  
   
@@ -59,4 +59,4 @@ _T_
 [ISolidWorksState Interface](topic13419.md)   
 [ISolidWorksState Members](topic13420.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

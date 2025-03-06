@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupConnectionStringBuilder Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3075.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupConnectionStringBuilder Class](topic3068.md) > [GroupConnectionStringBuilder Constructor](topic3074.md) : GroupConnectionStringBuilder Constructor()  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [GroupConnectionStringBuilder Members](topic3069.md)   
 [Overload List](topic3074.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

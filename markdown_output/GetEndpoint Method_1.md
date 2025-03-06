@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEndpoint Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12927.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [OutputEndpointRef Class](topic12921.md) : GetEndpoint Method  
 ---  
   
@@ -68,4 +68,4 @@ The endpoint this reference refers to.
 [OutputEndpointRef Class](topic12921.md)   
 [OutputEndpointRef Members](topic12922.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

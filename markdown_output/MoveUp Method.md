@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MoveUp Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2513.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Column Class](topic2506.md) : MoveUp Method  
 ---  
   
@@ -54,4 +54,4 @@ If this column is the first column in the column set, this method does nothing.
 [Column Class](topic2506.md)   
 [Column Members](topic2507.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

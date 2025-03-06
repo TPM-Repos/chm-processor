@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTypesFromLibraries Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2087.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [ILibraryManager Interface](topic2079.md) : GetTypesFromLibraries Method  
 ---  
   
@@ -80,4 +80,4 @@ The base type must implement the [DriveWorks.Extensibility.IExtension](topic7152
 [ILibraryManager Interface](topic2079.md)   
 [ILibraryManager Members](topic2080.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Inequality Operator   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4999.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariableCategory Class](topic4983.md) : Inequality Operator  
 ---  
   
@@ -62,4 +62,4 @@ _obj2_
 [ProjectVariableCategory Class](topic4983.md)   
 [ProjectVariableCategory Members](topic4984.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

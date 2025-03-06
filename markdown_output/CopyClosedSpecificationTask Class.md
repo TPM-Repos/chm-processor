@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyClosedSpecificationTask Class   
-[Members](topic12049.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12048.md)  
+[Members](topic12049.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : CopyClosedSpecificationTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [CopyClosedSpecificationTask Members](topic12049.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

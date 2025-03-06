@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DbExecute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2560.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConnectionManager Class](topic2554.md) : DbExecute Method  
 ---  
   
@@ -100,4 +100,4 @@ A number indicating how many records were affected, or a string containing the e
 [ConnectionManager Class](topic2554.md)   
 [ConnectionManager Members](topic2555.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

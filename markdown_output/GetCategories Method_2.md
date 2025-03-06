@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetCategories Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4973.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariableCategories Class](topic4966.md) : GetCategories Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectVariableCategories Class](topic4966.md)   
 [ProjectVariableCategories Members](topic4967.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

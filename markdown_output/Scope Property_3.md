@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Scope Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6421.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTask Class](topic6407.md) : Scope Property  
 ---  
   
@@ -55,4 +55,4 @@ This property only holds a value if the task has been added to a scope. If the t
 [ComponentTask Class](topic6407.md)   
 [ComponentTask Members](topic6408.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

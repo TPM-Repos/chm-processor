@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChangeComponentPath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3028.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) : ChangeComponentPath Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [GroupCapturedComponents Class](topic3022.md)   
 [GroupCapturedComponents Members](topic3023.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

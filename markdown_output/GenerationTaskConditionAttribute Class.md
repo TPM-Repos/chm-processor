@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerationTaskConditionAttribute Class   
-[Members](topic13722.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13721.md)  
+[Members](topic13722.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : GenerationTaskConditionAttribute Class  
 ---  
   
@@ -61,4 +61,4 @@ System.Attribute
 [GenerationTaskConditionAttribute Members](topic13722.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

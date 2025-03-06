@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EndIgnore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic532.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IUserMessageService Interface](topic526.md) : EndIgnore Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IUserMessageService Interface](topic526.md)   
 [IUserMessageService Members](topic527.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

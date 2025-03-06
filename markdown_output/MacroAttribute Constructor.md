@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MacroAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7231.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [MacroAttribute Class](topic7225.md) : MacroAttribute Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [MacroAttribute Class](topic7225.md)   
 [MacroAttribute Members](topic7226.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

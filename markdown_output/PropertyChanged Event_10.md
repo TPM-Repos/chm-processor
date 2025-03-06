@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PropertyChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9948.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [ProcessActionBase Class](topic9935.md) : PropertyChanged Event  
 ---  
   
@@ -59,4 +59,4 @@ PropertyName|
 [ProcessActionBase Class](topic9935.md)   
 [ProcessActionBase Members](topic9936.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

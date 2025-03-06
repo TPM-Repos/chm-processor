@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DefaultProperties Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13595.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatGenerator Class](topic13579.md) : DefaultProperties Property  
 ---  
   
@@ -54,4 +54,4 @@ This includes the file name and relative path parameters.
 [FileFormatGenerator Class](topic13579.md)   
 [FileFormatGenerator Members](topic13580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

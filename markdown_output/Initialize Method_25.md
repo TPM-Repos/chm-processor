@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Initialize Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6153.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [CapturedComponent Class](topic6147.md) : Initialize Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [CapturedComponent Class](topic6147.md)   
 [CapturedComponent Members](topic6148.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

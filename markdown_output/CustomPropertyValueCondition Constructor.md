@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CustomPropertyValueCondition Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13533.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [CustomPropertyValueCondition Class](topic13527.md) : CustomPropertyValueCondition Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [CustomPropertyValueCondition Class](topic13527.md)   
 [CustomPropertyValueCondition Members](topic13528.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

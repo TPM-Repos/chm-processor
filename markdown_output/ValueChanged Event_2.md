@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValueChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4355.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDisplayFile Class](topic4346.md) : ValueChanged Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectDisplayFile Class](topic4346.md)   
 [ProjectDisplayFile Members](topic4347.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

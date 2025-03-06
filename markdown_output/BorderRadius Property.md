@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BorderRadius Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7351.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ButtonBase Class](topic7338.md) : BorderRadius Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ButtonBase Class](topic7338.md)   
 [ButtonBase Members](topic7339.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

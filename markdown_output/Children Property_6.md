@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Children Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic274.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IHasChildren Interface](topic269.md) : Children Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasChildren Interface](topic269.md)   
 [IHasChildren Members](topic270.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

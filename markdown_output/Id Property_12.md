@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Id Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2465.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [CapturedComponentStatus Class](topic2459.md) : Id Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CapturedComponentStatus Class](topic2459.md)   
 [CapturedComponentStatus Members](topic2460.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

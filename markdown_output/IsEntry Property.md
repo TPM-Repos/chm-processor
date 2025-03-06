@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsEntry Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15372.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md) > [ReportEntryViewModel Class](topic15363.md) : IsEntry Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ReportEntryViewModel Class](topic15363.md)   
 [ReportEntryViewModel Members](topic15364.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

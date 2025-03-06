@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectClosingEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4092.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectClosingEventArgs Class](topic4086.md) : ProjectClosingEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ProjectClosingEventArgs Class](topic4086.md)   
 [ProjectClosingEventArgs Members](topic4087.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

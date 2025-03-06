@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Initialize Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14435.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectAssembly Class](topic14429.md) : Initialize Method  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ProjectAssembly Class](topic14429.md)   
 [ProjectAssembly Members](topic14430.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Rule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13259.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [RuleToken Class](topic13249.md) : Rule Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RuleToken Class](topic13249.md)   
 [RuleToken Members](topic13250.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

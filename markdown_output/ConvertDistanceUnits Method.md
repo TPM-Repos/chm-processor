@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConvertDistanceUnits Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3691.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [MeasurementHelper Class](topic3685.md) : ConvertDistanceUnits Method  
 ---  
   
@@ -83,4 +83,4 @@ The converted distance.
 [MeasurementHelper Class](topic3685.md)   
 [MeasurementHelper Members](topic3686.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

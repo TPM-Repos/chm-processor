@@ -41,4 +41,4 @@ Top
 [TxBase Class](topic13182.md)   
 [DriveWorks.Transactions Namespace](topic12835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

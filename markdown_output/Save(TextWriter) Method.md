@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Save(TextWriter) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11440.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationMacro Class](topic11429.md) > [Save Method](topic11438.md) : Save(TextWriter) Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [SpecificationMacro Members](topic11430.md)   
 [Overload List](topic11438.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

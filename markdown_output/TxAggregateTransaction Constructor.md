@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TxAggregateTransaction Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13178.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [TxAggregateTransaction Class](topic13172.md) : TxAggregateTransaction Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [TxAggregateTransaction Class](topic13172.md)   
 [TxAggregateTransaction Members](topic13173.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WriteEntry Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10353.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [IReportWriter Interface](topic10344.md) : WriteEntry Method  
 ---  
   
@@ -103,4 +103,4 @@ _entryDetail_
 [IReportWriter Interface](topic10344.md)   
 [IReportWriter Members](topic10345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

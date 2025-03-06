@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SkipRemainingTasksTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12629.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SkipRemainingTasksTask Class](topic12623.md) : SkipRemainingTasksTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [SkipRemainingTasksTask Class](topic12623.md)   
 [SkipRemainingTasksTask Members](topic12624.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

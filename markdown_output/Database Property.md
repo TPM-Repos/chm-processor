@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Database Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7849.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DataGrid Class](topic7838.md) : Database Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [DataGrid Class](topic7838.md)   
 [DataGrid Members](topic7839.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

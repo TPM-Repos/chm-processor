@@ -38,4 +38,4 @@ Top
 [ConnectionEventArgs Class](topic6930.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

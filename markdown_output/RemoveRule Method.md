@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveRule Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3960.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumn Class](topic3946.md) : RemoveRule Method  
 ---  
   
@@ -68,4 +68,4 @@ True if a rule was cleared.
 [ProjectCalculationTableColumn Class](topic3946.md)   
 [ProjectCalculationTableColumn Members](topic3947.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

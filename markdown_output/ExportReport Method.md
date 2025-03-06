@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExportReport Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3278.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupReports Class](topic3272.md) : ExportReport Method  
 ---  
   
@@ -76,4 +76,4 @@ Success
 [GroupReports Class](topic3272.md)   
 [GroupReports Members](topic3273.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

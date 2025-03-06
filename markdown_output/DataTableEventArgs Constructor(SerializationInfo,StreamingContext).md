@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataTableEventArgs Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2663.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DataTableEventArgs Class](topic2655.md) > [DataTableEventArgs Constructor](topic2661.md) : DataTableEventArgs Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [DataTableEventArgs Members](topic2656.md)   
 [Overload List](topic2661.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

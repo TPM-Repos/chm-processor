@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NewName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8846.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [RenameItem Class](topic8839.md) : NewName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RenameItem Class](topic8839.md)   
 [RenameItem Members](topic8840.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetContext Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1505.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Diagnostics Namespace](topic1498.md) > [IRuleAnalyzerService Interface](topic1500.md) : SetContext Method  
 ---  
   
@@ -75,4 +75,4 @@ This will update the analyze button's enabled state depending on a valid context
 [IRuleAnalyzerService Interface](topic1500.md)   
 [IRuleAnalyzerService Members](topic1501.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

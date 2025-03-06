@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Outputs Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6884.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [IFlowNode Interface](topic6873.md) : Outputs Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IFlowNode Interface](topic6873.md)   
 [IFlowNode Members](topic6874.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

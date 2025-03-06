@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SelectedItemsChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic428.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISelectionSite Interface](topic422.md) : SelectedItemsChanged Event  
 ---  
   
@@ -60,4 +60,4 @@ Property| Description
 [ISelectionSite Interface](topic422.md)   
 [ISelectionSite Members](topic423.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

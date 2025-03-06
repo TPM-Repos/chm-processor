@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Formula Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1632.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md) > [RulesBuilderResult Class](topic1622.md) : Formula Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RulesBuilderResult Class](topic1622.md)   
 [RulesBuilderResult Members](topic1623.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

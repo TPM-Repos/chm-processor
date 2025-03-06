@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PictureHover Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8353.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [MacroButton Class](topic8340.md) : PictureHover Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [MacroButton Class](topic8340.md)   
 [MacroButton Members](topic8341.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectExtender Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7232.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) : ProjectExtender Class  
 ---  
   
@@ -48,4 +48,4 @@ Top
 [ProjectExtender Class](topic7232.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

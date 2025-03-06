@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyGroupTeamProjectPermissionAction Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9826.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : CopyGroupTeamProjectPermissionAction Class  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [CopyGroupTeamProjectPermissionAction Class](topic9826.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

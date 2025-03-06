@@ -60,4 +60,4 @@ Top
 [ProjectCalculationTables Class](topic4000.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

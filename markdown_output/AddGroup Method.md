@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddGroup Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic114.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandBarManager Interface](topic109.md) : AddGroup Method  
 ---  
   
@@ -78,4 +78,4 @@ If a view wishes to create a command button group, it should use the [ViewContro
 [ICommandBarManager Interface](topic109.md)   
 [ICommandBarManager Members](topic110.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

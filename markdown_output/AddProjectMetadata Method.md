@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddProjectMetadata Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3196.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupProjects Class](topic3190.md) : AddProjectMetadata Method  
 ---  
   
@@ -100,4 +100,4 @@ True if the metadata entry was created successfully.
 [GroupProjects Class](topic3190.md)   
 [GroupProjects Members](topic3191.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

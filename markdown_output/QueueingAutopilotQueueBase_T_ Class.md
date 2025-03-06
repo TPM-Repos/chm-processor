@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 QueueingAutopilotQueueBase<T> Class   
-[Members](topic1926.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1925.md)  
+[Members](topic1926.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : QueueingAutopilotQueueBase<T> Class  
 ---  
   
@@ -67,4 +67,4 @@ System.Object
 [QueueingAutopilotQueueBase<T> Members](topic1926.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

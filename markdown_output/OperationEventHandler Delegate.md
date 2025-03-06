@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OperationEventHandler Delegate   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11820.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : OperationEventHandler Delegate  
 ---  
   
@@ -67,4 +67,4 @@ _e_
 [OperationEventHandler Members](topic11820.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

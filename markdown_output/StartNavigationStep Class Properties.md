@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartNavigationStep Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10257.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) : StartNavigationStep Class  
 ---  
   
@@ -41,4 +41,4 @@ Top
 [StartNavigationStep Class](topic10257.md)   
 [DriveWorks.Navigation Namespace](topic10114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

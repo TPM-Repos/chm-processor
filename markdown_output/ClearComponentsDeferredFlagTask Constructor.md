@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearComponentsDeferredFlagTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12006.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ClearComponentsDeferredFlagTask Class](topic12000.md) : ClearComponentsDeferredFlagTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [ClearComponentsDeferredFlagTask Class](topic12000.md)   
 [ClearComponentsDeferredFlagTask Members](topic12001.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

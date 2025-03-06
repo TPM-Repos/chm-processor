@@ -52,4 +52,4 @@ Top
 [DocumentDesignerAttribute Class](topic1568.md)   
 [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

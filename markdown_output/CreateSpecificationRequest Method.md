@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateSpecificationRequest Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1766.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ISpecificationAutomation Interface](topic1761.md) : CreateSpecificationRequest Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ISpecificationAutomation Interface](topic1761.md)   
 [ISpecificationAutomation Members](topic1762.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CompositeReportWriter Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10363.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : CompositeReportWriter Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [CompositeReportWriter Class](topic10363.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

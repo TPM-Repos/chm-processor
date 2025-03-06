@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IExtension Interface Members   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7152.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) : IExtension Interface  
 ---  
   
@@ -23,4 +23,4 @@ The following tables list the members exposed by [IExtension](topic7152.md).
 [IExtension Interface](topic7152.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectInUseException Constructor(Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4509.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectInUseException Class](topic4501.md) > [ProjectInUseException Constructor](topic4507.md) : ProjectInUseException Constructor(Exception)  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [ProjectInUseException Members](topic4502.md)   
 [Overload List](topic4507.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

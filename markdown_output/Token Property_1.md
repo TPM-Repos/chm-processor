@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Token Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10607.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [IProviderPrincipal Interface](topic10597.md) : Token Property  
 ---  
   
@@ -55,4 +55,4 @@ The return value may be a null reference as the token checking feature is an opt
 [IProviderPrincipal Interface](topic10597.md)   
 [IProviderPrincipal Members](topic10598.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

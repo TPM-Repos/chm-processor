@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetGroupSetting Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2971.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Group Class](topic2958.md) : GetGroupSetting Method  
 ---  
   
@@ -68,4 +68,4 @@ The string value of the setting that was retrieved, or a null reference (Nothing
 [Group Class](topic2958.md)   
 [Group Members](topic2959.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

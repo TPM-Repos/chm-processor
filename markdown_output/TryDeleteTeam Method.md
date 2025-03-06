@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryDeleteTeam Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3327.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) : TryDeleteTeam Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the team was successfully found and deleted, otherwise false.
 [GroupSecurity Class](topic3282.md)   
 [GroupSecurity Members](topic3283.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

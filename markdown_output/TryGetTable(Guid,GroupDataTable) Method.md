@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetTable(Guid,GroupDataTable) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3147.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupDataTables Class](topic3136.md) > [TryGetTable Method](topic3145.md) : TryGetTable(Guid,GroupDataTable) Method  
 ---  
   
@@ -77,4 +77,4 @@ True if a matching table was found.
 [GroupDataTables Members](topic3137.md)   
 [Overload List](topic3145.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

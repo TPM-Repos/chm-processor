@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateTeamDriveAppPermissionsTask Class   
-[Members](topic12725.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12724.md)  
+[Members](topic12725.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : UpdateTeamDriveAppPermissionsTask Class  
 ---  
   
@@ -70,4 +70,4 @@ System.MarshalByRefObject
 [UpdateTeamDriveAppPermissionsTask Members](topic12725.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

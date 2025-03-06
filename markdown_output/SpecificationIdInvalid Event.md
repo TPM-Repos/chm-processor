@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationIdInvalid Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic487.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISpecificationRequestWithEdit Interface](topic478.md) : SpecificationIdInvalid Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ISpecificationRequestWithEdit Interface](topic478.md)   
 [ISpecificationRequestWithEdit Members](topic479.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

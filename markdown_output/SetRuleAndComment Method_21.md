@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetRuleAndComment Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6073.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [GenericRuleWithCustomName Class](topic6063.md) : SetRuleAndComment Method  
 ---  
   
@@ -71,4 +71,4 @@ _newComment_
 [GenericRuleWithCustomName Class](topic6063.md)   
 [GenericRuleWithCustomName Members](topic6064.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

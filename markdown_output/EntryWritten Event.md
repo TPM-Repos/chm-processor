@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EntryWritten Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10341.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [IEventReportWriter Interface](topic10336.md) : EntryWritten Event  
 ---  
   
@@ -64,4 +64,4 @@ Property| Description
 [IEventReportWriter Interface](topic10336.md)   
 [IEventReportWriter Members](topic10337.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

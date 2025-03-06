@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Close Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1721.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [IGroupConnectorEditor Interface](topic1716.md) : Close Method  
 ---  
   
@@ -68,4 +68,4 @@ False to abort closing the view, otherwise true. Please note that no message wil
 [IGroupConnectorEditor Interface](topic1716.md)   
 [IGroupConnectorEditor Members](topic1717.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

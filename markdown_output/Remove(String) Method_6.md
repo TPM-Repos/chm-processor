@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14262.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedFormatCollection Class](topic14249.md) > [Remove Method](topic14260.md) : Remove(String) Method  
 ---  
   
@@ -73,4 +73,4 @@ This operation has O(N) running time.
 [CapturedFormatCollection Members](topic14250.md)   
 [Overload List](topic14260.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

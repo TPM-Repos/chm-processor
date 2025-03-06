@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TriggeredAction Class   
-[Members](topic5709.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5708.md)  
+[Members](topic5709.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : TriggeredAction Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [TriggeredAction Members](topic5709.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

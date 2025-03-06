@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IComponentTaskScopeProvider Interface   
-[Members](topic2172.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2171.md)  
+[Members](topic2172.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IComponentTaskScopeProvider Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IComponentTaskScopeProvider Members](topic2172.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

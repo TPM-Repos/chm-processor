@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationProjectExtension Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11317.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationDetails Class](topic11292.md) : SpecificationProjectExtension Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [SpecificationDetails Class](topic11292.md)   
 [SpecificationDetails Members](topic11293.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

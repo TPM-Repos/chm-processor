@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10184.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [NavigationStep Class](topic10175.md) : DeleteCore Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [NavigationStep Class](topic10175.md)   
 [NavigationStep Members](topic10176.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

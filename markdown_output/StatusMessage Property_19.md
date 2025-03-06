@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StatusMessage Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9980.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [RemapSpecificationFolderAction Class](topic9970.md) : StatusMessage Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RemapSpecificationFolderAction Class](topic9970.md)   
 [RemapSpecificationFolderAction Members](topic9971.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

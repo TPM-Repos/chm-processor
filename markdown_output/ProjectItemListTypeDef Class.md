@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectItemListTypeDef Class   
-[Members](topic4534.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4533.md)  
+[Members](topic4534.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectItemListTypeDef Class  
 ---  
   
@@ -61,4 +61,4 @@ System.MarshalByRefObject
 [ProjectItemListTypeDef Members](topic4534.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

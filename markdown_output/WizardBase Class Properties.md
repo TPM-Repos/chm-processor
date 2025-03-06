@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WizardBase Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1200.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : WizardBase Class  
 ---  
   
@@ -52,4 +52,4 @@ Top
 [WizardBase Class](topic1200.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

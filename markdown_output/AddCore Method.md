@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6474.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskCollection Class](topic6466.md) : AddCore Method  
 ---  
   
@@ -78,4 +78,4 @@ _index_
 [ComponentTaskCollection Class](topic6466.md)   
 [ComponentTaskCollection Members](topic6467.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

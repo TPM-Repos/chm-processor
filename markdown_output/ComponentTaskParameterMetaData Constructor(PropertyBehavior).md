@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskParameterMetaData Constructor(PropertyBehavior)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6626.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskParameterMetaData Class](topic6619.md) > [ComponentTaskParameterMetaData Constructor](topic6625.md) : ComponentTaskParameterMetaData Constructor(PropertyBehavior)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ComponentTaskParameterMetaData Members](topic6620.md)   
 [Overload List](topic6625.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

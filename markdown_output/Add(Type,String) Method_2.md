@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add(Type,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6570.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskConditions Class](topic6561.md) > [Add Method](topic6568.md) : Add(Type,String) Method  
 ---  
   
@@ -83,4 +83,4 @@ System.ArgumentException| The specified type is not a valid [ComponentTaskCondit
 [ComponentTaskConditions Members](topic6562.md)   
 [Overload List](topic6568.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

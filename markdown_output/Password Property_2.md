@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Password Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3759.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [OdbcDataTable Class](topic3746.md) : Password Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [OdbcDataTable Class](topic3746.md)   
 [OdbcDataTable Members](topic3747.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetSetting(SettingLevel,String,String[],Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic456.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISettingsManager Interface](topic442.md) > [SetSetting Method](topic454.md) : SetSetting(SettingLevel,String,String[],Boolean) Method  
 ---  
   
@@ -88,4 +88,4 @@ _preventRedirection_
 [ISettingsManager Members](topic443.md)   
 [Overload List](topic454.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

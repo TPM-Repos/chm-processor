@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Title Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1166.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [VirtualItemData Class](topic1154.md) : Title Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [VirtualItemData Class](topic1154.md)   
 [VirtualItemData Members](topic1155.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 JsonType Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3672.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JsonDocumentNodeData Class](topic3659.md) : JsonType Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [JsonDocumentNodeData Class](topic3659.md)   
 [JsonDocumentNodeData Members](topic3660.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

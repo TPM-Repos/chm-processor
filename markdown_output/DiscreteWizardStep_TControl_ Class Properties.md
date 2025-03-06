@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DiscreteWizardStep<TControl> Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic770.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : DiscreteWizardStep<TControl> Class  
 ---  
   
@@ -39,4 +39,4 @@ Top
 [DiscreteWizardStep<TControl> Class](topic770.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

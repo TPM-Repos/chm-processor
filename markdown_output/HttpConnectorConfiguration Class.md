@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HttpConnectorConfiguration Class   
-[Members](topic6839.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6838.md)  
+[Members](topic6839.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Http Namespace](topic6836.md) : HttpConnectorConfiguration Class  
 ---  
   
@@ -61,4 +61,4 @@ System.MarshalByRefObject
 [HttpConnectorConfiguration Members](topic6839.md)   
 [DriveWorks.Connectors.Http Namespace](topic6836.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

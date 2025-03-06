@@ -49,4 +49,4 @@ Top
 [ProhibitedStatesAttribute Class](topic13875.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

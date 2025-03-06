@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetCreationWizard Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1523.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [IDocumentDesigner Interface](topic1517.md) : GetCreationWizard Method  
 ---  
   
@@ -72,4 +72,4 @@ If a null reference (Nothing in Visual Basic) is returned, then no further wizar
 [IDocumentDesigner Interface](topic1517.md)   
 [IDocumentDesigner Members](topic1518.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

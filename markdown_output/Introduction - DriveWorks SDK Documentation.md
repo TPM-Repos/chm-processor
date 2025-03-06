@@ -18,4 +18,4 @@ The main services provided by the SolidWorks extensibility library are:
 
 
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetInputValue Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9273.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ToggleSwitch Class](topic9266.md) : GetInputValue Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ToggleSwitch Class](topic9266.md)   
 [ToggleSwitch Members](topic9267.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

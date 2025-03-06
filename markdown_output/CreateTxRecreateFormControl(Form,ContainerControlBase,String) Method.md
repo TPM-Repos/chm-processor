@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxRecreateFormControl(Form,ContainerControlBase,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13119.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxRecreateFormControl Method](topic13118.md) : CreateTxRecreateFormControl(Form,ContainerControlBase,String) Method  
 ---  
   
@@ -85,4 +85,4 @@ A transaction
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic13118.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

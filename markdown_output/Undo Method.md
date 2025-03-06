@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Undo Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic511.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ITransactionManager Interface](topic502.md) : Undo Method  
 ---  
   
@@ -55,4 +55,4 @@ True if there was a transaction in the undo chain, otherwise false.
 [ITransactionManager Interface](topic502.md)   
 [ITransactionManager Members](topic503.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

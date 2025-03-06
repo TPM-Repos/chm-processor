@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 ValueChangedEventArgs<T> Class   
-[Members](topic5835.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5834.md)  
+[Members](topic5835.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ValueChangedEventArgs<T> Class  
 ---  
   
@@ -68,4 +68,4 @@ System.EventArgs
 [ValueChangedEventArgs<T> Members](topic5835.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

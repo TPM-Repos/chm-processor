@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectSpecificationProperty Class   
-[Members](topic4854.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4853.md)  
+[Members](topic4854.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectSpecificationProperty Class  
 ---  
   
@@ -61,4 +61,4 @@ System.MarshalByRefObject
 [ProjectSpecificationProperty Members](topic4854.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OldValue Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2495.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ChangedValue<T> Class](topic2487.md) : OldValue Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ChangedValue<T> Class](topic2487.md)   
 [ChangedValue<T> Members](topic2488.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

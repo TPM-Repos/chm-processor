@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RaiseNodeCreated Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7020.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [FlowNodeCollection Class](topic7011.md) : RaiseNodeCreated Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [FlowNodeCollection Class](topic7011.md)   
 [FlowNodeCollection Members](topic7012.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2515.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Column Class](topic2506.md) : Name Property  
 ---  
   
@@ -55,4 +55,4 @@ A string containing the name of the column.
 [Column Class](topic2506.md)   
 [Column Members](topic2507.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StatusMessage Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9871.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyReleasedComponents Class](topic9864.md) : StatusMessage Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CopyReleasedComponents Class](topic9864.md)   
 [CopyReleasedComponents Members](topic9865.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Sheets Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13824.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [MergedDrawingInfo Class](topic13815.md) : Sheets Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [MergedDrawingInfo Class](topic13815.md)   
 [MergedDrawingInfo Members](topic13816.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

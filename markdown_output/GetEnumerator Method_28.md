@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEnumerator Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14585.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectFileFormatCollection Class](topic14579.md) : GetEnumerator Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectFileFormatCollection Class](topic14579.md)   
 [ProjectFileFormatCollection Members](topic14580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

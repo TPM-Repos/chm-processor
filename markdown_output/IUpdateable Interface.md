@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IUpdateable Interface   
-[Members](topic520.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic519.md)  
+[Members](topic520.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IUpdateable Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IUpdateable Members](topic520.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

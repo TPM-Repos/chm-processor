@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15025.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedSheetCollection Class](topic15017.md) : Remove Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ReleasedSheetCollection Class](topic15017.md)   
 [ReleasedSheetCollection Members](topic15018.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Insert(Type,String,Int32) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6482.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskCollection Class](topic6466.md) : Insert(Type,String,Int32) Method  
 ---  
   
@@ -90,4 +90,4 @@ System.IndexOutOfRangeException| Index is negative or greater than the size of t
 [ComponentTaskCollection Class](topic6466.md)   
 [ComponentTaskCollection Members](topic6467.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

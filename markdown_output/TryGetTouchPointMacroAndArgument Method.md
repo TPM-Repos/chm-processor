@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetTouchPointMacroAndArgument Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2272.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IPreviewDocument Interface](topic2263.md) : TryGetTouchPointMacroAndArgument Method  
 ---  
   
@@ -92,4 +92,4 @@ True if a macro name was found. Note that macroArgument might be set despite thi
 [IPreviewDocument Interface](topic2263.md)   
 [IPreviewDocument Members](topic2264.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

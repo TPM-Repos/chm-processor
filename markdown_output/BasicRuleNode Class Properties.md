@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BasicRuleNode Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10558.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) : BasicRuleNode Class  
 ---  
   
@@ -39,4 +39,4 @@ Top
 [BasicRuleNode Class](topic10558.md)   
 [DriveWorks.Rules Namespace](topic10510.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

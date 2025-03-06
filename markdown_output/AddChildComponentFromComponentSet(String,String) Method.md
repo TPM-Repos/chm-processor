@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddChildComponentFromComponentSet(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6259.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseComponentController Class](topic6252.md) > [AddChildComponentFromComponentSet Method](topic6258.md) : AddChildComponentFromComponentSet(String,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ True if the component set was found and added, otherwise false.
 [ReleaseComponentController Members](topic6253.md)   
 [Overload List](topic6258.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

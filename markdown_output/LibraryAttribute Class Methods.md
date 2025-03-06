@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LibraryAttribute Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7201.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) : LibraryAttribute Class  
 ---  
   
@@ -39,4 +39,4 @@ Top
 [LibraryAttribute Class](topic7201.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

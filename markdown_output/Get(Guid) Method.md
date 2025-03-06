@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Get(Guid) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6443.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskAccessor Class](topic6429.md) > [Get Method](topic6442.md) : Get(Guid) Method  
 ---  
   
@@ -69,4 +69,4 @@ The task with the given id if it's present in the collection, otherwise a null r
 [ComponentTaskAccessor Members](topic6430.md)   
 [Overload List](topic6442.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConnectedClientDetails Class   
-[Members](topic2538.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2537.md)  
+[Members](topic2538.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ConnectedClientDetails Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ConnectedClientDetails Members](topic2538.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AuthenticationProviderNameAttribute Class   
-[Members](topic10627.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10626.md)  
+[Members](topic10627.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : AuthenticationProviderNameAttribute Class  
 ---  
   
@@ -68,4 +68,4 @@ System.Attribute
 [AuthenticationProviderNameAttribute Members](topic10627.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

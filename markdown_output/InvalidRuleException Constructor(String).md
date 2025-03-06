@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidRuleException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3547.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [InvalidRuleException Class](topic3539.md) > [InvalidRuleException Constructor](topic3545.md) : InvalidRuleException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [InvalidRuleException Members](topic3540.md)   
 [Overload List](topic3545.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

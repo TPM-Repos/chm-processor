@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RaiseConnectionRemoved Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7041.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [InputConnectionEndpoint Class](topic7033.md) : RaiseConnectionRemoved Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [InputConnectionEndpoint Class](topic7033.md)   
 [InputConnectionEndpoint Members](topic7034.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

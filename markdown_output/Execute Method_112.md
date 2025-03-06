@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9842.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupUserAction Class](topic9836.md) : Execute Method  
 ---  
   
@@ -68,4 +68,4 @@ False if there is a critical error that means the entire transfer process should
 [CopyGroupUserAction Class](topic9836.md)   
 [CopyGroupUserAction Members](topic9837.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

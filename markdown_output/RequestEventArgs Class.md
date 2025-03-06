@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RequestEventArgs Class   
-[Members](topic10072.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10071.md)  
+[Members](topic10072.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) : RequestEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [RequestEventArgs Members](topic10072.md)   
 [DriveWorks.Messaging Namespace](topic10038.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

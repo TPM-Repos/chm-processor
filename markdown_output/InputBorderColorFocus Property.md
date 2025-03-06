@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InputBorderColorFocus Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7650.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ComboBox Class](topic7630.md) : InputBorderColorFocus Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ComboBox Class](topic7630.md)   
 [ComboBox Members](topic7631.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

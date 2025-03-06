@@ -92,4 +92,4 @@ Top
 [CommandNames Class](topic15420.md)   
 [DriveWorks.SolidWorks.Integration Namespace](topic15418.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CapturedComponentStatus Class   
-[Members](topic2460.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2459.md)  
+[Members](topic2460.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : CapturedComponentStatus Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [CapturedComponentStatus Members](topic2460.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

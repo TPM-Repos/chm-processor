@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskAccessor Class   
-[Members](topic6430.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6429.md)  
+[Members](topic6430.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) : ComponentTaskAccessor Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ComponentTaskAccessor Members](topic6430.md)   
 [DriveWorks.Components.Tasks Namespace](topic6391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

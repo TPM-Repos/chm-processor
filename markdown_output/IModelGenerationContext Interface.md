@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IModelGenerationContext Interface   
-[Members](topic15158.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15157.md)  
+[Members](topic15158.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) : IModelGenerationContext Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [IModelGenerationContext Members](topic15158.md)   
 [DriveWorks.SolidWorks.Generation Namespace](topic15094.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

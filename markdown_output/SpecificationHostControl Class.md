@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationHostControl Class   
-[Members](topic8980.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8979.md)  
+[Members](topic8980.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : SpecificationHostControl Class  
 ---  
   
@@ -64,4 +64,4 @@ System.MarshalByRefObject
 [SpecificationHostControl Members](topic8980.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

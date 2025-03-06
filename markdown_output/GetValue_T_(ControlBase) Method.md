@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 GetValue<T>(ControlBase) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9421.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicProperty Class](topic9398.md) > [GetValue Method](topic9419.md) : GetValue<T>(ControlBase) Method  
 ---  
   
@@ -77,4 +77,4 @@ The value of the property, converted using the Converter specified when the prop
 [DynamicProperty Members](topic9399.md)   
 [Overload List](topic9419.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

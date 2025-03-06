@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectComponents Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6229.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : ProjectComponents Class  
 ---  
   
@@ -41,4 +41,4 @@ Top
 [ProjectComponents Class](topic6229.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

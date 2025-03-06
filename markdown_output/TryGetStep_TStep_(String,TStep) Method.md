@@ -8,7 +8,7 @@ _TStep_
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetStep<TStep>(String,TStep) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10244.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [ProjectNavigation Class](topic10222.md) > [TryGetStep Method](topic10243.md) : TryGetStep<TStep>(String,TStep) Method  
 ---  
   
@@ -86,4 +86,4 @@ True if the item was successfully retrieved, otherwise false.
 [ProjectNavigation Members](topic10223.md)   
 [Overload List](topic10243.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

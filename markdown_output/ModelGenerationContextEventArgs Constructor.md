@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ModelGenerationContextEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15270.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [ModelGenerationContextEventArgs Class](topic15264.md) : ModelGenerationContextEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ModelGenerationContextEventArgs Class](topic15264.md)   
 [ModelGenerationContextEventArgs Members](topic15265.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

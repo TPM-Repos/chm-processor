@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 State Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14682.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectSheet Class](topic14673.md) : State Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectSheet Class](topic14673.md)   
 [ProjectSheet Members](topic14674.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

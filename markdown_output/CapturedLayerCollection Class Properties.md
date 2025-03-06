@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CapturedLayerCollection Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14295.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : CapturedLayerCollection Class  
 ---  
   
@@ -32,4 +32,4 @@ Top
 [CapturedLayerCollection Class](topic14295.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

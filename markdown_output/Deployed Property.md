@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Deployed Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4340.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDetails Class](topic4330.md) : Deployed Property  
 ---  
   
@@ -57,4 +57,4 @@ If a project is not deployed, only administrative users can see and specify the 
 [ProjectDetails Class](topic4330.md)   
 [ProjectDetails Members](topic4331.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

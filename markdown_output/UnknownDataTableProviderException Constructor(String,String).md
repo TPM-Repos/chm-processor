@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UnknownDataTableProviderException Constructor(String,String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5767.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [UnknownDataTableProviderException Class](topic5759.md) > [UnknownDataTableProviderException Constructor](topic5765.md) : UnknownDataTableProviderException Constructor(String,String)  
 ---  
   
@@ -71,4 +71,4 @@ _typeName_
 [UnknownDataTableProviderException Members](topic5760.md)   
 [Overload List](topic5765.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

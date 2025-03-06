@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectFileFormatRuleCollection Class   
-[Members](topic14604.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14603.md)  
+[Members](topic14604.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : ProjectFileFormatRuleCollection Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ProjectFileFormatRuleCollection Members](topic14604.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

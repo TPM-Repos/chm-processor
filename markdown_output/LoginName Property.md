@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LoginName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10692.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [DriveWorksPrincipal Class](topic10684.md) : LoginName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DriveWorksPrincipal Class](topic10684.md)   
 [DriveWorksPrincipal Members](topic10685.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

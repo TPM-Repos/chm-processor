@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.XR Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13327.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.XR Namespace  
 ---  
   
@@ -23,4 +23,4 @@ System.Object
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

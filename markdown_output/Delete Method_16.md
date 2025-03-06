@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Delete Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4990.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariableCategory Class](topic4983.md) : Delete Method  
 ---  
   
@@ -56,4 +56,4 @@ System.InvalidOperationException| Thrown if the project category contains any ch
 [ProjectVariableCategory Class](topic4983.md)   
 [ProjectVariableCategory Members](topic4984.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

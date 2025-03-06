@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConditionEventArgs Constructor(Condition)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10850.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [ConditionEventArgs Class](topic10843.md) > [ConditionEventArgs Constructor](topic10849.md) : ConditionEventArgs Constructor(Condition)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ConditionEventArgs Members](topic10844.md)   
 [Overload List](topic10849.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

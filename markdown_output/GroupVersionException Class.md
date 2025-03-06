@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupVersionException Class   
-[Members](topic3438.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3437.md)  
+[Members](topic3438.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : GroupVersionException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [GroupVersionException Members](topic3438.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

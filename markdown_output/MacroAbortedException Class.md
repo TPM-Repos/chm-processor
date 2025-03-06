@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MacroAbortedException Class   
-[Members](topic11039.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11038.md)  
+[Members](topic11039.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : MacroAbortedException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [MacroAbortedException Members](topic11039.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

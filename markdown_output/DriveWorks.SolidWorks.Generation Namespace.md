@@ -51,4 +51,4 @@ Provides types related to DriveWorks model generation.
 
 [DriveWorks.SolidWorks Assembly](topic13342.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

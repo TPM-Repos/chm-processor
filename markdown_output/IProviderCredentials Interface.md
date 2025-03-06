@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IProviderCredentials Interface   
-[Members](topic10589.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10588.md)  
+[Members](topic10589.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : IProviderCredentials Interface  
 ---  
   
@@ -56,4 +56,4 @@ Users should consume either the [DriveWorksCredentials](topic10669.md) or the [W
 [IProviderCredentials Members](topic10589.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

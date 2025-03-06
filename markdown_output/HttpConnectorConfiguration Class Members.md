@@ -66,4 +66,4 @@ Top
 [HttpConnectorConfiguration Class](topic6838.md)   
 [DriveWorks.Connectors.Http Namespace](topic6836.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

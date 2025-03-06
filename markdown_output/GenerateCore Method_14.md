@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerateCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5892.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [WordDocument Class](topic5885.md) : GenerateCore Method  
 ---  
   
@@ -69,4 +69,4 @@ _results_
 [WordDocument Class](topic5885.md)   
 [WordDocument Members](topic5886.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

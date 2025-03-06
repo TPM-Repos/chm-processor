@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HasValue Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10969.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperty Class](topic10946.md) : HasValue Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [FlowProperty Class](topic10946.md)   
 [FlowProperty Members](topic10947.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

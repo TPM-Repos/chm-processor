@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandInvokeEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic697.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [CommandInvokeEventArgs Class](topic691.md) : CommandInvokeEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [CommandInvokeEventArgs Class](topic691.md)   
 [CommandInvokeEventArgs Members](topic692.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

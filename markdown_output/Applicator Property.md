@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Applicator Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic888.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [PendingChange Class](topic882.md) : Applicator Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [PendingChange Class](topic882.md)   
 [PendingChange Members](topic883.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

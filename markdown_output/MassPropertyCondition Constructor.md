@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MassPropertyCondition Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13787.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [MassPropertyCondition Class](topic13781.md) : MassPropertyCondition Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [MassPropertyCondition Class](topic13781.md)   
 [MassPropertyCondition Members](topic13782.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

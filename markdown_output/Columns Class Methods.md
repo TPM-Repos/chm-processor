@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Columns Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2516.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : Columns Class  
 ---  
   
@@ -46,4 +46,4 @@ Top
 [Columns Class](topic2516.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

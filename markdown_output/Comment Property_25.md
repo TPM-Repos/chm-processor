@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Comment Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5953.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [IHasRule Interface](topic5947.md) : Comment Property  
 ---  
   
@@ -59,4 +59,4 @@ System.NotSupportedException| The rule is not writable.
 [IHasRule Interface](topic5947.md)   
 [IHasRule Members](topic5948.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

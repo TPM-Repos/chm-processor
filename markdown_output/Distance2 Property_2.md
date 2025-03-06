@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Distance2 Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14790.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedBreakLine Class](topic14782.md) : Distance2 Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedBreakLine Class](topic14782.md)   
 [ReleasedBreakLine Members](topic14783.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

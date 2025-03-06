@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MessageEventArgs Constructor(ProjectMessage)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3711.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [MessageEventArgs Class](topic3704.md) > [MessageEventArgs Constructor](topic3710.md) : MessageEventArgs Constructor(ProjectMessage)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [MessageEventArgs Members](topic3705.md)   
 [Overload List](topic3710.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

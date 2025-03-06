@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConditionCreated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10884.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Conditions Class](topic10865.md) : ConditionCreated Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [Conditions Class](topic10865.md)   
 [Conditions Members](topic10866.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

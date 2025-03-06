@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EnumerationInterruptedException Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2824.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : EnumerationInterruptedException Class  
 ---  
   
@@ -38,4 +38,4 @@ Top
 [EnumerationInterruptedException Class](topic2824.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

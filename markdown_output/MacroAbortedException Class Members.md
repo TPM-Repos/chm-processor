@@ -62,4 +62,4 @@ Top
 [MacroAbortedException Class](topic11038.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

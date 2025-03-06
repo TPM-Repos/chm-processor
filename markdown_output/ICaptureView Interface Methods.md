@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ICaptureView Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13347.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : ICaptureView Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [ICaptureView Interface](topic13347.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

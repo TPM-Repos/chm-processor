@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitializeThread Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1908.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [PollingAutopilotQueueBase Class](topic1898.md) : InitializeThread Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [PollingAutopilotQueueBase Class](topic1898.md)   
 [PollingAutopilotQueueBase Members](topic1899.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

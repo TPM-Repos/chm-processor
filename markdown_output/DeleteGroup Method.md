@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteGroup Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5182.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupManager Class](topic5174.md) : DeleteGroup Method  
 ---  
   
@@ -79,4 +79,4 @@ _creationPassword_
 [RemoteGroupManager Class](topic5174.md)   
 [RemoteGroupManager Members](topic5175.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

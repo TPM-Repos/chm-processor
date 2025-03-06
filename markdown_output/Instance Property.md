@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Instance Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2018.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [IApplicationPluginInfo Interface](topic2010.md) : Instance Property  
 ---  
   
@@ -55,4 +55,4 @@ If an exception occurred loading the plugin, this will return a null reference.
 [IApplicationPluginInfo Interface](topic2010.md)   
 [IApplicationPluginInfo Members](topic2011.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

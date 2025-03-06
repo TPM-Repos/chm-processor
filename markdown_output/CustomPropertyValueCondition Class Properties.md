@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CustomPropertyValueCondition Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13527.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : CustomPropertyValueCondition Class  
 ---  
   
@@ -37,4 +37,4 @@ Top
 [CustomPropertyValueCondition Class](topic13527.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

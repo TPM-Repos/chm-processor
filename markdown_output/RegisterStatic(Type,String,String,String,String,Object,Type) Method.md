@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterStatic(Type,String,String,String,String,Object,Type) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9437.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicProperty Class](topic9398.md) > [RegisterStatic Method](topic9435.md) : RegisterStatic(Type,String,String,String,String,Object,Type) Method  
 ---  
   
@@ -116,4 +116,4 @@ A dynamic property for the control.
 [DynamicProperty Members](topic9399.md)   
 [Overload List](topic9435.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AuthenticationProviderFactory Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10623.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [AuthenticationProviderFactory Class](topic10617.md) : AuthenticationProviderFactory Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [AuthenticationProviderFactory Class](topic10617.md)   
 [AuthenticationProviderFactory Members](topic10618.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

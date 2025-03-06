@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LocalColumnName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4553.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectItemListTypeOutputDef Class](topic4547.md) : LocalColumnName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectItemListTypeOutputDef Class](topic4547.md)   
 [ProjectItemListTypeOutputDef Members](topic4548.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

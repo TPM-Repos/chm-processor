@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DisplayFileDataCorruptException Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2723.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DisplayFileDataCorruptException Class](topic2716.md) > [DisplayFileDataCorruptException Constructor](topic2722.md) : DisplayFileDataCorruptException Constructor()  
 ---  
   
@@ -47,4 +47,4 @@ C#|
 [DisplayFileDataCorruptException Members](topic2717.md)   
 [Overload List](topic2722.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

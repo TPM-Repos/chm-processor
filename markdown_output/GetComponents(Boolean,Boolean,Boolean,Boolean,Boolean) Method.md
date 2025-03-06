@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetComponents(Boolean,Boolean,Boolean,Boolean,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3256.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupReleasedComponents Class](topic3238.md) > [GetComponents Method](topic3254.md) : GetComponents(Boolean,Boolean,Boolean,Boolean,Boolean) Method  
 ---  
   
@@ -101,4 +101,4 @@ An enumerator over the released components in the group.
 [GroupReleasedComponents Members](topic3239.md)   
 [Overload List](topic3254.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

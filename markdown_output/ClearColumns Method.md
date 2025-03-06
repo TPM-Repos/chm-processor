@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearColumns Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2186.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IDataExportDefinition Interface](topic2177.md) : ClearColumns Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IDataExportDefinition Interface](topic2177.md)   
 [IDataExportDefinition Members](topic2178.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

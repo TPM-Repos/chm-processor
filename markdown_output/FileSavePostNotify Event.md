@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileSavePostNotify Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13438.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ISolidWorksState Interface](topic13419.md) : FileSavePostNotify Event  
 ---  
   
@@ -61,4 +61,4 @@ Property| Description
 [ISolidWorksState Interface](topic13419.md)   
 [ISolidWorksState Members](topic13420.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

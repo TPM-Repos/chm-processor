@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDefault Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11399.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationFlowDefinition Class](topic11387.md) : IsDefault Property  
 ---  
   
@@ -55,4 +55,4 @@ If the specification flow has not been customized, a default specification-flow 
 [SpecificationFlowDefinition Class](topic11387.md)   
 [SpecificationFlowDefinition Members](topic11388.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

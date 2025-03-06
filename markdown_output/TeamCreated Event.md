@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TeamCreated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3339.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) : TeamCreated Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [GroupSecurity Class](topic3282.md)   
 [GroupSecurity Members](topic3283.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

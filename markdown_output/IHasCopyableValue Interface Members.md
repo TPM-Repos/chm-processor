@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasCopyableValue Interface Members   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7275.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : IHasCopyableValue Interface  
 ---  
   
@@ -23,4 +23,4 @@ The following tables list the members exposed by [IHasCopyableValue](topic7275.m
 [IHasCopyableValue Interface](topic7275.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

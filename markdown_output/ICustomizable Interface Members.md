@@ -30,4 +30,4 @@ Top
 [ICustomizable Interface](topic5941.md)   
 [DriveWorks.Abstractions Namespace](topic5939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DynamicPreviewControlAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic790.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [DynamicPreviewControlAttribute Class](topic784.md) : DynamicPreviewControlAttribute Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [DynamicPreviewControlAttribute Class](topic784.md)   
 [DynamicPreviewControlAttribute Members](topic785.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

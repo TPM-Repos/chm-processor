@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FunctionInformation Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2924.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : FunctionInformation Class  
 ---  
   
@@ -40,4 +40,4 @@ Top
 [FunctionInformation Class](topic2924.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

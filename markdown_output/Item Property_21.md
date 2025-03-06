@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14266.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedFormatCollection Class](topic14249.md) : Item Property  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [CapturedFormatCollection Class](topic14249.md)   
 [CapturedFormatCollection Members](topic14250.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

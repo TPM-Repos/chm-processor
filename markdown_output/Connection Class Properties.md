@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Connection Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6909.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : Connection Class  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [Connection Class](topic6909.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

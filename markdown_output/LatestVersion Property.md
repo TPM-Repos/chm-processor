@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LatestVersion Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3464.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupVersionInformation Class](topic3446.md) : LatestVersion Property  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [GroupVersionInformation Class](topic3446.md)   
 [GroupVersionInformation Members](topic3447.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 State Class   
-[Members](topic11560.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11559.md)  
+[Members](topic11560.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : State Class  
 ---  
   
@@ -70,4 +70,4 @@ System.MarshalByRefObject
 [State Members](topic11560.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

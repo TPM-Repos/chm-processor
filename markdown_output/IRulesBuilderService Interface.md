@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IRulesBuilderService Interface   
-[Members](topic1599.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1598.md)  
+[Members](topic1599.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md) : IRulesBuilderService Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IRulesBuilderService Members](topic1599.md)   
 [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

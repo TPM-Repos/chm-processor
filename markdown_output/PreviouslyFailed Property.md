@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreviouslyFailed Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15279.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [ModelPreparationResultEventArgs Class](topic15272.md) : PreviouslyFailed Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ModelPreparationResultEventArgs Class](topic15272.md)   
 [ModelPreparationResultEventArgs Members](topic15273.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

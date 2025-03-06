@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsInitialized Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4306.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDataTable Class](topic4282.md) : IsInitialized Property  
 ---  
   
@@ -55,4 +55,4 @@ When a table is first created, it is not attached to a project and some function
 [ProjectDataTable Class](topic4282.md)   
 [ProjectDataTable Members](topic4283.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

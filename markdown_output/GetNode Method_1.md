@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetNode Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13147.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [StartNodeRef Class](topic13140.md) : GetNode Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [StartNodeRef Class](topic13140.md)   
 [StartNodeRef Members](topic13141.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

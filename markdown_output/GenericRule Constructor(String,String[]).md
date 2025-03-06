@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenericRule Constructor(String,String[])   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6052.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [GenericRule Class](topic6043.md) > [GenericRule Constructor](topic6049.md) : GenericRule Constructor(String,String[])  
 ---  
   
@@ -71,4 +71,4 @@ _type_
 [GenericRule Members](topic6044.md)   
 [Overload List](topic6049.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

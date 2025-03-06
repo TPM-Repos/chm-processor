@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterProject(String,Boolean,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3219.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupProjects Class](topic3190.md) > [RegisterProject Method](topic3218.md) : RegisterProject(String,Boolean,Boolean) Method  
 ---  
   
@@ -85,4 +85,4 @@ An instance of the [ProjectDetails](topic4330.md) type representing the newly re
 [GroupProjects Members](topic3191.md)   
 [Overload List](topic3218.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

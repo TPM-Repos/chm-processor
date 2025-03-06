@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleType Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5974.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [IHasRuleType Interface](topic5969.md) : RuleType Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasRuleType Interface](topic5969.md)   
 [IHasRuleType Members](topic5970.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

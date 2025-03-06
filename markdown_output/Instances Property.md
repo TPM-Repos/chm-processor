@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Instances Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14004.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [IHasProjectInstances Interface](topic13999.md) : Instances Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasProjectInstances Interface](topic13999.md)   
 [IHasProjectInstances Members](topic14000.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

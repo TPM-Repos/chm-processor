@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectCustomPropertyCollection Class   
-[Members](topic14484.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14483.md)  
+[Members](topic14484.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : ProjectCustomPropertyCollection Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ProjectCustomPropertyCollection Members](topic14484.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

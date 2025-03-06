@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTableReferenceName Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4295.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDataTable Class](topic4282.md) : GetTableReferenceName Method  
 ---  
   
@@ -71,4 +71,4 @@ E.g. "Hello There" would return "DWLookupHelloThere"
 [ProjectDataTable Class](topic4282.md)   
 [ProjectDataTable Members](topic4283.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

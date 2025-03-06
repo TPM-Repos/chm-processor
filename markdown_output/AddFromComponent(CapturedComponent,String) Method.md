@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddFromComponent(CapturedComponent,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2476.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [CaptureImportManager Class](topic2468.md) > [AddFromComponent Method](topic2474.md) : AddFromComponent(CapturedComponent,String) Method  
 ---  
   
@@ -72,4 +72,4 @@ _newPath_
 [CaptureImportManager Members](topic2469.md)   
 [Overload List](topic2474.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

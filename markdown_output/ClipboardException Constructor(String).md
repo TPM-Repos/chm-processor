@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClipboardException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2504.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ClipboardException Class](topic2496.md) > [ClipboardException Constructor](topic2502.md) : ClipboardException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ClipboardException Members](topic2497.md)   
 [Overload List](topic2502.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

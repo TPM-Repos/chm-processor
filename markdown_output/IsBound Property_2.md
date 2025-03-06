@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsBound Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14247.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedFormat Class](topic14240.md) : IsBound Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CapturedFormat Class](topic14240.md)   
 [CapturedFormat Members](topic14241.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteFileReferenceByTargetPath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3245.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupReleasedComponents Class](topic3238.md) : DeleteFileReferenceByTargetPath Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [GroupReleasedComponents Class](topic3238.md)   
 [GroupReleasedComponents Members](topic3239.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Delete Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11565.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [State Class](topic11559.md) : Delete Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [State Class](topic11559.md)   
 [State Members](topic11560.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

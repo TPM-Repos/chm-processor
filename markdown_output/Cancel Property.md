@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Cancel Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1182.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [VirtualItemDeletingEventArgs Class](topic1175.md) : Cancel Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [VirtualItemDeletingEventArgs Class](topic1175.md)   
 [VirtualItemDeletingEventArgs Members](topic1176.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

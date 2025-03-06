@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 INodeEndpointCollection Interface   
-[Members](topic6895.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6894.md)  
+[Members](topic6895.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : INodeEndpointCollection Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [INodeEndpointCollection Members](topic6895.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

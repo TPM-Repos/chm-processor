@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetRange Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5894.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [WordDocument Class](topic5885.md) : GetRange Method  
 ---  
   
@@ -68,4 +68,4 @@ The formula for the driven range, or nothing if it does not exist.
 [WordDocument Class](topic5885.md)   
 [WordDocument Members](topic5886.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

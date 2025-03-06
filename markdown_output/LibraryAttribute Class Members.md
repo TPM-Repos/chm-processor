@@ -56,4 +56,4 @@ Top
 [LibraryAttribute Class](topic7201.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

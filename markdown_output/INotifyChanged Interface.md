@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 INotifyChanged Interface   
-[Members](topic2258.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2257.md)  
+[Members](topic2258.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : INotifyChanged Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [INotifyChanged Members](topic2258.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

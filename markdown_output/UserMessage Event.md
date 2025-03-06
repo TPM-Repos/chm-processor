@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UserMessage Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic533.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IUserMessageService Interface](topic526.md) : UserMessage Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [IUserMessageService Interface](topic526.md)   
 [IUserMessageService Members](topic527.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -45,4 +45,4 @@ Top
 [TeamDetails Class](topic10703.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

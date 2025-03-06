@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TransitionFailedEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1974.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [TransitionFailedEventArgs Class](topic1968.md) : TransitionFailedEventArgs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _result_
 [TransitionFailedEventArgs Class](topic1968.md)   
 [TransitionFailedEventArgs Members](topic1969.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

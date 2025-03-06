@@ -31,4 +31,4 @@ Top
 [IQuickBarManager Interface](topic403.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DesignMasterReadOnlyException Class   
-[Members](topic2696.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2695.md)  
+[Members](topic2696.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : DesignMasterReadOnlyException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [DesignMasterReadOnlyException Members](topic2696.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

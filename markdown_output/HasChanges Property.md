@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HasChanges Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13408.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [IComponentManager Interface](topic13385.md) : HasChanges Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IComponentManager Interface](topic13385.md)   
 [IComponentManager Members](topic13386.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

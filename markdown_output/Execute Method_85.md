@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12787.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [UpdateTeamProjectPermissions Class](topic12780.md) : Execute Method  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [UpdateTeamProjectPermissions Class](topic12780.md)   
 [UpdateTeamProjectPermissions Members](topic12781.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

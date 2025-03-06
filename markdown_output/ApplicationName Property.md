@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ApplicationName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3724.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [MissingApplicationException Class](topic3715.md) : ApplicationName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [MissingApplicationException Class](topic3715.md)   
 [MissingApplicationException Members](topic3716.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

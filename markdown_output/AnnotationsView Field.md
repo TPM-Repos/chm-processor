@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AnnotationsView Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13552.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [DriveWorksCaptureViewNames Class](topic13545.md) : AnnotationsView Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [DriveWorksCaptureViewNames Class](topic13545.md)   
 [DriveWorksCaptureViewNames Members](topic13546.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

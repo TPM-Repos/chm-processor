@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddDrivenChildComponent(String,ReleasedComponent) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6262.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseComponentController Class](topic6252.md) > [AddDrivenChildComponent Method](topic6261.md) : AddDrivenChildComponent(String,ReleasedComponent) Method  
 ---  
   
@@ -72,4 +72,4 @@ _childComponent_
 [ReleaseComponentController Members](topic6253.md)   
 [Overload List](topic6261.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

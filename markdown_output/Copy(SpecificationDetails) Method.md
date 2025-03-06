@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Copy(SpecificationDetails) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11162.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationContext Class](topic11149.md) > [Copy Method](topic11161.md) : Copy(SpecificationDetails) Method  
 ---  
   
@@ -70,4 +70,4 @@ Exception| Description
 [SpecificationContext Members](topic11150.md)   
 [Overload List](topic11161.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

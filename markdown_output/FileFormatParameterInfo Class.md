@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileFormatParameterInfo Class   
-[Members](topic13616.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13615.md)  
+[Members](topic13616.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : FileFormatParameterInfo Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [FileFormatParameterInfo Members](topic13616.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

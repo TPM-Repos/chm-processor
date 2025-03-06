@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Type Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2402.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [AgentLogEntry Class](topic2391.md) : Type Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [AgentLogEntry Class](topic2391.md)   
 [AgentLogEntry Members](topic2392.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

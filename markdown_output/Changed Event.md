@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Changed Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2262.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [INotifyChanged Interface](topic2257.md) : Changed Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [INotifyChanged Interface](topic2257.md)   
 [INotifyChanged Members](topic2258.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

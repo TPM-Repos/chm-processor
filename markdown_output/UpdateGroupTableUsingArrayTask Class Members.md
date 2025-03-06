@@ -114,4 +114,4 @@ Top
 [UpdateGroupTableUsingArrayTask Class](topic12703.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

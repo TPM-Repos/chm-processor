@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerationTaskConditionAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13727.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [GenerationTaskConditionAttribute Class](topic13721.md) : GenerationTaskConditionAttribute Constructor  
 ---  
   
@@ -37,4 +37,4 @@ Overload| Description
 [GenerationTaskConditionAttribute Class](topic13721.md)   
 [GenerationTaskConditionAttribute Members](topic13722.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

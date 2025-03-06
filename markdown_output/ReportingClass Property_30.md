@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportingClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12268.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [EvaluateRuleValueTask Class](topic12258.md) : ReportingClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [EvaluateRuleValueTask Class](topic12258.md)   
 [EvaluateRuleValueTask Members](topic12259.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

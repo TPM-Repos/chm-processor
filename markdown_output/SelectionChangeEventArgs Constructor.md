@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SelectionChangeEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic932.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [SelectionChangeEventArgs Class](topic926.md) : SelectionChangeEventArgs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _newSelectedItems_
 [SelectionChangeEventArgs Class](topic926.md)   
 [SelectionChangeEventArgs Members](topic927.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

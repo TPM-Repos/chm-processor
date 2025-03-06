@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateEventArgs Class   
-[Members](topic11591.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11590.md)  
+[Members](topic11591.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : StateEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [StateEventArgs Members](topic11591.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

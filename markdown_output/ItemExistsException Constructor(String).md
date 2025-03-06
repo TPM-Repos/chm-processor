@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ItemExistsException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3569.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ItemExistsException Class](topic3561.md) > [ItemExistsException Constructor](topic3567.md) : ItemExistsException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ItemExistsException Members](topic3562.md)   
 [Overload List](topic3567.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

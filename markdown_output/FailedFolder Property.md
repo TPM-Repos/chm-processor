@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FailedFolder Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6832.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Folder Namespace](topic6821.md) > [FolderWatcherConfiguration Class](topic6823.md) : FailedFolder Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [FolderWatcherConfiguration Class](topic6823.md)   
 [FolderWatcherConfiguration Members](topic6824.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

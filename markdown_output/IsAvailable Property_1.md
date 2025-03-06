@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsAvailable Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic87.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommand Interface](topic77.md) : IsAvailable Property  
 ---  
   
@@ -55,4 +55,4 @@ If either the [IsEnabled](topic88.md) or the [IsValid](topic89.md) is false, the
 [ICommand Interface](topic77.md)   
 [ICommand Members](topic78.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

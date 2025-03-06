@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MacroAttribute Class   
-[Members](topic7226.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7225.md)  
+[Members](topic7226.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) : MacroAttribute Class  
 ---  
   
@@ -66,4 +66,4 @@ System.Attribute
 [MacroAttribute Members](topic7226.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

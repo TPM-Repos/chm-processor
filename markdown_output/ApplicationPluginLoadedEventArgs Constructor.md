@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ApplicationPluginLoadedEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2122.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [ApplicationPluginLoadedEventArgs Class](topic2116.md) : ApplicationPluginLoadedEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ApplicationPluginLoadedEventArgs Class](topic2116.md)   
 [ApplicationPluginLoadedEventArgs Members](topic2117.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

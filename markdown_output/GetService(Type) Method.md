@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetService(Type) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3880.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Project Class](topic3859.md) > [GetService Method](topic3878.md) : GetService(Type) Method  
 ---  
   
@@ -69,4 +69,4 @@ A service of the requested type, or a null reference if not found.
 [Project Members](topic3860.md)   
 [Overload List](topic3878.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

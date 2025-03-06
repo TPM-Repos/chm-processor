@@ -44,4 +44,4 @@ Top
 [RuleToken Class](topic13249.md)   
 [DriveWorks.Utility Namespace](topic13190.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

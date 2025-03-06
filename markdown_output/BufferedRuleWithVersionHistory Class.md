@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BufferedRuleWithVersionHistory Class   
-[Members](topic6036.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6035.md)  
+[Members](topic6036.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) : BufferedRuleWithVersionHistory Class  
 ---  
   
@@ -61,4 +61,4 @@ System.Object
 [BufferedRuleWithVersionHistory Members](topic6036.md)   
 [DriveWorks.Abstractions Namespace](topic5939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

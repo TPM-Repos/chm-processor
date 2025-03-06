@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StoreValueType Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9498.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [PropertyValueConverterBase Class](topic9489.md) : StoreValueType Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [PropertyValueConverterBase Class](topic9489.md)   
 [PropertyValueConverterBase Members](topic9490.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

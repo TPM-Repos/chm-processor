@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Insert Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4152.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentSets Class](topic4143.md) : Insert Method  
 ---  
   
@@ -88,4 +88,4 @@ ArgumentOutOfRangeException will be thrown if the supplied index is less than 0 
 [ProjectComponentSets Class](topic4143.md)   
 [ProjectComponentSets Members](topic4144.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

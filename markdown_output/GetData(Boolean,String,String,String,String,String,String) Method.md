@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetData(Boolean,String,String,String,String,String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2563.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConnectionManager Class](topic2554.md) > [GetData Method](topic2561.md) : GetData(Boolean,String,String,String,String,String,String) Method  
 ---  
   
@@ -117,4 +117,4 @@ The requested data.
 [ConnectionManager Members](topic2555.md)   
 [Overload List](topic2561.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

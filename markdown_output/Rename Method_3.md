@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Rename Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8207.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ItemList Class](topic8183.md) : Rename Method  
 ---  
   
@@ -67,4 +67,4 @@ References to the renamed control are not refactored, to refactor them, use the 
 [ItemList Class](topic8183.md)   
 [ItemList Members](topic8184.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

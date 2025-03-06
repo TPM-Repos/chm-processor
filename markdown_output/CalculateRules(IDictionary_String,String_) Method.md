@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CalculateRules(IDictionary<String,String>) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4366.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocument Class](topic4356.md) > [CalculateRules Method](topic4364.md) : CalculateRules(IDictionary<String,String>) Method  
 ---  
   
@@ -69,4 +69,4 @@ An instance of the [DriveWorks.Specification.RuleResults](topic11136.md) type wh
 [ProjectDocument Members](topic4357.md)   
 [Overload List](topic4364.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

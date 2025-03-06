@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EvaluateRule(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3870.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Project Class](topic3859.md) > [EvaluateRule Method](topic3869.md) : EvaluateRule(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ The result of executing the rule.
 [Project Members](topic3860.md)   
 [Overload List](topic3869.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

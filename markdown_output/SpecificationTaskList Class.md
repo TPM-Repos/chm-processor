@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationTaskList Class   
-[Members](topic11526.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11525.md)  
+[Members](topic11526.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : SpecificationTaskList Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [SpecificationTaskList Members](topic11526.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

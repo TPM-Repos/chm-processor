@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7772.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlCollection Class](topic7766.md) : Add Method  
 ---  
   
@@ -36,4 +36,4 @@ Overload| Description
 [ControlCollection Class](topic7766.md)   
 [ControlCollection Members](topic7767.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

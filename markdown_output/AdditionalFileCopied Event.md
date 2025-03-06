@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdditionalFileCopied Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13604.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatGenerator Class](topic13579.md) : AdditionalFileCopied Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [FileFormatGenerator Class](topic13579.md)   
 [FileFormatGenerator Members](topic13580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

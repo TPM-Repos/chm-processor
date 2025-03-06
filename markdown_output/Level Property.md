@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Level Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2282.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IReportEntryItem Interface](topic2274.md) : Level Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IReportEntryItem Interface](topic2274.md)   
 [IReportEntryItem Members](topic2275.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

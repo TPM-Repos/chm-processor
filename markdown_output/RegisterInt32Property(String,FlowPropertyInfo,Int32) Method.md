@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterInt32Property(String,FlowPropertyInfo,Int32) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10934.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperties Class](topic10905.md) > [RegisterInt32Property Method](topic10930.md) : RegisterInt32Property(String,FlowPropertyInfo,Int32) Method  
 ---  
   
@@ -85,4 +85,4 @@ A new specification flow property.
 [FlowProperties Members](topic10906.md)   
 [Overload List](topic10930.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

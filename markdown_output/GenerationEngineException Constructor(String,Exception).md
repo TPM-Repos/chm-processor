@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerationEngineException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15226.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [GenerationEngineException Class](topic15218.md) > [GenerationEngineException Constructor](topic15224.md) : GenerationEngineException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [GenerationEngineException Members](topic15219.md)   
 [Overload List](topic15224.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

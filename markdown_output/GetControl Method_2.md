@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetControl Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic776.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [DiscreteWizardStep<TControl> Class](topic770.md) : GetControl Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DiscreteWizardStep<TControl> Class](topic770.md)   
 [DiscreteWizardStep<TControl> Members](topic771.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

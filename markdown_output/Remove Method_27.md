@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3105.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupConnectors Class](topic3097.md) : Remove Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the specified connector was removed.
 [GroupConnectors Class](topic3097.md)   
 [GroupConnectors Members](topic3098.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

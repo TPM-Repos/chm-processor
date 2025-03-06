@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FrameworkLibraryAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7189.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [FrameworkLibraryAttribute Class](topic7183.md) : FrameworkLibraryAttribute Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [FrameworkLibraryAttribute Class](topic7183.md)   
 [FrameworkLibraryAttribute Members](topic7184.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

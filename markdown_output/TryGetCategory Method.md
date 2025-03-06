@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetCategory Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4213.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectConstantCategories Class](topic4202.md) : TryGetCategory Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the specified project category was found, otherwise false.
 [ProjectConstantCategories Class](topic4202.md)   
 [ProjectConstantCategories Members](topic4203.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CaptionProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7407.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [CaptionControlBase Class](topic7390.md) : CaptionProperty Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [CaptionControlBase Class](topic7390.md)   
 [CaptionControlBase Members](topic7391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 JobQueue Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3594.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : JobQueue Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [JobQueue Class](topic3594.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

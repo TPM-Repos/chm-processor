@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveAt Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14110.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedBreakLineCollection Class](topic14101.md) : RemoveAt Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [CapturedBreakLineCollection Class](topic14101.md)   
 [CapturedBreakLineCollection Members](topic14102.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

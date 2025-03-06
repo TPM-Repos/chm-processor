@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileFormatGenerateTaskAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13577.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatGenerateTaskAttribute Class](topic13571.md) : FileFormatGenerateTaskAttribute Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [FileFormatGenerateTaskAttribute Class](topic13571.md)   
 [FileFormatGenerateTaskAttribute Members](topic13572.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleChangedEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9499.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) : RuleChangedEventArgs Class  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [RuleChangedEventArgs Class](topic9499.md)   
 [DriveWorks.Forms.DataModel Namespace](topic9371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateClickEventArgs(String,Point) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2902.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [FormControlValueChangeEventArgs Class](topic2895.md) > [CreateClickEventArgs Method](topic2901.md) : CreateClickEventArgs(String,Point) Method  
 ---  
   
@@ -72,4 +72,4 @@ _clickPosition_
 [FormControlValueChangeEventArgs Members](topic2896.md)   
 [Overload List](topic2901.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

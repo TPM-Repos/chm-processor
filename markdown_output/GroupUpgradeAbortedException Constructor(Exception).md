@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupUpgradeAbortedException Constructor(Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3435.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupUpgradeAbortedException Class](topic3428.md) > [GroupUpgradeAbortedException Constructor](topic3434.md) : GroupUpgradeAbortedException Constructor(Exception)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [GroupUpgradeAbortedException Members](topic3429.md)   
 [Overload List](topic3434.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

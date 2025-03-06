@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Specification.StandardTasks Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11896.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Specification.StandardTasks Namespace  
 ---  
   
@@ -115,4 +115,4 @@ DriveWorks.DomainObject
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

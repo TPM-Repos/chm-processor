@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddGroup Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic548.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IViewCommandBarManager Interface](topic543.md) : AddGroup Method  
 ---  
   
@@ -68,4 +68,4 @@ Groups created by this method are implicitly locked to the view to which the com
 [IViewCommandBarManager Interface](topic543.md)   
 [IViewCommandBarManager Members](topic544.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

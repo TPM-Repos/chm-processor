@@ -19,4 +19,4 @@ Provides support for plugins which require access to SolidWorks facilities.
 
 [DriveWorks.SolidWorks Assembly](topic13342.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

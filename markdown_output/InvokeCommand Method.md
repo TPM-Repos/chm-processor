@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvokeCommand Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic149.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandManager Interface](topic143.md) : InvokeCommand Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the command was found and invoked, false if the command was not register
 [ICommandManager Interface](topic143.md)   
 [ICommandManager Members](topic144.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

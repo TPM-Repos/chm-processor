@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MovingFileEventArgs Class   
-[Members](topic1889.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1888.md)  
+[Members](topic1889.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : MovingFileEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [MovingFileEventArgs Members](topic1889.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

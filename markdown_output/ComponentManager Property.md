@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentManager Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13375.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ICaptureViewHost Interface](topic13363.md) : ComponentManager Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ICaptureViewHost Interface](topic13363.md)   
 [ICaptureViewHost Members](topic13364.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasProjectFeatures Interface   
-[Members](topic13988.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13987.md)  
+[Members](topic13988.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : IHasProjectFeatures Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IHasProjectFeatures Members](topic13988.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

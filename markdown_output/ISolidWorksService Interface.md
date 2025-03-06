@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ISolidWorksService Interface   
-[Members](topic13412.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13411.md)  
+[Members](topic13412.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : ISolidWorksService Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ISolidWorksService Members](topic13412.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

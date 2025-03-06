@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetScopeNames Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2176.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IComponentTaskScopeProvider Interface](topic2171.md) : GetScopeNames Method  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [IComponentTaskScopeProvider Interface](topic2171.md)   
 [IComponentTaskScopeProvider Members](topic2172.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

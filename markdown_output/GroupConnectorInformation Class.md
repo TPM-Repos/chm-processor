@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupConnectorInformation Class   
-[Members](topic3085.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3084.md)  
+[Members](topic3085.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : GroupConnectorInformation Class  
 ---  
   
@@ -64,4 +64,4 @@ System.MarshalByRefObject
 [GroupConnectorInformation Members](topic3085.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

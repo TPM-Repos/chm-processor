@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConvertStringToDouble(Object,CultureInfo) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9558.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [StoreConverter Class](topic9528.md) > [ConvertStringToDouble Method](topic9556.md) : ConvertStringToDouble(Object,CultureInfo) Method  
 ---  
   
@@ -76,4 +76,4 @@ A double.
 [StoreConverter Members](topic9529.md)   
 [Overload List](topic9556.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

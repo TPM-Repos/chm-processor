@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationContextCreated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic494.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISpecificationService Interface](topic489.md) : SpecificationContextCreated Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [ISpecificationService Interface](topic489.md)   
 [ISpecificationService Members](topic490.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

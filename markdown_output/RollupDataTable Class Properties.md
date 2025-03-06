@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RollupDataTable Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5240.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : RollupDataTable Class  
 ---  
   
@@ -43,4 +43,4 @@ Top
 [RollupDataTable Class](topic5240.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

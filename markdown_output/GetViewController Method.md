@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetViewController Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1441.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) > [IDataTableDesigner Interface](topic1434.md) : GetViewController Method  
 ---  
   
@@ -76,4 +76,4 @@ An instance of a type which implements the [IDataTableViewController](topic1455.
 [IDataTableDesigner Interface](topic1434.md)   
 [IDataTableDesigner Members](topic1435.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InputConnectionEndpoint Class   
-[Members](topic7034.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7033.md)  
+[Members](topic7034.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : InputConnectionEndpoint Class  
 ---  
   
@@ -63,4 +63,4 @@ System.MarshalByRefObject
 [InputConnectionEndpoint Members](topic7034.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

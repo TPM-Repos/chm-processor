@@ -37,4 +37,4 @@ Top
 [ReadOnlyReleasedComponentReferenceDetails Class](topic6239.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

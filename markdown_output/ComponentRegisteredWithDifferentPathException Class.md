@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentRegisteredWithDifferentPathException Class   
-[Members](topic13518.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13517.md)  
+[Members](topic13518.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : ComponentRegisteredWithDifferentPathException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [ComponentRegisteredWithDifferentPathException Members](topic13518.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

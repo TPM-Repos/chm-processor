@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ILockable Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5981.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) : ILockable Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [ILockable Interface](topic5981.md)   
 [DriveWorks.Abstractions Namespace](topic5939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

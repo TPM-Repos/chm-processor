@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TargetPath Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15040.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedSolidWorksComponent Class](topic15029.md) : TargetPath Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedSolidWorksComponent Class](topic15029.md)   
 [ReleasedSolidWorksComponent Members](topic15030.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5585.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportColumns Class](topic5579.md) : Add Method  
 ---  
   
@@ -68,4 +68,4 @@ The created Column.
 [TableExportColumns Class](topic5579.md)   
 [TableExportColumns Members](topic5580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

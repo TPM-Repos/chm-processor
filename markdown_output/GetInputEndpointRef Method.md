@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetInputEndpointRef Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12870.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ExecutableNodeRef Class](topic12864.md) : GetInputEndpointRef Method  
 ---  
   
@@ -76,4 +76,4 @@ A reference to an input on this node with the desired name.
 [ExecutableNodeRef Class](topic12864.md)   
 [ExecutableNodeRef Members](topic12865.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

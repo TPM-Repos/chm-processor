@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TeamName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10717.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [TeamDetails Class](topic10703.md) : TeamName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [TeamDetails Class](topic10703.md)   
 [TeamDetails Members](topic10704.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

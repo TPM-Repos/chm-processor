@@ -37,4 +37,4 @@ Type |  Description |  Provided By
 [ISpecificationAutomation](DriveWorks.Applications.Autopilot.Extensibility~DriveWorks.Applications.Autopilot.Extensibility.ISpecificationAutomation.md) |  Provides support for automating the creation of specifications based on data from external systems. |  Autopilot  
 [ISpecificationService](topic489.md) |  Provides support for working with specifications. |  Administrator, User, Autopilot, Live, SolidWorks Integration  
   
-©2024 DriveWorks Ltd. All Rights Reserved.
+

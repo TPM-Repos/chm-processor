@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Outputs Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4546.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectItemListTypeDef Class](topic4533.md) : Outputs Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectItemListTypeDef Class](topic4533.md)   
 [ProjectItemListTypeDef Members](topic4534.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

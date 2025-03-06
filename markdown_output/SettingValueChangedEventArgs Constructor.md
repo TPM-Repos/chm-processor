@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SettingValueChangedEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic981.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [SettingValueChangedEventArgs Class](topic975.md) : SettingValueChangedEventArgs Constructor  
 ---  
   
@@ -32,4 +32,4 @@ Overload| Description
 [SettingValueChangedEventArgs Class](topic975.md)   
 [SettingValueChangedEventArgs Members](topic976.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

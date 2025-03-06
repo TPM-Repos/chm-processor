@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CompleteChildSpecificationTask Class   
-[Members](topic12028.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12027.md)  
+[Members](topic12028.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : CompleteChildSpecificationTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [CompleteChildSpecificationTask Members](topic12028.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

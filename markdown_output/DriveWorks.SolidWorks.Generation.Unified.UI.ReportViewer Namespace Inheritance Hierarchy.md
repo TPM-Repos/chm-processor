@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15361.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) : DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace  
 ---  
   
@@ -34,4 +34,4 @@ System.Windows.Controls.UserControl
 
 [DriveWorks.SolidWorks Assembly](topic13342.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

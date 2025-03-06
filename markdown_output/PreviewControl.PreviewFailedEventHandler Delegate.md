@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreviewControl.PreviewFailedEventHandler Delegate   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9368.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : PreviewControl.PreviewFailedEventHandler Delegate  
 ---  
   
@@ -65,4 +65,4 @@ _e_
 [PreviewControl.PreviewFailedEventHandler Members](topic9368.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

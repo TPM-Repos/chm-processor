@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Column Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3980.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumns Class](topic3968.md) : Column Property  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ProjectCalculationTableColumns Class](topic3968.md)   
 [ProjectCalculationTableColumns Members](topic3969.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

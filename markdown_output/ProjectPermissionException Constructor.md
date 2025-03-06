@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectPermissionException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4678.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectPermissionException Class](topic4672.md) : ProjectPermissionException Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [ProjectPermissionException Class](topic4672.md)   
 [ProjectPermissionException Members](topic4673.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TeamProjectPermission Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10736.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [TeamProjectPermission Class](topic10729.md) : TeamProjectPermission Constructor  
 ---  
   
@@ -78,4 +78,4 @@ _permissionId_
 [TeamProjectPermission Class](topic10729.md)   
 [TeamProjectPermission Members](topic10730.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

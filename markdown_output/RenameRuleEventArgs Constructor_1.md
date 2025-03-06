@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RenameRuleEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10313.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) > [RenameRuleEventArgs Class](topic10306.md) : RenameRuleEventArgs Constructor  
 ---  
   
@@ -78,4 +78,4 @@ _ruleText_
 [RenameRuleEventArgs Class](topic10306.md)   
 [RenameRuleEventArgs Members](topic10307.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

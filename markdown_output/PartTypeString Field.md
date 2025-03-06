@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PartTypeString Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14404.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ComponentTypes Class](topic14396.md) : PartTypeString Field  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ComponentTypes Class](topic14396.md)   
 [ComponentTypes Members](topic14397.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

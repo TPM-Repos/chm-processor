@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartSpecificationTimerTask Class   
-[Members](topic12662.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12661.md)  
+[Members](topic12662.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : StartSpecificationTimerTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [StartSpecificationTimerTask Members](topic12662.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

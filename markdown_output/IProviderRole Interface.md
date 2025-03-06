@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IProviderRole Interface   
-[Members](topic10609.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10608.md)  
+[Members](topic10609.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : IProviderRole Interface  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IProviderRole Members](topic10609.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

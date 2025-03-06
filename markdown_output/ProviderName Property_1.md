@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProviderName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10633.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [AuthenticationProviderNameAttribute Class](topic10626.md) : ProviderName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [AuthenticationProviderNameAttribute Class](topic10626.md)   
 [AuthenticationProviderNameAttribute Members](topic10627.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Comment Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9619.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md) > [PropertyData Class](topic9611.md) : Comment Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [PropertyData Class](topic9611.md)   
 [PropertyData Members](topic9612.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

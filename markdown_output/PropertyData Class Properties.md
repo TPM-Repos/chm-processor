@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PropertyData Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9611.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md) : PropertyData Class  
 ---  
   
@@ -36,4 +36,4 @@ Top
 [PropertyData Class](topic9611.md)   
 [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

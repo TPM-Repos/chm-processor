@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterCommand(String,StateFilter,String,ImageHandle) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic152.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandManager Interface](topic143.md) > [RegisterCommand Method](topic150.md) : RegisterCommand(String,StateFilter,String,ImageHandle) Method  
 ---  
   
@@ -93,4 +93,4 @@ An implementation of the [ICommand](topic77.md) interface representing the newly
 [ICommandManager Members](topic144.md)   
 [Overload List](topic150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

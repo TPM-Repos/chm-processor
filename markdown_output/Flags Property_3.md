@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Flags Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6386.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseEnvironment Class](topic6379.md) : Flags Property  
 ---  
   
@@ -57,4 +57,4 @@ The default is [ReleasedComponentFlags.None](topic6145.md).
 [ReleaseEnvironment Class](topic6379.md)   
 [ReleaseEnvironment Members](topic6380.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

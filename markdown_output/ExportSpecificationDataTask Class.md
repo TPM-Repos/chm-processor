@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExportSpecificationDataTask Class   
-[Members](topic12271.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12270.md)  
+[Members](topic12271.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : ExportSpecificationDataTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [ExportSpecificationDataTask Members](topic12271.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

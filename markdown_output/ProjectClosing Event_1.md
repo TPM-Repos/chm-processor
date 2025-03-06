@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectClosing Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic398.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IProjectService Interface](topic382.md) : ProjectClosing Event  
 ---  
   
@@ -59,4 +59,4 @@ Cancel|
 [IProjectService Interface](topic382.md)   
 [IProjectService Members](topic383.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetVersionHistory Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6710.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskRule Class](topic6704.md) : GetVersionHistory Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ComponentTaskRule Class](topic6704.md)   
 [ComponentTaskRule Members](topic6705.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

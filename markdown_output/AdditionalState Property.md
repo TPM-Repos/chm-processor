@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdditionalState Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14881.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedFeature Class](topic14875.md) : AdditionalState Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedFeature Class](topic14875.md)   
 [ReleasedFeature Members](topic14876.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HoverColor Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8143.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [Hyperlink Class](topic8126.md) : HoverColor Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [Hyperlink Class](topic8126.md)   
 [Hyperlink Members](topic8127.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

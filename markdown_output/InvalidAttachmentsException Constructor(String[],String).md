@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidAttachmentsException Constructor(String[],String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3512.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [InvalidAttachmentsException Class](topic3504.md) > [InvalidAttachmentsException Constructor](topic3510.md) : InvalidAttachmentsException Constructor(String[],String)  
 ---  
   
@@ -71,4 +71,4 @@ _message_
 [InvalidAttachmentsException Members](topic3505.md)   
 [Overload List](topic3510.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

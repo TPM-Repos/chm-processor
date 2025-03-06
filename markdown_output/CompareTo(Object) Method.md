@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CompareTo(Object) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8864.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SimpleColor Class](topic8856.md) > [CompareTo Method](topic8862.md) : CompareTo(Object) Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [SimpleColor Members](topic8857.md)   
 [Overload List](topic8862.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

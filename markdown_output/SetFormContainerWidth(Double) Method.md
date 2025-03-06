@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetFormContainerWidth(Double) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4794.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecialVariables Class](topic4782.md) > [SetFormContainerWidth Method](topic4793.md) : SetFormContainerWidth(Double) Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ProjectSpecialVariables Members](topic4783.md)   
 [Overload List](topic4793.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

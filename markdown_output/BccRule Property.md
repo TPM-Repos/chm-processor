@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BccRule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2783.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Email Class](topic2768.md) : BccRule Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Email Class](topic2768.md)   
 [Email Members](topic2769.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

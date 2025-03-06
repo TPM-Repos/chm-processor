@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PollingAutopilotQueueBase Class   
-[Members](topic1899.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1898.md)  
+[Members](topic1899.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : PollingAutopilotQueueBase Class  
 ---  
   
@@ -59,4 +59,4 @@ System.Object
 [PollingAutopilotQueueBase Members](topic1899.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

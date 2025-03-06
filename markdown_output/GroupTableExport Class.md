@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupTableExport Class   
-[Members](topic3415.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3414.md)  
+[Members](topic3415.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : GroupTableExport Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [GroupTableExport Members](topic3415.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

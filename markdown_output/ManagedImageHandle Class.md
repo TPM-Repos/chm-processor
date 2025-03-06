@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ManagedImageHandle Class   
-[Members](topic868.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic867.md)  
+[Members](topic868.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ManagedImageHandle Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Object
 [ManagedImageHandle Members](topic868.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

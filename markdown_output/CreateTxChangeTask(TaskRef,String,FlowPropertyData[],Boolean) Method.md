@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeTask(TaskRef,String,FlowPropertyData[],Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13014.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxChangeTask Method](topic13012.md) : CreateTxChangeTask(TaskRef,String,FlowPropertyData[],Boolean) Method  
 ---  
   
@@ -89,4 +89,4 @@ _allowEmptyRules_
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic13012.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

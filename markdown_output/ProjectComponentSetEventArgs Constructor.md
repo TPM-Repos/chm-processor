@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectComponentSetEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4131.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentSetEventArgs Class](topic4125.md) : ProjectComponentSetEventArgs Constructor  
 ---  
   
@@ -32,4 +32,4 @@ Overload| Description
 [ProjectComponentSetEventArgs Class](topic4125.md)   
 [ProjectComponentSetEventArgs Members](topic4126.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

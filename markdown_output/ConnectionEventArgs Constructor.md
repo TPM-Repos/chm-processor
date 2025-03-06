@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConnectionEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6936.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [ConnectionEventArgs Class](topic6930.md) : ConnectionEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ConnectionEventArgs Class](topic6930.md)   
 [ConnectionEventArgs Members](topic6931.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

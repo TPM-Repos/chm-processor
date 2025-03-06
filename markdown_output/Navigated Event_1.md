@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Navigated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic637.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IWizard Interface](topic613.md) : Navigated Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IWizard Interface](topic613.md)   
 [IWizard Members](topic614.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

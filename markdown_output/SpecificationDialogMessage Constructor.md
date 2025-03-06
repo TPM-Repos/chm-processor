@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationDialogMessage Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5340.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SpecificationDialogMessage Class](topic5334.md) : SpecificationDialogMessage Constructor  
 ---  
   
@@ -94,4 +94,4 @@ _messageButtons_
 [SpecificationDialogMessage Class](topic5334.md)   
 [SpecificationDialogMessage Members](topic5335.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

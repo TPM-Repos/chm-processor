@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyTo Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6477.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskCollection Class](topic6466.md) : CopyTo Method  
 ---  
   
@@ -69,4 +69,4 @@ _arrayIndex_
 [ComponentTaskCollection Class](topic6466.md)   
 [ComponentTaskCollection Members](topic6467.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

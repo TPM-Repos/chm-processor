@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotifyBeginEvaluate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6125.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [IReleaseTracker Interface](topic6119.md) : NotifyBeginEvaluate Method  
 ---  
   
@@ -131,4 +131,4 @@ The componentTrackingId can be used to track a component as it is evaluated and 
 [IReleaseTracker Interface](topic6119.md)   
 [IReleaseTracker Members](topic6120.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

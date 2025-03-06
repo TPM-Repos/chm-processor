@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetCommandMonitor Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic148.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandManager Interface](topic143.md) : GetCommandMonitor Method  
 ---  
   
@@ -68,4 +68,4 @@ The [ICommandMonitor](topic158.md) for the command, or a null reference (Nothing
 [ICommandManager Interface](topic143.md)   
 [ICommandManager Members](topic144.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

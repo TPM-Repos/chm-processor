@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotifyComponentSetAccepted Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6127.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [IReleaseTracker Interface](topic6119.md) : NotifyComponentSetAccepted Method  
 ---  
   
@@ -79,4 +79,4 @@ _result_
 [IReleaseTracker Interface](topic6119.md)   
 [IReleaseTracker Members](topic6120.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

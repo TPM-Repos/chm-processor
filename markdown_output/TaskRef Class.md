@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TaskRef Class   
-[Members](topic13150.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13149.md)  
+[Members](topic13150.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) : TaskRef Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [TaskRef Members](topic13150.md)   
 [DriveWorks.Transactions Namespace](topic12835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

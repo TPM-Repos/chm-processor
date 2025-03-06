@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ICommandButtonManager Interface   
-[Members](topic125.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic124.md)  
+[Members](topic125.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ICommandButtonManager Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ICommandButtonManager Members](topic125.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

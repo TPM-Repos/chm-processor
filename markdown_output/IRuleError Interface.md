@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IRuleError Interface   
-[Members](topic10535.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10534.md)  
+[Members](topic10535.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) : IRuleError Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IRuleError Members](topic10535.md)   
 [DriveWorks.Rules Namespace](topic10510.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

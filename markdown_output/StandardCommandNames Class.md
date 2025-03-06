@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StandardCommandNames Class   
-[Members](topic998.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic997.md)  
+[Members](topic998.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : StandardCommandNames Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [StandardCommandNames Members](topic998.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

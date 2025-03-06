@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Condition Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6535.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskConditionEventArgs Class](topic6529.md) : Condition Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ComponentTaskConditionEventArgs Class](topic6529.md)   
 [ComponentTaskConditionEventArgs Members](topic6530.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

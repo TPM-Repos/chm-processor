@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryDeleteSpecification Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3398.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) : TryDeleteSpecification Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [GroupSpecifications Class](topic3355.md)   
 [GroupSpecifications Members](topic3356.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

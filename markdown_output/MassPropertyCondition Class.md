@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MassPropertyCondition Class   
-[Members](topic13782.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13781.md)  
+[Members](topic13782.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : MassPropertyCondition Class  
 ---  
   
@@ -77,4 +77,4 @@ System.Object
 [MassPropertyCondition Members](topic13782.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

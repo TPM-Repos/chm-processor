@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EndIndex Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10539.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) > [IRuleError Interface](topic10534.md) : EndIndex Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IRuleError Interface](topic10534.md)   
 [IRuleError Members](topic10535.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

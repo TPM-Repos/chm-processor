@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TaskEventArgs Constructor(Task)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11679.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskEventArgs Class](topic11672.md) > [TaskEventArgs Constructor](topic11678.md) : TaskEventArgs Constructor(Task)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [TaskEventArgs Members](topic11673.md)   
 [Overload List](topic11678.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

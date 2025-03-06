@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Context Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1595.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md) > [IRulesBuilder Interface](topic1590.md) : Context Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IRulesBuilder Interface](topic1590.md)   
 [IRulesBuilder Members](topic1591.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

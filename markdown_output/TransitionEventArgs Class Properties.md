@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TransitionEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11776.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : TransitionEventArgs Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [TransitionEventArgs Class](topic11776.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

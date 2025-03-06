@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValidateControlName Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13303.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [ValidationUtility Class](topic13287.md) : ValidateControlName Method  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [ValidationUtility Class](topic13287.md)   
 [ValidationUtility Members](topic13288.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

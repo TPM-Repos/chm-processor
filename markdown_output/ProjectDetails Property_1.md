@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectDetails Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic906.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ProjectOpeningEventArgs Class](topic898.md) : ProjectDetails Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectOpeningEventArgs Class](topic898.md)   
 [ProjectOpeningEventArgs Members](topic899.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

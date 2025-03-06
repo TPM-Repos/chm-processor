@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeComponentDisableLoop Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12939.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) : CreateTxChangeComponentDisableLoop Method  
 ---  
   
@@ -68,4 +68,4 @@ A new transaction that when executed will disable the release loop for the given
 [ProjectTransactionFactory Class](topic12928.md)   
 [ProjectTransactionFactory Members](topic12929.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

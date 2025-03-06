@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProcessAborted Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10297.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) > [RenameProcess Class](topic10287.md) : ProcessAborted Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RenameProcess Class](topic10287.md)   
 [RenameProcess Members](topic10288.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitialStateInvalidException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11024.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [InitialStateInvalidException Class](topic11018.md) : InitialStateInvalidException Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [InitialStateInvalidException Class](topic11018.md)   
 [InitialStateInvalidException Members](topic11019.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

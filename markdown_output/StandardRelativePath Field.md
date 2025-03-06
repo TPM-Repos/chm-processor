@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StandardRelativePath Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13652.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatStandardParameters Class](topic13624.md) : StandardRelativePath Field  
 ---  
   
@@ -54,4 +54,4 @@ This is used by all additional file formats.
 [FileFormatStandardParameters Class](topic13624.md)   
 [FileFormatStandardParameters Members](topic13625.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

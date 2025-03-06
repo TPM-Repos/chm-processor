@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EntryDetail Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10388.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [EntryEventArgs Class](topic10379.md) : EntryDetail Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [EntryEventArgs Class](topic10379.md)   
 [EntryEventArgs Members](topic10380.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

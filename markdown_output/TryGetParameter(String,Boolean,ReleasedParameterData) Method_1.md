@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetParameter(String,Boolean,ReleasedParameterData) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5155.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleaseParameterDataContainer Class](topic5145.md) > [TryGetParameter Method](topic5153.md) : TryGetParameter(String,Boolean,ReleasedParameterData) Method  
 ---  
   
@@ -85,4 +85,4 @@ True if the parameter was found. If excludeEmpty is True then returns whether th
 [ReleaseParameterDataContainer Members](topic5146.md)   
 [Overload List](topic5153.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

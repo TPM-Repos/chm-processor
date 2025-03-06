@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationNameRuleInvalidException Class   
-[Members](topic11500.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11499.md)  
+[Members](topic11500.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : SpecificationNameRuleInvalidException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [SpecificationNameRuleInvalidException Members](topic11500.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

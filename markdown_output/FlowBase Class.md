@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FlowBase Class   
-[Members](topic7000.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6999.md)  
+[Members](topic7000.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : FlowBase Class  
 ---  
   
@@ -61,4 +61,4 @@ System.MarshalByRefObject
 [FlowBase Members](topic7000.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

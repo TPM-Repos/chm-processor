@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoteGroupVersionDetails Class   
-[Members](topic5214.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5213.md)  
+[Members](topic5214.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : RemoteGroupVersionDetails Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [RemoteGroupVersionDetails Members](topic5214.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

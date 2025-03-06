@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddCommandButton Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic106.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandBarGroup Interface](topic99.md) : AddCommandButton Method  
 ---  
   
@@ -88,4 +88,4 @@ _unavailableBehavior_
 [ICommandBarGroup Interface](topic99.md)   
 [ICommandBarGroup Members](topic100.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

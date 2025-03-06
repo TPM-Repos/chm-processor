@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateProjectComponent Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6097.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [IComponentFactory Interface](topic6091.md) : CreateProjectComponent Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IComponentFactory Interface](topic6091.md)   
 [IComponentFactory Members](topic6092.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

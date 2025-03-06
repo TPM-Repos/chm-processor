@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8880.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SimpleColor Class](topic8856.md) : Name Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SimpleColor Class](topic8856.md)   
 [SimpleColor Members](topic8857.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TestConnection Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic258.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IGroupService Interface](topic251.md) : TestConnection Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [IGroupService Interface](topic251.md)   
 [IGroupService Members](topic252.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

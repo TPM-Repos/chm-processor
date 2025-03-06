@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectNavigation Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10222.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) : ProjectNavigation Class  
 ---  
   
@@ -52,4 +52,4 @@ Top
 [ProjectNavigation Class](topic10222.md)   
 [DriveWorks.Navigation Namespace](topic10114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

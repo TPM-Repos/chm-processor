@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetGroupNames Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5189.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupManager Class](topic5174.md) : GetGroupNames Method  
 ---  
   
@@ -55,4 +55,4 @@ Some group names will not be returned, if they are not being hosted by this serv
 [RemoteGroupManager Class](topic5174.md)   
 [RemoteGroupManager Members](topic5175.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

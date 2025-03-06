@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Title Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6378.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleasedComponentTaskCondition Class](topic6370.md) : Title Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedComponentTaskCondition Class](topic6370.md)   
 [ReleasedComponentTaskCondition Members](topic6371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

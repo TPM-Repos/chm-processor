@@ -38,4 +38,4 @@ Top
 [IRulesBuilder Interface](topic1590.md)   
 [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

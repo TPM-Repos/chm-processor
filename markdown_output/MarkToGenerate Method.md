@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MarkToGenerate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3265.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupReleasedComponents Class](topic3238.md) : MarkToGenerate Method  
 ---  
   
@@ -67,4 +67,4 @@ Marking a component as requiring generation clears the generating, generated, an
 [GroupReleasedComponents Class](topic3238.md)   
 [GroupReleasedComponents Members](topic3239.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopiedSpecificationFile Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11248.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationContext Class](topic11149.md) : CopiedSpecificationFile Event  
 ---  
   
@@ -55,4 +55,4 @@ This event will get raised for every file that has been copied as a part of the 
 [SpecificationContext Class](topic11149.md)   
 [SpecificationContext Members](topic11150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

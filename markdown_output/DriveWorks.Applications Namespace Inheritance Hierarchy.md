@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Applications Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic16.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) : DriveWorks.Applications Namespace  
 ---  
   
@@ -83,4 +83,4 @@ System.Windows.Forms.UserControl
 
 [DriveWorks.Applications Assembly](topic13.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

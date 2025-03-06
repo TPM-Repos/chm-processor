@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Cancel Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7835.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [CreatingControlEventArgs Class](topic7826.md) : Cancel Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CreatingControlEventArgs Class](topic7826.md)   
 [CreatingControlEventArgs Members](topic7827.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

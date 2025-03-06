@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetComponent(Guid) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3037.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) > [GetComponent Method](topic3036.md) : GetComponent(Guid) Method  
 ---  
   
@@ -75,4 +75,4 @@ System.NotSupportedException| The component type is not supported.
 [GroupCapturedComponents Members](topic3023.md)   
 [Overload List](topic3036.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

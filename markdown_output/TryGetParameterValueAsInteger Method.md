@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetParameterValueAsInteger Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5083.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedComponentTask Class](topic5061.md) : TryGetParameterValueAsInteger Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the parameter was found and its value could successfully be converted to
 [ReleasedComponentTask Class](topic5061.md)   
 [ReleasedComponentTask Members](topic5062.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

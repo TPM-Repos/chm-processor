@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateVariable(String,ProjectVariableCategory,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5018.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariables Class](topic5010.md) > [CreateVariable Method](topic5016.md) : CreateVariable(String,ProjectVariableCategory,String) Method  
 ---  
   
@@ -85,4 +85,4 @@ The newly created variable.
 [ProjectVariables Members](topic5011.md)   
 [Overload List](topic5016.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

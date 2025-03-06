@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AzureCredentials Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10653.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [AzureCredentials Class](topic10646.md) > [AzureCredentials Constructor](topic10652.md) : AzureCredentials Constructor()  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [AzureCredentials Members](topic10647.md)   
 [Overload List](topic10652.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MessageDataCorruptException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3701.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [MessageDataCorruptException Class](topic3692.md) > [MessageDataCorruptException Constructor](topic3698.md) : MessageDataCorruptException Constructor(String,Exception)  
 ---  
   
@@ -69,4 +69,4 @@ _inner_
 [MessageDataCorruptException Members](topic3693.md)   
 [Overload List](topic3698.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

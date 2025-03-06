@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectDocumentRules Class   
-[Members](topic4414.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4413.md)  
+[Members](topic4414.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectDocumentRules Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ProjectDocumentRules Members](topic4414.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

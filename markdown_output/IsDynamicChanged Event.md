@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDynamicChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6646.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskProperty Class](topic6633.md) : IsDynamicChanged Event  
 ---  
   
@@ -60,4 +60,4 @@ Property| Description
 [ComponentTaskProperty Class](topic6633.md)   
 [ComponentTaskProperty Members](topic6634.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

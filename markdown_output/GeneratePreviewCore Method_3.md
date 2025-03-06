@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GeneratePreviewCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4377.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocument Class](topic4356.md) : GeneratePreviewCore Method  
 ---  
   
@@ -76,4 +76,4 @@ The full path to the preview file.
 [ProjectDocument Class](topic4356.md)   
 [ProjectDocument Members](topic4357.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

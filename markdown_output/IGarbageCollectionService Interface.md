@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IGarbageCollectionService Interface   
-[Members](topic239.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic238.md)  
+[Members](topic239.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IGarbageCollectionService Interface  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IGarbageCollectionService Members](topic239.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConditionSequenceRef Class   
-[Members](topic12853.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12852.md)  
+[Members](topic12853.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) : ConditionSequenceRef Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ConditionSequenceRef Members](topic12853.md)   
 [DriveWorks.Transactions Namespace](topic12835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

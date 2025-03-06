@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DatabaseConnectorConfiguration Class   
-[Members](topic6757.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6756.md)  
+[Members](topic6757.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) : DatabaseConnectorConfiguration Class  
 ---  
   
@@ -61,4 +61,4 @@ System.MarshalByRefObject
 [DatabaseConnectorConfiguration Members](topic6757.md)   
 [DriveWorks.Connectors.Database Namespace](topic6754.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

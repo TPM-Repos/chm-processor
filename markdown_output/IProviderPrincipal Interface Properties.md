@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IProviderPrincipal Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10597.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : IProviderPrincipal Interface  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [IProviderPrincipal Interface](topic10597.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

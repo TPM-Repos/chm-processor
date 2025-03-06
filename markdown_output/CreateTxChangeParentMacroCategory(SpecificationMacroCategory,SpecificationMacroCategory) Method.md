@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeParentMacroCategory(SpecificationMacroCategory,SpecificationMacroCategory) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12989.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxChangeParentMacroCategory Method](topic12987.md) : CreateTxChangeParentMacroCategory(SpecificationMacroCategory,SpecificationMacroCategory) Method  
 ---  
   
@@ -77,4 +77,4 @@ A transaction which, when executed, will perform the operation.
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic12987.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateNotFoundException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11608.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateNotFoundException Class](topic11601.md) > [StateNotFoundException Constructor](topic11607.md) : StateNotFoundException Constructor(String)  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [StateNotFoundException Members](topic11602.md)   
 [Overload List](topic11607.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

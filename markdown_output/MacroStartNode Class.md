@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MacroStartNode Class   
-[Members](topic7051.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7050.md)  
+[Members](topic7051.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : MacroStartNode Class  
 ---  
   
@@ -69,4 +69,4 @@ System.Object
 [MacroStartNode Members](topic7051.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

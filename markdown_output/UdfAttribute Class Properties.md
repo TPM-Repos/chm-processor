@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UdfAttribute Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7256.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) : UdfAttribute Class  
 ---  
   
@@ -32,4 +32,4 @@ Top
 [UdfAttribute Class](topic7256.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

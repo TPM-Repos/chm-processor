@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleLocalizationHelper Constructor(CultureInfo,CultureInfo,String,String,String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10026.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Localization Namespace](topic10015.md) > [RuleLocalizationHelper Class](topic10018.md) > [RuleLocalizationHelper Constructor](topic10024.md) : RuleLocalizationHelper Constructor(CultureInfo,CultureInfo,String,String,String)  
 ---  
   
@@ -95,4 +95,4 @@ _thousandsSeparator_
 [RuleLocalizationHelper Members](topic10019.md)   
 [Overload List](topic10024.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

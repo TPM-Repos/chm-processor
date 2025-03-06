@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CheckAlignment Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7424.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [CheckBox Class](topic7410.md) : CheckAlignment Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CheckBox Class](topic7410.md)   
 [CheckBox Members](topic7411.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

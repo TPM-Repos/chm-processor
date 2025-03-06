@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OnInitialized Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6846.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Http Namespace](topic6836.md) > [HttpConnectorConfiguration Class](topic6838.md) : OnInitialized Method  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [HttpConnectorConfiguration Class](topic6838.md)   
 [HttpConnectorConfiguration Members](topic6839.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

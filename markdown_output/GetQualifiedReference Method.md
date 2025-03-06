@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetQualifiedReference Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7218.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [LibraryAttribute Class](topic7201.md) : GetQualifiedReference Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [LibraryAttribute Class](topic7201.md)   
 [LibraryAttribute Members](topic7202.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

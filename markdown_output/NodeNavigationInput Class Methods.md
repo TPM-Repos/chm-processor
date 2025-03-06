@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NodeNavigationInput Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7058.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : NodeNavigationInput Class  
 ---  
   
@@ -43,4 +43,4 @@ Top
 [NodeNavigationInput Class](topic7058.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitializeNewDocument Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1524.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [IDocumentDesigner Interface](topic1517.md) : InitializeNewDocument Method  
 ---  
   
@@ -79,4 +79,4 @@ _document_
 [IDocumentDesigner Interface](topic1517.md)   
 [IDocumentDesigner Members](topic1518.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

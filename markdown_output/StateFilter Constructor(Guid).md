@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateFilter Constructor(Guid)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1084.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [StateFilter Class](topic1077.md) > [StateFilter Constructor](topic1083.md) : StateFilter Constructor(Guid)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [StateFilter Members](topic1078.md)   
 [Overload List](topic1083.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

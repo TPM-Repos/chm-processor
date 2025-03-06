@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IServiceManager Interface   
-[Members](topic436.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic435.md)  
+[Members](topic436.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IServiceManager Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IServiceManager Members](topic436.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

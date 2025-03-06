@@ -44,4 +44,4 @@ Provides support for modifying DriveWorks Projects in a way that is compatible w
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

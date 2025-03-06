@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TrackParameterRelease Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14867.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedDrawing Class](topic14859.md) : TrackParameterRelease Method  
 ---  
   
@@ -77,4 +77,4 @@ _value_
 [ReleasedDrawing Class](topic14859.md)   
 [ReleasedDrawing Members](topic14860.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

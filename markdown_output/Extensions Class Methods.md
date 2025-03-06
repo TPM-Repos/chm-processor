@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Extensions Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic814.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : Extensions Class  
 ---  
   
@@ -37,4 +37,4 @@ Top
 [Extensions Class](topic814.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

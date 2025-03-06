@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetConvertTypes Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7274.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ICanConvert Interface](topic7268.md) : GetConvertTypes Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ICanConvert Interface](topic7268.md)   
 [ICanConvert Members](topic7269.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

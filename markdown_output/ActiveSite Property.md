@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ActiveSite Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic64.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IApplicationSelectionManager Interface](topic59.md) : ActiveSite Property  
 ---  
   
@@ -55,4 +55,4 @@ The active selection site, or a null reference (Nothing in Visual Basic) if no s
 [IApplicationSelectionManager Interface](topic59.md)   
 [IApplicationSelectionManager Members](topic60.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

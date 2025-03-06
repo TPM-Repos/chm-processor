@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PackageGroupProcess Class   
-[Members](topic9926.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9925.md)  
+[Members](topic9926.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : PackageGroupProcess Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [PackageGroupProcess Members](topic9926.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

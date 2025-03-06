@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FailedInputNames Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1967.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [SpecificationRequestInputsDrivenEventArgs Class](topic1960.md) : FailedInputNames Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SpecificationRequestInputsDrivenEventArgs Class](topic1960.md)   
 [SpecificationRequestInputsDrivenEventArgs Members](topic1961.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlData Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9599.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md) > [ControlData Class](topic9593.md) : ControlData Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [ControlData Class](topic9593.md)   
 [ControlData Members](topic9594.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

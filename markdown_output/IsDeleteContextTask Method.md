@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDeleteContextTask Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11643.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Task Class](topic11629.md) : IsDeleteContextTask Method  
 ---  
   
@@ -72,4 +72,4 @@ Tasks that qualify will be made to run last, despite their task ordering.
 [Task Class](topic11629.md)   
 [Task Members](topic11630.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

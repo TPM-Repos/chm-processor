@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetReadyState Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic500.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IStatusBarService Interface](topic495.md) : SetReadyState Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IStatusBarService Interface](topic495.md)   
 [IStatusBarService Members](topic496.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

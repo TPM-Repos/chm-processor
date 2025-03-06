@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OnInitialized Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3092.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupConnectorInformation Class](topic3084.md) : OnInitialized Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [GroupConnectorInformation Class](topic3084.md)   
 [GroupConnectorInformation Members](topic3085.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IPreviewControl Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic362.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IPreviewControl Interface  
 ---  
   
@@ -43,4 +43,4 @@ Top
 [IPreviewControl Interface](topic362.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

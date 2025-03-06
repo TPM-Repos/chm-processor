@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterDriveApp(Guid,String,String,String,String,String,String,IEnumerable<String>,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3217.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupProjects Class](topic3190.md) > [RegisterDriveApp Method](topic3215.md) : RegisterDriveApp(Guid,String,String,String,String,String,String,IEnumerable<String>,String) Method  
 ---  
   
@@ -129,4 +129,4 @@ _version_
 [GroupProjects Members](topic3191.md)   
 [Overload List](topic3215.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

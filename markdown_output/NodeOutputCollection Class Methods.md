@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NodeOutputCollection Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7087.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : NodeOutputCollection Class  
 ---  
   
@@ -43,4 +43,4 @@ Top
 [NodeOutputCollection Class](topic7087.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

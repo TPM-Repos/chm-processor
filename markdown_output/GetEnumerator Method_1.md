@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEnumerator Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11102.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Operations Class](topic11095.md) : GetEnumerator Method  
 ---  
   
@@ -55,4 +55,4 @@ An IEnumerator specialized for the [Operation](topic11068.md) type.
 [Operations Class](topic11095.md)   
 [Operations Members](topic11096.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

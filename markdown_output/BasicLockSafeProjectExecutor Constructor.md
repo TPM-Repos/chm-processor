@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BasicLockSafeProjectExecutor Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2436.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [BasicLockSafeProjectExecutor Class](topic2430.md) : BasicLockSafeProjectExecutor Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [BasicLockSafeProjectExecutor Class](topic2430.md)   
 [BasicLockSafeProjectExecutor Members](topic2431.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

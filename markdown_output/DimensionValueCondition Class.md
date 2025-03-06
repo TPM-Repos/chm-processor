@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DimensionValueCondition Class   
-[Members](topic13537.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13536.md)  
+[Members](topic13537.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : DimensionValueCondition Class  
 ---  
   
@@ -81,4 +81,4 @@ System.Object
 [DimensionValueCondition Members](topic13537.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConvertDateTimeToBoolean Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9542.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [StoreConverter Class](topic9528.md) : ConvertDateTimeToBoolean Method  
 ---  
   
@@ -67,4 +67,4 @@ A boolean.
 [StoreConverter Class](topic9528.md)   
 [StoreConverter Members](topic9529.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

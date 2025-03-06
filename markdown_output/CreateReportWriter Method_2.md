@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateReportWriter Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3244.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupReleasedComponents Class](topic3238.md) : CreateReportWriter Method  
 ---  
   
@@ -84,4 +84,4 @@ A report writer.
 [GroupReleasedComponents Class](topic3238.md)   
 [GroupReleasedComponents Members](topic3239.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

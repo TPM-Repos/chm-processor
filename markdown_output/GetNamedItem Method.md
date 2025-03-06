@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetNamedItem Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3876.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Project Class](topic3859.md) : GetNamedItem Method  
 ---  
   
@@ -70,4 +70,4 @@ The associated named item or null if nothing is found.
 [Project Class](topic3859.md)   
 [Project Members](topic3860.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

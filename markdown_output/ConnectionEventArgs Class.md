@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConnectionEventArgs Class   
-[Members](topic6931.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6930.md)  
+[Members](topic6931.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : ConnectionEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [ConnectionEventArgs Members](topic6931.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

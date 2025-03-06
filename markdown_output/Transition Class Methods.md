@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Transition Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11757.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : Transition Class  
 ---  
   
@@ -40,4 +40,4 @@ Top
 [Transition Class](topic11757.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

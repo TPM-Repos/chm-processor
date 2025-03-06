@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Raised Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic206.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IEvent Interface](topic201.md) : Raised Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IEvent Interface](topic201.md)   
 [IEvent Members](topic202.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

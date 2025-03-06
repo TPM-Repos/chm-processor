@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NavigateBackward Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12385.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [NavigateBackward Class](topic12379.md) : NavigateBackward Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [NavigateBackward Class](topic12379.md)   
 [NavigateBackward Members](topic12380.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

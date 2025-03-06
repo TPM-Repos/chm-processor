@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxDeleteFormControls Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13093.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) : CreateTxDeleteFormControls Method  
 ---  
   
@@ -72,4 +72,4 @@ The form controls must all belong to the same parent control.
 [ProjectTransactionFactory Class](topic12928.md)   
 [ProjectTransactionFactory Members](topic12929.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

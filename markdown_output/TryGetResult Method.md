@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetResult Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11148.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [RuleResults Class](topic11136.md) : TryGetResult Method  
 ---  
   
@@ -76,4 +76,4 @@ True if a value was found for the specified rule, otherwise false.
 [RuleResults Class](topic11136.md)   
 [RuleResults Members](topic11137.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

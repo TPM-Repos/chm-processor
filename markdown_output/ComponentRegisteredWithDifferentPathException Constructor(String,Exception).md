@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentRegisteredWithDifferentPathException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13526.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ComponentRegisteredWithDifferentPathException Class](topic13517.md) > [ComponentRegisteredWithDifferentPathException Constructor](topic13523.md) : ComponentRegisteredWithDifferentPathException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [ComponentRegisteredWithDifferentPathException Members](topic13518.md)   
 [Overload List](topic13523.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

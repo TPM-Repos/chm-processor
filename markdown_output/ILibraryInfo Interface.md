@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ILibraryInfo Interface   
-[Members](topic2056.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2055.md)  
+[Members](topic2056.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) : ILibraryInfo Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ILibraryInfo Members](topic2056.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

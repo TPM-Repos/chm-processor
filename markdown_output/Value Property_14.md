@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Value Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4778.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecialVariable Class](topic4762.md) : Value Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectSpecialVariable Class](topic4762.md)   
 [ProjectSpecialVariable Members](topic4763.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

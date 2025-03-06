@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DisplayHelp Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1129.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ViewControl Class](topic1119.md) : DisplayHelp Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ViewControl Class](topic1119.md)   
 [ViewControl Members](topic1120.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

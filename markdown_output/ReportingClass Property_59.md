@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportingClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12643.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SkipToFormTask Class](topic12631.md) : ReportingClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SkipToFormTask Class](topic12631.md)   
 [SkipToFormTask Members](topic12632.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

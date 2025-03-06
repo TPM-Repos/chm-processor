@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ISafeProjectExecutor Interface   
-[Members](topic2304.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2303.md)  
+[Members](topic2304.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ISafeProjectExecutor Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ISafeProjectExecutor Members](topic2304.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

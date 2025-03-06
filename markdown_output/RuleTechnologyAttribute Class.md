@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleTechnologyAttribute Class   
-[Members](topic8849.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8848.md)  
+[Members](topic8849.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : RuleTechnologyAttribute Class  
 ---  
   
@@ -66,4 +66,4 @@ System.Attribute
 [RuleTechnologyAttribute Members](topic8849.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

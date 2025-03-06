@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateDocument Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4440.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocuments Class](topic4434.md) : CreateDocument Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ProjectDocuments Class](topic4434.md)   
 [ProjectDocuments Members](topic4435.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileOpenNotifyEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13659.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileOpenNotifyEventArgs Class](topic13653.md) : FileOpenNotifyEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [FileOpenNotifyEventArgs Class](topic13653.md)   
 [FileOpenNotifyEventArgs Members](topic13654.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

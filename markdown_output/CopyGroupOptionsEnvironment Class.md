@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyGroupOptionsEnvironment Class   
-[Members](topic9760.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9759.md)  
+[Members](topic9760.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : CopyGroupOptionsEnvironment Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [CopyGroupOptionsEnvironment Members](topic9760.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

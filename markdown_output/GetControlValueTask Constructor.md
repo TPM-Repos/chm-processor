@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetControlValueTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12301.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [GetControlValueTask Class](topic12295.md) : GetControlValueTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [GetControlValueTask Class](topic12295.md)   
 [GetControlValueTask Members](topic12296.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

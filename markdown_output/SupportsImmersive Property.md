@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SupportsImmersive Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13340.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.XR Namespace](topic13327.md) > [ClientXRStatus Class](topic13330.md) : SupportsImmersive Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ClientXRStatus Class](topic13330.md)   
 [ClientXRStatus Members](topic13331.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectProfileEventBase Class   
-[Members](topic4703.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4702.md)  
+[Members](topic4703.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectProfileEventBase Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [ProjectProfileEventBase Members](topic4703.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

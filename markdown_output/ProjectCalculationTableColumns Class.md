@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectCalculationTableColumns Class   
-[Members](topic3969.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3968.md)  
+[Members](topic3969.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectCalculationTableColumns Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [ProjectCalculationTableColumns Members](topic3969.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

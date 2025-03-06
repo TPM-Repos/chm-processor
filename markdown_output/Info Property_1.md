@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Info Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6502.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskCondition Class](topic6493.md) : Info Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ComponentTaskCondition Class](topic6493.md)   
 [ComponentTaskCondition Members](topic6494.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

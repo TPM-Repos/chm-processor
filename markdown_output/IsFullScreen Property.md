@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsFullScreen Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic575.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IViewManager Interface](topic564.md) : IsFullScreen Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IViewManager Interface](topic564.md)   
 [IViewManager Members](topic565.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

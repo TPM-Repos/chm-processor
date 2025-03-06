@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetPanEnabled Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic375.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IPreviewControl Interface](topic362.md) : SetPanEnabled Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IPreviewControl Interface](topic362.md)   
 [IPreviewControl Members](topic363.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

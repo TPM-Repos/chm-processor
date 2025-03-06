@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleText Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10571.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) > [BasicRuleNode Class](topic10558.md) : RuleText Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [BasicRuleNode Class](topic10558.md)   
 [BasicRuleNode Members](topic10559.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

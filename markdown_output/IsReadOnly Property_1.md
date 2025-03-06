@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsReadOnly Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6582.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskConditions Class](topic6561.md) : IsReadOnly Property  
 ---  
   
@@ -55,4 +55,4 @@ This is always False.
 [ComponentTaskConditions Class](topic6561.md)   
 [ComponentTaskConditions Members](topic6562.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

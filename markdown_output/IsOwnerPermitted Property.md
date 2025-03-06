@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsOwnerPermitted Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11309.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationDetails Class](topic11292.md) : IsOwnerPermitted Property  
 ---  
   
@@ -57,4 +57,4 @@ In addition to team-based access control lists for specifications, specification
 [SpecificationDetails Class](topic11292.md)   
 [SpecificationDetails Members](topic11293.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

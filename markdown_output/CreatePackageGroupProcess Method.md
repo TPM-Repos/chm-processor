@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreatePackageGroupProcess Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9931.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [PackageGroupProcess Class](topic9925.md) : CreatePackageGroupProcess Method  
 ---  
   
@@ -87,4 +87,4 @@ _options_
 [PackageGroupProcess Class](topic9925.md)   
 [PackageGroupProcess Members](topic9926.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

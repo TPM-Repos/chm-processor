@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ActionNameResult Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5754.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TriggeredActionTestResult Class](topic5747.md) : ActionNameResult Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [TriggeredActionTestResult Class](topic5747.md)   
 [TriggeredActionTestResult Members](topic5748.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

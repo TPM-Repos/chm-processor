@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectDetailsEventArgs Class   
-[Members](topic11113.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11112.md)  
+[Members](topic11113.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : ProjectDetailsEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [ProjectDetailsEventArgs Members](topic11113.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

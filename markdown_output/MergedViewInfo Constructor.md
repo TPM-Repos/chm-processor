@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MergedViewInfo Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13864.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [MergedViewInfo Class](topic13858.md) : MergedViewInfo Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [MergedViewInfo Class](topic13858.md)   
 [MergedViewInfo Members](topic13859.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

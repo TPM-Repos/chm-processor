@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CategoryCreated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4979.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariableCategories Class](topic4966.md) : CategoryCreated Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [ProjectVariableCategories Class](topic4966.md)   
 [ProjectVariableCategories Members](topic4967.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Status Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9844.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupUserAction Class](topic9836.md) : Status Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CopyGroupUserAction Class](topic9836.md)   
 [CopyGroupUserAction Members](topic9837.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

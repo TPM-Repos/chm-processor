@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FromMacro Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12906.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [NodeCollectionRef Class](topic12900.md) : FromMacro Method  
 ---  
   
@@ -67,4 +67,4 @@ A reference to the node collection represented by the given macro.
 [NodeCollectionRef Class](topic12900.md)   
 [NodeCollectionRef Members](topic12901.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Started Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1847.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ConnectorBase Class](topic1834.md) : Started Event  
 ---  
   
@@ -55,4 +55,4 @@ Implementors should raise this event when the connector is started by the [Start
 [ConnectorBase Class](topic1834.md)   
 [ConnectorBase Members](topic1835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetRules Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2190.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IDataExportDefinition Interface](topic2177.md) : GetRules Method  
 ---  
   
@@ -68,4 +68,4 @@ The rules stored with the specified rule Id's.
 [IDataExportDefinition Interface](topic2177.md)   
 [IDataExportDefinition Members](topic2178.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12842.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ITransaction Interface](topic12837.md) : Execute Method  
 ---  
   
@@ -55,4 +55,4 @@ A transaction which can undo the result of the executed transaction.
 [ITransaction Interface](topic12837.md)   
 [ITransaction Members](topic12838.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

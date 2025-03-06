@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationExistsException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11385.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationExistsException Class](topic11376.md) > [SpecificationExistsException Constructor](topic11382.md) : SpecificationExistsException Constructor(String,Exception)  
 ---  
   
@@ -69,4 +69,4 @@ _inner_
 [SpecificationExistsException Members](topic11377.md)   
 [Overload List](topic11382.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

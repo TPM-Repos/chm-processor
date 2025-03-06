@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetObjectData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11610.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateNotFoundException Class](topic11601.md) : GetObjectData Method  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [StateNotFoundException Class](topic11601.md)   
 [StateNotFoundException Members](topic11602.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

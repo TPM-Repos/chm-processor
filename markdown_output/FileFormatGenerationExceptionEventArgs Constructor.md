@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileFormatGenerationExceptionEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15216.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [FileFormatGenerationExceptionEventArgs Class](topic15210.md) : FileFormatGenerationExceptionEventArgs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _exception_
 [FileFormatGenerationExceptionEventArgs Class](topic15210.md)   
 [FileFormatGenerationExceptionEventArgs Members](topic15211.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

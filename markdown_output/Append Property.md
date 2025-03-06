@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Append Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12608.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SetStatesToTriggerOnTask Class](topic12600.md) : Append Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [SetStatesToTriggerOnTask Class](topic12600.md)   
 [SetStatesToTriggerOnTask Members](topic12601.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetSpecificationHostControlTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12590.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SetSpecificationHostControlTask Class](topic12584.md) : SetSpecificationHostControlTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [SetSpecificationHostControlTask Class](topic12584.md)   
 [SetSpecificationHostControlTask Members](topic12585.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

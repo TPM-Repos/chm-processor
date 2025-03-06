@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddColumn Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3769.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [OdbcExport Class](topic3763.md) : AddColumn Method  
 ---  
   
@@ -80,4 +80,4 @@ _columnType_
 [OdbcExport Class](topic3763.md)   
 [OdbcExport Members](topic3764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

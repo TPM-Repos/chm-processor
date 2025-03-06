@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateStep Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic744.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [DiscreteWizardBase Class](topic737.md) : CreateStep Method  
 ---  
   
@@ -36,4 +36,4 @@ Overload| Description
 [DiscreteWizardBase Class](topic737.md)   
 [DiscreteWizardBase Members](topic738.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

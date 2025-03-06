@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HandleException Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic212.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IExceptionHandler Interface](topic207.md) : HandleException Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [IExceptionHandler Interface](topic207.md)   
 [IExceptionHandler Members](topic208.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

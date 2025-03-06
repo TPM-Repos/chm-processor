@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WarningCountProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15417.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md) > [ReportStatusSummary Class](topic15407.md) : WarningCountProperty Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ReportStatusSummary Class](topic15407.md)   
 [ReportStatusSummary Members](topic15408.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

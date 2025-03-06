@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HeaderColorProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7585.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ChildSpecificationList Class](topic7547.md) : HeaderColorProperty Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ChildSpecificationList Class](topic7547.md)   
 [ChildSpecificationList Members](topic7548.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

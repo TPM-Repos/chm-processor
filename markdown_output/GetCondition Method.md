@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetCondition Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12849.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ConditionRef Class](topic12843.md) : GetCondition Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [ConditionRef Class](topic12843.md)   
 [ConditionRef Members](topic12844.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

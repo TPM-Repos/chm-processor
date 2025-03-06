@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationId Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12058.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CopyClosedSpecificationTask Class](topic12048.md) : SpecificationId Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CopyClosedSpecificationTask Class](topic12048.md)   
 [CopyClosedSpecificationTask Members](topic12049.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

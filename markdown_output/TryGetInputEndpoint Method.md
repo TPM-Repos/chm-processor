@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetInputEndpoint Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6955.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [ExecutableNodeBase Class](topic6938.md) : TryGetInputEndpoint Method  
 ---  
   
@@ -84,4 +84,4 @@ True if the end point was found, otherwise false.
 [ExecutableNodeBase Class](topic6938.md)   
 [ExecutableNodeBase Members](topic6939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

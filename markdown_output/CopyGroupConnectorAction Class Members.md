@@ -57,4 +57,4 @@ Top
 [CopyGroupConnectorAction Class](topic9727.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

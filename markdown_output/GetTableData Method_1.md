@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTableData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3120.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupDataTable Class](topic3110.md) : GetTableData Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [GroupDataTable Class](topic3110.md)   
 [GroupDataTable Members](topic3111.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

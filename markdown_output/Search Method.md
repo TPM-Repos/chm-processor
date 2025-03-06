@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Search Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13201.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [NameSearchProcess Class](topic13195.md) : Search Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [NameSearchProcess Class](topic13195.md)   
 [NameSearchProcess Members](topic13196.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

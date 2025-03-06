@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupSpecification Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1820.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [AutopilotViewNames Class](topic1810.md) : GroupSpecification Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [AutopilotViewNames Class](topic1810.md)   
 [AutopilotViewNames Members](topic1811.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

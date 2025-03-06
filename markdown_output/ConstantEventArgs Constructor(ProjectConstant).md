@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConstantEventArgs Constructor(ProjectConstant)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2602.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConstantEventArgs Class](topic2595.md) > [ConstantEventArgs Constructor](topic2601.md) : ConstantEventArgs Constructor(ProjectConstant)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ConstantEventArgs Members](topic2596.md)   
 [Overload List](topic2601.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

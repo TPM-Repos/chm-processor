@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IGroupResultEnumerator Interface   
-[Members](topic2214.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2213.md)  
+[Members](topic2214.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IGroupResultEnumerator Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IGroupResultEnumerator Members](topic2214.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

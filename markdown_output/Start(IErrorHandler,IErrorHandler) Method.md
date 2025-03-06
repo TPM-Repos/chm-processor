@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Start(IErrorHandler,IErrorHandler) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5205.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupServer Class](topic5192.md) > [Start Method](topic5203.md) : Start(IErrorHandler,IErrorHandler) Method  
 ---  
   
@@ -72,4 +72,4 @@ _connectionErrorHandler_
 [RemoteGroupServer Members](topic5193.md)   
 [Overload List](topic5203.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

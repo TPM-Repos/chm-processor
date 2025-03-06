@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteSpecification(SpecificationDetails) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3364.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) > [DeleteSpecification Method](topic3362.md) : DeleteSpecification(SpecificationDetails) Method  
 ---  
   
@@ -70,4 +70,4 @@ Exception| Description
 [GroupSpecifications Members](topic3356.md)   
 [Overload List](topic3362.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AutopilotName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12651.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [StartAutopilotTask Class](topic12644.md) : AutopilotName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [StartAutopilotTask Class](topic12644.md)   
 [StartAutopilotTask Members](topic12645.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetTable Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4012.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTables Class](topic4000.md) : TryGetTable Method  
 ---  
   
@@ -80,4 +80,4 @@ This is not case sensitive.
 [ProjectCalculationTables Class](topic4000.md)   
 [ProjectCalculationTables Members](topic4001.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

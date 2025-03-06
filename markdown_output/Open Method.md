@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Open Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10460.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [ReportPackage Class](topic10451.md) : Open Method  
 ---  
   
@@ -67,4 +67,4 @@ The report package will be created immediately, any existing file at the specifi
 [ReportPackage Class](topic10451.md)   
 [ReportPackage Members](topic10452.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

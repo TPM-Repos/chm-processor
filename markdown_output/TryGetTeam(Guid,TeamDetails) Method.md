@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetTeam(Guid,TeamDetails) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3330.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [TryGetTeam Method](topic3329.md) : TryGetTeam(Guid,TeamDetails) Method  
 ---  
   
@@ -77,4 +77,4 @@ True if the team was located and returns, otherwise false.
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3329.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

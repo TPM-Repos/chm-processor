@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11977.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CancelSpecificationTask Class](topic11971.md) : Execute Method  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [CancelSpecificationTask Class](topic11971.md)   
 [CancelSpecificationTask Members](topic11972.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

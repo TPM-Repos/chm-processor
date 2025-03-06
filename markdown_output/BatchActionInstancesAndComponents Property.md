@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BatchActionInstancesAndComponents Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15247.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [GenerationSettings Class](topic15238.md) : BatchActionInstancesAndComponents Property  
 ---  
   
@@ -57,4 +57,4 @@ Setting this to False will cause all instances and components to be deleted one-
 [GenerationSettings Class](topic15238.md)   
 [GenerationSettings Members](topic15239.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

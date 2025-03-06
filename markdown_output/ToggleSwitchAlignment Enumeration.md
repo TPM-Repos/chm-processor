@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ToggleSwitchAlignment Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7325.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : ToggleSwitchAlignment Enumeration  
 ---  
   
@@ -63,4 +63,4 @@ System.Enum
 
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

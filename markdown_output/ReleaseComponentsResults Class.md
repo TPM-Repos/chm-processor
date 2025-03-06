@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReleaseComponentsResults Class   
-[Members](topic6301.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6300.md)  
+[Members](topic6301.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : ReleaseComponentsResults Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ReleaseComponentsResults Members](topic6301.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

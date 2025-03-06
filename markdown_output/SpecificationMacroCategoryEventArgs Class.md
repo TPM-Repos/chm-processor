@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationMacroCategoryEventArgs Class   
-[Members](topic5386.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5385.md)  
+[Members](topic5386.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : SpecificationMacroCategoryEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [SpecificationMacroCategoryEventArgs Members](topic5386.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IGroupConnector Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1706.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : IGroupConnector Interface  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [IGroupConnector Interface](topic1706.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

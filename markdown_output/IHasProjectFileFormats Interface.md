@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasProjectFileFormats Interface   
-[Members](topic13994.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13993.md)  
+[Members](topic13994.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : IHasProjectFileFormats Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IHasProjectFileFormats Members](topic13994.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

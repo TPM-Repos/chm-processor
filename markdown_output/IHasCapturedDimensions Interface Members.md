@@ -30,4 +30,4 @@ Top
 [IHasCapturedDimensions Interface](topic13939.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -62,4 +62,4 @@ Top
 [ReleasedDrawing Class](topic14859.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

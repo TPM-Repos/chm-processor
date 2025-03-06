@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Control Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9393.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [ControlValueChangedEventArgs Class](topic9385.md) : Control Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ControlValueChangedEventArgs Class](topic9385.md)   
 [ControlValueChangedEventArgs Members](topic9386.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsTriggeredActionQueueEnabled Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10099.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) > [StandardAgentSettingNames Class](topic10088.md) : IsTriggeredActionQueueEnabled Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [StandardAgentSettingNames Class](topic10088.md)   
 [StandardAgentSettingNames Members](topic10089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

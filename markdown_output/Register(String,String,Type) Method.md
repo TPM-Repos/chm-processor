@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Register(String,String,Type) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7106.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [NodeOutputCollection Class](topic7087.md) > [Register Method](topic7105.md) : Register(String,String,Type) Method  
 ---  
   
@@ -85,4 +85,4 @@ The newly created output.
 [NodeOutputCollection Members](topic7088.md)   
 [Overload List](topic7105.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

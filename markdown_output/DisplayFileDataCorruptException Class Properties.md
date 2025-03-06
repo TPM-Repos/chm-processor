@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DisplayFileDataCorruptException Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2716.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : DisplayFileDataCorruptException Class  
 ---  
   
@@ -38,4 +38,4 @@ Top
 [DisplayFileDataCorruptException Class](topic2716.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

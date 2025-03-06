@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ParentId Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6250.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReadOnlyReleasedComponentReferenceDetails Class](topic6239.md) : ParentId Property  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [ReadOnlyReleasedComponentReferenceDetails Class](topic6239.md)   
 [ReadOnlyReleasedComponentReferenceDetails Members](topic6240.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

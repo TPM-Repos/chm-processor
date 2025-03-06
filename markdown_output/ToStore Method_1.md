@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ToStore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9478.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [EnumPropertyValueConverter Class](topic9470.md) : ToStore Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [EnumPropertyValueConverter Class](topic9470.md)   
 [EnumPropertyValueConverter Members](topic9471.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

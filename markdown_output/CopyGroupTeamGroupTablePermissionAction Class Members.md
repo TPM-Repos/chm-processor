@@ -57,4 +57,4 @@ Top
 [CopyGroupTeamGroupTablePermissionAction Class](topic9816.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

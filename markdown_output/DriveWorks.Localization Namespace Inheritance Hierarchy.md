@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Localization Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10015.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Localization Namespace  
 ---  
   
@@ -25,4 +25,4 @@ DriveWorks.DomainObject
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

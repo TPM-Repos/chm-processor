@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DesignMasterExistsException Constructor(Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2683.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DesignMasterExistsException Class](topic2675.md) > [DesignMasterExistsException Constructor](topic2681.md) : DesignMasterExistsException Constructor(Exception)  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [DesignMasterExistsException Members](topic2676.md)   
 [Overload List](topic2681.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

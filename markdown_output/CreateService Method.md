@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateService Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic434.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IServiceFactory Interface](topic429.md) : CreateService Method  
 ---  
   
@@ -68,4 +68,4 @@ An instance of an object implementing the specified service, or a null reference
 [IServiceFactory Interface](topic429.md)   
 [IServiceFactory Members](topic430.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

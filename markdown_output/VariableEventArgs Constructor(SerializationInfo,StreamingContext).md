@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VariableEventArgs Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5882.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [VariableEventArgs Class](topic5874.md) > [VariableEventArgs Constructor](topic5880.md) : VariableEventArgs Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [VariableEventArgs Members](topic5875.md)   
 [Overload List](topic5880.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

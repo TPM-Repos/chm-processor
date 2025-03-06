@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OdbcDataSourceConfiguration Class   
-[Members](topic6797.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6796.md)  
+[Members](topic6797.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) : OdbcDataSourceConfiguration Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [OdbcDataSourceConfiguration Members](topic6797.md)   
 [DriveWorks.Connectors.Database Namespace](topic6754.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ShouldGenerate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2877.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [FileDocumentBase Class](topic2870.md) : ShouldGenerate Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [FileDocumentBase Class](topic2870.md)   
 [FileDocumentBase Members](topic2871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

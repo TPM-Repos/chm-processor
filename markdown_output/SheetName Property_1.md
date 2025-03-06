@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SheetName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14716.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectView Class](topic14703.md) : SheetName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectView Class](topic14703.md)   
 [ProjectView Members](topic14704.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

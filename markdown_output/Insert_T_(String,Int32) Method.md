@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 Insert<T>(String,Int32) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6446.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskAccessor Class](topic6429.md) > [Insert Method](topic6445.md) : Insert<T>(String,Int32) Method  
 ---  
   
@@ -91,4 +91,4 @@ System.IndexOutOfRangeException| Index is negative or greater than the size of t
 [ComponentTaskAccessor Members](topic6430.md)   
 [Overload List](topic6445.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileExistenceCheckEventArgs Class   
-[Members](topic1850.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1849.md)  
+[Members](topic1850.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : FileExistenceCheckEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [FileExistenceCheckEventArgs Members](topic1850.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

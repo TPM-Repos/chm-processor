@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectDataTables Class   
-[Members](topic4312.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4311.md)  
+[Members](topic4312.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectDataTables Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [ProjectDataTables Members](topic4312.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UserDetails Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10740.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : UserDetails Class  
 ---  
   
@@ -37,4 +37,4 @@ Top
 [UserDetails Class](topic10740.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

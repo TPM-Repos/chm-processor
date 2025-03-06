@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WriteEntry Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10506.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [TraceReportWriter Class](topic10494.md) : WriteEntry Method  
 ---  
   
@@ -103,4 +103,4 @@ _entryDetail_
 [TraceReportWriter Class](topic10494.md)   
 [TraceReportWriter Members](topic10495.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

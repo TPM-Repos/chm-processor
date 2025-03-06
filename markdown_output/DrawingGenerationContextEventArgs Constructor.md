@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DrawingGenerationContextEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15186.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [DrawingGenerationContextEventArgs Class](topic15180.md) : DrawingGenerationContextEventArgs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _isDeferred_
 [DrawingGenerationContextEventArgs Class](topic15180.md)   
 [DrawingGenerationContextEventArgs Members](topic15181.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

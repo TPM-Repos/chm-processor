@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChangeChildSpecificationStateTask Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11988.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : ChangeChildSpecificationStateTask Class  
 ---  
   
@@ -38,4 +38,4 @@ Top
 [ChangeChildSpecificationStateTask Class](topic11988.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

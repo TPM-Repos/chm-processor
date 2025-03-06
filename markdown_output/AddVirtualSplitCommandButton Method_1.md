@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddVirtualSplitCommandButton Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic409.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IQuickBarManager Interface](topic403.md) : AddVirtualSplitCommandButton Method  
 ---  
   
@@ -80,4 +80,4 @@ _unavailableBehavior_
 [IQuickBarManager Interface](topic403.md)   
 [IQuickBarManager Members](topic404.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

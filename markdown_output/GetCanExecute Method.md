@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetCanExecute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9650.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [AddGroupUserToTeamAction Class](topic9643.md) : GetCanExecute Method  
 ---  
   
@@ -68,4 +68,4 @@ True if it can execute.
 [AddGroupUserToTeamAction Class](topic9643.md)   
 [AddGroupUserToTeamAction Members](topic9644.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

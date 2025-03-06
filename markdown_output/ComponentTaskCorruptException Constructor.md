@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskCorruptException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6595.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskCorruptException Class](topic6589.md) : ComponentTaskCorruptException Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [ComponentTaskCorruptException Class](topic6589.md)   
 [ComponentTaskCorruptException Members](topic6590.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

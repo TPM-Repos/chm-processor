@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileExtensionAttribute Class   
-[Members](topic13565.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13564.md)  
+[Members](topic13565.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : FileExtensionAttribute Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Attribute
 [FileExtensionAttribute Members](topic13565.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

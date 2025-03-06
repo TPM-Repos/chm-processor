@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TextDocumentLines Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5691.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : TextDocumentLines Class  
 ---  
   
@@ -39,4 +39,4 @@ Top
 [TextDocumentLines Class](topic5691.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

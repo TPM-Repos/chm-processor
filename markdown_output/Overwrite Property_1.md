@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Overwrite Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12081.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CopyFolderTask Class](topic12072.md) : Overwrite Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CopyFolderTask Class](topic12072.md)   
 [CopyFolderTask Members](topic12073.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

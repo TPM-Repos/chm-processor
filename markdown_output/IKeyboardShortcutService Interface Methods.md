@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IKeyboardShortcutService Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic334.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IKeyboardShortcutService Interface  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [IKeyboardShortcutService Interface](topic334.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

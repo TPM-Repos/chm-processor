@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FlowProperties Class   
-[Members](topic10906.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10905.md)  
+[Members](topic10906.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : FlowProperties Class  
 ---  
   
@@ -63,4 +63,4 @@ System.MarshalByRefObject
 [FlowProperties Members](topic10906.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

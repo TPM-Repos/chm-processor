@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StorageItemModel Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9998.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [StorageItemModel Class](topic9992.md) : StorageItemModel Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [StorageItemModel Class](topic9992.md)   
 [StorageItemModel Members](topic9993.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

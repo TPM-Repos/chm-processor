@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectTablesToInclude Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12281.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ExportSpecificationDataTask Class](topic12270.md) : ProjectTablesToInclude Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ExportSpecificationDataTask Class](topic12270.md)   
 [ExportSpecificationDataTask Members](topic12271.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

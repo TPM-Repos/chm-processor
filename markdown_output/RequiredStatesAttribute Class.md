@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RequiredStatesAttribute Class   
-[Members](topic13902.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13901.md)  
+[Members](topic13902.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : RequiredStatesAttribute Class  
 ---  
   
@@ -68,4 +68,4 @@ System.Attribute
 [RequiredStatesAttribute Members](topic13902.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

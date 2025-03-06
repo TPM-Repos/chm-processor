@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EnsureTcpPortSharingServiceIsSetup Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5202.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupServer Class](topic5192.md) : EnsureTcpPortSharingServiceIsSetup Method  
 ---  
   
@@ -54,4 +54,4 @@ This method attempts to find the "NetTcpPortSharing" service and start it (if it
 [RemoteGroupServer Class](topic5192.md)   
 [RemoteGroupServer Members](topic5193.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

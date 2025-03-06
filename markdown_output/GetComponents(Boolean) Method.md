@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetComponents(Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3041.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) > [GetComponents Method](topic3039.md) : GetComponents(Boolean) Method  
 ---  
   
@@ -69,4 +69,4 @@ An array containing one instance of the [DriveWorks.Components.CapturedComponent
 [GroupCapturedComponents Members](topic3023.md)   
 [Overload List](topic3039.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

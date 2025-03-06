@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StopCopy Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9791.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupProcess Class](topic9776.md) : StopCopy Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [CopyGroupProcess Class](topic9776.md)   
 [CopyGroupProcess Members](topic9777.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

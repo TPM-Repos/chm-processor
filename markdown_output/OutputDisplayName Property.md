@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OutputDisplayName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4064.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectChildSpecificationOutputDef Class](topic4056.md) : OutputDisplayName Property  
 ---  
   
@@ -55,4 +55,4 @@ The output could be from one of the types specified in [ProjectChildSpecificatio
 [ProjectChildSpecificationOutputDef Class](topic4056.md)   
 [ProjectChildSpecificationOutputDef Members](topic4057.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

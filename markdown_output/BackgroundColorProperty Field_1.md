@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BackgroundColorProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8102.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [Form Class](topic8086.md) : BackgroundColorProperty Field  
 ---  
   
@@ -54,4 +54,4 @@ This is a static replacement for [ControlBase](topic7698.md)'s [ControlBase.Back
 [Form Class](topic8086.md)   
 [Form Members](topic8087.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

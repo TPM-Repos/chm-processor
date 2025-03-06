@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Path Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12150.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [DeleteFolderTask Class](topic12143.md) : Path Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [DeleteFolderTask Class](topic12143.md)   
 [DeleteFolderTask Members](topic12144.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

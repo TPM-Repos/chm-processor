@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PropertyChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5675.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TextDocumentLine Class](topic5659.md) : PropertyChanged Event  
 ---  
   
@@ -59,4 +59,4 @@ PropertyName|
 [TextDocumentLine Class](topic5659.md)   
 [TextDocumentLine Members](topic5660.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

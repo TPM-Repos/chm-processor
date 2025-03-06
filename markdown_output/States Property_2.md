@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 States Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13908.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [RequiredStatesAttribute Class](topic13901.md) : States Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RequiredStatesAttribute Class](topic13901.md)   
 [RequiredStatesAttribute Members](topic13902.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

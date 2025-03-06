@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add(Type,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6473.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskCollection Class](topic6466.md) : Add(Type,String) Method  
 ---  
   
@@ -76,4 +76,4 @@ The newly created task, or a null reference (Nothing in VB) if the creation of t
 [ComponentTaskCollection Class](topic6466.md)   
 [ComponentTaskCollection Members](topic6467.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

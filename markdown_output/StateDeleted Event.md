@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateDeleted Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11628.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [States Class](topic11612.md) : StateDeleted Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [States Class](topic11612.md)   
 [States Members](topic11613.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

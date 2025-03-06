@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MetadataDirectoryName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4896.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationSettings Class](topic4885.md) : MetadataDirectoryName Property  
 ---  
   
@@ -59,4 +59,4 @@ If the metadirectory name is zero-length or a null reference (Nothing in Visual 
 [ProjectSpecificationSettings Class](topic4885.md)   
 [ProjectSpecificationSettings Members](topic4886.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

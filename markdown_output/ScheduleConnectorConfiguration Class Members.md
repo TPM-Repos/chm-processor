@@ -76,4 +76,4 @@ Top
 [ScheduleConnectorConfiguration Class](topic6851.md)   
 [DriveWorks.Connectors.Schedule Namespace](topic6848.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

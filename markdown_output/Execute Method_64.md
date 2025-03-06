@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12573.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SetOwnerTask Class](topic12566.md) : Execute Method  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [SetOwnerTask Class](topic12566.md)   
 [SetOwnerTask Members](topic12567.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

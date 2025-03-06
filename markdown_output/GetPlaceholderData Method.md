@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetPlaceholderData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5247.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RollupDataTable Class](topic5240.md) : GetPlaceholderData Method  
 ---  
   
@@ -59,4 +59,4 @@ This data can be used for getting meaningful results when building rules.
 [RollupDataTable Class](topic5240.md)   
 [RollupDataTable Members](topic5241.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

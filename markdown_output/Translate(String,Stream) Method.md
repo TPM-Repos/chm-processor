@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Translate(String,Stream) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1770.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ISpecificationAutomation Interface](topic1761.md) > [Translate Method](topic1768.md) : Translate(String,Stream) Method  
 ---  
   
@@ -77,4 +77,4 @@ A null reference if no translator understands the file contents, otherwise, an a
 [ISpecificationAutomation Members](topic1762.md)   
 [Overload List](topic1768.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

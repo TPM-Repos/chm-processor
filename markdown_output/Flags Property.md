@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Flags Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6319.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseComponentsResults Class](topic6300.md) : Flags Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleaseComponentsResults Class](topic6300.md)   
 [ReleaseComponentsResults Members](topic6301.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

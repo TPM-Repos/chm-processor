@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TagsRule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5722.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TriggeredAction Class](topic5708.md) : TagsRule Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [TriggeredAction Class](topic5708.md)   
 [TriggeredAction Members](topic5709.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

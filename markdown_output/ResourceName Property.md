@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ResourceName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3826.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [PreviewResourceChangedEventArgs Class](topic3819.md) : ResourceName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [PreviewResourceChangedEventArgs Class](topic3819.md)   
 [PreviewResourceChangedEventArgs Members](topic3820.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

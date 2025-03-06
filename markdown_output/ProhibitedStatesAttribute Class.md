@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProhibitedStatesAttribute Class   
-[Members](topic13876.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13875.md)  
+[Members](topic13876.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : ProhibitedStatesAttribute Class  
 ---  
   
@@ -68,4 +68,4 @@ System.Attribute
 [ProhibitedStatesAttribute Members](topic13876.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

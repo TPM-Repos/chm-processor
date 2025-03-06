@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Image Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11671.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskAttribute Class](topic11659.md) : Image Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [TaskAttribute Class](topic11659.md)   
 [TaskAttribute Members](topic11660.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

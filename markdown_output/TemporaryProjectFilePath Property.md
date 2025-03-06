@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TemporaryProjectFilePath Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11235.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationContext Class](topic11149.md) : TemporaryProjectFilePath Property  
 ---  
   
@@ -55,4 +55,4 @@ The fully-qualified path to the context's temporary copy of the project file if 
 [SpecificationContext Class](topic11149.md)   
 [SpecificationContext Members](topic11150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

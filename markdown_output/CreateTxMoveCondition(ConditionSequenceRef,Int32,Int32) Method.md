@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxMoveCondition(ConditionSequenceRef,Int32,Int32) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13113.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxMoveCondition Method](topic13112.md) : CreateTxMoveCondition(ConditionSequenceRef,Int32,Int32) Method  
 ---  
   
@@ -81,4 +81,4 @@ _newIndex_
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic13112.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

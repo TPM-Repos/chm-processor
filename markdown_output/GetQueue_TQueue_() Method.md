@@ -8,7 +8,7 @@ _TQueue_
 DriveWorks SDK Documentation  |   
 ---|---  
 GetQueue<TQueue>() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1651.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [IAutopilotQueueManager Interface](topic1643.md) > [GetQueue Method](topic1649.md) : GetQueue<TQueue>() Method  
 ---  
   
@@ -64,4 +64,4 @@ A collection of queues matching the search criteria.
 [IAutopilotQueueManager Members](topic1644.md)   
 [Overload List](topic1649.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

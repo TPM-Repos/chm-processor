@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Defer Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12228.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [DesignMasterMacroTask Class](topic12219.md) : Defer Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [DesignMasterMacroTask Class](topic12219.md)   
 [DesignMasterMacroTask Members](topic12220.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

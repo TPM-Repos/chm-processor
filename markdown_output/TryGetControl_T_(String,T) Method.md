@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetControl<T>(String,T) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10242.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [ProjectNavigation Class](topic10222.md) > [TryGetControl Method](topic10240.md) : TryGetControl<T>(String,T) Method  
 ---  
   
@@ -86,4 +86,4 @@ True if the control was found and returned, otherwise false.
 [ProjectNavigation Members](topic10223.md)   
 [Overload List](topic10240.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

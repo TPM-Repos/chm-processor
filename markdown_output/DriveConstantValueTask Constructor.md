@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveConstantValueTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12238.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [DriveConstantValueTask Class](topic12232.md) : DriveConstantValueTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [DriveConstantValueTask Class](topic12232.md)   
 [DriveConstantValueTask Members](topic12233.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

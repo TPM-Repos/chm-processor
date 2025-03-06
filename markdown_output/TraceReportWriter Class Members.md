@@ -48,4 +48,4 @@ Top
 [TraceReportWriter Class](topic10494.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

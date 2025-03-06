@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreviewResourceChangedEventArgs Class   
-[Members](topic3820.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3819.md)  
+[Members](topic3820.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : PreviewResourceChangedEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [PreviewResourceChangedEventArgs Members](topic3820.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

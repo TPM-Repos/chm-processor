@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IWizard Interface   
-[Members](topic614.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic613.md)  
+[Members](topic614.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IWizard Interface  
 ---  
   
@@ -54,4 +54,4 @@ To make the wizard resizable, implement the [IDialogPreferences](topic195.md) in
 [IWizard Members](topic614.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

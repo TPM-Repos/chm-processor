@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetProjectMetadataByName Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3211.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupProjects Class](topic3190.md) : GetProjectMetadataByName Method  
 ---  
   
@@ -76,4 +76,4 @@ The value of the metadata entry.
 [GroupProjects Class](topic3190.md)   
 [GroupProjects Members](topic3191.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

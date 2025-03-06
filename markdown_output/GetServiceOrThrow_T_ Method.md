@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 GetServiceOrThrow<T> Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic822.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [Extensions Class](topic814.md) : GetServiceOrThrow<T> Method  
 ---  
   
@@ -83,4 +83,4 @@ Exception| Description
 [Extensions Class](topic814.md)   
 [Extensions Members](topic815.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

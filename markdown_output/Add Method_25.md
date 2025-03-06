@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15063.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedViewCollection Class](topic15057.md) : Add Method  
 ---  
   
@@ -116,4 +116,4 @@ The newly created view.
 [ReleasedViewCollection Class](topic15057.md)   
 [ReleasedViewCollection Members](topic15058.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

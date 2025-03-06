@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Bind(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10953.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperty Class](topic10946.md) > [Bind Method](topic10952.md) : Bind(String,String) Method  
 ---  
   
@@ -72,4 +72,4 @@ _comment_
 [FlowProperty Members](topic10947.md)   
 [Overload List](topic10952.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

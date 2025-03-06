@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdditionalFoldersCreatedEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10781.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [AdditionalFoldersCreatedEventArgs Class](topic10775.md) : AdditionalFoldersCreatedEventArgs Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [AdditionalFoldersCreatedEventArgs Class](topic10775.md)   
 [AdditionalFoldersCreatedEventArgs Members](topic10776.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Description Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2100.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [IProjectTemplateHelper Interface](topic2091.md) : Description Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IProjectTemplateHelper Interface](topic2091.md)   
 [IProjectTemplateHelper Members](topic2092.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

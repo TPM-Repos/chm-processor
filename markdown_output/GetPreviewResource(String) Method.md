@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetPreviewResource(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7293.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [IPreviewResourceHandler Interface](topic7286.md) > [GetPreviewResource Method](topic7292.md) : GetPreviewResource(String) Method  
 ---  
   
@@ -73,4 +73,4 @@ The result will be cached if it was a fresh result, and if [EagerLoadResources](
 [IPreviewResourceHandler Members](topic7287.md)   
 [Overload List](topic7292.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

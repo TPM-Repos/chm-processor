@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ApplicationPluginLoadedEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2116.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) : ApplicationPluginLoadedEventArgs Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [ApplicationPluginLoadedEventArgs Class](topic2116.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

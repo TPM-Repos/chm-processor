@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGet Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3979.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumns Class](topic3968.md) : TryGet Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the column is found.
 [ProjectCalculationTableColumns Class](topic3968.md)   
 [ProjectCalculationTableColumns Members](topic3969.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

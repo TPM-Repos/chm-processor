@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NextStep Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10139.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [DecisionNavigationStep Class](topic10125.md) : NextStep Property  
 ---  
   
@@ -57,4 +57,4 @@ The current next step based on the result of calculating the [ConditionExpressio
 [DecisionNavigationStep Class](topic10125.md)   
 [DecisionNavigationStep Members](topic10126.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

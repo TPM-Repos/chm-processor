@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Principal Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10656.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [AzureCredentials Class](topic10646.md) : Principal Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [AzureCredentials Class](topic10646.md)   
 [AzureCredentials Members](topic10647.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

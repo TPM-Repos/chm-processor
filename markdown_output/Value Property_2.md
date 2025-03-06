@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Value Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11816.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [UnparsableFlowPropertyValueException Class](topic11805.md) : Value Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [UnparsableFlowPropertyValueException Class](topic11805.md)   
 [UnparsableFlowPropertyValueException Members](topic11806.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

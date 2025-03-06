@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetUrl Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5998.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [IResourceUrlProvider Interface](topic5993.md) : GetUrl Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [IResourceUrlProvider Interface](topic5993.md)   
 [IResourceUrlProvider Members](topic5994.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

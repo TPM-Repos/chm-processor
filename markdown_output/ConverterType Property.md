@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConverterType Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9488.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [PropertyValueConverterAttribute Class](topic9481.md) : ConverterType Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [PropertyValueConverterAttribute Class](topic9481.md)   
 [PropertyValueConverterAttribute Members](topic9482.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

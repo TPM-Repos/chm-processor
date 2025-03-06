@@ -33,4 +33,4 @@ Top
 [IGroupDataTableDesigner Interface](topic1462.md)   
 [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupSharingViolationException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3351.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSharingViolationException Class](topic3345.md) : GroupSharingViolationException Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [GroupSharingViolationException Class](topic3345.md)   
 [GroupSharingViolationException Members](topic3346.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

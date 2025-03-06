@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PropertyTypes Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9469.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicPropertyData Class](topic9456.md) : PropertyTypes Property  
 ---  
   
@@ -57,4 +57,4 @@ See [DriveWorks.StandardRuleTypes](topic5461.md) for typical values.
 [DynamicPropertyData Class](topic9456.md)   
 [DynamicPropertyData Members](topic9457.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

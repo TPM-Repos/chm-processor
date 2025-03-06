@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Scope Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5088.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedComponentTask Class](topic5061.md) : Scope Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ReleasedComponentTask Class](topic5061.md)   
 [ReleasedComponentTask Members](topic5062.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LoadRangesFromFile Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2849.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ExcelDocument Class](topic2834.md) : LoadRangesFromFile Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ExcelDocument Class](topic2834.md)   
 [ExcelDocument Members](topic2835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

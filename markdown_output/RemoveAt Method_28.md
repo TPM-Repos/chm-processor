@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveAt Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6579.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskConditions Class](topic6561.md) : RemoveAt Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ComponentTaskConditions Class](topic6561.md)   
 [ComponentTaskConditions Members](topic6562.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

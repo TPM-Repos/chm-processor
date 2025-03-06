@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DatabaseName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5409.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SqlServerDataTable Class](topic5396.md) : DatabaseName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [SqlServerDataTable Class](topic5396.md)   
 [SqlServerDataTable Members](topic5397.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

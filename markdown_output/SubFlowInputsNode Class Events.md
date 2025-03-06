@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SubFlowInputsNode Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7136.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : SubFlowInputsNode Class  
 ---  
   
@@ -38,4 +38,4 @@ Top
 [SubFlowInputsNode Class](topic7136.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

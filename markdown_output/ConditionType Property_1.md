@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConditionType Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7166.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [ComponentTaskConditionNotFoundException Class](topic7157.md) : ConditionType Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ComponentTaskConditionNotFoundException Class](topic7157.md)   
 [ComponentTaskConditionNotFoundException Members](topic7158.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

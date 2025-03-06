@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NameChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3134.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupDataTable Class](topic3110.md) : NameChanged Event  
 ---  
   
@@ -60,4 +60,4 @@ Property| Description
 [GroupDataTable Class](topic3110.md)   
 [GroupDataTable Members](topic3111.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

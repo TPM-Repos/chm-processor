@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AlreadyInitializedException Class   
-[Members](topic2404.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2403.md)  
+[Members](topic2404.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : AlreadyInitializedException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [AlreadyInitializedException Members](topic2404.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

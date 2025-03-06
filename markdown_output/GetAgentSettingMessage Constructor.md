@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetAgentSettingMessage Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10055.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) > [GetAgentSettingMessage Class](topic10049.md) : GetAgentSettingMessage Constructor  
 ---  
   
@@ -66,4 +66,4 @@ see [StandardAgentSettingNames](topic10088.md) for collection of standard settin
 [GetAgentSettingMessage Class](topic10049.md)   
 [GetAgentSettingMessage Members](topic10050.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

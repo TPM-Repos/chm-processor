@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteControls(ControlBase) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8093.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [Form Class](topic8086.md) > [DeleteControls Method](topic8092.md) : DeleteControls(ControlBase) Method  
 ---  
   
@@ -69,4 +69,4 @@ True if the control was found and deleted.
 [Form Members](topic8087.md)   
 [Overload List](topic8092.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

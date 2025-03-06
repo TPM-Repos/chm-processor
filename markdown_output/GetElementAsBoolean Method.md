@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetElementAsBoolean Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2337.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ITableValue Interface](topic2331.md) : GetElementAsBoolean Method  
 ---  
   
@@ -84,4 +84,4 @@ The value, converted value, or a null reference if conversion fails.
 [ITableValue Interface](topic2331.md)   
 [ITableValue Members](topic2332.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

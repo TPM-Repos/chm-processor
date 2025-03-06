@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4626.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectMessage Class](topic4601.md) : RuleChanged Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectMessage Class](topic4601.md)   
 [ProjectMessage Members](topic4602.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

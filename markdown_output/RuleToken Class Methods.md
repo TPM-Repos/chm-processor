@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleToken Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13249.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) : RuleToken Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [RuleToken Class](topic13249.md)   
 [DriveWorks.Utility Namespace](topic13190.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

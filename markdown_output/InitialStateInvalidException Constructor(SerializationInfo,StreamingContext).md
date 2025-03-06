@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitialStateInvalidException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11026.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [InitialStateInvalidException Class](topic11018.md) > [InitialStateInvalidException Constructor](topic11024.md) : InitialStateInvalidException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [InitialStateInvalidException Members](topic11019.md)   
 [Overload List](topic11024.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

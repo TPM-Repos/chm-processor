@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OverwriteAllSetting Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15354.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified Namespace](topic15343.md) > [DiagnosticPreparationInteraction Class](topic15345.md) : OverwriteAllSetting Property  
 ---  
   
@@ -57,4 +57,4 @@ Nothing if no setting was saved, True to overwrite all models, False to re-gener
 [DiagnosticPreparationInteraction Class](topic15345.md)   
 [DiagnosticPreparationInteraction Members](topic15346.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

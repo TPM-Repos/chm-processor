@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FrameworkLibraryAttribute Class   
-[Members](topic7184.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7183.md)  
+[Members](topic7184.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) : FrameworkLibraryAttribute Class  
 ---  
   
@@ -74,4 +74,4 @@ System.Attribute
 [FrameworkLibraryAttribute Members](topic7184.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

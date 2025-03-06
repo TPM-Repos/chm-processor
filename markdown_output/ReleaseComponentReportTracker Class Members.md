@@ -38,4 +38,4 @@ Top
 [ReleaseComponentReportTracker Class](topic6292.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

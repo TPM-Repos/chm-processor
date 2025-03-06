@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetObjectData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5394.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SpecificationMacroCategoryEventArgs Class](topic5385.md) : GetObjectData Method  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [SpecificationMacroCategoryEventArgs Class](topic5385.md)   
 [SpecificationMacroCategoryEventArgs Members](topic5386.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

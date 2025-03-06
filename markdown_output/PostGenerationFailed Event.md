@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PostGenerationFailed Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15122.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [ICommonGenerationContext Interface](topic15096.md) : PostGenerationFailed Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [ICommonGenerationContext Interface](topic15096.md)   
 [ICommonGenerationContext Members](topic15097.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

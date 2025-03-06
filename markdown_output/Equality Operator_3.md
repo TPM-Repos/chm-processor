@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Equality Operator   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5374.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SpecificationMacroCategory Class](topic5359.md) : Equality Operator  
 ---  
   
@@ -62,4 +62,4 @@ _obj2_
 [SpecificationMacroCategory Class](topic5359.md)   
 [SpecificationMacroCategory Members](topic5360.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

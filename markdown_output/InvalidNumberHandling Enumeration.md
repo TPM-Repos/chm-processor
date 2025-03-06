@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidNumberHandling Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9382.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) : InvalidNumberHandling Enumeration  
 ---  
   
@@ -63,4 +63,4 @@ System.Enum
 
 [DriveWorks.Forms.DataModel Namespace](topic9371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

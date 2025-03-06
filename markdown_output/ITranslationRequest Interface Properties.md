@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ITranslationRequest Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1791.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : ITranslationRequest Interface  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [ITranslationRequest Interface](topic1791.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

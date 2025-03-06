@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventFromHasValidation Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic798.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [EventFromHasValidation Class](topic792.md) : EventFromHasValidation Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [EventFromHasValidation Class](topic792.md)   
 [EventFromHasValidation Members](topic793.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

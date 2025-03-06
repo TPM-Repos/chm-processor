@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ListColorSelectedProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8306.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ListBox Class](topic8267.md) : ListColorSelectedProperty Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ListBox Class](topic8267.md)   
 [ListBox Members](topic8268.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterContextualCommand(String,StateFilter,ICommandContextHelper,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic155.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandManager Interface](topic143.md) > [RegisterContextualCommand Method](topic153.md) : RegisterContextualCommand(String,StateFilter,ICommandContextHelper,Boolean) Method  
 ---  
   
@@ -99,4 +99,4 @@ One example of a context-aware command would be the open group command, without 
 [ICommandManager Members](topic144.md)   
 [Overload List](topic153.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

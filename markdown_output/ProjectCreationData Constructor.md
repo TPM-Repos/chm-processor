@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectCreationData Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2138.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [ProjectCreationData Class](topic2132.md) : ProjectCreationData Constructor  
 ---  
   
@@ -94,4 +94,4 @@ _projectService_
 [ProjectCreationData Class](topic2132.md)   
 [ProjectCreationData Members](topic2133.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

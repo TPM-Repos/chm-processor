@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4170.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentTasks Class](topic4163.md) : Item Property  
 ---  
   
@@ -68,4 +68,4 @@ The accessor that provides access to the collection associated with the specifie
 [ProjectComponentTasks Class](topic4163.md)   
 [ProjectComponentTasks Members](topic4164.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

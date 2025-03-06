@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IDataTableViewController Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1455.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) : IDataTableViewController Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [IDataTableViewController Interface](topic1455.md)   
 [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

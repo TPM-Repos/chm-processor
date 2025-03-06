@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupEditionException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3159.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupEditionException Class](topic3150.md) > [GroupEditionException Constructor](topic3156.md) : GroupEditionException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [GroupEditionException Members](topic3151.md)   
 [Overload List](topic3156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

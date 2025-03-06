@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TriggeredActionDetails Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5730.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TriggeredActionDetails Class](topic5724.md) : TriggeredActionDetails Constructor  
 ---  
   
@@ -60,4 +60,4 @@ C#|
 [TriggeredActionDetails Class](topic5724.md)   
 [TriggeredActionDetails Members](topic5725.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

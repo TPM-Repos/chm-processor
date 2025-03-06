@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ParseRule(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4918.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectUtility Class](topic4899.md) > [ParseRule Method](topic4917.md) : ParseRule(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ The parse result.
 [ProjectUtility Members](topic4900.md)   
 [Overload List](topic4917.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

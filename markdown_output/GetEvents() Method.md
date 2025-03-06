@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEvents() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4720.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectProfiler Class](topic4712.md) : GetEvents() Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectProfiler Class](topic4712.md)   
 [ProjectProfiler Members](topic4713.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

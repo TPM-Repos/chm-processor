@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SupportsTooltips Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9362.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [WebFrameControl Class](topic9356.md) : SupportsTooltips Property  
 ---  
   
@@ -55,4 +55,4 @@ True if this control supports tooltips.
 [WebFrameControl Class](topic9356.md)   
 [WebFrameControl Members](topic9357.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

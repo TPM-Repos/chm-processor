@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VirtualItemSelectedEventArgs Class   
-[Members](topic1185.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1184.md)  
+[Members](topic1185.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : VirtualItemSelectedEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [VirtualItemSelectedEventArgs Members](topic1185.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TextDocumentLine Constructor(ProjectDocumentRules,Int32,XElement)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5667.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TextDocumentLine Class](topic5659.md) > [TextDocumentLine Constructor](topic5665.md) : TextDocumentLine Constructor(ProjectDocumentRules,Int32,XElement)  
 ---  
   
@@ -79,4 +79,4 @@ _lineElement_
 [TextDocumentLine Members](topic5660.md)   
 [Overload List](topic5665.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

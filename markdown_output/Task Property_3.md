@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Task Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6602.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskEventArgs Class](topic6596.md) : Task Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ComponentTaskEventArgs Class](topic6596.md)   
 [ComponentTaskEventArgs Members](topic6597.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

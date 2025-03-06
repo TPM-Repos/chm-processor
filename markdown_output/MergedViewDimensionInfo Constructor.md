@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MergedViewDimensionInfo Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13857.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [MergedViewDimensionInfo Class](topic13851.md) : MergedViewDimensionInfo Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [MergedViewDimensionInfo Class](topic13851.md)   
 [MergedViewDimensionInfo Members](topic13852.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

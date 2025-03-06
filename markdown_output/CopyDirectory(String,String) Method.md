@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyDirectory(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2324.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ISpecificationFileCopyService Interface](topic2316.md) > [CopyDirectory Method](topic2321.md) : CopyDirectory(String,String) Method  
 ---  
   
@@ -72,4 +72,4 @@ _target_
 [ISpecificationFileCopyService Members](topic2317.md)   
 [Overload List](topic2321.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

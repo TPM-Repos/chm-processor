@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsControl Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5577.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportColumn Class](topic5568.md) : IsControl Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [TableExportColumn Class](topic5568.md)   
 [TableExportColumn Members](topic5569.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

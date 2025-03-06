@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataTableEventArgs Class   
-[Members](topic2656.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2655.md)  
+[Members](topic2656.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : DataTableEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [DataTableEventArgs Members](topic2656.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

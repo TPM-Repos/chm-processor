@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Label Class   
-[Members](topic8236.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8235.md)  
+[Members](topic8236.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : Label Class  
 ---  
   
@@ -64,4 +64,4 @@ System.MarshalByRefObject
 [Label Members](topic8236.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

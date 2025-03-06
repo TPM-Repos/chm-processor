@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TransactionEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1115.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [TransactionEventArgs Class](topic1109.md) : TransactionEventArgs Constructor  
 ---  
   
@@ -78,4 +78,4 @@ _isRegistering_
 [TransactionEventArgs Class](topic1109.md)   
 [TransactionEventArgs Members](topic1110.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

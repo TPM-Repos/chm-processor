@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ImageHandle Class   
-[Members](topic855.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic854.md)  
+[Members](topic855.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ImageHandle Class  
 ---  
   
@@ -66,4 +66,4 @@ System.Object
 [ImageHandle Members](topic855.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

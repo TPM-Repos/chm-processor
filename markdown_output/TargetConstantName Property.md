@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TargetConstantName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12294.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [GetConstantValueTask Class](topic12283.md) : TargetConstantName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [GetConstantValueTask Class](topic12283.md)   
 [GetConstantValueTask Members](topic12284.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

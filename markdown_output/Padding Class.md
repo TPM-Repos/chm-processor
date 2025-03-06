@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Padding Class   
-[Members](topic8677.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8676.md)  
+[Members](topic8677.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : Padding Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Object
 [Padding Members](topic8677.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

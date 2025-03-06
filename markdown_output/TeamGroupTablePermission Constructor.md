@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TeamGroupTablePermission Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10724.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [TeamGroupTablePermission Class](topic10718.md) : TeamGroupTablePermission Constructor  
 ---  
   
@@ -32,4 +32,4 @@ Overload| Description
 [TeamGroupTablePermission Class](topic10718.md)   
 [TeamGroupTablePermission Members](topic10719.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TransitionNameProperty Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12106.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CreateClosedChildSpecificationTask Class](topic12094.md) : TransitionNameProperty Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CreateClosedChildSpecificationTask Class](topic12094.md)   
 [CreateClosedChildSpecificationTask Members](topic12095.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

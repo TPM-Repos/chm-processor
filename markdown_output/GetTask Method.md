@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTask Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13156.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [TaskRef Class](topic13149.md) : GetTask Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [TaskRef Class](topic13149.md)   
 [TaskRef Members](topic13150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

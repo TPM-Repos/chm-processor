@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationDialogMessage Class   
-[Members](topic5335.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5334.md)  
+[Members](topic5335.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : SpecificationDialogMessage Class  
 ---  
   
@@ -61,4 +61,4 @@ System.Object
 [SpecificationDialogMessage Members](topic5335.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

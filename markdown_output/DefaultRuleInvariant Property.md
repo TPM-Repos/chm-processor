@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DefaultRuleInvariant Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8041.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DefaultRuleAttribute Class](topic8034.md) : DefaultRuleInvariant Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DefaultRuleAttribute Class](topic8034.md)   
 [DefaultRuleAttribute Members](topic8035.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

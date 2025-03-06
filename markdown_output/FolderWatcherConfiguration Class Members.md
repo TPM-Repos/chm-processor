@@ -69,4 +69,4 @@ Top
 [FolderWatcherConfiguration Class](topic6823.md)   
 [DriveWorks.Connectors.Folder Namespace](topic6821.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

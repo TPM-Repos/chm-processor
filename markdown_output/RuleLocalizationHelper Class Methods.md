@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleLocalizationHelper Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10018.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Localization Namespace](topic10015.md) : RuleLocalizationHelper Class  
 ---  
   
@@ -44,4 +44,4 @@ Top
 [RuleLocalizationHelper Class](topic10018.md)   
 [DriveWorks.Localization Namespace](topic10015.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

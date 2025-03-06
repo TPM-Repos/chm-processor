@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OriginalProjectName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11314.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationDetails Class](topic11292.md) : OriginalProjectName Property  
 ---  
   
@@ -55,4 +55,4 @@ The name of the project that is returned is the name of the project as it was wh
 [SpecificationDetails Class](topic11292.md)   
 [SpecificationDetails Members](topic11293.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

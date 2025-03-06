@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SettingValue Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11882.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardConditions Namespace](topic11828.md) > [ReleaseToAutoPilotCondition Class](topic11876.md) : SettingValue Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleaseToAutoPilotCondition Class](topic11876.md)   
 [ReleaseToAutoPilotCondition Members](topic11877.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

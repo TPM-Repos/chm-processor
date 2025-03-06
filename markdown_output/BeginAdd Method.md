@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginAdd Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8190.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ItemList Class](topic8183.md) : BeginAdd Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ItemList Class](topic8183.md)   
 [ItemList Members](topic8184.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

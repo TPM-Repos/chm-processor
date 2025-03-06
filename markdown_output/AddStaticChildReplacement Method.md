@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddStaticChildReplacement Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6264.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseComponentController Class](topic6252.md) : AddStaticChildReplacement Method  
 ---  
   
@@ -92,4 +92,4 @@ True if the static replacement was added, False if a replacement has already bee
 [ReleaseComponentController Class](topic6252.md)   
 [ReleaseComponentController Members](topic6253.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

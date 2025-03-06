@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsError Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9990.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [StatusMessageEventArgs Class](topic9981.md) : IsError Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [StatusMessageEventArgs Class](topic9981.md)   
 [StatusMessageEventArgs Members](topic9982.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

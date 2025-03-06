@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeParentConstantCategory(ProjectConstant,ProjectConstantCategory) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12985.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxChangeParentConstantCategory Method](topic12984.md) : CreateTxChangeParentConstantCategory(ProjectConstant,ProjectConstantCategory) Method  
 ---  
   
@@ -77,4 +77,4 @@ A transaction which, when executed, will perform the operation.
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic12984.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

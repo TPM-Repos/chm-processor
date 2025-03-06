@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerationTaskTypeKeys Class   
-[Members](topic13744.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13743.md)  
+[Members](topic13744.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : GenerationTaskTypeKeys Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [GenerationTaskTypeKeys Members](topic13744.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreparationFailedException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15288.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [PreparationFailedException Class](topic15281.md) > [PreparationFailedException Constructor](topic15287.md) : PreparationFailedException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [PreparationFailedException Members](topic15282.md)   
 [Overload List](topic15287.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginAdd(String,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8192.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ItemList Class](topic8183.md) > [BeginAdd Method](topic8190.md) : BeginAdd(String,Boolean) Method  
 ---  
   
@@ -80,4 +80,4 @@ System.InvalidOperationException|  Thrown when not in a Specification.
 [ItemList Members](topic8184.md)   
 [Overload List](topic8190.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

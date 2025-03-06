@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTask<T>(String,Double,Double) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11723.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskSequence Class](topic11713.md) > [CreateTask Method](topic11720.md) : CreateTask<T>(String,Double,Double) Method  
 ---  
   
@@ -100,4 +100,4 @@ System.ArgumentOutOfRangeException| The type specified in for the type parameter
 [TaskSequence Members](topic11714.md)   
 [Overload List](topic11720.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddInput Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6763.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) > [DatabaseConnectorConfiguration Class](topic6756.md) : AddInput Method  
 ---  
   
@@ -71,4 +71,4 @@ _inputName_
 [DatabaseConnectorConfiguration Class](topic6756.md)   
 [DatabaseConnectorConfiguration Members](topic6757.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

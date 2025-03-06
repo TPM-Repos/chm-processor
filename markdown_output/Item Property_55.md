@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4433.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocumentRules Class](topic4413.md) : Item Property  
 ---  
   
@@ -68,4 +68,4 @@ The document rule at the specified index.
 [ProjectDocumentRules Class](topic4413.md)   
 [ProjectDocumentRules Members](topic4414.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

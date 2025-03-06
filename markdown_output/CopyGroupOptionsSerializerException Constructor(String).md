@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyGroupOptionsSerializerException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2622.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [CopyGroupOptionsSerializerException Class](topic2615.md) > [CopyGroupOptionsSerializerException Constructor](topic2621.md) : CopyGroupOptionsSerializerException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [CopyGroupOptionsSerializerException Members](topic2616.md)   
 [Overload List](topic2621.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

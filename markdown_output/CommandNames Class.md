@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandNames Class   
-[Members](topic15421.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15420.md)  
+[Members](topic15421.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Integration Namespace](topic15418.md) : CommandNames Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [CommandNames Members](topic15421.md)   
 [DriveWorks.SolidWorks.Integration Namespace](topic15418.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

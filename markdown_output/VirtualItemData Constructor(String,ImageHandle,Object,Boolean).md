@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VirtualItemData Constructor(String,ImageHandle,Object,Boolean)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1162.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [VirtualItemData Class](topic1154.md) > [VirtualItemData Constructor](topic1160.md) : VirtualItemData Constructor(String,ImageHandle,Object,Boolean)  
 ---  
   
@@ -87,4 +87,4 @@ _shouldHighlight_
 [VirtualItemData Members](topic1155.md)   
 [Overload List](topic1160.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

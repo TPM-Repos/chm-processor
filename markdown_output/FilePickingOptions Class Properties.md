@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FilePickingOptions Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9902.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : FilePickingOptions Class  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [FilePickingOptions Class](topic9902.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

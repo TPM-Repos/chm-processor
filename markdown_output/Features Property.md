@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Features Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13950.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [IHasCapturedFeatures Interface](topic13945.md) : Features Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasCapturedFeatures Interface](topic13945.md)   
 [IHasCapturedFeatures Members](topic13946.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

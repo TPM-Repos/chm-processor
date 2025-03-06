@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EvaluateRule Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4370.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocument Class](topic4356.md) : EvaluateRule Method  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [ProjectDocument Class](topic4356.md)   
 [ProjectDocument Members](topic4357.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SettingsPageAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic965.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [SettingsPageAttribute Class](topic959.md) : SettingsPageAttribute Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [SettingsPageAttribute Class](topic959.md)   
 [SettingsPageAttribute Members](topic960.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

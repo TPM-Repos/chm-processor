@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DelaySolidWorksResponsivenessCheck Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1747.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ISolidWorksHealthMonitor Interface](topic1741.md) : DelaySolidWorksResponsivenessCheck Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ISolidWorksHealthMonitor Interface](topic1741.md)   
 [ISolidWorksHealthMonitor Members](topic1742.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

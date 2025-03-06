@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IndexOf Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7019.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [FlowNodeCollection Class](topic7011.md) : IndexOf Method  
 ---  
   
@@ -68,4 +68,4 @@ The index of the node, or -1 if the node is not in this collection.
 [FlowNodeCollection Class](topic7011.md)   
 [FlowNodeCollection Members](topic7012.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StandardAgentSettingNames Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10094.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) > [StandardAgentSettingNames Class](topic10088.md) : StandardAgentSettingNames Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [StandardAgentSettingNames Class](topic10088.md)   
 [StandardAgentSettingNames Members](topic10089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

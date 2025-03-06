@@ -38,4 +38,4 @@ Top
 [ApplicationPluginLoadedEventArgs Class](topic2116.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

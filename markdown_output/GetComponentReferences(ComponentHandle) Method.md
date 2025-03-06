@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetComponentReferences(ComponentHandle) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13397.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [IComponentManager Interface](topic13385.md) > [GetComponentReferences Method](topic13396.md) : GetComponentReferences(ComponentHandle) Method  
 ---  
   
@@ -69,4 +69,4 @@ An array of all components that holds a reference to the given component.
 [IComponentManager Members](topic13386.md)   
 [Overload List](topic13396.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

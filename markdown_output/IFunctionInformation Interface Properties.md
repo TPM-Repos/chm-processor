@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IFunctionInformation Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10512.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) : IFunctionInformation Interface  
 ---  
   
@@ -39,4 +39,4 @@ Top
 [IFunctionInformation Interface](topic10512.md)   
 [DriveWorks.Rules Namespace](topic10510.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Deactivate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1538.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [IDocumentTestController Interface](topic1532.md) : Deactivate Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IDocumentTestController Interface](topic1532.md)   
 [IDocumentTestController Members](topic1533.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProviderName Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10668.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [DriveWorksAuthenticationProvider Class](topic10660.md) : ProviderName Field  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [DriveWorksAuthenticationProvider Class](topic10660.md)   
 [DriveWorksAuthenticationProvider Members](topic10661.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

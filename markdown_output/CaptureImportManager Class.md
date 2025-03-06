@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CaptureImportManager Class   
-[Members](topic2469.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2468.md)  
+[Members](topic2469.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : CaptureImportManager Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [CaptureImportManager Members](topic2469.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

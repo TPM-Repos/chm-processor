@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidTemplateException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic866.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [InvalidTemplateException Class](topic860.md) : InvalidTemplateException Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [InvalidTemplateException Class](topic860.md)   
 [InvalidTemplateException Members](topic861.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

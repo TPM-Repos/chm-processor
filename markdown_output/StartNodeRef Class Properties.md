@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartNodeRef Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13140.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) : StartNodeRef Class  
 ---  
   
@@ -32,4 +32,4 @@ Top
 [StartNodeRef Class](topic13140.md)   
 [DriveWorks.Transactions Namespace](topic12835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

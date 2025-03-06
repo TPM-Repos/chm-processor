@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Rule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13239.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [RuleSearchResult Class](topic13227.md) : Rule Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [RuleSearchResult Class](topic13227.md)   
 [RuleSearchResult Members](topic13228.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

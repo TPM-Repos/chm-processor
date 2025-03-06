@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DecimalSeparator Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10033.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Localization Namespace](topic10015.md) > [RuleLocalizationHelper Class](topic10018.md) : DecimalSeparator Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RuleLocalizationHelper Class](topic10018.md)   
 [RuleLocalizationHelper Members](topic10019.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

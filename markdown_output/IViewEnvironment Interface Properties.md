@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IViewEnvironment Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic549.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IViewEnvironment Interface  
 ---  
   
@@ -38,4 +38,4 @@ Top
 [IViewEnvironment Interface](topic549.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ToArray Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11732.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskSequence Class](topic11713.md) : ToArray Method  
 ---  
   
@@ -55,4 +55,4 @@ A new array containing all the tasks in this instance.
 [TaskSequence Class](topic11713.md)   
 [TaskSequence Members](topic11714.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

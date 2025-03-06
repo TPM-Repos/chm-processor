@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetUrl(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5999.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [IResourceUrlProvider Interface](topic5993.md) > [GetUrl Method](topic5998.md) : GetUrl(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ The URL to the specified file.
 [IResourceUrlProvider Members](topic5994.md)   
 [Overload List](topic5998.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

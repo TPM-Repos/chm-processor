@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DynamicPropertyData Class   
-[Members](topic9457.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9456.md)  
+[Members](topic9457.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) : DynamicPropertyData Class  
 ---  
   
@@ -59,4 +59,4 @@ System.Object
 [DynamicPropertyData Members](topic9457.md)   
 [DriveWorks.Forms.DataModel Namespace](topic9371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

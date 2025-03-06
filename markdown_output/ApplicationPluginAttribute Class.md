@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ApplicationPluginAttribute Class   
-[Members](topic2107.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2106.md)  
+[Members](topic2107.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) : ApplicationPluginAttribute Class  
 ---  
   
@@ -70,4 +70,4 @@ System.Attribute
 [ApplicationPluginAttribute Members](topic2107.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

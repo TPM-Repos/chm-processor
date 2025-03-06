@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4118.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentSet Class](topic4106.md) : Name Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectComponentSet Class](topic4106.md)   
 [ProjectComponentSet Members](topic4107.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

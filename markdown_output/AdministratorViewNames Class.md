@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdministratorViewNames Class   
-[Members](topic1389.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1388.md)  
+[Members](topic1389.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) : AdministratorViewNames Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [AdministratorViewNames Members](topic1389.md)   
 [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

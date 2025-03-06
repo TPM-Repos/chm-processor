@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsNameTaken Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6450.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskAccessor Class](topic6429.md) : IsNameTaken Method  
 ---  
   
@@ -68,4 +68,4 @@ True if a task exists in the accessor with the given name.
 [ComponentTaskAccessor Class](topic6429.md)   
 [ComponentTaskAccessor Members](topic6430.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

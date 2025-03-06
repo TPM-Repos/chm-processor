@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Tags Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4120.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentSet Class](topic4106.md) : Tags Property  
 ---  
   
@@ -55,4 +55,4 @@ If the component hasn't been loaded by a call to the [LoadComponent](topic4112.m
 [ProjectComponentSet Class](topic4106.md)   
 [ProjectComponentSet Members](topic4107.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

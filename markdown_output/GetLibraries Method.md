@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetLibraries Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2084.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [ILibraryManager Interface](topic2079.md) : GetLibraries Method  
 ---  
   
@@ -55,4 +55,4 @@ An array of information about the loaded libraries.
 [ILibraryManager Interface](topic2079.md)   
 [ILibraryManager Members](topic2080.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Text Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4195.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectConstant Class](topic4171.md) : Text Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectConstant Class](topic4171.md)   
 [ProjectConstant Members](topic4172.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

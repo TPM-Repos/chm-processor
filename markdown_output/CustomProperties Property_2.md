@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CustomProperties Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14010.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [IHasReleasedCustomProperties Interface](topic14005.md) : CustomProperties Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasReleasedCustomProperties Interface](topic14005.md)   
 [IHasReleasedCustomProperties Members](topic14006.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

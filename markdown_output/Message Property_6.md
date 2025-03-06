@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Message Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2674.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DeferredTaskFailureDetails Class](topic2666.md) : Message Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DeferredTaskFailureDetails Class](topic2666.md)   
 [DeferredTaskFailureDetails Members](topic2667.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

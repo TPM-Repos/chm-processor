@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StopTheme Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic348.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ILiveThemeStarter Interface](topic342.md) : StopTheme Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ILiveThemeStarter Interface](topic342.md)   
 [ILiveThemeStarter Members](topic343.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

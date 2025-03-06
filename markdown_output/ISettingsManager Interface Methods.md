@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ISettingsManager Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic442.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ISettingsManager Interface  
 ---  
   
@@ -40,4 +40,4 @@ Top
 [ISettingsManager Interface](topic442.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

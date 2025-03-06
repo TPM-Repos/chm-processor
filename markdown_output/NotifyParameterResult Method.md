@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotifyParameterResult Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6118.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [IReleaseParameterTracker Interface](topic6113.md) : NotifyParameterResult Method  
 ---  
   
@@ -95,4 +95,4 @@ _parameterResult_
 [IReleaseParameterTracker Interface](topic6113.md)   
 [IReleaseParameterTracker Members](topic6114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsEnabled Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2054.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [IHasEnabled Interface](topic2049.md) : IsEnabled Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [IHasEnabled Interface](topic2049.md)   
 [IHasEnabled Members](topic2050.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

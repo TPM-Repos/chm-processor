@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ShowHelpTopic Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic320.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IHelpService Interface](topic315.md) : ShowHelpTopic Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IHelpService Interface](topic315.md)   
 [IHelpService Members](topic316.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

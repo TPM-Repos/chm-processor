@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventFromReflection Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic805.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [EventFromReflection Class](topic799.md) : EventFromReflection Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _eventName_
 [EventFromReflection Class](topic799.md)   
 [EventFromReflection Members](topic800.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

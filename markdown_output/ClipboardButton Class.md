@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClipboardButton Class   
-[Members](topic7607.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7606.md)  
+[Members](topic7607.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : ClipboardButton Class  
 ---  
   
@@ -63,4 +63,4 @@ System.MarshalByRefObject
 [ClipboardButton Members](topic7607.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

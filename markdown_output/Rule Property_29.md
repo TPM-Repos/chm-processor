@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Rule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6213.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ProjectComponentRule Class](topic6198.md) : Rule Property  
 ---  
   
@@ -59,4 +59,4 @@ System.NotSupportedException| The rule is not writable.
 [ProjectComponentRule Class](topic6198.md)   
 [ProjectComponentRule Members](topic6199.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

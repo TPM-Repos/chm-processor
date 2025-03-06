@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidTemplateException Class   
-[Members](topic861.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic860.md)  
+[Members](topic861.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : InvalidTemplateException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [InvalidTemplateException Members](topic861.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

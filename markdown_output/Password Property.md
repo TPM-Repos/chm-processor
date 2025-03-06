@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Password Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12819.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [UpdateUserPasswordTask Class](topic12811.md) : Password Property  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [UpdateUserPasswordTask Class](topic12811.md)   
 [UpdateUserPasswordTask Members](topic12812.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IFunctionInformation Interface   
-[Members](topic10513.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10512.md)  
+[Members](topic10513.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) : IFunctionInformation Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IFunctionInformation Members](topic10513.md)   
 [DriveWorks.Rules Namespace](topic10510.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

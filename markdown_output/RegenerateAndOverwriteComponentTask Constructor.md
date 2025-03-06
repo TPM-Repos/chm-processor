@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegenerateAndOverwriteComponentTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12452.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [RegenerateAndOverwriteComponentTask Class](topic12446.md) : RegenerateAndOverwriteComponentTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [RegenerateAndOverwriteComponentTask Class](topic12446.md)   
 [RegenerateAndOverwriteComponentTask Members](topic12447.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

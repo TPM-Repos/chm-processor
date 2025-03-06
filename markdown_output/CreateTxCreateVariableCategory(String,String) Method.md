@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxCreateVariableCategory(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13079.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxCreateVariableCategory Method](topic13077.md) : CreateTxCreateVariableCategory(String,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ A transaction which, when executed, will perform the operation.
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic13077.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

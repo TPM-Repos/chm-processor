@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InputName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6795.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) > [InputBinding Class](topic6788.md) : InputName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [InputBinding Class](topic6788.md)   
 [InputBinding Members](topic6789.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

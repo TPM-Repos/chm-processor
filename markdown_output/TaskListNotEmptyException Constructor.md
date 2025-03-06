@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TaskListNotEmptyException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11697.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskListNotEmptyException Class](topic11691.md) : TaskListNotEmptyException Constructor  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [TaskListNotEmptyException Class](topic11691.md)   
 [TaskListNotEmptyException Members](topic11692.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

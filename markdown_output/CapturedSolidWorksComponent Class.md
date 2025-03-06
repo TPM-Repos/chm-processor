@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CapturedSolidWorksComponent Class   
-[Members](topic14344.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14343.md)  
+[Members](topic14344.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : CapturedSolidWorksComponent Class  
 ---  
   
@@ -64,4 +64,4 @@ System.MarshalByRefObject
 [CapturedSolidWorksComponent Members](topic14344.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

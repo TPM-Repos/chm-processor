@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsStatus Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7073.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [NodeNavigationOutput Class](topic7067.md) : IsStatus Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [NodeNavigationOutput Class](topic7067.md)   
 [NodeNavigationOutput Members](topic7068.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

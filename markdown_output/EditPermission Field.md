@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EditPermission Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10701.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [StandardProjectPermissions Class](topic10695.md) : EditPermission Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [StandardProjectPermissions Class](topic10695.md)   
 [StandardProjectPermissions Members](topic10696.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

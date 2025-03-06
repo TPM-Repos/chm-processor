@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsTrustedConnection Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6816.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) > [SqlDataSourceConfiguration Class](topic6807.md) : IsTrustedConnection Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [SqlDataSourceConfiguration Class](topic6807.md)   
 [SqlDataSourceConfiguration Members](topic6808.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

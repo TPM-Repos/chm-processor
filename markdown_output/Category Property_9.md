@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Category Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6614.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskParameterInfo Class](topic6603.md) : Category Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ComponentTaskParameterInfo Class](topic6603.md)   
 [ComponentTaskParameterInfo Members](topic6604.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExceptionEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic812.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ExceptionEventArgs Class](topic806.md) : ExceptionEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ExceptionEventArgs Class](topic806.md)   
 [ExceptionEventArgs Members](topic807.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

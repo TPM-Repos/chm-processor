@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportingClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12488.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ReleaseEmailsTask Class](topic12477.md) : ReportingClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleaseEmailsTask Class](topic12477.md)   
 [ReleaseEmailsTask Members](topic12478.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

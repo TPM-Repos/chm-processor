@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerationTaskAttribute Constructor(String,String,String,String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13703.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [GenerationTaskAttribute Class](topic13693.md) > [GenerationTaskAttribute Constructor](topic13699.md) : GenerationTaskAttribute Constructor(String,String,String,String)  
 ---  
   
@@ -87,4 +87,4 @@ _category_
 [GenerationTaskAttribute Members](topic13694.md)   
 [Overload List](topic13699.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

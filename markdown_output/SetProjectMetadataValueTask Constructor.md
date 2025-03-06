@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetProjectMetadataValueTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12582.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SetProjectMetadataValueTask Class](topic12576.md) : SetProjectMetadataValueTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [SetProjectMetadataValueTask Class](topic12576.md)   
 [SetProjectMetadataValueTask Members](topic12577.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

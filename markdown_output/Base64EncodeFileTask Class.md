@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Base64EncodeFileTask Class   
-[Members](topic11951.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11950.md)  
+[Members](topic11951.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : Base64EncodeFileTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [Base64EncodeFileTask Members](topic11951.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

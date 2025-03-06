@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ICommandBarManager Interface   
-[Members](topic110.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic109.md)  
+[Members](topic110.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ICommandBarManager Interface  
 ---  
   
@@ -53,4 +53,4 @@ If a view wishes to create a command button group, it should use the [ViewContro
 [ICommandBarManager Members](topic110.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

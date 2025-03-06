@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WillExecute Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9653.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [AddGroupUserToTeamAction Class](topic9643.md) : WillExecute Property  
 ---  
   
@@ -55,4 +55,4 @@ True if it this action wants to execute.
 [AddGroupUserToTeamAction Class](topic9643.md)   
 [AddGroupUserToTeamAction Members](topic9644.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

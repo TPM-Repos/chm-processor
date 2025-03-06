@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TargetDirectory Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9795.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupProcess Class](topic9776.md) : TargetDirectory Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CopyGroupProcess Class](topic9776.md)   
 [CopyGroupProcess Members](topic9777.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

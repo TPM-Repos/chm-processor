@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Specify Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1767.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ISpecificationAutomation Interface](topic1761.md) : Specify Method  
 ---  
   
@@ -71,4 +71,4 @@ _waitForCompletion_
 [ISpecificationAutomation Interface](topic1761.md)   
 [ISpecificationAutomation Members](topic1762.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

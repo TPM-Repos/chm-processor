@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Control Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1539.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [IDocumentTestController Interface](topic1532.md) : Control Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IDocumentTestController Interface](topic1532.md)   
 [IDocumentTestController Members](topic1533.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TargetPath Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15209.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [FileFormatGenerationEventArgs Class](topic15202.md) : TargetPath Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [FileFormatGenerationEventArgs Class](topic15202.md)   
 [FileFormatGenerationEventArgs Members](topic15203.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

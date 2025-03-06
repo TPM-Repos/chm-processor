@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsRunningRequired Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12253.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [DriveControlValueTask Class](topic12245.md) : IsRunningRequired Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [DriveControlValueTask Class](topic12245.md)   
 [DriveControlValueTask Members](topic12246.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

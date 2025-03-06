@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileExtension Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13570.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileExtensionAttribute Class](topic13564.md) : FileExtension Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [FileExtensionAttribute Class](topic13564.md)   
 [FileExtensionAttribute Members](topic13565.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

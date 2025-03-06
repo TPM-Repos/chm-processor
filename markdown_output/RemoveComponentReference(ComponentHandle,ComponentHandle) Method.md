@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveComponentReference(ComponentHandle,ComponentHandle) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13405.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [IComponentManager Interface](topic13385.md) > [RemoveComponentReference Method](topic13404.md) : RemoveComponentReference(ComponentHandle,ComponentHandle) Method  
 ---  
   
@@ -81,4 +81,4 @@ If the reference count drops to zero, then the child is completely removed.
 [IComponentManager Members](topic13386.md)   
 [Overload List](topic13404.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

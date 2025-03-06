@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleSearchResultEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13242.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) : RuleSearchResultEventArgs Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [RuleSearchResultEventArgs Class](topic13242.md)   
 [DriveWorks.Utility Namespace](topic13190.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValidateWin32FileNameWithPath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13325.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [ValidationUtility Class](topic13287.md) : ValidateWin32FileNameWithPath Method  
 ---  
   
@@ -67,4 +67,4 @@ True if the path validates correctly, and false otherwise.
 [ValidationUtility Class](topic13287.md)   
 [ValidationUtility Members](topic13288.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

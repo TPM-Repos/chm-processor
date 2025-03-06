@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MacroFailedException Class   
-[Members](topic3676.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3675.md)  
+[Members](topic3676.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : MacroFailedException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [MacroFailedException Members](topic3676.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

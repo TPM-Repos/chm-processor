@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ServiceName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic925.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [RequiredServiceException Class](topic915.md) : ServiceName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RequiredServiceException Class](topic915.md)   
 [RequiredServiceException Members](topic916.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

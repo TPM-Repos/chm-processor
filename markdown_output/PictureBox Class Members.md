@@ -127,4 +127,4 @@ Top
 [PictureBox Class](topic8686.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

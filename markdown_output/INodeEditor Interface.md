@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 INodeEditor Interface   
-[Members](topic6889.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6888.md)  
+[Members](topic6889.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : INodeEditor Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [INodeEditor Members](topic6889.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

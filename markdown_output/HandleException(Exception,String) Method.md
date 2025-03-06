@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HandleException(Exception,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic214.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IExceptionHandler Interface](topic207.md) > [HandleException Method](topic212.md) : HandleException(Exception,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ True if the exception was handled and can be safely ignored, false to rethrow it
 [IExceptionHandler Members](topic208.md)   
 [Overload List](topic212.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValidateUserFullname Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13321.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [ValidationUtility Class](topic13287.md) : ValidateUserFullname Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ValidationUtility Class](topic13287.md)   
 [ValidationUtility Members](topic13288.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

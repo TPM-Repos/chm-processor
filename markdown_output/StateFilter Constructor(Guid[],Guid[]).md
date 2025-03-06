@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateFilter Constructor(Guid[],Guid[])   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1085.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [StateFilter Class](topic1077.md) > [StateFilter Constructor](topic1083.md) : StateFilter Constructor(Guid[],Guid[])  
 ---  
   
@@ -71,4 +71,4 @@ _excludedStates_
 [StateFilter Members](topic1078.md)   
 [Overload List](topic1083.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Filters Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4477.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectFilterList Class](topic4470.md) : Filters Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectFilterList Class](topic4470.md)   
 [ProjectFilterList Members](topic4471.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

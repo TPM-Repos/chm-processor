@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IComponentFactory Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6091.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : IComponentFactory Interface  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [IComponentFactory Interface](topic6091.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

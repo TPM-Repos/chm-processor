@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupDataChangedByExternalProgramException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13769.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [GroupDataChangedByExternalProgramException Class](topic13763.md) : GroupDataChangedByExternalProgramException Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [GroupDataChangedByExternalProgramException Class](topic13763.md)   
 [GroupDataChangedByExternalProgramException Members](topic13764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

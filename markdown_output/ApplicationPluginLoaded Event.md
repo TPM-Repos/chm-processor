@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ApplicationPluginLoaded Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2027.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [IApplicationPluginManager Interface](topic2021.md) : ApplicationPluginLoaded Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IApplicationPluginManager Interface](topic2021.md)   
 [IApplicationPluginManager Members](topic2022.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

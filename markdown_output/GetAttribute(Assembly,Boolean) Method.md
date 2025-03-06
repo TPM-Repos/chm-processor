@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetAttribute(Assembly,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7216.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [LibraryAttribute Class](topic7201.md) > [GetAttribute Method](topic7214.md) : GetAttribute(Assembly,Boolean) Method  
 ---  
   
@@ -76,4 +76,4 @@ An instance of the library attribute if it is applied to the specified assembly,
 [LibraryAttribute Members](topic7202.md)   
 [Overload List](topic7214.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

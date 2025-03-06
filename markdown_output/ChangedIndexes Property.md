@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChangedIndexes Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3503.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IndexesChangedEventArgs Class](topic3496.md) : ChangedIndexes Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IndexesChangedEventArgs Class](topic3496.md)   
 [IndexesChangedEventArgs Members](topic3497.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

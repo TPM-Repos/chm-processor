@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TableExportSummary Class   
-[Members](topic5623.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5622.md)  
+[Members](topic5623.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : TableExportSummary Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [TableExportSummary Members](topic5623.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

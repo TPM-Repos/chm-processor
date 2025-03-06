@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportWriterBase Class   
-[Members](topic10477.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10476.md)  
+[Members](topic10477.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : ReportWriterBase Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ReportWriterBase Members](topic10477.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FormulaSelection Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1619.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md) > [IRuleWindow Interface](topic1607.md) : FormulaSelection Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [IRuleWindow Interface](topic1607.md)   
 [IRuleWindow Members](topic1608.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

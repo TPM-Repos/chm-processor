@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetRoles Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10602.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [IProviderPrincipal Interface](topic10597.md) : GetRoles Method  
 ---  
   
@@ -59,4 +59,4 @@ If the given principal is not registered in the DriveWorks Group, but it belongs
 [IProviderPrincipal Interface](topic10597.md)   
 [IProviderPrincipal Members](topic10598.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

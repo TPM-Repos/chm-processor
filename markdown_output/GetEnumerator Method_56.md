@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEnumerator Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5587.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportColumns Class](topic5579.md) : GetEnumerator Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [TableExportColumns Class](topic5579.md)   
 [TableExportColumns Members](topic5580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

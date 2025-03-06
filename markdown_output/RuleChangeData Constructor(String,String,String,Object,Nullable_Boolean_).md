@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleChangeData Constructor(String,String,String,Object,Nullable<Boolean>)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5263.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RuleChangeData Class](topic5254.md) > [RuleChangeData Constructor](topic5260.md) : RuleChangeData Constructor(String,String,String,Object,Nullable<Boolean>)  
 ---  
   
@@ -95,4 +95,4 @@ _isDynamic_
 [RuleChangeData Members](topic5255.md)   
 [Overload List](topic5260.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

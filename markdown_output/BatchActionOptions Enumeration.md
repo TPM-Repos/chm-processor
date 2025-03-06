@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BatchActionOptions Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10268.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) : BatchActionOptions Enumeration  
 ---  
   
@@ -63,4 +63,4 @@ System.Enum
 
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

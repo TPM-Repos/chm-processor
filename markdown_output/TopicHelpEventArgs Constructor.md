@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TopicHelpEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1107.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [TopicHelpEventArgs Class](topic1101.md) : TopicHelpEventArgs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _topicName_
 [TopicHelpEventArgs Class](topic1101.md)   
 [TopicHelpEventArgs Members](topic1102.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UdfAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7262.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [UdfAttribute Class](topic7256.md) : UdfAttribute Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [UdfAttribute Class](topic7256.md)   
 [UdfAttribute Members](topic7257.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

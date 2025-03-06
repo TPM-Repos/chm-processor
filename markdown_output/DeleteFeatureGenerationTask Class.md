@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteFeatureGenerationTask Class   
-[Members](topic15310.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15309.md)  
+[Members](topic15310.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Extensibility.GenerationTasks.Tasks Namespace](topic15301.md) : DeleteFeatureGenerationTask Class  
 ---  
   
@@ -75,4 +75,4 @@ System.Object
 [DeleteFeatureGenerationTask Members](topic15310.md)   
 [DriveWorks.SolidWorks.Generation.Extensibility.GenerationTasks.Tasks Namespace](topic15301.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

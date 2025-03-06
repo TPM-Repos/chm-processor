@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValidationUtility Class   
-[Members](topic13288.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13287.md)  
+[Members](topic13288.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) : ValidationUtility Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ValidationUtility Members](topic13288.md)   
 [DriveWorks.Utility Namespace](topic13190.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TableName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5333.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SimpleTableExport Class](topic5320.md) : TableName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [SimpleTableExport Class](topic5320.md)   
 [SimpleTableExport Members](topic5321.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

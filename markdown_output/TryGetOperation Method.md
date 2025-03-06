@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetOperation Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11106.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Operations Class](topic11095.md) : TryGetOperation Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the operation was found and returned, otherwise false.
 [Operations Class](topic11095.md)   
 [Operations Members](topic11096.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

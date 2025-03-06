@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupReleasedComponents Class   
-[Members](topic3239.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3238.md)  
+[Members](topic3239.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : GroupReleasedComponents Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [GroupReleasedComponents Members](topic3239.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTitle Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic141.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandContextHelper Interface](topic135.md) : GetTitle Method  
 ---  
   
@@ -68,4 +68,4 @@ A string containing the localized title of the command.
 [ICommandContextHelper Interface](topic135.md)   
 [ICommandContextHelper Members](topic136.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

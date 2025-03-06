@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportDetails Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5227.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReportDetails Class](topic5221.md) : ReportDetails Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [ReportDetails Class](topic5221.md)   
 [ReportDetails Members](topic5222.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

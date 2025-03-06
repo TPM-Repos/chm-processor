@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProposeNewControlName(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7781.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlCollection Class](topic7766.md) > [ProposeNewControlName Method](topic7780.md) : ProposeNewControlName(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ A new control name, optionally suffixed with an index which makes the name uniqu
 [ControlCollection Members](topic7767.md)   
 [Overload List](topic7780.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

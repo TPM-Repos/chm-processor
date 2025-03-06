@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13269.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [SearchEventArgs Class](topic13263.md) : Item Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SearchEventArgs Class](topic13263.md)   
 [SearchEventArgs Members](topic13264.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

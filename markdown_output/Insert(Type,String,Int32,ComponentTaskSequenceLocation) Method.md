@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Insert(Type,String,Int32,ComponentTaskSequenceLocation) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6449.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskAccessor Class](topic6429.md) > [Insert Method](topic6445.md) : Insert(Type,String,Int32,ComponentTaskSequenceLocation) Method  
 ---  
   
@@ -99,4 +99,4 @@ System.IndexOutOfRangeException| Index is negative or greater than the size of t
 [ComponentTaskAccessor Members](topic6430.md)   
 [Overload List](topic6445.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

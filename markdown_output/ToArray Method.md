@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ToArray Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10881.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Conditions Class](topic10865.md) : ToArray Method  
 ---  
   
@@ -55,4 +55,4 @@ An array of conditions.
 [Conditions Class](topic10865.md)   
 [Conditions Members](topic10866.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

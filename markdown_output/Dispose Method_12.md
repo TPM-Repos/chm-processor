@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Dispose Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8985.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SpecificationHostControl Class](topic8979.md) : Dispose Method  
 ---  
   
@@ -32,4 +32,4 @@ Overload| Description
 [SpecificationHostControl Class](topic8979.md)   
 [SpecificationHostControl Members](topic8980.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

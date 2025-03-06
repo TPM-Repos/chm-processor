@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveOverride Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic194.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandOverrideService Interface](topic188.md) : RemoveOverride Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the override was removed.
 [ICommandOverrideService Interface](topic188.md)   
 [ICommandOverrideService Members](topic189.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

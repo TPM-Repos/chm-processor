@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SendAgentRequest Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2979.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Group Class](topic2958.md) : SendAgentRequest Method  
 ---  
   
@@ -76,4 +76,4 @@ The reply value from the agent.
 [Group Class](topic2958.md)   
 [Group Members](topic2959.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

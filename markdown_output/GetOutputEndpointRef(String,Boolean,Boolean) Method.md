@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetOutputEndpointRef(String,Boolean,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12872.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ExecutableNodeRef Class](topic12864.md) > [GetOutputEndpointRef Method](topic12871.md) : GetOutputEndpointRef(String,Boolean,Boolean) Method  
 ---  
   
@@ -81,4 +81,4 @@ _isStatus_
 [ExecutableNodeRef Members](topic12865.md)   
 [Overload List](topic12871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

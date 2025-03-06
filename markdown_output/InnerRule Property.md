@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InnerRule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6014.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [AliasRule Class](topic6001.md) : InnerRule Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [AliasRule Class](topic6001.md)   
 [AliasRule Members](topic6002.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

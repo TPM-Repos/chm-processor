@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetInformation Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1713.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [IGroupConnector Interface](topic1706.md) : SetInformation Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IGroupConnector Interface](topic1706.md)   
 [IGroupConnector Members](topic1707.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

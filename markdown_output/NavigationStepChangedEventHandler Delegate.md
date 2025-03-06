@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NavigationStepChangedEventHandler Delegate   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10264.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) : NavigationStepChangedEventHandler Delegate  
 ---  
   
@@ -67,4 +67,4 @@ _e_
 [NavigationStepChangedEventHandler Members](topic10264.md)   
 [DriveWorks.Navigation Namespace](topic10114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

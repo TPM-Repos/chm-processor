@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Operation Class   
-[Members](topic11069.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11068.md)  
+[Members](topic11069.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : Operation Class  
 ---  
   
@@ -70,4 +70,4 @@ System.MarshalByRefObject
 [Operation Members](topic11069.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

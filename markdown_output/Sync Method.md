@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Sync Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic220.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IFormDesignerProjectSettings Interface](topic215.md) : Sync Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IFormDesignerProjectSettings Interface](topic215.md)   
 [IFormDesignerProjectSettings Members](topic216.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

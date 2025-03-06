@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12555.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SendHttpRequestTask Class](topic12548.md) : Execute Method  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [SendHttpRequestTask Class](topic12548.md)   
 [SendHttpRequestTask Members](topic12549.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

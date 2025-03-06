@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectLocation Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4105.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentManager Class](topic4094.md) : ProjectLocation Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectComponentManager Class](topic4094.md)   
 [ProjectComponentManager Members](topic4095.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ContentFolder Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9967.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [RemapGroupContentFolderAction Class](topic9959.md) : ContentFolder Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RemapGroupContentFolderAction Class](topic9959.md)   
 [RemapGroupContentFolderAction Members](topic9960.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteGroupTableRowsTask Class   
-[Members](topic12154.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12153.md)  
+[Members](topic12154.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : DeleteGroupTableRowsTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [DeleteGroupTableRowsTask Members](topic12154.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

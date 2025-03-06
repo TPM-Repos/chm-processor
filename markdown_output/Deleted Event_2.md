@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Deleted Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11081.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Operation Class](topic11068.md) : Deleted Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Operation Class](topic11068.md)   
 [Operation Members](topic11069.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

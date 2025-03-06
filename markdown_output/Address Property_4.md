@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Address Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14273.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedInstance Class](topic14267.md) : Address Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CapturedInstance Class](topic14267.md)   
 [CapturedInstance Members](topic14268.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

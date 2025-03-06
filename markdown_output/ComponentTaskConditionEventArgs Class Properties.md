@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskConditionEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6529.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) : ComponentTaskConditionEventArgs Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [ComponentTaskConditionEventArgs Class](topic6529.md)   
 [DriveWorks.Components.Tasks Namespace](topic6391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

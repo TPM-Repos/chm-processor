@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TableExportColumns Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5579.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : TableExportColumns Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [TableExportColumns Class](topic5579.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

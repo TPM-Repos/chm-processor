@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetVersionHistory Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4938.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariable Class](topic4927.md) : GetVersionHistory Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectVariable Class](topic4927.md)   
 [ProjectVariable Members](topic4928.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

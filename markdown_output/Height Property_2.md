@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Height Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8833.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [PreviewScreenshotOptions Class](topic8826.md) : Height Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [PreviewScreenshotOptions Class](topic8826.md)   
 [PreviewScreenshotOptions Members](topic8827.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

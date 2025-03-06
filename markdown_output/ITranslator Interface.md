@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ITranslator Interface   
-[Members](topic1802.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1801.md)  
+[Members](topic1802.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : ITranslator Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ITranslator Members](topic1802.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

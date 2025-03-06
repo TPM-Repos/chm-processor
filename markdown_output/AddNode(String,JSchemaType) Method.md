@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddNode(String,JSchemaType) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3643.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JsonDocument Class](topic3635.md) > [AddNode Method](topic3642.md) : AddNode(String,JSchemaType) Method  
 ---  
   
@@ -77,4 +77,4 @@ The [JsonDocumentNodeData](topic3659.md) for the created node.
 [JsonDocument Members](topic3636.md)   
 [Overload List](topic3642.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

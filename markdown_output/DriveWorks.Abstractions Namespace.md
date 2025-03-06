@@ -44,4 +44,4 @@ Provides types which provide abstractions which are common in the DriveWorks Eng
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

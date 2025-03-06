@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginProcess(IReportProcessItem) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10445.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [ProxyReportWriter Class](topic10434.md) > [BeginProcess Method](topic10443.md) : BeginProcess(IReportProcessItem) Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ProxyReportWriter Members](topic10435.md)   
 [Overload List](topic10443.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

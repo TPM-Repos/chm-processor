@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleSearchProcess Class   
-[Members](topic13213.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13212.md)  
+[Members](topic13213.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) : RuleSearchProcess Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [RuleSearchProcess Members](topic13213.md)   
 [DriveWorks.Utility Namespace](topic13190.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

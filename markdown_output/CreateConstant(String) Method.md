@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateConstant(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4254.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectConstants Class](topic4246.md) > [CreateConstant Method](topic4252.md) : CreateConstant(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ The newly created constant.
 [ProjectConstants Members](topic4247.md)   
 [Overload List](topic4252.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

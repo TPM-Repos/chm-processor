@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RowHeight Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7902.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DataTableControl Class](topic7864.md) : RowHeight Property  
 ---  
   
@@ -57,4 +57,4 @@ When this is 0 it is treated as an auto size value.
 [DataTableControl Class](topic7864.md)   
 [DataTableControl Members](topic7865.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

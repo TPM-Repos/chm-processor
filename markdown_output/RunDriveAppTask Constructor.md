@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RunDriveAppTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1948.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [RunDriveAppTask Class](topic1942.md) : RunDriveAppTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [RunDriveAppTask Class](topic1942.md)   
 [RunDriveAppTask Members](topic1943.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

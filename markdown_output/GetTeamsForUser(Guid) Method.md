@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTeamsForUser(Guid) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3311.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [GetTeamsForUser Method](topic3309.md) : GetTeamsForUser(Guid) Method  
 ---  
   
@@ -69,4 +69,4 @@ An array of teams.
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3309.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

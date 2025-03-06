@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EffectivePreviewResult Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8082.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [EffectivePreviewResult Class](topic8075.md) > [EffectivePreviewResult Constructor](topic8081.md) : EffectivePreviewResult Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [EffectivePreviewResult Members](topic8076.md)   
 [Overload List](topic8081.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

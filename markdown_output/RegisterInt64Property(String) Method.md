@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterInt64Property(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10936.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperties Class](topic10905.md) > [RegisterInt64Property Method](topic10935.md) : RegisterInt64Property(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ A new specification flow property.
 [FlowProperties Members](topic10906.md)   
 [Overload List](topic10935.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

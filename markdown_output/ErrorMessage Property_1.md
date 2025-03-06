@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ErrorMessage Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9704.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyFileAction Class](topic9696.md) : ErrorMessage Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CopyFileAction Class](topic9696.md)   
 [CopyFileAction Members](topic9697.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

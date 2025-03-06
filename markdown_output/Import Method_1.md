@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Import Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2477.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [CaptureImportManager Class](topic2468.md) : Import Method  
 ---  
   
@@ -55,4 +55,4 @@ A dictionary mapping the original captured component identifiers to their new ca
 [CaptureImportManager Class](topic2468.md)   
 [CaptureImportManager Members](topic2469.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

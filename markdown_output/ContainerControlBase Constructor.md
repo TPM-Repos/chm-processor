@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ContainerControlBase Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7690.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ContainerControlBase Class](topic7684.md) : ContainerControlBase Constructor  
 ---  
   
@@ -52,4 +52,4 @@ Custom controls should make their constructors private to prevent end-users acci
 [ContainerControlBase Class](topic7684.md)   
 [ContainerControlBase Members](topic7685.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

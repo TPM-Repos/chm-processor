@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlNameChangedEventArgs Class   
-[Members](topic10117.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10116.md)  
+[Members](topic10117.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) : ControlNameChangedEventArgs Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ControlNameChangedEventArgs Members](topic10117.md)   
 [DriveWorks.Navigation Namespace](topic10114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

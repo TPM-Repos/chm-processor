@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AuthenticationProviderFactory Class   
-[Members](topic10618.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10617.md)  
+[Members](topic10618.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : AuthenticationProviderFactory Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [AuthenticationProviderFactory Members](topic10618.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

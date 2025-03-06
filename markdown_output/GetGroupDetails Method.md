@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetGroupDetails Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5188.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RemoteGroupManager Class](topic5174.md) : GetGroupDetails Method  
 ---  
   
@@ -55,4 +55,4 @@ This returns all groups - even the ones that this server is not hosting.
 [RemoteGroupManager Class](topic5174.md)   
 [RemoteGroupManager Members](topic5175.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

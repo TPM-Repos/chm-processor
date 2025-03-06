@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventProxyReportWriter Class   
-[Members](topic10393.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10392.md)  
+[Members](topic10393.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : EventProxyReportWriter Class  
 ---  
   
@@ -61,4 +61,4 @@ System.Object
 [EventProxyReportWriter Members](topic10393.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

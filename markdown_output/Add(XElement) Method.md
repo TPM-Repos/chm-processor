@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add(XElement) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11476.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationMacros Class](topic11467.md) > [Add Method](topic11473.md) : Add(XElement) Method  
 ---  
   
@@ -69,4 +69,4 @@ The newly created macro.
 [SpecificationMacros Members](topic11468.md)   
 [Overload List](topic11473.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

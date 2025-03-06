@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Register(Type,String,String,String,String,String,Object,PropertyBehavior,Type) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9433.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicProperty Class](topic9398.md) > [Register Method](topic9428.md) : Register(Type,String,String,String,String,String,Object,PropertyBehavior,Type) Method  
 ---  
   
@@ -132,4 +132,4 @@ A dynamic property for the control.
 [DynamicProperty Members](topic9399.md)   
 [Overload List](topic9428.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

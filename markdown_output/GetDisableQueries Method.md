@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetDisableQueries Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic820.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [Extensions Class](topic814.md) : GetDisableQueries Method  
 ---  
   
@@ -69,4 +69,4 @@ The value of the Disable Queries setting.
 [Extensions Class](topic814.md)   
 [Extensions Members](topic815.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

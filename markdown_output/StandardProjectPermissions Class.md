@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StandardProjectPermissions Class   
-[Members](topic10696.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10695.md)  
+[Members](topic10696.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : StandardProjectPermissions Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [StandardProjectPermissions Members](topic10696.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

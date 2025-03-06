@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsEnabled Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12620.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SetUserEnabledTask Class](topic12612.md) : IsEnabled Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [SetUserEnabledTask Class](topic12612.md)   
 [SetUserEnabledTask Members](topic12613.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

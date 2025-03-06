@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreatePreviewImage(String,Int32,Int32,RotationZoom) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8721.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [PreviewControl Class](topic8709.md) > [CreatePreviewImage Method](topic8719.md) : CreatePreviewImage(String,Int32,Int32,RotationZoom) Method  
 ---  
   
@@ -88,4 +88,4 @@ _rotationZoom_
 [PreviewControl Members](topic8710.md)   
 [Overload List](topic8719.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

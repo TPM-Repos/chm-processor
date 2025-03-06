@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Type Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14062.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedAnnotation Class](topic14054.md) : Type Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CapturedAnnotation Class](topic14054.md)   
 [CapturedAnnotation Members](topic14055.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

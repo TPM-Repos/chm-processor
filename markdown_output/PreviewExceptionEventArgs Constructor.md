@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreviewExceptionEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3817.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [PreviewExceptionEventArgs Class](topic3811.md) : PreviewExceptionEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [PreviewExceptionEventArgs Class](topic3811.md)   
 [PreviewExceptionEventArgs Members](topic3812.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Id Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5234.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReportDetails Class](topic5221.md) : Id Property  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [ReportDetails Class](topic5221.md)   
 [ReportDetails Members](topic5222.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

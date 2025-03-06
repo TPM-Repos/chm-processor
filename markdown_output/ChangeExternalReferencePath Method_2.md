@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChangeExternalReferencePath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6104.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [IHasReferences Interface](topic6099.md) : ChangeExternalReferencePath Method  
 ---  
   
@@ -68,4 +68,4 @@ Whether or not any paths were changed.
 [IHasReferences Interface](topic6099.md)   
 [IHasReferences Members](topic6100.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

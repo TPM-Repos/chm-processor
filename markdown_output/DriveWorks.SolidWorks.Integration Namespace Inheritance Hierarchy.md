@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.SolidWorks.Integration Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15418.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) : DriveWorks.SolidWorks.Integration Namespace  
 ---  
   
@@ -23,4 +23,4 @@ System.Object
 
 [DriveWorks.SolidWorks Assembly](topic13342.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

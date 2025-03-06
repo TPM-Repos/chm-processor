@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IGroupDataTableDesigner Interface   
-[Members](topic1463.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1462.md)  
+[Members](topic1463.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) : IGroupDataTableDesigner Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [IGroupDataTableDesigner Members](topic1463.md)   
 [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

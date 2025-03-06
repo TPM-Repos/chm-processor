@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VariableEventArgs Class   
-[Members](topic5875.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5874.md)  
+[Members](topic5875.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : VariableEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [VariableEventArgs Members](topic5875.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

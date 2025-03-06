@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 State Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11600.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateEventArgs Class](topic11590.md) : State Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [StateEventArgs Class](topic11590.md)   
 [StateEventArgs Members](topic11591.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

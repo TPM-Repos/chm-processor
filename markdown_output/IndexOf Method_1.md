@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IndexOf Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11730.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskSequence Class](topic11713.md) : IndexOf Method  
 ---  
   
@@ -68,4 +68,4 @@ The index of the given task, or -1 if the task is not in this collection.
 [TaskSequence Class](topic11713.md)   
 [TaskSequence Members](topic11714.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

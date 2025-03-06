@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskParameterInfo Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6603.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) : ComponentTaskParameterInfo Class  
 ---  
   
@@ -39,4 +39,4 @@ Top
 [ComponentTaskParameterInfo Class](topic6603.md)   
 [DriveWorks.Components.Tasks Namespace](topic6391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

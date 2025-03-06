@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SettingValue Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5297.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SettingChangedEventArgs Class](topic5288.md) : SettingValue Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SettingChangedEventArgs Class](topic5288.md)   
 [SettingChangedEventArgs Members](topic5289.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

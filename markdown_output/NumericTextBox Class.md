@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NumericTextBox Class   
-[Members](topic8475.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8474.md)  
+[Members](topic8475.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : NumericTextBox Class  
 ---  
   
@@ -65,4 +65,4 @@ System.MarshalByRefObject
 [NumericTextBox Members](topic8475.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

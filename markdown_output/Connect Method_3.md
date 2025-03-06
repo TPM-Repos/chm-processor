@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Connect Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7064.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [NodeNavigationInput Class](topic7058.md) : Connect Method  
 ---  
   
@@ -69,4 +69,4 @@ System.InvalidOperationException| output is not a [ConditionOutput](topic6901.md
 [NodeNavigationInput Class](topic7058.md)   
 [NodeNavigationInput Members](topic7059.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

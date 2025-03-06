@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Overwrite Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12830.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ZipFolderTask Class](topic12822.md) : Overwrite Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ZipFolderTask Class](topic12822.md)   
 [ZipFolderTask Members](topic12823.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeComponentLoopCount Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12942.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) : CreateTxChangeComponentLoopCount Method  
 ---  
   
@@ -84,4 +84,4 @@ A new transaction that when executed will restore the formula and comment to the
 [ProjectTransactionFactory Class](topic12928.md)   
 [ProjectTransactionFactory Members](topic12929.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

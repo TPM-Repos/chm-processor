@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetObjectData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2633.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [CorruptDocumentDataException Class](topic2624.md) : GetObjectData Method  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [CorruptDocumentDataException Class](topic2624.md)   
 [CorruptDocumentDataException Members](topic2625.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

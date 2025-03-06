@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandNotManagedException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic707.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [CommandNotManagedException Class](topic699.md) > [CommandNotManagedException Constructor](topic705.md) : CommandNotManagedException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [CommandNotManagedException Members](topic700.md)   
 [Overload List](topic705.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

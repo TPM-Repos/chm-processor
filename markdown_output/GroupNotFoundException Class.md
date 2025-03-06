@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupNotFoundException Class   
-[Members](topic3181.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3180.md)  
+[Members](topic3181.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : GroupNotFoundException Class  
 ---  
   
@@ -63,4 +63,4 @@ System.Exception
 [GroupNotFoundException Members](topic3181.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

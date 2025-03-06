@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VirtualItemDeletedEventArgs Class   
-[Members](topic1168.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1167.md)  
+[Members](topic1168.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : VirtualItemDeletedEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [VirtualItemDeletedEventArgs Members](topic1168.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

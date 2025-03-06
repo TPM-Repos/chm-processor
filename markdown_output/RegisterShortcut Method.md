@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterShortcut Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic341.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IKeyboardShortcutService Interface](topic334.md) : RegisterShortcut Method  
 ---  
   
@@ -71,4 +71,4 @@ _commandName_
 [IKeyboardShortcutService Interface](topic334.md)   
 [IKeyboardShortcutService Members](topic335.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

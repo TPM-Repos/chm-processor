@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateRuleSearchProcess(String[]) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4907.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectUtility Class](topic4899.md) > [CreateRuleSearchProcess Method](topic4906.md) : CreateRuleSearchProcess(String[]) Method  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [ProjectUtility Members](topic4900.md)   
 [Overload List](topic4906.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

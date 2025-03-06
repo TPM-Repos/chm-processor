@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1183.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [VirtualItemDeletingEventArgs Class](topic1175.md) : Item Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [VirtualItemDeletingEventArgs Class](topic1175.md)   
 [VirtualItemDeletingEventArgs Members](topic1176.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10005.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [StorageItemModel Class](topic9992.md) : Name Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [StorageItemModel Class](topic9992.md)   
 [StorageItemModel Members](topic9993.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -32,4 +32,4 @@ Top
 [IParseResult Interface](topic10526.md)   
 [DriveWorks.Rules Namespace](topic10510.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

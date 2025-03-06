@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryPromptAndApplyChanges Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic360.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IPendingChangesService Interface](topic355.md) : TryPromptAndApplyChanges Method  
 ---  
   
@@ -68,4 +68,4 @@ The result of the prompt and apply dialog, result is None if there were no chang
 [IPendingChangesService Interface](topic355.md)   
 [IPendingChangesService Members](topic356.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

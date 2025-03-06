@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportDetails Constructor(Guid,String,DateTime,Nullable<DateTime>,String,Nullable<Int32>,Nullable<Int32>,Nullable<Int32>,Nullable<ReportingLevel>)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5230.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReportDetails Class](topic5221.md) > [ReportDetails Constructor](topic5227.md) : ReportDetails Constructor(Guid,String,DateTime,Nullable<DateTime>,String,Nullable<Int32>,Nullable<Int32>,Nullable<Int32>,Nullable<ReportingLevel>)  
 ---  
   
@@ -127,4 +127,4 @@ _reportingLevel_
 [ReportDetails Members](topic5222.md)   
 [Overload List](topic5227.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TotalReplacements Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10283.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) > [RenameFinishedEventArgs Class](topic10277.md) : TotalReplacements Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RenameFinishedEventArgs Class](topic10277.md)   
 [RenameFinishedEventArgs Members](topic10278.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

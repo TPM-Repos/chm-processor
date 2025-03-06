@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Y Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2486.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [CellValueChangedEventArgs Class](topic2479.md) : Y Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CellValueChangedEventArgs Class](topic2479.md)   
 [CellValueChangedEventArgs Members](topic2480.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

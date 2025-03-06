@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TransitionEventArgs Constructor(Transition)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11783.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TransitionEventArgs Class](topic11776.md) > [TransitionEventArgs Constructor](topic11782.md) : TransitionEventArgs Constructor(Transition)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [TransitionEventArgs Members](topic11777.md)   
 [Overload List](topic11782.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

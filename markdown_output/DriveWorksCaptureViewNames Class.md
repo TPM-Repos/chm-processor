@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorksCaptureViewNames Class   
-[Members](topic13546.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13545.md)  
+[Members](topic13546.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : DriveWorksCaptureViewNames Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [DriveWorksCaptureViewNames Members](topic13546.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

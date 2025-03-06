@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.SolidWorks.Generation.Extensibility.GenerationTasks.Tasks.Specifications Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15335.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) : DriveWorks.SolidWorks.Generation.Extensibility.GenerationTasks.Tasks.Specifications Namespace  
 ---  
   
@@ -22,4 +22,4 @@ System.Object
 
 [DriveWorks.SolidWorks Assembly](topic13342.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

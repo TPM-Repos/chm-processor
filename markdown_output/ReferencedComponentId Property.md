@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReferencedComponentId Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14119.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedComponentRef Class](topic14113.md) : ReferencedComponentId Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CapturedComponentRef Class](topic14113.md)   
 [CapturedComponentRef Members](topic14114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

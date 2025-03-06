@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Image Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic874.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ManagedImageHandle Class](topic867.md) : Image Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ManagedImageHandle Class](topic867.md)   
 [ManagedImageHandle Members](topic868.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

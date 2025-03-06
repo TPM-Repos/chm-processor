@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetSpecification(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3404.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) > [TryGetSpecification Method](topic3402.md) : TryGetSpecification(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ The specification details or a null reference if the specification doesn't exist
 [GroupSpecifications Members](topic3356.md)   
 [Overload List](topic3402.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BorderRadiusProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8257.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [Label Class](topic8235.md) : BorderRadiusProperty Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [Label Class](topic8235.md)   
 [Label Members](topic8236.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

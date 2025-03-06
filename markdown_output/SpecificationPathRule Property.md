@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationPathRule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4827.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecialVariables Class](topic4782.md) : SpecificationPathRule Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectSpecialVariables Class](topic4782.md)   
 [ProjectSpecialVariables Members](topic4783.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

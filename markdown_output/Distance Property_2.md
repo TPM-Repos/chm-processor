@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Distance Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15076.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedViewDimension Class](topic15069.md) : Distance Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedViewDimension Class](topic15069.md)   
 [ReleasedViewDimension Members](topic15070.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

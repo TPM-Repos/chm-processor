@@ -30,4 +30,4 @@ Top
 [IHasWpfControl Interface](topic1285.md)   
 [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

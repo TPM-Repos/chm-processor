@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectRenameStarted Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic402.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IProjectService Interface](topic382.md) : ProjectRenameStarted Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [IProjectService Interface](topic382.md)   
 [IProjectService Members](topic383.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

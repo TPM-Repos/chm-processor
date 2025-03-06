@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CancelSpecificationTimerTask Class   
-[Members](topic11980.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11979.md)  
+[Members](topic11980.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : CancelSpecificationTimerTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [CancelSpecificationTimerTask Members](topic11980.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

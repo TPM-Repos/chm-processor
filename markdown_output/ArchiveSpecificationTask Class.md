@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ArchiveSpecificationTask Class   
-[Members](topic11942.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11941.md)  
+[Members](topic11942.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : ArchiveSpecificationTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [ArchiveSpecificationTask Members](topic11942.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

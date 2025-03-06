@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConvertTableToBoolean(Object,CultureInfo) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9563.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [StoreConverter Class](topic9528.md) > [ConvertTableToBoolean Method](topic9561.md) : ConvertTableToBoolean(Object,CultureInfo) Method  
 ---  
   
@@ -76,4 +76,4 @@ A table.
 [StoreConverter Members](topic9529.md)   
 [Overload List](topic9561.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

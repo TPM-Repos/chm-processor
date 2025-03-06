@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearRanges Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5915.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [XmlTemplateDocument Class](topic5909.md) : ClearRanges Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [XmlTemplateDocument Class](topic5909.md)   
 [XmlTemplateDocument Members](topic5910.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskAttribute Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6455.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) : ComponentTaskAttribute Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [ComponentTaskAttribute Class](topic6455.md)   
 [DriveWorks.Components.Tasks Namespace](topic6391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HasCustomPropertyCondition Class   
-[Members](topic13773.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13772.md)  
+[Members](topic13773.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : HasCustomPropertyCondition Class  
 ---  
   
@@ -83,4 +83,4 @@ System.Object
 [HasCustomPropertyCondition Members](topic13773.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

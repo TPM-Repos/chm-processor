@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Category Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9463.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicPropertyData Class](topic9456.md) : Category Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [DynamicPropertyData Class](topic9456.md)   
 [DynamicPropertyData Members](topic9457.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

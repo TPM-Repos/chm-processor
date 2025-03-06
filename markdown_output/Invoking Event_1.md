@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Invoking Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic187.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandOverride Interface](topic180.md) : Invoking Event  
 ---  
   
@@ -63,4 +63,4 @@ The [Invoking](topic95.md) event on the [ICommand](topic77.md) is raised in addi
 [ICommandOverride Interface](topic180.md)   
 [ICommandOverride Members](topic181.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

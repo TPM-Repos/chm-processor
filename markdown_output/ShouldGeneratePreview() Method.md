@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ShouldGeneratePreview() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4387.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocument Class](topic4356.md) > [ShouldGeneratePreview Method](topic4386.md) : ShouldGeneratePreview() Method  
 ---  
   
@@ -60,4 +60,4 @@ Uses rules result from current project state.
 [ProjectDocument Members](topic4357.md)   
 [Overload List](topic4386.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RequestCopyWithId Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11904.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ICopySpecificationHostService Interface](topic11898.md) : RequestCopyWithId Method  
 ---  
   
@@ -68,4 +68,4 @@ The id of the created specification.
 [ICopySpecificationHostService Interface](topic11898.md)   
 [ICopySpecificationHostService Members](topic11899.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

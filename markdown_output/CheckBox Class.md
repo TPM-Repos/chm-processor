@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CheckBox Class   
-[Members](topic7411.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7410.md)  
+[Members](topic7411.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : CheckBox Class  
 ---  
   
@@ -65,4 +65,4 @@ System.MarshalByRefObject
 [CheckBox Members](topic7411.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

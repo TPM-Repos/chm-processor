@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginProcess Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10401.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [EventProxyReportWriter Class](topic10392.md) : BeginProcess Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [EventProxyReportWriter Class](topic10392.md)   
 [EventProxyReportWriter Members](topic10393.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

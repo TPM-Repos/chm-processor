@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add(XElement) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4008.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTables Class](topic4000.md) > [Add Method](topic4006.md) : Add(XElement) Method  
 ---  
   
@@ -69,4 +69,4 @@ The newly created [ProjectCalculationTable](topic3926.md).
 [ProjectCalculationTables Members](topic4001.md)   
 [Overload List](topic4006.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

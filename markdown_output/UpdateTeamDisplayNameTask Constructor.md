@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateTeamDisplayNameTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12721.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [UpdateTeamDisplayNameTask Class](topic12715.md) : UpdateTeamDisplayNameTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [UpdateTeamDisplayNameTask Class](topic12715.md)   
 [UpdateTeamDisplayNameTask Members](topic12716.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

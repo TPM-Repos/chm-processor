@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsConnected Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12890.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [FlowPropertyData Class](topic12873.md) : IsConnected Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [FlowPropertyData Class](topic12873.md)   
 [FlowPropertyData Members](topic12874.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

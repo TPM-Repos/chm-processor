@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportProcessViewModel Class   
-[Members](topic15391.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15390.md)  
+[Members](topic15391.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md) : ReportProcessViewModel Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ReportProcessViewModel Members](topic15391.md)   
 [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

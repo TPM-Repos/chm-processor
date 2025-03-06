@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Event Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic670.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ApplicationEventEventArgs Class](topic663.md) : Event Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ApplicationEventEventArgs Class](topic663.md)   
 [ApplicationEventEventArgs Members](topic664.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

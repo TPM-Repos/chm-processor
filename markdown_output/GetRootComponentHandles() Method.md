@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetRootComponentHandles() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13400.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [IComponentManager Interface](topic13385.md) > [GetRootComponentHandles Method](topic13399.md) : GetRootComponentHandles() Method  
 ---  
   
@@ -56,4 +56,4 @@ An array of handles to all root components.
 [IComponentManager Members](topic13386.md)   
 [Overload List](topic13399.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

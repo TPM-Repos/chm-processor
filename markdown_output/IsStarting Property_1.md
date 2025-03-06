@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsStarting Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2424.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [AutopilotAgentStatus Class](topic2414.md) : IsStarting Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [AutopilotAgentStatus Class](topic2414.md)   
 [AutopilotAgentStatus Members](topic2415.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

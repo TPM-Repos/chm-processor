@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChangeNameCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10159.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [FormNavigationStep Class](topic10153.md) : ChangeNameCore Method  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [FormNavigationStep Class](topic10153.md)   
 [FormNavigationStep Members](topic10154.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

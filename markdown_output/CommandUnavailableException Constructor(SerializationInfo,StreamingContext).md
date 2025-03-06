@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandUnavailableException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic728.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [CommandUnavailableException Class](topic719.md) > [CommandUnavailableException Constructor](topic725.md) : CommandUnavailableException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -71,4 +71,4 @@ _context_
 [CommandUnavailableException Members](topic720.md)   
 [Overload List](topic725.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

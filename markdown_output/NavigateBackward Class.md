@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NavigateBackward Class   
-[Members](topic12380.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12379.md)  
+[Members](topic12380.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : NavigateBackward Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [NavigateBackward Members](topic12380.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

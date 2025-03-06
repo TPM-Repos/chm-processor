@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommonColumns Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3782.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [OdbcExport Class](topic3763.md) : CommonColumns Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [OdbcExport Class](topic3763.md)   
 [OdbcExport Members](topic3764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

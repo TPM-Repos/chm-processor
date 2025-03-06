@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IAuthenticationProviderAsync Interface   
-[Members](topic10583.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10582.md)  
+[Members](topic10583.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : IAuthenticationProviderAsync Interface  
 ---  
   
@@ -55,4 +55,4 @@ In order for an instance of a type derived from this interface to be registered 
 [IAuthenticationProviderAsync Members](topic10583.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

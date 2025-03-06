@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NavigationDataCorruptException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10171.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [NavigationDataCorruptException Class](topic10163.md) > [NavigationDataCorruptException Constructor](topic10169.md) : NavigationDataCorruptException Constructor(String)  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [NavigationDataCorruptException Members](topic10164.md)   
 [Overload List](topic10169.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BufferedRuleWithVersionHistory Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6041.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [BufferedRuleWithVersionHistory Class](topic6035.md) : BufferedRuleWithVersionHistory Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [BufferedRuleWithVersionHistory Class](topic6035.md)   
 [BufferedRuleWithVersionHistory Members](topic6036.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

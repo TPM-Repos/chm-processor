@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvokeOperation(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11171.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationContext Class](topic11149.md) > [InvokeOperation Method](topic11170.md) : InvokeOperation(String) Method  
 ---  
   
@@ -77,4 +77,4 @@ System.UnauthorizedAccessException| Thrown if the current user does not have per
 [SpecificationContext Members](topic11150.md)   
 [Overload List](topic11170.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Count Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14848.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedDimensionCollection Class](topic14838.md) : Count Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedDimensionCollection Class](topic14838.md)   
 [ReleasedDimensionCollection Members](topic14839.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

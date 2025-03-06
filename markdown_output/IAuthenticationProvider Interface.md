@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IAuthenticationProvider Interface   
-[Members](topic10577.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10576.md)  
+[Members](topic10577.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : IAuthenticationProvider Interface  
 ---  
   
@@ -54,4 +54,4 @@ In order for an instance of a type derived from this interface to be registered 
 [IAuthenticationProvider Members](topic10577.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

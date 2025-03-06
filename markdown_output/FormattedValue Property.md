@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FormattedValue Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7978.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DatePicker Class](topic7958.md) : FormattedValue Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DatePicker Class](topic7958.md)   
 [DatePicker Members](topic7959.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

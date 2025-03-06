@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NavigationStepNameChangedEventArgs Class   
-[Members](topic10214.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10213.md)  
+[Members](topic10214.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) : NavigationStepNameChangedEventArgs Class  
 ---  
   
@@ -61,4 +61,4 @@ System.EventArgs
 [NavigationStepNameChangedEventArgs Members](topic10214.md)   
 [DriveWorks.Navigation Namespace](topic10114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

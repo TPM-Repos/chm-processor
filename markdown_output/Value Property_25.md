@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Value Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8684.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [Padding Class](topic8676.md) : Value Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Padding Class](topic8676.md)   
 [Padding Members](topic8677.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

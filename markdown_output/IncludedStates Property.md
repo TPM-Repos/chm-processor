@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IncludedStates Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1089.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [StateFilter Class](topic1077.md) : IncludedStates Property  
 ---  
   
@@ -59,4 +59,4 @@ To prevent modification, the result array is cloned each time this property is a
 [StateFilter Class](topic1077.md)   
 [StateFilter Members](topic1078.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

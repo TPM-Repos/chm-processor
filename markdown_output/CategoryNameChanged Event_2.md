@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CategoryNameChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5357.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SpecificationMacroCategories Class](topic5342.md) : CategoryNameChanged Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [SpecificationMacroCategories Class](topic5342.md)   
 [SpecificationMacroCategories Members](topic5343.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

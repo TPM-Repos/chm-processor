@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetObjectData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11813.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [UnparsableFlowPropertyValueException Class](topic11805.md) : GetObjectData Method  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [UnparsableFlowPropertyValueException Class](topic11805.md)   
 [UnparsableFlowPropertyValueException Members](topic11806.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

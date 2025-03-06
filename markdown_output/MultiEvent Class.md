@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MultiEvent Class   
-[Members](topic876.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic875.md)  
+[Members](topic876.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : MultiEvent Class  
 ---  
   
@@ -59,4 +59,4 @@ System.Object
 [MultiEvent Members](topic876.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

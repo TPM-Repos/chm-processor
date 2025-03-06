@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4425.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocumentRules Class](topic4413.md) : Remove Method  
 ---  
   
@@ -68,4 +68,4 @@ True if a rule with the specified identifier was found and removed, otherwise fa
 [ProjectDocumentRules Class](topic4413.md)   
 [ProjectDocumentRules Members](topic4414.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

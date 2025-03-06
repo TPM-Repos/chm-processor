@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateCondition(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7098.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [NodeOutputCollection Class](topic7087.md) > [CreateCondition Method](topic7097.md) : CreateCondition(String,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ The newly created condition output.
 [NodeOutputCollection Members](topic7088.md)   
 [Overload List](topic7097.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

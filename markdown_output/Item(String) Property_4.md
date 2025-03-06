@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item(String) Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14902.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedFeatureCollection Class](topic14887.md) > [Item Property](topic14900.md) : Item(String) Property  
 ---  
   
@@ -69,4 +69,4 @@ This property performs a linear search of the features, looking for one with the
 [ReleasedFeatureCollection Members](topic14888.md)   
 [Overload List](topic14900.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

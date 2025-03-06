@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MissingProjectComponent Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6175.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : MissingProjectComponent Class  
 ---  
   
@@ -32,4 +32,4 @@ Top
 [MissingProjectComponent Class](topic6175.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

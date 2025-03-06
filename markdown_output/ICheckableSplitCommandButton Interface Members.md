@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ICheckableSplitCommandButton Interface Members   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic72.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ICheckableSplitCommandButton Interface  
 ---  
   
@@ -23,4 +23,4 @@ The following tables list the members exposed by [ICheckableSplitCommandButton](
 [ICheckableSplitCommandButton Interface](topic72.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

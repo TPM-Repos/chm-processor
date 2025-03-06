@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HyperlinkBehavior Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7308.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : HyperlinkBehavior Enumeration  
 ---  
   
@@ -63,4 +63,4 @@ System.Enum
 
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

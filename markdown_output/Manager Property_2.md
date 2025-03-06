@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Manager Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic90.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommand Interface](topic77.md) : Manager Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ICommand Interface](topic77.md)   
 [ICommand Members](topic78.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

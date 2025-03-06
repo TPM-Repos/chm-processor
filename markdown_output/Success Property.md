@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Success Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13890.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [RebuildResult Class](topic13883.md) : Success Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RebuildResult Class](topic13883.md)   
 [RebuildResult Members](topic13884.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

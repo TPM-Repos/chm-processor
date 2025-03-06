@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdditionalFoldersCreatedEventArgs Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10783.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [AdditionalFoldersCreatedEventArgs Class](topic10775.md) > [AdditionalFoldersCreatedEventArgs Constructor](topic10781.md) : AdditionalFoldersCreatedEventArgs Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [AdditionalFoldersCreatedEventArgs Members](topic10776.md)   
 [Overload List](topic10781.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

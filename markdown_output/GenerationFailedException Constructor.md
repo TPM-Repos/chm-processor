@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerationFailedException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15234.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [GenerationFailedException Class](topic15228.md) : GenerationFailedException Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [GenerationFailedException Class](topic15228.md)   
 [GenerationFailedException Members](topic15229.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValueChangedEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9581.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [ValueChangedEventArgs Class](topic9575.md) : ValueChangedEventArgs Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [ValueChangedEventArgs Class](topic9575.md)   
 [ValueChangedEventArgs Members](topic9576.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

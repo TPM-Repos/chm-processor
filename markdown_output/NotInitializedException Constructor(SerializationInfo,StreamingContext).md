@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotInitializedException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3745.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [NotInitializedException Class](topic3735.md) > [NotInitializedException Constructor](topic3741.md) : NotInitializedException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -71,4 +71,4 @@ C#|
 [NotInitializedException Members](topic3736.md)   
 [Overload List](topic3741.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Id Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6030.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [BufferedRule Class](topic6017.md) : Id Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [BufferedRule Class](topic6017.md)   
 [BufferedRule Members](topic6018.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

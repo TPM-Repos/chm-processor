@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotRunningStateException Class   
-[Members](topic11059.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11058.md)  
+[Members](topic11059.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : NotRunningStateException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [NotRunningStateException Members](topic11059.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

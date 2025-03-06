@@ -99,4 +99,4 @@ Top
 [IsChildSpecificationCondition Class](topic11870.md)   
 [DriveWorks.Specification.StandardConditions Namespace](topic11828.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

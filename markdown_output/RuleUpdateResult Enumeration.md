@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleUpdateResult Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10017.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Localization Namespace](topic10015.md) : RuleUpdateResult Enumeration  
 ---  
   
@@ -65,4 +65,4 @@ System.Enum
 
 [DriveWorks.Localization Namespace](topic10015.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

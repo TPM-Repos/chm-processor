@@ -8,7 +8,7 @@ _TControl_
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateStep<TControl>(String,String,Image,Func<TControl,DiscreteWizardStep>) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic745.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [DiscreteWizardBase Class](topic737.md) > [CreateStep Method](topic744.md) : CreateStep<TControl>(String,String,Image,Func<TControl,DiscreteWizardStep>) Method  
 ---  
   
@@ -98,4 +98,4 @@ _TControl_
 [DiscreteWizardBase Members](topic738.md)   
 [Overload List](topic744.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

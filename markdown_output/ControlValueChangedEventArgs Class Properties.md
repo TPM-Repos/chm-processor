@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlValueChangedEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9385.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) : ControlValueChangedEventArgs Class  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [ControlValueChangedEventArgs Class](topic9385.md)   
 [DriveWorks.Forms.DataModel Namespace](topic9371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DocumentDesignerAttribute Constructor(Type,String,String,String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1576.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [DocumentDesignerAttribute Class](topic1568.md) > [DocumentDesignerAttribute Constructor](topic1574.md) : DocumentDesignerAttribute Constructor(Type,String,String,String)  
 ---  
   
@@ -87,4 +87,4 @@ _descriptionHtml_
 [DocumentDesignerAttribute Members](topic1569.md)   
 [Overload List](topic1574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Slider Class   
-[Members](topic8901.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8900.md)  
+[Members](topic8901.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : Slider Class  
 ---  
   
@@ -64,4 +64,4 @@ System.MarshalByRefObject
 [Slider Members](topic8901.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

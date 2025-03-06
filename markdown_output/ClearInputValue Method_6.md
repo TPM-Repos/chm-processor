@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearInputValue Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8481.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [NumericTextBox Class](topic8474.md) : ClearInputValue Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [NumericTextBox Class](topic8474.md)   
 [NumericTextBox Members](topic8475.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

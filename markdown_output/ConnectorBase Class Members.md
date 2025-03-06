@@ -51,4 +51,4 @@ Top
 [ConnectorBase Class](topic1834.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

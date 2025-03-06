@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RenameFinishedEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10277.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) : RenameFinishedEventArgs Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [RenameFinishedEventArgs Class](topic10277.md)   
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

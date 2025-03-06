@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HideMetadataDirectory Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4895.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationSettings Class](topic4885.md) : HideMetadataDirectory Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectSpecificationSettings Class](topic4885.md)   
 [ProjectSpecificationSettings Members](topic4886.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -42,4 +42,4 @@ Top
 [ClientXRStatus Class](topic13330.md)   
 [DriveWorks.XR Namespace](topic13327.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

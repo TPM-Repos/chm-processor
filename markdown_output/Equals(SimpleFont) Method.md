@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Equals(SimpleFont) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8892.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SimpleFont Class](topic8882.md) > [Equals Method](topic8890.md) : Equals(SimpleFont) Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [SimpleFont Members](topic8883.md)   
 [Overload List](topic8890.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

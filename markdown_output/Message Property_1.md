@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Message Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10077.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) > [RequestEventArgs Class](topic10071.md) : Message Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RequestEventArgs Class](topic10071.md)   
 [RequestEventArgs Members](topic10072.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

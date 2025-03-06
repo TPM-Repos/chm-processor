@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetState(NodeExecutionState,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6952.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [ExecutableNodeBase Class](topic6938.md) > [SetState Method](topic6950.md) : SetState(NodeExecutionState,String) Method  
 ---  
   
@@ -76,4 +76,4 @@ The message passed into result will be written to the specification report.
 [ExecutableNodeBase Members](topic6939.md)   
 [Overload List](topic6950.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

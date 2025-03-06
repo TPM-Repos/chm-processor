@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ZipFolderTask Class   
-[Members](topic12823.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12822.md)  
+[Members](topic12823.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : ZipFolderTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [ZipFolderTask Members](topic12823.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

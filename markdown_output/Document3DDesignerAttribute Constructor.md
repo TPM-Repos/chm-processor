@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Document3DDesignerAttribute Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1563.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [Document3DDesignerAttribute Class](topic1557.md) : Document3DDesignerAttribute Constructor  
 ---  
   
@@ -86,4 +86,4 @@ _descriptionHtml_
 [Document3DDesignerAttribute Class](topic1557.md)   
 [Document3DDesignerAttribute Members](topic1558.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

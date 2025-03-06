@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EditNode Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6893.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [INodeEditor Interface](topic6888.md) : EditNode Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the node was modified.
 [INodeEditor Interface](topic6888.md)   
 [INodeEditor Members](topic6889.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

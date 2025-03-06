@@ -37,4 +37,4 @@ Extension Type |  Applies To |  Description
 [Connector](DriveWorks.Applications.Autopilot.Extensibility~DriveWorks.Applications.Autopilot.Extensibility.IConnector.md) |  DriveWorks Autopilot |  Retrieves specification information from a 3rd party system and creates specifications in DriveWorks.  
 [Plugin](topic2004.md) |  All |  Integrates with a DriveWorks application and has the ability to add command buttons and listen to DriveWorks events to customize DriveWorks’ behavior. This type of extension is useful when integrating DriveWorks into 3rd party systems such as PDM and ERP.  
   
-©2024 DriveWorks Ltd. All Rights Reserved.
+

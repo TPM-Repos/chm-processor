@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BatchActionEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10269.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) : BatchActionEventArgs Class  
 ---  
   
@@ -32,4 +32,4 @@ Top
 [BatchActionEventArgs Class](topic10269.md)   
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvokeTransition(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11174.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationContext Class](topic11149.md) > [InvokeTransition Method](topic11173.md) : InvokeTransition(String) Method  
 ---  
   
@@ -81,4 +81,4 @@ System.InvalidOperationException| The transition can't be invoked because an ope
 [SpecificationContext Members](topic11150.md)   
 [Overload List](topic11173.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

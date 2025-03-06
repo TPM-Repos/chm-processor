@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearSpecificationComponentsDeferredFlagTask Class   
-[Members](topic12011.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12010.md)  
+[Members](topic12011.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : ClearSpecificationComponentsDeferredFlagTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [ClearSpecificationComponentsDeferredFlagTask Members](topic12011.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

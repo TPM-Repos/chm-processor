@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetStatus(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3045.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) > [GetStatus Method](topic3043.md) : GetStatus(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ A valid captured component status instance is always returned, even if a compone
 [GroupCapturedComponents Members](topic3023.md)   
 [Overload List](topic3043.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

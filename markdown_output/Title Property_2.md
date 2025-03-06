@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Title Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11572.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [State Class](topic11559.md) : Title Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [State Class](topic11559.md)   
 [State Members](topic11560.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

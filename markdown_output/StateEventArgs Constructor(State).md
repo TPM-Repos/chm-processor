@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateEventArgs Constructor(State)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11597.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateEventArgs Class](topic11590.md) > [StateEventArgs Constructor](topic11596.md) : StateEventArgs Constructor(State)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [StateEventArgs Members](topic11591.md)   
 [Overload List](topic11596.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

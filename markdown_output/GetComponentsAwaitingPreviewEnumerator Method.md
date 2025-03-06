@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetComponentsAwaitingPreviewEnumerator Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3257.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupReleasedComponents Class](topic3238.md) : GetComponentsAwaitingPreviewEnumerator Method  
 ---  
   
@@ -70,4 +70,4 @@ An enumerator for released components awaiting a preview in the group.
 [GroupReleasedComponents Class](topic3238.md)   
 [GroupReleasedComponents Members](topic3239.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

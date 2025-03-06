@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OnStop Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1886.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [GroupPollingConnectorBase<T> Class](topic1878.md) : OnStop Method  
 ---  
   
@@ -54,4 +54,4 @@ Generally this method shouldn't be overridden. If it is overridden then it shoul
 [GroupPollingConnectorBase<T> Class](topic1878.md)   
 [GroupPollingConnectorBase<T> Members](topic1879.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

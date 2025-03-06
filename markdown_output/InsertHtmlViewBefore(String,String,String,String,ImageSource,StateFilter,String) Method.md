@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InsertHtmlViewBefore(String,String,String,String,ImageSource,StateFilter,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic595.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IViewRegistrationService Interface](topic578.md) > [InsertHtmlViewBefore Method](topic593.md) : InsertHtmlViewBefore(String,String,String,String,ImageSource,StateFilter,String) Method  
 ---  
   
@@ -118,4 +118,4 @@ Views may not be nested deeper than two levels.
 [IViewRegistrationService Members](topic579.md)   
 [Overload List](topic593.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

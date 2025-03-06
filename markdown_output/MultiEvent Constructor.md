@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MultiEvent Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic881.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [MultiEvent Class](topic875.md) : MultiEvent Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [MultiEvent Class](topic875.md)   
 [MultiEvent Members](topic876.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

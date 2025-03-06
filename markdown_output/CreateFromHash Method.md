@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateFromHash Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10678.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [DriveWorksCredentials Class](topic10669.md) : CreateFromHash Method  
 ---  
   
@@ -75,4 +75,4 @@ An initialized instance of the type with the given credentials.
 [DriveWorksCredentials Class](topic10669.md)   
 [DriveWorksCredentials Members](topic10670.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

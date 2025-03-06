@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OutputEndpointRef Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12921.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) : OutputEndpointRef Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [OutputEndpointRef Class](topic12921.md)   
 [DriveWorks.Transactions Namespace](topic12835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

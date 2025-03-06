@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReleaseParameterDataContainer Class   
-[Members](topic5146.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5145.md)  
+[Members](topic5146.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ReleaseParameterDataContainer Class  
 ---  
   
@@ -61,4 +61,4 @@ System.MarshalByRefObject
 [ReleaseParameterDataContainer Members](topic5146.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

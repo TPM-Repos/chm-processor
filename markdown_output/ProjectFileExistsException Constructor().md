@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectFileExistsException Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4469.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectFileExistsException Class](topic4460.md) > [ProjectFileExistsException Constructor](topic4466.md) : ProjectFileExistsException Constructor()  
 ---  
   
@@ -47,4 +47,4 @@ C#|
 [ProjectFileExistsException Members](topic4461.md)   
 [Overload List](topic4466.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CheckSizeProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7527.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [CheckBoxGroup Class](topic7474.md) : CheckSizeProperty Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [CheckBoxGroup Class](topic7474.md)   
 [CheckBoxGroup Members](topic7475.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

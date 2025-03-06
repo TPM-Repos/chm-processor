@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Load(SpecificationContext,XElement) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6311.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseComponentsResults Class](topic6300.md) > [Load Method](topic6310.md) : Load(SpecificationContext,XElement) Method  
 ---  
   
@@ -72,4 +72,4 @@ _savedResults_
 [ReleaseComponentsResults Members](topic6301.md)   
 [Overload List](topic6310.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

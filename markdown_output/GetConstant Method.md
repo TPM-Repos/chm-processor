@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetConstant Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4255.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectConstants Class](topic4246.md) : GetConstant Method  
 ---  
   
@@ -70,4 +70,4 @@ Exception| Description
 [ProjectConstants Class](topic4246.md)   
 [ProjectConstants Members](topic4247.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

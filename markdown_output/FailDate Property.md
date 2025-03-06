@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FailDate Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2673.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DeferredTaskFailureDetails Class](topic2666.md) : FailDate Property  
 ---  
   
@@ -55,4 +55,4 @@ If no date has been stored the current date/time will be returned.
 [DeferredTaskFailureDetails Class](topic2666.md)   
 [DeferredTaskFailureDetails Members](topic2667.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3489.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ImportedDataTable Class](topic3483.md) : GetData Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ImportedDataTable Class](topic3483.md)   
 [ImportedDataTable Members](topic3484.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

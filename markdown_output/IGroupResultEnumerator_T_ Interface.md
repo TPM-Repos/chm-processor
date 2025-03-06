@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 IGroupResultEnumerator<T> Interface   
-[Members](topic2221.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2220.md)  
+[Members](topic2221.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IGroupResultEnumerator<T> Interface  
 ---  
   
@@ -57,4 +57,4 @@ _T_
 [IGroupResultEnumerator<T> Members](topic2221.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

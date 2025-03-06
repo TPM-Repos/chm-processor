@@ -43,4 +43,4 @@ Top
 [DriveWorksCaptureViewNames Class](topic13545.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

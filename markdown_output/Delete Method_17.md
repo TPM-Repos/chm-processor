@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Delete Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5366.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SpecificationMacroCategory Class](topic5359.md) : Delete Method  
 ---  
   
@@ -56,4 +56,4 @@ System.InvalidOperationException| Thrown if the project category contains any ch
 [SpecificationMacroCategory Class](topic5359.md)   
 [SpecificationMacroCategory Members](topic5360.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleChangeData Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5260.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RuleChangeData Class](topic5254.md) : RuleChangeData Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [RuleChangeData Class](topic5254.md)   
 [RuleChangeData Members](topic5255.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

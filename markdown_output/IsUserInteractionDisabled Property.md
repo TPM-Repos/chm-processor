@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsUserInteractionDisabled Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic333.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IInteraction Interface](topic321.md) : IsUserInteractionDisabled Property  
 ---  
   
@@ -64,4 +64,4 @@ This property is used to suppress user interactive behaviour in an application w
 [IInteraction Interface](topic321.md)   
 [IInteraction Members](topic322.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6696.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskReleaseConditions Class](topic6682.md) : Remove Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the item was successfully removed, otherwise False.
 [ComponentTaskReleaseConditions Class](topic6682.md)   
 [ComponentTaskReleaseConditions Members](topic6683.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

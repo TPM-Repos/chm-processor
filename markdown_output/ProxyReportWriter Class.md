@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProxyReportWriter Class   
-[Members](topic10435.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10434.md)  
+[Members](topic10435.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : ProxyReportWriter Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ProxyReportWriter Members](topic10435.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Translate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1806.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ITranslator Interface](topic1801.md) : Translate Method  
 ---  
   
@@ -68,4 +68,4 @@ An array of instances of [ISpecificationRequest](topic1778.md) if the raw data w
 [ITranslator Interface](topic1801.md)   
 [ITranslator Members](topic1802.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

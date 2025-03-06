@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetConfirmationMessage Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11639.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Task Class](topic11629.md) : GetConfirmationMessage Method  
 ---  
   
@@ -68,4 +68,4 @@ A confirmation message for the user, or a null reference if no confirmation is n
 [Task Class](topic11629.md)   
 [Task Members](topic11630.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

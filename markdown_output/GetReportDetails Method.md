@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetReportDetails Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3280.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupReports Class](topic3272.md) : GetReportDetails Method  
 ---  
   
@@ -68,4 +68,4 @@ The matching details or null if nothing is found.
 [GroupReports Class](topic3272.md)   
 [GroupReports Members](topic3273.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

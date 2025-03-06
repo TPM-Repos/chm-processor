@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LibraryEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2124.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) : LibraryEventArgs Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [LibraryEventArgs Class](topic2124.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

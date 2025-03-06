@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectSpecificationPropertyEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4880.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationPropertyEventArgs Class](topic4874.md) : ProjectSpecificationPropertyEventArgs Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [ProjectSpecificationPropertyEventArgs Class](topic4874.md)   
 [ProjectSpecificationPropertyEventArgs Members](topic4875.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

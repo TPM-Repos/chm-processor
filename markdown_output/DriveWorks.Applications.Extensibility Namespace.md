@@ -52,4 +52,4 @@ Contains types specifically related to the extensibility system, for example, [I
 
 [DriveWorks.Applications Assembly](topic13.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

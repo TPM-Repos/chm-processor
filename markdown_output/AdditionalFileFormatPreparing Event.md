@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdditionalFileFormatPreparing Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15108.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [ICommonGenerationContext Interface](topic15096.md) : AdditionalFileFormatPreparing Event  
 ---  
   
@@ -63,4 +63,4 @@ Preparation of an additional file format is mostly checking whether the file alr
 [ICommonGenerationContext Interface](topic15096.md)   
 [ICommonGenerationContext Members](topic15097.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

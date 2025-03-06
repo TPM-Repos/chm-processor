@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataTableDesignerAttribute Class   
-[Members](topic1479.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1478.md)  
+[Members](topic1479.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) : DataTableDesignerAttribute Class  
 ---  
   
@@ -66,4 +66,4 @@ System.Attribute
 [DataTableDesignerAttribute Members](topic1479.md)   
 [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

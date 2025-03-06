@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CheckBoxGroup Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7474.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : CheckBoxGroup Class  
 ---  
   
@@ -60,4 +60,4 @@ Top
 [CheckBoxGroup Class](topic7474.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

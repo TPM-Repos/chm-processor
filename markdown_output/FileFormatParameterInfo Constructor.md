@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileFormatParameterInfo Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13621.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FileFormatParameterInfo Class](topic13615.md) : FileFormatParameterInfo Constructor  
 ---  
   
@@ -70,4 +70,4 @@ C#|
 [FileFormatParameterInfo Class](topic13615.md)   
 [FileFormatParameterInfo Members](topic13616.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

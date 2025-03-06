@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetConverter Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9406.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicProperty Class](topic9398.md) : GetConverter Method  
 ---  
   
@@ -75,4 +75,4 @@ The property value converter for the given CLR type, or a null reference if none
 [DynamicProperty Class](topic9398.md)   
 [DynamicProperty Members](topic9399.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

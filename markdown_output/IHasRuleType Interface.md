@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasRuleType Interface   
-[Members](topic5970.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5969.md)  
+[Members](topic5970.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) : IHasRuleType Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IHasRuleType Members](topic5970.md)   
 [DriveWorks.Abstractions Namespace](topic5939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

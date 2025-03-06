@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TableAdded Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3148.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupDataTables Class](topic3136.md) : TableAdded Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [GroupDataTables Class](topic3136.md)   
 [GroupDataTables Members](topic3137.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

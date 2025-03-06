@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationMacroEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11462.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationMacroEventArgs Class](topic11456.md) : SpecificationMacroEventArgs Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [SpecificationMacroEventArgs Class](topic11456.md)   
 [SpecificationMacroEventArgs Members](topic11457.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

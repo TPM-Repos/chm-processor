@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupDataChangedByExternalProgramException Class   
-[Members](topic13764.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13763.md)  
+[Members](topic13764.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : GroupDataChangedByExternalProgramException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [GroupDataChangedByExternalProgramException Members](topic13764.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

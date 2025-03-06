@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Finalize Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2736.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DisposableProject Class](topic2728.md) : Finalize Method  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [DisposableProject Class](topic2728.md)   
 [DisposableProject Members](topic2729.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

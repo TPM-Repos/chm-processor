@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MissingApplicationException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3722.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [MissingApplicationException Class](topic3715.md) > [MissingApplicationException Constructor](topic3721.md) : MissingApplicationException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [MissingApplicationException Members](topic3716.md)   
 [Overload List](topic3721.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

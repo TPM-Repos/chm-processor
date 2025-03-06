@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GenerationTaskScopeProvider Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13741.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [GenerationTaskScopeProvider Class](topic13735.md) : GenerationTaskScopeProvider Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [GenerationTaskScopeProvider Class](topic13735.md)   
 [GenerationTaskScopeProvider Members](topic13736.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

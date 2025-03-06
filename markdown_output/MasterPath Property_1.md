@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MasterPath Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14700.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectSolidWorksComponent Class](topic14692.md) : MasterPath Property  
 ---  
   
@@ -57,4 +57,4 @@ Exception| Description
 [ProjectSolidWorksComponent Class](topic14692.md)   
 [ProjectSolidWorksComponent Members](topic14693.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

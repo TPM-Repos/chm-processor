@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3977.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumns Class](topic3968.md) : Remove Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the column is removed.
 [ProjectCalculationTableColumns Class](topic3968.md)   
 [ProjectCalculationTableColumns Members](topic3969.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

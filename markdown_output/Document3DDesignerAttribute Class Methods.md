@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Document3DDesignerAttribute Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1557.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) : Document3DDesignerAttribute Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [Document3DDesignerAttribute Class](topic1557.md)   
 [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

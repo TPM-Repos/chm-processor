@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Save Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11147.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [RuleResults Class](topic11136.md) : Save Method  
 ---  
   
@@ -67,4 +67,4 @@ Rule results are saved using the specification XML namespace (http://schemas.dri
 [RuleResults Class](topic11136.md)   
 [RuleResults Members](topic11137.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

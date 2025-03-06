@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConnectionString Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic842.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [GroupCredentialsRequestContext Class](topic835.md) : ConnectionString Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [GroupCredentialsRequestContext Class](topic835.md)   
 [GroupCredentialsRequestContext Members](topic836.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

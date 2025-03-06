@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreviewScreenshotOptions Class   
-[Members](topic8827.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8826.md)  
+[Members](topic8827.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : PreviewScreenshotOptions Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [PreviewScreenshotOptions Members](topic8827.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

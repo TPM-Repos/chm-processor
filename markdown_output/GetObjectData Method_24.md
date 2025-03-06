@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetObjectData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15300.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [ReplaceReferenceException Class](topic15291.md) : GetObjectData Method  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [ReplaceReferenceException Class](topic15291.md)   
 [ReplaceReferenceException Members](topic15292.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

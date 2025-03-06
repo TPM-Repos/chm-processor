@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 State Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic305.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IHasState Interface](topic300.md) : State Property  
 ---  
   
@@ -55,4 +55,4 @@ An array of globally unique identifiers each of which represents a state, well-k
 [IHasState Interface](topic300.md)   
 [IHasState Members](topic301.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

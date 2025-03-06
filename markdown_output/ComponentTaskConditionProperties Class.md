@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskConditionProperties Class   
-[Members](topic6550.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6549.md)  
+[Members](topic6550.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) : ComponentTaskConditionProperties Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [ComponentTaskConditionProperties Members](topic6550.md)   
 [DriveWorks.Components.Tasks Namespace](topic6391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

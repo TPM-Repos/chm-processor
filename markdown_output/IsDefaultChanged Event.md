@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDefaultChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11401.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationFlowDefinition Class](topic11387.md) : IsDefaultChanged Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SpecificationFlowDefinition Class](topic11387.md)   
 [SpecificationFlowDefinition Members](topic11388.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

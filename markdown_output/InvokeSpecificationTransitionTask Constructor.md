@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvokeSpecificationTransitionTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12367.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [InvokeSpecificationTransitionTask Class](topic12361.md) : InvokeSpecificationTransitionTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [InvokeSpecificationTransitionTask Class](topic12361.md)   
 [InvokeSpecificationTransitionTask Members](topic12362.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

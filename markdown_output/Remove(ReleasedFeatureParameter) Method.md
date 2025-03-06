@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove(ReleasedFeatureParameter) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14920.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedFeatureParameterCollection Class](topic14911.md) > [Remove Method](topic14919.md) : Remove(ReleasedFeatureParameter) Method  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [ReleasedFeatureParameterCollection Members](topic14912.md)   
 [Overload List](topic14919.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

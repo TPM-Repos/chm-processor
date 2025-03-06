@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove(ReleasedInstance) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14964.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedInstanceCollection Class](topic14954.md) > [Remove Method](topic14962.md) : Remove(ReleasedInstance) Method  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [ReleasedInstanceCollection Members](topic14955.md)   
 [Overload List](topic14962.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

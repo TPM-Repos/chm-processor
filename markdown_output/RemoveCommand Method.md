@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveCommand Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic108.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandBarGroup Interface](topic99.md) : RemoveCommand Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the command button was removed.
 [ICommandBarGroup Interface](topic99.md)   
 [ICommandBarGroup Members](topic100.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IDataTableTestController Interface   
-[Members](topic1444.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1443.md)  
+[Members](topic1444.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) : IDataTableTestController Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IDataTableTestController Members](topic1444.md)   
 [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CancelInvoked Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic633.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IWizard Interface](topic613.md) : CancelInvoked Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IWizard Interface](topic613.md)   
 [IWizard Members](topic614.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

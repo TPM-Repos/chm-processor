@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandNotRegisteredException Class   
-[Members](topic710.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic709.md)  
+[Members](topic710.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : CommandNotRegisteredException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [CommandNotRegisteredException Members](topic710.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

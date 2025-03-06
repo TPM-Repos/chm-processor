@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveAppSecurityChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3019.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Group Class](topic2958.md) : DriveAppSecurityChanged Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [Group Class](topic2958.md)   
 [Group Members](topic2959.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

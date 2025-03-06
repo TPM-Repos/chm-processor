@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ItemDeletedException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3557.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ItemDeletedException Class](topic3549.md) > [ItemDeletedException Constructor](topic3555.md) : ItemDeletedException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ItemDeletedException Members](topic3550.md)   
 [Overload List](topic3555.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Finish Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10447.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [ProxyReportWriter Class](topic10434.md) : Finish Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ProxyReportWriter Class](topic10434.md)   
 [ProxyReportWriter Members](topic10435.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

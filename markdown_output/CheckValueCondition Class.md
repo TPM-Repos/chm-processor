@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CheckValueCondition Class   
-[Members](topic11845.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11844.md)  
+[Members](topic11845.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardConditions Namespace](topic11828.md) : CheckValueCondition Class  
 ---  
   
@@ -69,4 +69,4 @@ System.MarshalByRefObject
 [CheckValueCondition Members](topic11845.md)   
 [DriveWorks.Specification.StandardConditions Namespace](topic11828.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

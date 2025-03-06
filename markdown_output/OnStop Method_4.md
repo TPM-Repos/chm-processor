@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OnStop Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1922.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [PollingConnectorBase Class](topic1914.md) : OnStop Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [PollingConnectorBase Class](topic1914.md)   
 [PollingConnectorBase Members](topic1915.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

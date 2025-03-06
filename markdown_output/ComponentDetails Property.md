@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentDetails Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13923.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [VerifyingGenerationRequiredEventArgs Class](topic13917.md) : ComponentDetails Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [VerifyingGenerationRequiredEventArgs Class](topic13917.md)   
 [VerifyingGenerationRequiredEventArgs Members](topic13918.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

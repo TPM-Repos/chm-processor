@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportStatusSummary Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15413.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md) > [ReportStatusSummary Class](topic15407.md) : ReportStatusSummary Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [ReportStatusSummary Class](topic15407.md)   
 [ReportStatusSummary Members](topic15408.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

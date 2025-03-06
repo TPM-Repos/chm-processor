@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExceptionThrown Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic354.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [INotifyExceptionThrown Interface](topic349.md) : ExceptionThrown Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [INotifyExceptionThrown Interface](topic349.md)   
 [INotifyExceptionThrown Members](topic350.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

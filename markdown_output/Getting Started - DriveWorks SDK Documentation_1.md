@@ -7,4 +7,4 @@ Getting Started
   
 Glossary Item Box
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetApplicationPlugins Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2026.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [IApplicationPluginManager Interface](topic2021.md) : GetApplicationPlugins Method  
 ---  
   
@@ -55,4 +55,4 @@ An array of information about the loaded application plugins.
 [IApplicationPluginManager Interface](topic2021.md)   
 [IApplicationPluginManager Members](topic2022.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

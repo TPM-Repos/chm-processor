@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Forms.DataModel Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9371.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Forms.DataModel Namespace  
 ---  
   
@@ -47,4 +47,4 @@ DriveWorks.Forms.DataModel.TableValuePropertyValueConverter
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

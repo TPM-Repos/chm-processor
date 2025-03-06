@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetRange(String,String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2854.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ExcelDocument Class](topic2834.md) > [SetRange Method](topic2852.md) : SetRange(String,String,String) Method  
 ---  
   
@@ -84,4 +84,4 @@ A name must exactly equal Excel file's range name.
 [ExcelDocument Members](topic2835.md)   
 [Overload List](topic2852.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

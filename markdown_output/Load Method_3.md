@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Load Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2064.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [ILibraryInfo Interface](topic2055.md) : Load Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ILibraryInfo Interface](topic2055.md)   
 [ILibraryInfo Members](topic2056.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10883.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Conditions Class](topic10865.md) : Item Property  
 ---  
   
@@ -70,4 +70,4 @@ System.IndexOutOfRangeException| Thrown if the specified index is out of range.
 [Conditions Class](topic10865.md)   
 [Conditions Members](topic10866.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

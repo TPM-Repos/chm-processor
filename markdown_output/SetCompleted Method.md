@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetCompleted Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3602.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JobQueue Class](topic3594.md) : SetCompleted Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [JobQueue Class](topic3594.md)   
 [JobQueue Members](topic3595.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

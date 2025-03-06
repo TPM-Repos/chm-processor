@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IRuleNode Interface   
-[Members](topic10543.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10542.md)  
+[Members](topic10543.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) : IRuleNode Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IRuleNode Members](topic10543.md)   
 [DriveWorks.Rules Namespace](topic10510.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

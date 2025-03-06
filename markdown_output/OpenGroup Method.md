@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OpenGroup Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic257.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IGroupService Interface](topic251.md) : OpenGroup Method  
 ---  
   
@@ -77,4 +77,4 @@ System.NotSupportedException| The implementation does not support groups being o
 [IGroupService Interface](topic251.md)   
 [IGroupService Members](topic252.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

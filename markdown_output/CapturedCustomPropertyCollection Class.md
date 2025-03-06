@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CapturedCustomPropertyCollection Class   
-[Members](topic14140.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14139.md)  
+[Members](topic14140.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : CapturedCustomPropertyCollection Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [CapturedCustomPropertyCollection Members](topic14140.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

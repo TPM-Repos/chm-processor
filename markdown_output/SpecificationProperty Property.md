@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationProperty Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4884.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationPropertyEventArgs Class](topic4874.md) : SpecificationProperty Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectSpecificationPropertyEventArgs Class](topic4874.md)   
 [ProjectSpecificationPropertyEventArgs Members](topic4875.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

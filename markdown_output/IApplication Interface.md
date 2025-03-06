@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IApplication Interface   
-[Members](topic25.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic24.md)  
+[Members](topic25.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IApplication Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [IApplication Members](topic25.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Load(XmlReader) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11144.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [RuleResults Class](topic11136.md) > [Load Method](topic11143.md) : Load(XmlReader) Method  
 ---  
   
@@ -68,4 +68,4 @@ An instance of the [RuleResults](topic11136.md) type.
 [RuleResults Members](topic11137.md)   
 [Overload List](topic11143.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

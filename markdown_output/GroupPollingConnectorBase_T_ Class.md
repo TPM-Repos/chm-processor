@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupPollingConnectorBase<T> Class   
-[Members](topic1879.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1878.md)  
+[Members](topic1879.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : GroupPollingConnectorBase<T> Class  
 ---  
   
@@ -70,4 +70,4 @@ System.Object
 [GroupPollingConnectorBase<T> Members](topic1879.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

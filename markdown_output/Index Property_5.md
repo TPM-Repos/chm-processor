@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Index Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4863.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationProperty Class](topic4853.md) : Index Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectSpecificationProperty Class](topic4853.md)   
 [ProjectSpecificationProperty Members](topic4854.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

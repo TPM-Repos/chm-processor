@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IWizardService Interface   
-[Members](topic643.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic642.md)  
+[Members](topic643.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IWizardService Interface  
 ---  
   
@@ -56,4 +56,4 @@ A wizard can support be resized by implementing the [IDialogPreferences](topic19
 [IWizardService Members](topic643.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

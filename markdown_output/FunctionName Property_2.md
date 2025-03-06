@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FunctionName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5818.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [UserDefinedFunctionInfo Class](topic5809.md) : FunctionName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [UserDefinedFunctionInfo Class](topic5809.md)   
 [UserDefinedFunctionInfo Members](topic5810.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CalculationTableExport Class   
-[Members](topic2440.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2439.md)  
+[Members](topic2440.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : CalculationTableExport Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [CalculationTableExport Members](topic2440.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

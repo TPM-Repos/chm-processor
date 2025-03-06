@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetConstantValueTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12289.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [GetConstantValueTask Class](topic12283.md) : GetConstantValueTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [GetConstantValueTask Class](topic12283.md)   
 [GetConstantValueTask Members](topic12284.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

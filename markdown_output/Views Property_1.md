@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Views Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13850.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [MergedSheetInfo Class](topic13842.md) : Views Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [MergedSheetInfo Class](topic13842.md)   
 [MergedSheetInfo Members](topic13843.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

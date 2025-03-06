@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Refresh Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic415.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IRefreshable Interface](topic410.md) : Refresh Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IRefreshable Interface](topic410.md)   
 [IRefreshable Members](topic411.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

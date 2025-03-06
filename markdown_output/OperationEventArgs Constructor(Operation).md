@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OperationEventArgs Constructor(Operation)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11091.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [OperationEventArgs Class](topic11084.md) > [OperationEventArgs Constructor](topic11090.md) : OperationEventArgs Constructor(Operation)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [OperationEventArgs Members](topic11085.md)   
 [Overload List](topic11090.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

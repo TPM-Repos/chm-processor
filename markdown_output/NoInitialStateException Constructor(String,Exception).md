@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NoInitialStateException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11057.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [NoInitialStateException Class](topic11048.md) > [NoInitialStateException Constructor](topic11054.md) : NoInitialStateException Constructor(String,Exception)  
 ---  
   
@@ -69,4 +69,4 @@ _inner_
 [NoInitialStateException Members](topic11049.md)   
 [Overload List](topic11054.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

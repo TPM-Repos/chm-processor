@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14835.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedDimension Class](topic14826.md) : Name Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedDimension Class](topic14826.md)   
 [ReleasedDimension Members](topic14827.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

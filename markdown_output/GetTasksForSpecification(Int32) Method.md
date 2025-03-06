@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTasksForSpecification(Int32) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3386.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) > [GetTasksForSpecification Method](topic3385.md) : GetTasksForSpecification(Int32) Method  
 ---  
   
@@ -69,4 +69,4 @@ An array of all tasks, for the specification.
 [GroupSpecifications Members](topic3356.md)   
 [Overload List](topic3385.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

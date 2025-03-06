@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvokeSpecificationTransitionTask Class   
-[Members](topic12362.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12361.md)  
+[Members](topic12362.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : InvokeSpecificationTransitionTask Class  
 ---  
   
@@ -70,4 +70,4 @@ System.MarshalByRefObject
 [InvokeSpecificationTransitionTask Members](topic12362.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

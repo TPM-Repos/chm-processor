@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Value Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14975.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedLayer Class](topic14968.md) : Value Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedLayer Class](topic14968.md)   
 [ReleasedLayer Members](topic14969.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

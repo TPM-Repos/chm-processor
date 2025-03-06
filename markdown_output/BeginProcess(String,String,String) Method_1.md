@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginProcess(String,String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10373.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [CompositeReportWriter Class](topic10363.md) > [BeginProcess Method](topic10372.md) : BeginProcess(String,String,String) Method  
 ---  
   
@@ -80,4 +80,4 @@ _processDescription_
 [CompositeReportWriter Members](topic10364.md)   
 [Overload List](topic10372.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

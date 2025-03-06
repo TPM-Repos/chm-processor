@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetItemValueNative Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4562.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectListItemData Class](topic4555.md) : GetItemValueNative Method  
 ---  
   
@@ -72,4 +72,4 @@ This will perform a case-insensitive search for the column.
 [ProjectListItemData Class](topic4555.md)   
 [ProjectListItemData Members](topic4556.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

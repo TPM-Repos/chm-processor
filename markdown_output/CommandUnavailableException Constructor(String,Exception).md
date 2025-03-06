@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandUnavailableException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic727.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [CommandUnavailableException Class](topic719.md) > [CommandUnavailableException Constructor](topic725.md) : CommandUnavailableException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [CommandUnavailableException Members](topic720.md)   
 [Overload List](topic725.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

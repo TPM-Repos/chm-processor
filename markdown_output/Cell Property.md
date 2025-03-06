@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Cell Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5611.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportRow Class](topic5600.md) : Cell Property  
 ---  
   
@@ -68,4 +68,4 @@ If a cell by the specified header does not exist, it will be created.
 [TableExportRow Class](topic5600.md)   
 [TableExportRow Members](topic5601.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

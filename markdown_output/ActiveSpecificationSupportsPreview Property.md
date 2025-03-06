@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ActiveSpecificationSupportsPreview Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13445.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ISpecificationsManager Interface](topic13440.md) : ActiveSpecificationSupportsPreview Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ISpecificationsManager Interface](topic13440.md)   
 [ISpecificationsManager Members](topic13441.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

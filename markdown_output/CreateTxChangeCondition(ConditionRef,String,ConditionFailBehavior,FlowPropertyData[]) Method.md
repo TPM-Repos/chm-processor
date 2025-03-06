@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeCondition(ConditionRef,String,ConditionFailBehavior,FlowPropertyData[]) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12953.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxChangeCondition Method](topic12952.md) : CreateTxChangeCondition(ConditionRef,String,ConditionFailBehavior,FlowPropertyData[]) Method  
 ---  
   
@@ -89,4 +89,4 @@ _newProperties_
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic12952.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

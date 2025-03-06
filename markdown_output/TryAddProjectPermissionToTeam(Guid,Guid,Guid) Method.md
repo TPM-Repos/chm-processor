@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryAddProjectPermissionToTeam(Guid,Guid,Guid) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3326.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [TryAddProjectPermissionToTeam Method](topic3324.md) : TryAddProjectPermissionToTeam(Guid,Guid,Guid) Method  
 ---  
   
@@ -85,4 +85,4 @@ True if both the team and the project were found, and the project permission lis
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3324.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

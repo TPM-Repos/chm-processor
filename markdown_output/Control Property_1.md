@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Control Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1290.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) > [IHasWpfControl Interface](topic1285.md) : Control Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasWpfControl Interface](topic1285.md)   
 [IHasWpfControl Members](topic1286.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

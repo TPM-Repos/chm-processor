@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportingClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12378.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [InvokeTransitionOnExistingSpecificationTask Class](topic12370.md) : ReportingClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [InvokeTransitionOnExistingSpecificationTask Class](topic12370.md)   
 [InvokeTransitionOnExistingSpecificationTask Members](topic12371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

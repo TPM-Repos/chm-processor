@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetRule Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4424.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocumentRules Class](topic4413.md) : GetRule Method  
 ---  
   
@@ -74,4 +74,4 @@ Exception| Description
 [ProjectDocumentRules Class](topic4413.md)   
 [ProjectDocumentRules Members](topic4414.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

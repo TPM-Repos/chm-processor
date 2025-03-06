@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FlowBase Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6999.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : FlowBase Class  
 ---  
   
@@ -40,4 +40,4 @@ Top
 [FlowBase Class](topic6999.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

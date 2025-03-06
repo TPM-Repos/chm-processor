@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14699.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectSolidWorksComponent Class](topic14692.md) : FileName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectSolidWorksComponent Class](topic14692.md)   
 [ProjectSolidWorksComponent Members](topic14693.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

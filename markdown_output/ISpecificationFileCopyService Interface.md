@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ISpecificationFileCopyService Interface   
-[Members](topic2317.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2316.md)  
+[Members](topic2317.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ISpecificationFileCopyService Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ISpecificationFileCopyService Members](topic2317.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

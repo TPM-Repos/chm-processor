@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Input Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6916.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [Connection Class](topic6909.md) : Input Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Connection Class](topic6909.md)   
 [Connection Members](topic6910.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

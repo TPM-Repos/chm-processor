@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MainProperty Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2230.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IHasMainProperty Interface](topic2225.md) : MainProperty Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [IHasMainProperty Interface](topic2225.md)   
 [IHasMainProperty Members](topic2226.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

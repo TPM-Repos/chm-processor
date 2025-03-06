@@ -2,8 +2,8 @@ import os
 import re
 
 def remove_image_references(directory):
-    # Pattern to match the copyright string
-    pattern = r'©2024 DriveWorks Ltd\. All Rights Reserved\.'
+    # Pattern to match the feedback line
+    pattern = r'See Also \[Send Feedback\]\(mailto:apisupport@driveworks\.co\.uk\?subject=Documentation Feedback: topic\d+\.md\)\n*'
     
     # Walk through all files in the directory
     for root, _, files in os.walk(directory):

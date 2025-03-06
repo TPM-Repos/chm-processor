@@ -62,4 +62,4 @@ Top
 [GenerationFailedException Class](topic15228.md)   
 [DriveWorks.SolidWorks.Generation Namespace](topic15094.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

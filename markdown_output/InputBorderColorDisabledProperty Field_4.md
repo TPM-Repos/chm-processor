@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InputBorderColorDisabledProperty Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9099.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SpinButton Class](topic9002.md) : InputBorderColorDisabledProperty Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [SpinButton Class](topic9002.md)   
 [SpinButton Members](topic9003.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

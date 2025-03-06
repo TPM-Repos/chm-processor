@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidPluginAssemblyException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7200.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [InvalidPluginAssemblyException Class](topic7191.md) > [InvalidPluginAssemblyException Constructor](topic7197.md) : InvalidPluginAssemblyException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -71,4 +71,4 @@ C#|
 [InvalidPluginAssemblyException Members](topic7192.md)   
 [Overload List](topic7197.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

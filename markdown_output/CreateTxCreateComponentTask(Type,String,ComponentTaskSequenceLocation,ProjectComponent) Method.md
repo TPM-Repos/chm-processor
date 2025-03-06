@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxCreateComponentTask(Type,String,ComponentTaskSequenceLocation,ProjectComponent) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13030.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxCreateComponentTask Method](topic13029.md) : CreateTxCreateComponentTask(Type,String,ComponentTaskSequenceLocation,ProjectComponent) Method  
 ---  
   
@@ -93,4 +93,4 @@ A transaction that when executed will create the task using the given parameters
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic13029.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

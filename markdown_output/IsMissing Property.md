@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsMissing Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9685.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [ConfigurationReportItem Class](topic9677.md) : IsMissing Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ConfigurationReportItem Class](topic9677.md)   
 [ConfigurationReportItem Members](topic9678.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

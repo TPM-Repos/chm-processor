@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataOutputDesignerAttribute Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1546.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) : DataOutputDesignerAttribute Class  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [DataOutputDesignerAttribute Class](topic1546.md)   
 [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

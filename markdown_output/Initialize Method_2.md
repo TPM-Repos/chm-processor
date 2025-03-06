@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Initialize Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13352.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ICaptureView Interface](topic13347.md) : Initialize Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ICaptureView Interface](topic13347.md)   
 [ICaptureView Members](topic13348.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

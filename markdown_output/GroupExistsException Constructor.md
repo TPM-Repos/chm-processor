@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupExistsException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3176.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupExistsException Class](topic3170.md) : GroupExistsException Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [GroupExistsException Class](topic3170.md)   
 [GroupExistsException Members](topic3171.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

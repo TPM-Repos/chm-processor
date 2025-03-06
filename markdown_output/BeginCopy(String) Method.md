@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginCopy(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8194.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ItemList Class](topic8183.md) > [BeginCopy Method](topic8193.md) : BeginCopy(String) Method  
 ---  
   
@@ -72,4 +72,4 @@ System.InvalidOperationException|  Thrown when not in a Specification.
 [ItemList Members](topic8184.md)   
 [Overload List](topic8193.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

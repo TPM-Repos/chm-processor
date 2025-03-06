@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValueEventArgs<T> Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5849.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ValueEventArgs<T> Class](topic5843.md) : ValueEventArgs<T> Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ValueEventArgs<T> Class](topic5843.md)   
 [ValueEventArgs<T> Members](topic5844.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

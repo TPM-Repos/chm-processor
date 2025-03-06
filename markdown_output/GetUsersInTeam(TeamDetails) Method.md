@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetUsersInTeam(TeamDetails) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3317.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [GetUsersInTeam Method](topic3316.md) : GetUsersInTeam(TeamDetails) Method  
 ---  
   
@@ -69,4 +69,4 @@ An array of users.
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3316.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

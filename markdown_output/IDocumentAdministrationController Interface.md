@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IDocumentAdministrationController Interface   
-[Members](topic1510.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1509.md)  
+[Members](topic1510.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) : IDocumentAdministrationController Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IDocumentAdministrationController Members](topic1510.md)   
 [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

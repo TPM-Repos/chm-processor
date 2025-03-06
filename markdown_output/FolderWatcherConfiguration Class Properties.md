@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FolderWatcherConfiguration Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6823.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Folder Namespace](topic6821.md) : FolderWatcherConfiguration Class  
 ---  
   
@@ -44,4 +44,4 @@ Top
 [FolderWatcherConfiguration Class](topic6823.md)   
 [DriveWorks.Connectors.Folder Namespace](topic6821.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

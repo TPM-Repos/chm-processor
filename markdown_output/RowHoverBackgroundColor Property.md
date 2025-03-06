@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RowHoverBackgroundColor Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7903.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DataTableControl Class](topic7864.md) : RowHoverBackgroundColor Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [DataTableControl Class](topic7864.md)   
 [DataTableControl Members](topic7865.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

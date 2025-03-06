@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetRangeValues Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2846.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ExcelDocument Class](topic2834.md) : GetRangeValues Method  
 ---  
   
@@ -55,4 +55,4 @@ A dictionary where the key is the range name and the value is the resolved value
 [ExcelDocument Class](topic2834.md)   
 [ExcelDocument Members](topic2835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

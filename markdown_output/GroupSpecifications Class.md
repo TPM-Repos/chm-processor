@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupSpecifications Class   
-[Members](topic3356.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3355.md)  
+[Members](topic3356.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : GroupSpecifications Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [GroupSpecifications Members](topic3356.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

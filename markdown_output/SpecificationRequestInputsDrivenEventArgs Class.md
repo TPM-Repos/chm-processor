@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationRequestInputsDrivenEventArgs Class   
-[Members](topic1961.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1960.md)  
+[Members](topic1961.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : SpecificationRequestInputsDrivenEventArgs Class  
 ---  
   
@@ -61,4 +61,4 @@ System.ComponentModel.CancelEventArgs
 [SpecificationRequestInputsDrivenEventArgs Members](topic1961.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

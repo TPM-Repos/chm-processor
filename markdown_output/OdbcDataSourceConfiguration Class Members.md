@@ -56,4 +56,4 @@ Top
 [OdbcDataSourceConfiguration Class](topic6796.md)   
 [DriveWorks.Connectors.Database Namespace](topic6754.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

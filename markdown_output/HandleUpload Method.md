@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HandleUpload Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9213.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [TinyMCEControl Class](topic9204.md) : HandleUpload Method  
 ---  
   
@@ -71,4 +71,4 @@ _uploadingFileName_
 [TinyMCEControl Class](topic9204.md)   
 [TinyMCEControl Members](topic9205.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

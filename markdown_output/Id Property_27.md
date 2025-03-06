@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Id Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5962.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [IHasRuleId Interface](topic5957.md) : Id Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasRuleId Interface](topic5957.md)   
 [IHasRuleId Members](topic5958.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

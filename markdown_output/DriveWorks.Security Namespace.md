@@ -53,4 +53,4 @@ Provides types related to DriveWorks Group and Project security.
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

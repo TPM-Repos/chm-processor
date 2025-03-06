@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DiagnosticPreparationInteraction Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15345.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified Namespace](topic15343.md) : DiagnosticPreparationInteraction Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [DiagnosticPreparationInteraction Class](topic15345.md)   
 [DriveWorks.SolidWorks.Generation.Unified Namespace](topic15343.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

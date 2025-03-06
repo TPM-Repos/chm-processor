@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Conditions Class   
-[Members](topic10866.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10865.md)  
+[Members](topic10866.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : Conditions Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [Conditions Members](topic10866.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

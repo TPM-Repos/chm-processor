@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6699.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskReleaseConditions Class](topic6682.md) : Item Property  
 ---  
   
@@ -70,4 +70,4 @@ The element at the specified index in the read-only list.
 [ComponentTaskReleaseConditions Class](topic6682.md)   
 [ComponentTaskReleaseConditions Members](topic6683.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

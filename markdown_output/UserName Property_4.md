@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Username Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6806.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) > [OdbcDataSourceConfiguration Class](topic6796.md) : Username Property  
 ---  
   
@@ -57,4 +57,4 @@ This can be left blank if no login credentials are required.
 [OdbcDataSourceConfiguration Class](topic6796.md)   
 [OdbcDataSourceConfiguration Members](topic6797.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

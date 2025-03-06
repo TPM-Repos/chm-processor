@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ICopySpecificationHostService Interface   
-[Members](topic11899.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11898.md)  
+[Members](topic11899.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : ICopySpecificationHostService Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ICopySpecificationHostService Members](topic11899.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

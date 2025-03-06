@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FailedTime Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3588.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Job Class](topic3582.md) : FailedTime Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Job Class](topic3582.md)   
 [Job Members](topic3583.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

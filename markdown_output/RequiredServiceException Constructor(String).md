@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RequiredServiceException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic922.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [RequiredServiceException Class](topic915.md) > [RequiredServiceException Constructor](topic921.md) : RequiredServiceException Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [RequiredServiceException Members](topic916.md)   
 [Overload List](topic921.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

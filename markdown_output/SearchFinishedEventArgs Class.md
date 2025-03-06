@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SearchFinishedEventArgs Class   
-[Members](topic10318.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10317.md)  
+[Members](topic10318.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) : SearchFinishedEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [SearchFinishedEventArgs Members](topic10318.md)   
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

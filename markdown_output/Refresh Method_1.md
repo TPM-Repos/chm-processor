@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Refresh Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4300.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDataTable Class](topic4282.md) : Refresh Method  
 ---  
   
@@ -59,4 +59,4 @@ If a seriously problem occurs when retrieving the data, a provider-specific exce
 [ProjectDataTable Class](topic4282.md)   
 [ProjectDataTable Members](topic4283.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

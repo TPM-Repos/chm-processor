@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlData Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9593.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md) : ControlData Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [ControlData Class](topic9593.md)   
 [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

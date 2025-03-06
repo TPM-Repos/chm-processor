@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RenderHelp Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1589.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md) > [IRuleHelpProvider Interface](topic1583.md) : RenderHelp Method  
 ---  
   
@@ -76,4 +76,4 @@ The full path to the rendered HTML file.
 [IRuleHelpProvider Interface](topic1583.md)   
 [IRuleHelpProvider Members](topic1584.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

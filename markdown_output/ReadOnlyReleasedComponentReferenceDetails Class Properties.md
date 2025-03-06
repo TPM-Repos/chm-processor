@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReadOnlyReleasedComponentReferenceDetails Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6239.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : ReadOnlyReleasedComponentReferenceDetails Class  
 ---  
   
@@ -37,4 +37,4 @@ Top
 [ReadOnlyReleasedComponentReferenceDetails Class](topic6239.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

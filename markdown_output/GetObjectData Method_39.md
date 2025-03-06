@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetObjectData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5769.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [UnknownDataTableProviderException Class](topic5759.md) : GetObjectData Method  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [UnknownDataTableProviderException Class](topic5759.md)   
 [UnknownDataTableProviderException Members](topic5760.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

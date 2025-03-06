@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupConnectionException Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3056.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupConnectionException Class](topic3049.md) > [GroupConnectionException Constructor](topic3055.md) : GroupConnectionException Constructor()  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [GroupConnectionException Members](topic3050.md)   
 [Overload List](topic3055.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TargetPath Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1897.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [MovingFileEventArgs Class](topic1888.md) : TargetPath Field  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [MovingFileEventArgs Class](topic1888.md)   
 [MovingFileEventArgs Members](topic1889.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

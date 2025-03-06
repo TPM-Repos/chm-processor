@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Dispose Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2734.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DisposableProject Class](topic2728.md) : Dispose Method  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [DisposableProject Class](topic2728.md)   
 [DisposableProject Members](topic2729.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

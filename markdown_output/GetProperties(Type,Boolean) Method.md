@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetProperties(Type,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9411.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicProperty Class](topic9398.md) > [GetProperties Method](topic9409.md) : GetProperties(Type,Boolean) Method  
 ---  
   
@@ -70,4 +70,4 @@ _excludeHiddenProperties_
 [DynamicProperty Members](topic9399.md)   
 [Overload List](topic9409.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

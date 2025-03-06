@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SearchStartedEventArgs Class   
-[Members](topic10327.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10326.md)  
+[Members](topic10327.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) : SearchStartedEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [SearchStartedEventArgs Members](topic10327.md)   
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

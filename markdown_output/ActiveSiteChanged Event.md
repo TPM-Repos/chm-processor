@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ActiveSiteChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic65.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IApplicationSelectionManager Interface](topic59.md) : ActiveSiteChanged Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IApplicationSelectionManager Interface](topic59.md)   
 [IApplicationSelectionManager Members](topic60.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

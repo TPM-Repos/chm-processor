@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Value Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6645.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskProperty Class](topic6633.md) : Value Property  
 ---  
   
@@ -57,4 +57,4 @@ This should only be called when [IsDynamic](topic6643.md) is False.
 [ComponentTaskProperty Class](topic6633.md)   
 [ComponentTaskProperty Members](topic6634.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

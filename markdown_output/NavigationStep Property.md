@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NavigationStep Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10212.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [NavigationStepEventArgs Class](topic10205.md) : NavigationStep Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [NavigationStepEventArgs Class](topic10205.md)   
 [NavigationStepEventArgs Members](topic10206.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

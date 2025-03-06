@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Data Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3093.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupConnectorInformation Class](topic3084.md) : Data Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [GroupConnectorInformation Class](topic3084.md)   
 [GroupConnectorInformation Members](topic3085.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

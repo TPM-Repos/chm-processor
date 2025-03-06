@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PendingChange Class   
-[Members](topic883.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic882.md)  
+[Members](topic883.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : PendingChange Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [PendingChange Members](topic883.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

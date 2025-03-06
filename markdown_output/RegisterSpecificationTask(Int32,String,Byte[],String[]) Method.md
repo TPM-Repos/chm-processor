@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterSpecificationTask(Int32,String,Byte[],String[]) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3395.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) > [RegisterSpecificationTask Method](topic3393.md) : RegisterSpecificationTask(Int32,String,Byte[],String[]) Method  
 ---  
   
@@ -88,4 +88,4 @@ _tags_
 [GroupSpecifications Members](topic3356.md)   
 [Overload List](topic3393.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

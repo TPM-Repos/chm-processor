@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Count Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7022.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [FlowNodeCollection Class](topic7011.md) : Count Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [FlowNodeCollection Class](topic7011.md)   
 [FlowNodeCollection Members](topic7012.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

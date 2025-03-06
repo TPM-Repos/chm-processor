@@ -32,4 +32,4 @@ Top
 [BatchActionEventArgs Class](topic10269.md)   
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SaveToRecent Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic250.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IGroupCredentialsProvider Interface](topic244.md) : SaveToRecent Method  
 ---  
   
@@ -79,4 +79,4 @@ _credentials_
 [IGroupCredentialsProvider Interface](topic244.md)   
 [IGroupCredentialsProvider Members](topic245.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

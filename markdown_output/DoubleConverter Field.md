@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DoubleConverter Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9519.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [StandardPropertyValueConverters Class](topic9510.md) : DoubleConverter Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [StandardPropertyValueConverters Class](topic9510.md)   
 [StandardPropertyValueConverters Members](topic9511.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

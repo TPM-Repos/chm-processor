@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Comment Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3995.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableRule Class](topic3986.md) : Comment Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectCalculationTableRule Class](topic3986.md)   
 [ProjectCalculationTableRule Members](topic3987.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

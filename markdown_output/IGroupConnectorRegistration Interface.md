@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IGroupConnectorRegistration Interface   
-[Members](topic1725.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1724.md)  
+[Members](topic1725.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : IGroupConnectorRegistration Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [IGroupConnectorRegistration Members](topic1725.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

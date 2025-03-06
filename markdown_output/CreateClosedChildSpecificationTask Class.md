@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateClosedChildSpecificationTask Class   
-[Members](topic12095.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12094.md)  
+[Members](topic12095.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : CreateClosedChildSpecificationTask Class  
 ---  
   
@@ -70,4 +70,4 @@ System.MarshalByRefObject
 [CreateClosedChildSpecificationTask Members](topic12095.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

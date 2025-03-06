@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterBooleanProperty(String,FlowPropertyInfo,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10919.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperties Class](topic10905.md) > [RegisterBooleanProperty Method](topic10915.md) : RegisterBooleanProperty(String,FlowPropertyInfo,Boolean) Method  
 ---  
   
@@ -85,4 +85,4 @@ A new specification flow property.
 [FlowProperties Members](topic10906.md)   
 [Overload List](topic10915.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

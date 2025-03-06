@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlEventArgs Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7814.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlEventArgs Class](topic7806.md) > [ControlEventArgs Constructor](topic7812.md) : ControlEventArgs Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [ControlEventArgs Members](topic7807.md)   
 [Overload List](topic7812.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

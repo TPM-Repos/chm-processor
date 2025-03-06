@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Dispose() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7558.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ChildSpecificationList Class](topic7547.md) > [Dispose Method](topic7556.md) : Dispose() Method  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ChildSpecificationList Members](topic7548.md)   
 [Overload List](topic7556.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetDetails Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2167.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IArrayTableExportDocument Interface](topic2161.md) : GetDetails Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IArrayTableExportDocument Interface](topic2161.md)   
 [IArrayTableExportDocument Members](topic2162.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

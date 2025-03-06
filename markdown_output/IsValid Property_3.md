@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsValid Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic955.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [SettingsPage Class](topic935.md) : IsValid Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [SettingsPage Class](topic935.md)   
 [SettingsPage Members](topic936.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

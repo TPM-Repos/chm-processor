@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationMacroCategory Class   
-[Members](topic5360.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5359.md)  
+[Members](topic5360.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : SpecificationMacroCategory Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [SpecificationMacroCategory Members](topic5360.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

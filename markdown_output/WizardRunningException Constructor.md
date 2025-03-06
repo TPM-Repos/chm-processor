@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WizardRunningException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1263.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [WizardRunningException Class](topic1257.md) : WizardRunningException Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [WizardRunningException Class](topic1257.md)   
 [WizardRunningException Members](topic1258.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

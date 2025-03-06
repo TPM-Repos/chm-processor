@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetDisplayName Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4406.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocumentRule Class](topic4399.md) : SetDisplayName Method  
 ---  
   
@@ -67,4 +67,4 @@ If the new display name is empty or a null reference, then the display name retu
 [ProjectDocumentRule Class](topic4399.md)   
 [ProjectDocumentRule Members](topic4400.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

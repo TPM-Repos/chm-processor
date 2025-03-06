@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectRenameEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic913.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ProjectRenameEventArgs Class](topic907.md) : ProjectRenameEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ProjectRenameEventArgs Class](topic907.md)   
 [ProjectRenameEventArgs Members](topic908.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

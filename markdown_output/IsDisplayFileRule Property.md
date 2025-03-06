@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDisplayFileRule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4412.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocumentRule Class](topic4399.md) : IsDisplayFileRule Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectDocumentRule Class](topic4399.md)   
 [ProjectDocumentRule Members](topic4400.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

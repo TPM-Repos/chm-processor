@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Name Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14330.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedSheet Class](topic14323.md) : Name Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CapturedSheet Class](topic14323.md)   
 [CapturedSheet Members](topic14324.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

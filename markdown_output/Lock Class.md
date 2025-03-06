@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Lock Class   
-[Members](topic6080.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6079.md)  
+[Members](topic6080.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) : Lock Class  
 ---  
   
@@ -59,4 +59,4 @@ System.Object
 [Lock Members](topic6080.md)   
 [DriveWorks.Abstractions Namespace](topic5939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

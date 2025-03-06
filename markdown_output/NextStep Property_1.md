@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NextStep Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10152.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [FinishNavigationStep Class](topic10145.md) : NextStep Property  
 ---  
   
@@ -59,4 +59,4 @@ System.InvalidOperationException| Thrown if it is attempted to modify the proper
 [FinishNavigationStep Class](topic10145.md)   
 [FinishNavigationStep Members](topic10146.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

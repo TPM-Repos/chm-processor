@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StandardSchemas Class   
-[Members](topic5524.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5523.md)  
+[Members](topic5524.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : StandardSchemas Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [StandardSchemas Members](topic5524.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

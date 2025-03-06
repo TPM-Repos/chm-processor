@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Shutdown Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2315.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IShutdownable Interface](topic2310.md) : Shutdown Method  
 ---  
   
@@ -54,4 +54,4 @@ This function should act as a way to dispose of an object when processing has fi
 [IShutdownable Interface](topic2310.md)   
 [IShutdownable Members](topic2311.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

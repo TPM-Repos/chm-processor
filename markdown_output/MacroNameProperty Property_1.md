@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MacroNameProperty Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12546.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [RunMacroInHostSpecificationTask Class](topic12536.md) : MacroNameProperty Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RunMacroInHostSpecificationTask Class](topic12536.md)   
 [RunMacroInHostSpecificationTask Members](topic12537.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

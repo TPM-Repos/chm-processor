@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OwnerName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4487.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectFunctionEvent Class](topic4478.md) : OwnerName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectFunctionEvent Class](topic4478.md)   
 [ProjectFunctionEvent Members](topic4479.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskConditionAttribute Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6519.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskConditionAttribute Class](topic6512.md) > [ComponentTaskConditionAttribute Constructor](topic6518.md) : ComponentTaskConditionAttribute Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ComponentTaskConditionAttribute Members](topic6513.md)   
 [Overload List](topic6518.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

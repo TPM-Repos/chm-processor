@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Jobs Class   
-[Members](topic3616.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3615.md)  
+[Members](topic3616.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : Jobs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Object
 [Jobs Members](topic3616.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

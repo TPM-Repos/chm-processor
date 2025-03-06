@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Address Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14479.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectCustomProperty Class](topic14471.md) : Address Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectCustomProperty Class](topic14471.md)   
 [ProjectCustomProperty Members](topic14472.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

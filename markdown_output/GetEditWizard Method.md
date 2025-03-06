@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEditWizard Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1440.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) > [IDataTableDesigner Interface](topic1434.md) : GetEditWizard Method  
 ---  
   
@@ -72,4 +72,4 @@ _dataTable_
 [IDataTableDesigner Interface](topic1434.md)   
 [IDataTableDesigner Members](topic1435.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

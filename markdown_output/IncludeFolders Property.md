@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IncludeFolders Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9915.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [FilePickingOptions Class](topic9902.md) : IncludeFolders Property  
 ---  
   
@@ -55,4 +55,4 @@ Having things outside the root folder would mean either: 1. Some unpredictable/c
 [FilePickingOptions Class](topic9902.md)   
 [FilePickingOptions Members](topic9903.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

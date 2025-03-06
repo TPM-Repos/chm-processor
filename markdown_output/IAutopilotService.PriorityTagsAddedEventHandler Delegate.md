@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IAutopilotService.PriorityTagsAddedEventHandler Delegate   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1980.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : IAutopilotService.PriorityTagsAddedEventHandler Delegate  
 ---  
   
@@ -60,4 +60,4 @@ C#|
 [IAutopilotService.PriorityTagsAddedEventHandler Members](topic1980.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

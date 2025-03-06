@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TopicHelpEventArgs Class   
-[Members](topic1102.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1101.md)  
+[Members](topic1102.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : TopicHelpEventArgs Class  
 ---  
   
@@ -61,4 +61,4 @@ System.Windows.Forms.HelpEventArgs
 [TopicHelpEventArgs Members](topic1102.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

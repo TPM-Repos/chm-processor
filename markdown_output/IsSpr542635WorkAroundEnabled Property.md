@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsSpr542635WorkAroundEnabled Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15258.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [GenerationSettings Class](topic15238.md) : IsSpr542635WorkAroundEnabled Property  
 ---  
   
@@ -55,4 +55,4 @@ C#|
 [GenerationSettings Class](topic15238.md)   
 [GenerationSettings Members](topic15239.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

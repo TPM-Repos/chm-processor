@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StopAgentNotification Class Members   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10107.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) : StopAgentNotification Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [StopAgentNotification Class](topic10107.md)   
 [DriveWorks.Messaging Namespace](topic10038.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

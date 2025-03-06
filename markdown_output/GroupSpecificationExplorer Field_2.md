@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupSpecificationExplorer Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic994.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [SharedViewNames Class](topic985.md) : GroupSpecificationExplorer Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [SharedViewNames Class](topic985.md)   
 [SharedViewNames Members](topic986.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

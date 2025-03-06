@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetResults Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12412.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [RealTimeReleaseModelsTask Class](topic12405.md) : GetResults Method  
 ---  
   
@@ -68,4 +68,4 @@ The results of releasing the components.
 [RealTimeReleaseModelsTask Class](topic12405.md)   
 [RealTimeReleaseModelsTask Members](topic12406.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

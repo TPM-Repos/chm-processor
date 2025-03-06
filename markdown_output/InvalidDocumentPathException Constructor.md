@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidDocumentPathException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3537.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [InvalidDocumentPathException Class](topic3531.md) : InvalidDocumentPathException Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _invalidPathFragment_
 [InvalidDocumentPathException Class](topic3531.md)   
 [InvalidDocumentPathException Members](topic3532.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

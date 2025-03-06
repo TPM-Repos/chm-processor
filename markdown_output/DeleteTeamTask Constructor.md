@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteTeamTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12192.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [DeleteTeamTask Class](topic12186.md) : DeleteTeamTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [DeleteTeamTask Class](topic12186.md)   
 [DeleteTeamTask Members](topic12187.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

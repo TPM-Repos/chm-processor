@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NodeIndex Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12920.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [NodeRef Class](topic12909.md) : NodeIndex Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [NodeRef Class](topic12909.md)   
 [NodeRef Members](topic12910.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

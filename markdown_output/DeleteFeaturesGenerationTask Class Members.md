@@ -63,4 +63,4 @@ Top
 [DeleteFeaturesGenerationTask Class](topic15318.md)   
 [DriveWorks.SolidWorks.Generation.Extensibility.GenerationTasks.Tasks Namespace](topic15301.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

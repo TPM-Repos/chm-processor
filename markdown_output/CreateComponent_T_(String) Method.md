@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateComponent<T>(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3032.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) > [CreateComponent Method](topic3031.md) : CreateComponent<T>(String) Method  
 ---  
   
@@ -78,4 +78,4 @@ A new component of the specified type.
 [GroupCapturedComponents Members](topic3023.md)   
 [Overload List](topic3031.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

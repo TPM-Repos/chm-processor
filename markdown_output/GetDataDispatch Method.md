@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetDataDispatch Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2564.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConnectionManager Class](topic2554.md) : GetDataDispatch Method  
 ---  
   
@@ -76,4 +76,4 @@ The result of the GetData string.
 [ConnectionManager Class](topic2554.md)   
 [ConnectionManager Members](topic2555.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

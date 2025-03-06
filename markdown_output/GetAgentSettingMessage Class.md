@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetAgentSettingMessage Class   
-[Members](topic10050.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10049.md)  
+[Members](topic10050.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) : GetAgentSettingMessage Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [GetAgentSettingMessage Members](topic10050.md)   
 [DriveWorks.Messaging Namespace](topic10038.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

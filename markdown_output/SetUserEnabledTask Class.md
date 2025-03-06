@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetUserEnabledTask Class   
-[Members](topic12613.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12612.md)  
+[Members](topic12613.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : SetUserEnabledTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [SetUserEnabledTask Members](topic12613.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

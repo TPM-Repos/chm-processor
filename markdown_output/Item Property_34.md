@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14587.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectFileFormatCollection Class](topic14579.md) : Item Property  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ProjectFileFormatCollection Class](topic14579.md)   
 [ProjectFileFormatCollection Members](topic14580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

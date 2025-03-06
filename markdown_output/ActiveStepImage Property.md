@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ActiveStepImage Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1234.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [WizardBase Class](topic1200.md) : ActiveStepImage Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [WizardBase Class](topic1200.md)   
 [WizardBase Members](topic1201.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

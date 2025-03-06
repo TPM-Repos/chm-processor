@@ -29,4 +29,4 @@ Name |  Type |  Required? |  Value
 Path |  String (REG_SZ) |  Yes |  The full path to your extension library, e.g.: C:\Code\ MyExtensions\bin\debug\MyExtensions.dll  
 IsCompat64 |  DWORD (REG_DWORD) |  No |  1 (the default) if the extension is architecture agnostic and works on both 32-bit and 64-bit systems. 0 if the extension entry is in the 32-bit part of the Windows Registry and the extension shouldn’t be loaded into a 64-bit process.  
   
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Authenticate Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10581.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [IAuthenticationProvider Interface](topic10576.md) : Authenticate Method  
 ---  
   
@@ -68,4 +68,4 @@ An instance of a type derived from [IProviderPrincipal](topic10597.md) which rep
 [IAuthenticationProvider Interface](topic10576.md)   
 [IAuthenticationProvider Members](topic10577.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

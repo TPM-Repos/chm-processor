@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 GetParameterValue<T>(String,T) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5069.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedComponentTask Class](topic5061.md) > [GetParameterValue Method](topic5067.md) : GetParameterValue<T>(String,T) Method  
 ---  
   
@@ -86,4 +86,4 @@ The value of the parameter, or the fallback value if it wasn't found.
 [ReleasedComponentTask Members](topic5062.md)   
 [Overload List](topic5067.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

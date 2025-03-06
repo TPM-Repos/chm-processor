@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopiedMasterModel Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15142.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [IDrawingGenerationContext Interface](topic15135.md) : CopiedMasterModel Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IDrawingGenerationContext Interface](topic15135.md)   
 [IDrawingGenerationContext Members](topic15136.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

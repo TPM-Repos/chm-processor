@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VariableCreated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5032.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariables Class](topic5010.md) : VariableCreated Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [ProjectVariables Class](topic5010.md)   
 [ProjectVariables Members](topic5011.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

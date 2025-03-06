@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AlreadyInitializedException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2413.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [AlreadyInitializedException Class](topic2403.md) > [AlreadyInitializedException Constructor](topic2409.md) : AlreadyInitializedException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -71,4 +71,4 @@ C#|
 [AlreadyInitializedException Members](topic2404.md)   
 [Overload List](topic2409.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

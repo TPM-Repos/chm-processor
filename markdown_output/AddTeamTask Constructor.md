@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddTeamTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11911.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [AddTeamTask Class](topic11905.md) : AddTeamTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [AddTeamTask Class](topic11905.md)   
 [AddTeamTask Members](topic11906.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

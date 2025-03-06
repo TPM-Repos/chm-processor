@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetRuleAndComment(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10134.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [DecisionNavigationStep Class](topic10125.md) > [SetRuleAndComment Method](topic10133.md) : SetRuleAndComment(String,String) Method  
 ---  
   
@@ -72,4 +72,4 @@ _newComment_
 [DecisionNavigationStep Members](topic10126.md)   
 [Overload List](topic10133.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

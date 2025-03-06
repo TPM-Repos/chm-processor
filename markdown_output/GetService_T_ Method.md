@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 GetService<T> Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic440.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IServiceManager Interface](topic435.md) : GetService<T> Method  
 ---  
   
@@ -63,4 +63,4 @@ A service object of the specified type, or a null reference (Nothing in Visual B
 [IServiceManager Interface](topic435.md)   
 [IServiceManager Members](topic436.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

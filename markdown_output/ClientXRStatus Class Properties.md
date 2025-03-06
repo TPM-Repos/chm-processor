@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClientXRStatus Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13330.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.XR Namespace](topic13327.md) : ClientXRStatus Class  
 ---  
   
@@ -35,4 +35,4 @@ Top
 [ClientXRStatus Class](topic13330.md)   
 [DriveWorks.XR Namespace](topic13327.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

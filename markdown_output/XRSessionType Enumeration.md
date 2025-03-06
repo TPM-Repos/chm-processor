@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 XRSessionType Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13329.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.XR Namespace](topic13327.md) : XRSessionType Enumeration  
 ---  
   
@@ -62,4 +62,4 @@ System.Enum
 
 [DriveWorks.XR Namespace](topic13327.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

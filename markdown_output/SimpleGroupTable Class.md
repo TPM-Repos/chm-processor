@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SimpleGroupTable Class   
-[Members](topic10010.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10009.md)  
+[Members](topic10010.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupTables Namespace](topic10007.md) : SimpleGroupTable Class  
 ---  
   
@@ -61,4 +61,4 @@ System.Object
 [SimpleGroupTable Members](topic10010.md)   
 [DriveWorks.GroupTables Namespace](topic10007.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

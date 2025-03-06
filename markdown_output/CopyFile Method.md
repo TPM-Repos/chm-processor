@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyFile Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2325.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ISpecificationFileCopyService Interface](topic2316.md) : CopyFile Method  
 ---  
   
@@ -36,4 +36,4 @@ Overload| Description
 [ISpecificationFileCopyService Interface](topic2316.md)   
 [ISpecificationFileCopyService Members](topic2317.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

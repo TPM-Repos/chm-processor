@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterCommand Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic130.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandButtonManager Interface](topic124.md) : RegisterCommand Method  
 ---  
   
@@ -92,4 +92,4 @@ The registered command.
 [ICommandButtonManager Interface](topic124.md)   
 [ICommandButtonManager Members](topic125.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

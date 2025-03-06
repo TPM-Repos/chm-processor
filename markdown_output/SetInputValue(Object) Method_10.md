@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetInputValue(Object) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9015.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SpinButton Class](topic9002.md) > [SetInputValue Method](topic9014.md) : SetInputValue(Object) Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [SpinButton Members](topic9003.md)   
 [Overload List](topic9014.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

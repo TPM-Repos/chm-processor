@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MainWindowHandle Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic30.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IApplication Interface](topic24.md) : MainWindowHandle Property  
 ---  
   
@@ -55,4 +55,4 @@ The window handle of the main window of the application if supported, otherwise 
 [IApplication Interface](topic24.md)   
 [IApplication Members](topic25.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

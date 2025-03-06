@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateEDrawingsHtml Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15249.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [GenerationSettings Class](topic15238.md) : CreateEDrawingsHtml Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [GenerationSettings Class](topic15238.md)   
 [GenerationSettings Members](topic15239.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

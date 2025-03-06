@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DocumentGenerationBehaviorCondition Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11851.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardConditions Namespace](topic11828.md) : DocumentGenerationBehaviorCondition Class  
 ---  
   
@@ -52,4 +52,4 @@ Top
 [DocumentGenerationBehaviorCondition Class](topic11851.md)   
 [DriveWorks.Specification.StandardConditions Namespace](topic11828.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

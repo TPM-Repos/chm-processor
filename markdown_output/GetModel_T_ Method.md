@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 GetModel<T> Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13424.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ISolidWorksState Interface](topic13419.md) : GetModel<T> Method  
 ---  
   
@@ -64,4 +64,4 @@ A reference to the open model as the given type, or a null reference (Nothing in
 [ISolidWorksState Interface](topic13419.md)   
 [ISolidWorksState Members](topic13420.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

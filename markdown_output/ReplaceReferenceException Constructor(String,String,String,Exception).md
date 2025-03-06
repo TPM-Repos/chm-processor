@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReplaceReferenceException Constructor(String,String,String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15298.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [ReplaceReferenceException Class](topic15291.md) > [ReplaceReferenceException Constructor](topic15297.md) : ReplaceReferenceException Constructor(String,String,String,Exception)  
 ---  
   
@@ -87,4 +87,4 @@ _inner_
 [ReplaceReferenceException Members](topic15292.md)   
 [Overload List](topic15297.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

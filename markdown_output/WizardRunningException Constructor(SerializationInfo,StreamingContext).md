@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 WizardRunningException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1266.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [WizardRunningException Class](topic1257.md) > [WizardRunningException Constructor](topic1263.md) : WizardRunningException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -71,4 +71,4 @@ _context_
 [WizardRunningException Members](topic1258.md)   
 [Overload List](topic1263.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

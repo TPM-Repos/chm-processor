@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DisplayName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6075.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [GenericRuleWithCustomName Class](topic6063.md) : DisplayName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [GenericRuleWithCustomName Class](topic6063.md)   
 [GenericRuleWithCustomName Members](topic6064.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

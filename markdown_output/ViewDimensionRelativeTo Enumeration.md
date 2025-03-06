@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ViewDimensionRelativeTo Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14030.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : ViewDimensionRelativeTo Enumeration  
 ---  
   
@@ -66,4 +66,4 @@ System.Enum
 
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

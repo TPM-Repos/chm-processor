@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CancelCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic743.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [DiscreteWizardBase Class](topic737.md) : CancelCore Method  
 ---  
   
@@ -55,4 +55,4 @@ True if the cancel operation is allowed to proceed.
 [DiscreteWizardBase Class](topic737.md)   
 [DiscreteWizardBase Members](topic738.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12402.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ReadTextFileTask Class](topic12395.md) : Execute Method  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [ReadTextFileTask Class](topic12395.md)   
 [ReadTextFileTask Members](topic12396.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AgentDetails Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2387.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [AgentDetails Class](topic2381.md) : AgentDetails Constructor  
 ---  
   
@@ -78,4 +78,4 @@ _processorArchitecture_
 [AgentDetails Class](topic2381.md)   
 [AgentDetails Members](topic2382.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

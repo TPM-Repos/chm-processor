@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateUser(String,Boolean,String,String,Boolean,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3300.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [CreateUser Method](topic3299.md) : CreateUser(String,Boolean,String,String,Boolean,String) Method  
 ---  
   
@@ -109,4 +109,4 @@ An instance of the [DriveWorks.Security.UserDetails](topic10740.md) structure co
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3299.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

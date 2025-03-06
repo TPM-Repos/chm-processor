@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearLines Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5700.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TextDocumentLines Class](topic5691.md) : ClearLines Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [TextDocumentLines Class](topic5691.md)   
 [TextDocumentLines Members](topic5692.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14207.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedFeatureCollection Class](topic14201.md) : Add Method  
 ---  
   
@@ -84,4 +84,4 @@ The newly added feature.
 [CapturedFeatureCollection Class](topic14201.md)   
 [CapturedFeatureCollection Members](topic14202.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

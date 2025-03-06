@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectOpeningEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic904.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ProjectOpeningEventArgs Class](topic898.md) : ProjectOpeningEventArgs Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [ProjectOpeningEventArgs Class](topic898.md)   
 [ProjectOpeningEventArgs Members](topic899.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetAllSpecificationFlowTaskTypes Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4598.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectMaintenance Class](topic4579.md) : GetAllSpecificationFlowTaskTypes Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ProjectMaintenance Class](topic4579.md)   
 [ProjectMaintenance Members](topic4580.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HelpProvider Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic850.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [HelpProvider Class](topic844.md) : HelpProvider Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [HelpProvider Class](topic844.md)   
 [HelpProvider Members](topic845.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

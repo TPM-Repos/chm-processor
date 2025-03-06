@@ -37,4 +37,4 @@ Top
 [TaskSequenceRef Class](topic13159.md)   
 [DriveWorks.Transactions Namespace](topic12835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

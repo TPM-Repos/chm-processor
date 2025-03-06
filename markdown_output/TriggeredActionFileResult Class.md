@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TriggeredActionFileResult Class   
-[Members](topic5738.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5737.md)  
+[Members](topic5738.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : TriggeredActionFileResult Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [TriggeredActionFileResult Members](topic5738.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

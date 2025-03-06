@@ -47,4 +47,4 @@ Top
 [ReportPackage Class](topic10451.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

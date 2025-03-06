@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotifyIsChanging Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2033.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [IApplicationStateController Interface](topic2028.md) : NotifyIsChanging Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IApplicationStateController Interface](topic2028.md)   
 [IApplicationStateController Members](topic2029.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

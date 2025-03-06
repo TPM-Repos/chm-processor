@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VariableDataCorruptException Class   
-[Members](topic5863.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5862.md)  
+[Members](topic5863.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : VariableDataCorruptException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [VariableDataCorruptException Members](topic5863.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

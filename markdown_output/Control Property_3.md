@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Control Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1461.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) > [IDataTableViewController Interface](topic1455.md) : Control Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IDataTableViewController Interface](topic1455.md)   
 [IDataTableViewController Members](topic1456.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

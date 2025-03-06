@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginOperation Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1760.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ISolidWorksOperationBatch Interface](topic1755.md) : BeginOperation Method  
 ---  
   
@@ -76,4 +76,4 @@ An operation which can be used to coordinate the execution of the operation with
 [ISolidWorksOperationBatch Interface](topic1755.md)   
 [ISolidWorksOperationBatch Members](topic1756.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

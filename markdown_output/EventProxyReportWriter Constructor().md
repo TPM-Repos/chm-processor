@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventProxyReportWriter Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10399.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [EventProxyReportWriter Class](topic10392.md) > [EventProxyReportWriter Constructor](topic10398.md) : EventProxyReportWriter Constructor()  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [EventProxyReportWriter Members](topic10393.md)   
 [Overload List](topic10398.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

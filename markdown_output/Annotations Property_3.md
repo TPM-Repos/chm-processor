@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Annotations Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14868.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedDrawing Class](topic14859.md) : Annotations Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedDrawing Class](topic14859.md)   
 [ReleasedDrawing Members](topic14860.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ConvertFrom(ITypeDescriptorContext,CultureInfo,Object) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3480.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IArrayValueConverter Class](topic3468.md) > [ConvertFrom Method](topic3479.md) : ConvertFrom(ITypeDescriptorContext,CultureInfo,Object) Method  
 ---  
   
@@ -79,4 +79,4 @@ _value_
 [IArrayValueConverter Members](topic3469.md)   
 [Overload List](topic3479.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

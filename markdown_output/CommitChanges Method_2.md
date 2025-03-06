@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommitChanges Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5595.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportDetails Class](topic5589.md) : CommitChanges Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [TableExportDetails Class](topic5589.md)   
 [TableExportDetails Members](topic5590.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

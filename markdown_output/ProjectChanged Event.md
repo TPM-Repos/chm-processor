@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3858.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProfilerSpecificationMonitor Class](topic3838.md) : ProjectChanged Event  
 ---  
   
@@ -55,4 +55,4 @@ This will be for embedded specifications when they are re-opened after a cancel.
 [ProfilerSpecificationMonitor Class](topic3838.md)   
 [ProfilerSpecificationMonitor Members](topic3839.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

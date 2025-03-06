@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileCopyingEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2865.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [FileCopyingEventArgs Class](topic2859.md) : FileCopyingEventArgs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _targetPath_
 [FileCopyingEventArgs Class](topic2859.md)   
 [FileCopyingEventArgs Members](topic2860.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

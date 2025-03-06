@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Disconnect Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4352.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDisplayFile Class](topic4346.md) : Disconnect Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ProjectDisplayFile Class](topic4346.md)   
 [ProjectDisplayFile Members](topic4347.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

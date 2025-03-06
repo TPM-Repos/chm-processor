@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IArrayValueConverter Class   
-[Members](topic3469.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3468.md)  
+[Members](topic3469.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IArrayValueConverter Class  
 ---  
   
@@ -60,4 +60,4 @@ System.ComponentModel.TypeConverter
 [IArrayValueConverter Members](topic3469.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

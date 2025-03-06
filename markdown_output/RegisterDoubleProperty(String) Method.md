@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterDoubleProperty(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10921.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperties Class](topic10905.md) > [RegisterDoubleProperty Method](topic10920.md) : RegisterDoubleProperty(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ A new specification flow property.
 [FlowProperties Members](topic10906.md)   
 [Overload List](topic10920.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

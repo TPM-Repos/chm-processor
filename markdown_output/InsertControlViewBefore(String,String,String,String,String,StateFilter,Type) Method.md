@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InsertControlViewBefore(String,String,String,String,String,StateFilter,Type) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic588.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IViewRegistrationService Interface](topic578.md) > [InsertControlViewBefore Method](topic587.md) : InsertControlViewBefore(String,String,String,String,String,StateFilter,Type) Method  
 ---  
   
@@ -118,4 +118,4 @@ Views may not be nested deeper than two levels.
 [IViewRegistrationService Members](topic579.md)   
 [Overload List](topic587.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

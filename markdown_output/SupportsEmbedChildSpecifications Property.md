@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SupportsEmbedChildSpecifications Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4898.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationSettings Class](topic4885.md) : SupportsEmbedChildSpecifications Property  
 ---  
   
@@ -55,4 +55,4 @@ This is based off of the project type. E.g. Excel based projects do not support 
 [ProjectSpecificationSettings Class](topic4885.md)   
 [ProjectSpecificationSettings Members](topic4886.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

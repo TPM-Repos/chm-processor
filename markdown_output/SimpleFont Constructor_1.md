@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SimpleFont Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8889.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SimpleFont Class](topic8882.md) : SimpleFont Constructor  
 ---  
   
@@ -102,4 +102,4 @@ _hasStrikethrough_
 [SimpleFont Class](topic8882.md)   
 [SimpleFont Members](topic8883.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

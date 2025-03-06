@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IListenForSpecificationContextCreation Interface   
-[Members](topic2244.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2243.md)  
+[Members](topic2244.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IListenForSpecificationContextCreation Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IListenForSpecificationContextCreation Members](topic2244.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

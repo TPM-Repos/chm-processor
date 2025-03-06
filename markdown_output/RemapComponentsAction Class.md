@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemapComponentsAction Class   
-[Members](topic9950.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9949.md)  
+[Members](topic9950.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : RemapComponentsAction Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [RemapComponentsAction Members](topic9950.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

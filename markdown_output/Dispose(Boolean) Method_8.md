@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Dispose(Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9786.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [CopyGroupProcess Class](topic9776.md) > [Dispose Method](topic9784.md) : Dispose(Boolean) Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [CopyGroupProcess Members](topic9777.md)   
 [Overload List](topic9784.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

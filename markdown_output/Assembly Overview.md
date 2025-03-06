@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Applications Assembly   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13.md)  
+  
   
 Glossary Item Box
 
@@ -26,4 +26,4 @@ Namespace| Description
 [DriveWorks.Applications.DataManagement.Extensibility](topic1984.md)|   
 [DriveWorks.Applications.Extensibility](topic1995.md)| Contains types specifically related to the extensibility system, for example, [IApplicationPlugin Interface](topic2004.md)  
   
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetDataFromClipboard Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13515.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ClipboardSupport Class](topic13507.md) : GetDataFromClipboard Method  
 ---  
   
@@ -54,4 +54,4 @@ A two dimensional array of data from the clipboard.
 [ClipboardSupport Class](topic13507.md)   
 [ClipboardSupport Members](topic13508.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IFormDesignerSettingsProvider Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic232.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IFormDesignerSettingsProvider Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [IFormDesignerSettingsProvider Interface](topic232.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

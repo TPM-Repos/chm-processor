@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationProperties Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1427.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) > [AdministratorViewNames Class](topic1388.md) : SpecificationProperties Field  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [AdministratorViewNames Class](topic1388.md)   
 [AdministratorViewNames Members](topic1389.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

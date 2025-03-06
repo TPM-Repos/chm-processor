@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsRunningRequired Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12544.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [RunMacroInHostSpecificationTask Class](topic12536.md) : IsRunningRequired Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the specification needs to be running for the task to execute.
 [RunMacroInHostSpecificationTask Class](topic12536.md)   
 [RunMacroInHostSpecificationTask Members](topic12537.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

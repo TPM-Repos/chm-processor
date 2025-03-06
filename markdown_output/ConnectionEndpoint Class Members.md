@@ -51,4 +51,4 @@ Top
 [ConnectionEndpoint Class](topic6918.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

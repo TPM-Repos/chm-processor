@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Failures Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5733.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TriggeredActionDetails Class](topic5724.md) : Failures Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [TriggeredActionDetails Class](topic5724.md)   
 [TriggeredActionDetails Members](topic5725.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

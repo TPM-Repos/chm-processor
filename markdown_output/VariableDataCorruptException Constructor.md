@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 VariableDataCorruptException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5868.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [VariableDataCorruptException Class](topic5862.md) : VariableDataCorruptException Constructor  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [VariableDataCorruptException Class](topic5862.md)   
 [VariableDataCorruptException Members](topic5863.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

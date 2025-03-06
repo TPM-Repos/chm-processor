@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorksPrincipal Class   
-[Members](topic10685.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10684.md)  
+[Members](topic10685.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) : DriveWorksPrincipal Class  
 ---  
   
@@ -65,4 +65,4 @@ System.Object
 [DriveWorksPrincipal Members](topic10685.md)   
 [DriveWorks.Security Namespace](topic10574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

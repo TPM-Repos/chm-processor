@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item(String) Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4845.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationProperties Class](topic4833.md) > [Item Property](topic4843.md) : Item(String) Property  
 ---  
   
@@ -71,4 +71,4 @@ Exception| Description
 [ProjectSpecificationProperties Members](topic4834.md)   
 [Overload List](topic4843.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

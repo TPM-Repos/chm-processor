@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetConnectionString Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3077.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupConnectionStringBuilder Class](topic3068.md) : GetConnectionString Method  
 ---  
   
@@ -57,4 +57,4 @@ System.InvalidOperationException| Throw when there are invalid values in propert
 [GroupConnectionStringBuilder Class](topic3068.md)   
 [GroupConnectionStringBuilder Members](topic3069.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

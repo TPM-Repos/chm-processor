@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitializeExistingCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3654.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JsonDocument Class](topic3635.md) : InitializeExistingCore Method  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [JsonDocument Class](topic3635.md)   
 [JsonDocument Members](topic3636.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

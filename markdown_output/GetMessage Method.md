@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetMessage Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4634.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectMessages Class](topic4627.md) : GetMessage Method  
 ---  
   
@@ -70,4 +70,4 @@ Exception| Description
 [ProjectMessages Class](topic4627.md)   
 [ProjectMessages Members](topic4628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

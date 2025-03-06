@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IndexOf Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6695.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskReleaseConditions Class](topic6682.md) : IndexOf Method  
 ---  
   
@@ -68,4 +68,4 @@ The index of condition if found in the collection, otherwise -1.
 [ComponentTaskReleaseConditions Class](topic6682.md)   
 [ComponentTaskReleaseConditions Members](topic6683.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

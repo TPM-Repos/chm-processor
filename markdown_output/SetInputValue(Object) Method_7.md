@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetInputValue(Object) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8561.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [OptionButton Class](topic8549.md) > [SetInputValue Method](topic8560.md) : SetInputValue(Object) Method  
 ---  
   
@@ -64,4 +64,4 @@ C#|
 [OptionButton Members](topic8550.md)   
 [Overload List](topic8560.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Bind(String,String,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10954.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperty Class](topic10946.md) > [Bind Method](topic10952.md) : Bind(String,String,Boolean) Method  
 ---  
   
@@ -80,4 +80,4 @@ _allowEmptyRule_
 [FlowProperty Members](topic10947.md)   
 [Overload List](topic10952.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

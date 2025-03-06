@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CorruptDocumentDataException Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2631.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [CorruptDocumentDataException Class](topic2624.md) > [CorruptDocumentDataException Constructor](topic2630.md) : CorruptDocumentDataException Constructor(String)  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [CorruptDocumentDataException Members](topic2625.md)   
 [Overload List](topic2630.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FromTransition Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13169.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [TaskSequenceRef Class](topic13159.md) : FromTransition Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [TaskSequenceRef Class](topic13159.md)   
 [TaskSequenceRef Members](topic13160.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

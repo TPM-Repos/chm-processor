@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectChildSpecificationOutputDef Class   
-[Members](topic4057.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4056.md)  
+[Members](topic4057.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectChildSpecificationOutputDef Class  
 ---  
   
@@ -64,4 +64,4 @@ System.MarshalByRefObject
 [ProjectChildSpecificationOutputDef Members](topic4057.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

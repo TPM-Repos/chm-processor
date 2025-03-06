@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateTeamDisplayNameTask Class   
-[Members](topic12716.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12715.md)  
+[Members](topic12716.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : UpdateTeamDisplayNameTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [UpdateTeamDisplayNameTask Members](topic12716.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

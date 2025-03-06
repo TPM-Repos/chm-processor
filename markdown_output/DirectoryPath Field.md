@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DirectoryPath Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1833.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [CheckingDirectoryEventArgs Class](topic1826.md) : DirectoryPath Field  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [CheckingDirectoryEventArgs Class](topic1826.md)   
 [CheckingDirectoryEventArgs Members](topic1827.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProxyReportWriter Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10441.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [ProxyReportWriter Class](topic10434.md) > [ProxyReportWriter Constructor](topic10440.md) : ProxyReportWriter Constructor()  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ProxyReportWriter Members](topic10435.md)   
 [Overload List](topic10440.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

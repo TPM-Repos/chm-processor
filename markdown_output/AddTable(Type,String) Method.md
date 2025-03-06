@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddTable(Type,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3144.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupDataTables Class](topic3136.md) > [AddTable Method](topic3142.md) : AddTable(Type,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ The created table.
 [GroupDataTables Members](topic3137.md)   
 [Overload List](topic3142.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

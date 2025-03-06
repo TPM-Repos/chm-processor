@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EMAIL Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3632.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JobTypeConstants Class](topic3625.md) : EMAIL Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [JobTypeConstants Class](topic3625.md)   
 [JobTypeConstants Members](topic3626.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

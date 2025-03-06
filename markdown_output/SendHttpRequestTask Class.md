@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SendHttpRequestTask Class   
-[Members](topic12549.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12548.md)  
+[Members](topic12549.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : SendHttpRequestTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [SendHttpRequestTask Members](topic12549.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

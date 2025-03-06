@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetContext Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3953.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumn Class](topic3946.md) : GetContext Method  
 ---  
   
@@ -74,4 +74,4 @@ The context can become invalid if rows are inserted or the table renamed etc.
 [ProjectCalculationTableColumn Class](topic3946.md)   
 [ProjectCalculationTableColumn Members](topic3947.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

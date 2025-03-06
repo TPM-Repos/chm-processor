@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterProject Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3218.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupProjects Class](topic3190.md) : RegisterProject Method  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [GroupProjects Class](topic3190.md)   
 [GroupProjects Members](topic3191.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

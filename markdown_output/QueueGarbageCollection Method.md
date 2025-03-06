@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 QueueGarbageCollection Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic243.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IGarbageCollectionService Interface](topic238.md) : QueueGarbageCollection Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IGarbageCollectionService Interface](topic238.md)   
 [IGarbageCollectionService Members](topic239.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

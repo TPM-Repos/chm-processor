@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Table Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2665.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DataTableEventArgs Class](topic2655.md) : Table Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [DataTableEventArgs Class](topic2655.md)   
 [DataTableEventArgs Members](topic2656.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

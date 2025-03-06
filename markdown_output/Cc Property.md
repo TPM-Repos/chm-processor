@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Cc Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2804.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [EmailDocumentDetails Class](topic2793.md) : Cc Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [EmailDocumentDetails Class](topic2793.md)   
 [EmailDocumentDetails Members](topic2794.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

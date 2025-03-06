@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateProvider Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10624.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [AuthenticationProviderFactory Class](topic10617.md) : CreateProvider Method  
 ---  
   
@@ -67,4 +67,4 @@ A provider implementation or a null reference (Nothing in Visual Basic) if the p
 [AuthenticationProviderFactory Class](topic10617.md)   
 [AuthenticationProviderFactory Members](topic10618.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

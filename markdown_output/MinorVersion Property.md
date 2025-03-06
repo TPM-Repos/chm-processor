@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MinorVersion Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5306.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SharedGroupDetails Class](topic5298.md) : MinorVersion Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SharedGroupDetails Class](topic5298.md)   
 [SharedGroupDetails Members](topic5299.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetParameter Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5070.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedComponentTask Class](topic5061.md) : TryGetParameter Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ReleasedComponentTask Class](topic5061.md)   
 [ReleasedComponentTask Members](topic5062.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

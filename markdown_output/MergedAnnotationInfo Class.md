@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MergedAnnotationInfo Class   
-[Members](topic13791.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13790.md)  
+[Members](topic13791.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : MergedAnnotationInfo Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [MergedAnnotationInfo Members](topic13791.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

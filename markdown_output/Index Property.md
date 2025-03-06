@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Index Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2514.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Column Class](topic2506.md) : Index Property  
 ---  
   
@@ -55,4 +55,4 @@ The index of the column in the column set.
 [Column Class](topic2506.md)   
 [Column Members](topic2507.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

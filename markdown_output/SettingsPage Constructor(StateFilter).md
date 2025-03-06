@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SettingsPage Constructor(StateFilter)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic943.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [SettingsPage Class](topic935.md) > [SettingsPage Constructor](topic941.md) : SettingsPage Constructor(StateFilter)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [SettingsPage Members](topic936.md)   
 [Overload List](topic941.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

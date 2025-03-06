@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UserDefinedFunctionInfo Class   
-[Members](topic5810.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5809.md)  
+[Members](topic5810.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : UserDefinedFunctionInfo Class  
 ---  
   
@@ -72,4 +72,4 @@ System.Object
 [UserDefinedFunctionInfo Members](topic5810.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -31,4 +31,4 @@ Top
 [IRuleAnalyzerService Interface](topic1500.md)   
 [DriveWorks.Applications.Administrator.Extensibility.Diagnostics Namespace](topic1498.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

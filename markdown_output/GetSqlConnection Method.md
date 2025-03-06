@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetSqlConnection Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2566.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConnectionManager Class](topic2554.md) : GetSqlConnection Method  
 ---  
   
@@ -84,4 +84,4 @@ An instance of the System.Data.SqlClient.SqlConnection class representing an ope
 [ConnectionManager Class](topic2554.md)   
 [ConnectionManager Members](topic2555.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

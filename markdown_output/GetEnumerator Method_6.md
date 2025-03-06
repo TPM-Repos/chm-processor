@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetEnumerator Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11794.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Transitions Class](topic11787.md) : GetEnumerator Method  
 ---  
   
@@ -55,4 +55,4 @@ An IEnumerator specialized for the [Transition](topic11757.md) type.
 [Transitions Class](topic11787.md)   
 [Transitions Members](topic11788.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

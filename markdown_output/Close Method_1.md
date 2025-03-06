@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Close Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11409.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationForm Class](topic11402.md) : Close Method  
 ---  
   
@@ -56,4 +56,4 @@ System.InvalidOperationException| A specification is not running, or no dialog i
 [SpecificationForm Class](topic11402.md)   
 [SpecificationForm Members](topic11403.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

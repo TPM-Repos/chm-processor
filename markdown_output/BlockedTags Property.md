@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BlockedTags Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3611.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JobRequestTagInformation Class](topic3604.md) : BlockedTags Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [JobRequestTagInformation Class](topic3604.md)   
 [JobRequestTagInformation Members](topic3605.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

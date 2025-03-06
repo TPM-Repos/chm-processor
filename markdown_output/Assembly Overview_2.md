@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Engine Assembly   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2156.md)  
+  
   
 Glossary Item Box
 
@@ -47,4 +47,4 @@ Namespace| Description
 [DriveWorks.Utility](topic13190.md)| Provides helper types.  
 [DriveWorks.XR](topic13327.md)|   
   
-©2024 DriveWorks Ltd. All Rights Reserved.
+

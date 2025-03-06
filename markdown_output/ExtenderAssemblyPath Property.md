@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExtenderAssemblyPath Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4459.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectExtenderLoadException Class](topic4450.md) : ExtenderAssemblyPath Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectExtenderLoadException Class](topic4450.md)   
 [ProjectExtenderLoadException Members](topic4451.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

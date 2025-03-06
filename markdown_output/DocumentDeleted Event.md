@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DocumentDeleted Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4448.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocuments Class](topic4434.md) : DocumentDeleted Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [ProjectDocuments Class](topic4434.md)   
 [ProjectDocuments Members](topic4435.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

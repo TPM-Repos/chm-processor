@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TableExportSummary Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5628.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportSummary Class](topic5622.md) : TableExportSummary Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [TableExportSummary Class](topic5622.md)   
 [TableExportSummary Members](topic5623.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetParameterValue Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5152.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleaseParameterDataContainer Class](topic5145.md) : GetParameterValue Method  
 ---  
   
@@ -68,4 +68,4 @@ This method returns null (Nothing in Visual Basic) if the parameter was not foun
 [ReleaseParameterDataContainer Class](topic5145.md)   
 [ReleaseParameterDataContainer Members](topic5146.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

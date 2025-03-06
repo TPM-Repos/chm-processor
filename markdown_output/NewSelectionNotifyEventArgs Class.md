@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NewSelectionNotifyEventArgs Class   
-[Members](topic13868.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13867.md)  
+[Members](topic13868.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : NewSelectionNotifyEventArgs Class  
 ---  
   
@@ -61,4 +61,4 @@ System.EventArgs
 [NewSelectionNotifyEventArgs Members](topic13868.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

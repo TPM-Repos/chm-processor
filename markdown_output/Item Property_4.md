@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Item Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11533.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationTaskList Class](topic11525.md) : Item Property  
 ---  
   
@@ -68,4 +68,4 @@ The task list entry with the given key, or a null reference if one does not exis
 [SpecificationTaskList Class](topic11525.md)   
 [SpecificationTaskList Members](topic11526.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 GetService<T> Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic821.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [Extensions Class](topic814.md) : GetService<T> Method  
 ---  
   
@@ -77,4 +77,4 @@ A service of the specified type, or the default value for the specified type if 
 [Extensions Class](topic814.md)   
 [Extensions Members](topic815.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

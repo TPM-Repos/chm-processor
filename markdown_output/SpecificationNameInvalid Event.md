@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationNameInvalid Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic488.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ISpecificationRequestWithEdit Interface](topic478.md) : SpecificationNameInvalid Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ISpecificationRequestWithEdit Interface](topic478.md)   
 [ISpecificationRequestWithEdit Members](topic479.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetChosenColumns Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5251.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [RollupDataTable Class](topic5240.md) : SetChosenColumns Method  
 ---  
   
@@ -67,4 +67,4 @@ This will also update the placeholder data accordingly.
 [RollupDataTable Class](topic5240.md)   
 [RollupDataTable Members](topic5241.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

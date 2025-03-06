@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveAt Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14371.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedViewCollection Class](topic14362.md) : RemoveAt Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [CapturedViewCollection Class](topic14362.md)   
 [CapturedViewCollection Members](topic14363.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

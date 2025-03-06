@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Find Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7777.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlCollection Class](topic7766.md) : Find Method  
 ---  
   
@@ -76,4 +76,4 @@ The control that matches the given name, or a null reference (Nothing in Visual 
 [ControlCollection Class](topic7766.md)   
 [ControlCollection Members](topic7767.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

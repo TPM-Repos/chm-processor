@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Alternatives Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13932.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [IHasCapturedAlternatives Interface](topic13927.md) : Alternatives Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasCapturedAlternatives Interface](topic13927.md)   
 [IHasCapturedAlternatives Members](topic13928.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

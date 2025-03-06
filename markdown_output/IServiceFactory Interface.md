@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IServiceFactory Interface   
-[Members](topic430.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic429.md)  
+[Members](topic430.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IServiceFactory Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IServiceFactory Members](topic430.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

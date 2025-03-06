@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Image Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10842.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [ConditionAttribute Class](topic10832.md) : Image Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ConditionAttribute Class](topic10832.md)   
 [ConditionAttribute Members](topic10833.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

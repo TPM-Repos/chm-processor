@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IReportWriterFactory Interface   
-[Members](topic10356.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10355.md)  
+[Members](topic10356.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) : IReportWriterFactory Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IReportWriterFactory Members](topic10356.md)   
 [DriveWorks.Reporting Namespace](topic10334.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

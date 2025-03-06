@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PropertyInvalidException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11129.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [PropertyInvalidException Class](topic11123.md) : PropertyInvalidException Constructor  
 ---  
   
@@ -34,4 +34,4 @@ Overload| Description
 [PropertyInvalidException Class](topic11123.md)   
 [PropertyInvalidException Members](topic11124.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

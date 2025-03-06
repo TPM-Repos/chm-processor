@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateNotFoundException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11607.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateNotFoundException Class](topic11601.md) : StateNotFoundException Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [StateNotFoundException Class](topic11601.md)   
 [StateNotFoundException Members](topic11602.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

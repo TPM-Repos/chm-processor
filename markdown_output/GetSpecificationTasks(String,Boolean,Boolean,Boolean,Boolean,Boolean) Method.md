@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetSpecificationTasks(String,Boolean,Boolean,Boolean,Boolean,Boolean) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3384.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) > [GetSpecificationTasks Method](topic3382.md) : GetSpecificationTasks(String,Boolean,Boolean,Boolean,Boolean,Boolean) Method  
 ---  
   
@@ -109,4 +109,4 @@ Returns an enumerable of specification tasks that match the specified criteria.
 [GroupSpecifications Members](topic3356.md)   
 [Overload List](topic3382.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

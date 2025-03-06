@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreviewServerResult Class   
-[Members](topic3828.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3827.md)  
+[Members](topic3828.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : PreviewServerResult Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [PreviewServerResult Members](topic3828.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

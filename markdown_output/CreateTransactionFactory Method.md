@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTransactionFactory Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3868.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Project Class](topic3859.md) : CreateTransactionFactory Method  
 ---  
   
@@ -55,4 +55,4 @@ An instance of the [DriveWorks.Transactions.ProjectTransactionFactory](topic1292
 [Project Class](topic3859.md)   
 [Project Members](topic3860.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

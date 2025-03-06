@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateCondition Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7097.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [NodeOutputCollection Class](topic7087.md) : CreateCondition Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [NodeOutputCollection Class](topic7087.md)   
 [NodeOutputCollection Members](topic7088.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

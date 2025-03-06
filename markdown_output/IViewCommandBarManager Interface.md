@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IViewCommandBarManager Interface   
-[Members](topic544.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic543.md)  
+[Members](topic544.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IViewCommandBarManager Interface  
 ---  
   
@@ -55,4 +55,4 @@ Unlike the application-level [ICommandBarManager](topic109.md) interface, comman
 [IViewCommandBarManager Members](topic544.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

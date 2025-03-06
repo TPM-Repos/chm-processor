@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RequiresSingleContext Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12092.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CopySpecificationTask Class](topic12084.md) : RequiresSingleContext Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [CopySpecificationTask Class](topic12084.md)   
 [CopySpecificationTask Members](topic12085.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Add(Type,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6689.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskReleaseConditions Class](topic6682.md) > [Add Method](topic6688.md) : Add(Type,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ The newly created condition.
 [ComponentTaskReleaseConditions Members](topic6683.md)   
 [Overload List](topic6688.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

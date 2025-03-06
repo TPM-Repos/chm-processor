@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetIsDynamic Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6639.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskProperty Class](topic6633.md) : SetIsDynamic Method  
 ---  
   
@@ -69,4 +69,4 @@ System.InvalidOperationException| The property does not support being made dynam
 [ComponentTaskProperty Class](topic6633.md)   
 [ComponentTaskProperty Members](topic6634.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

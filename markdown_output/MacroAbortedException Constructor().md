@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MacroAbortedException Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11045.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [MacroAbortedException Class](topic11038.md) > [MacroAbortedException Constructor](topic11044.md) : MacroAbortedException Constructor()  
 ---  
   
@@ -47,4 +47,4 @@ C#|
 [MacroAbortedException Members](topic11039.md)   
 [Overload List](topic11044.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

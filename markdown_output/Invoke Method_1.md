@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Invoke Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1991.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.DataManagement.Extensibility Namespace](topic1984.md) > [ITask Interface](topic1986.md) : Invoke Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ITask Interface](topic1986.md)   
 [ITask Members](topic1987.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

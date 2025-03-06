@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DefaultProjectName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2762.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DriveAppDetails Class](topic2750.md) : DefaultProjectName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [DriveAppDetails Class](topic2750.md)   
 [DriveAppDetails Members](topic2751.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

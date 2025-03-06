@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ValidateContext Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic166.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandMonitor Interface](topic158.md) : ValidateContext Method  
 ---  
   
@@ -73,4 +73,4 @@ If the command does not expect context, and context is not a null reference (Not
 [ICommandMonitor Interface](topic158.md)   
 [ICommandMonitor Members](topic159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

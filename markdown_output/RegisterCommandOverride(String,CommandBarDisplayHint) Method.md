@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterCommandOverride(String,CommandBarDisplayHint) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic133.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandButtonManager Interface](topic124.md) > [RegisterCommandOverride Method](topic131.md) : RegisterCommandOverride(String,CommandBarDisplayHint) Method  
 ---  
   
@@ -77,4 +77,4 @@ The command button for the command override.
 [ICommandButtonManager Members](topic125.md)   
 [Overload List](topic131.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

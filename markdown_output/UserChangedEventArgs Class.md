@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UserChangedEventArgs Class   
-[Members](topic5801.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5800.md)  
+[Members](topic5801.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : UserChangedEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [UserChangedEventArgs Members](topic5801.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

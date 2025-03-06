@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ActiveDialogOrForm Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11196.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationContext Class](topic11149.md) : ActiveDialogOrForm Property  
 ---  
   
@@ -55,4 +55,4 @@ If a specification isn't running, a null reference (Nothing in Visual Basic) is 
 [SpecificationContext Class](topic11149.md)   
 [SpecificationContext Members](topic11150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

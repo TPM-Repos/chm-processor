@@ -67,4 +67,4 @@ Top
 [PackageGroupProcess Class](topic9925.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

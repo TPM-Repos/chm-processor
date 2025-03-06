@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataSourceName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6804.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) > [OdbcDataSourceConfiguration Class](topic6796.md) : DataSourceName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [OdbcDataSourceConfiguration Class](topic6796.md)   
 [OdbcDataSourceConfiguration Members](topic6797.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

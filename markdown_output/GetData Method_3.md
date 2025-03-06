@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4521.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectItemListDef Class](topic4511.md) : GetData Method  
 ---  
   
@@ -55,4 +55,4 @@ An instance of the System.Data.DataTable type which has been populated with info
 [ProjectItemListDef Class](topic4511.md)   
 [ProjectItemListDef Members](topic4512.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

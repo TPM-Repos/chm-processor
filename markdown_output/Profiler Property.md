@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Profiler Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3850.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProfilerSpecificationMonitor Class](topic3838.md) : Profiler Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProfilerSpecificationMonitor Class](topic3838.md)   
 [ProfilerSpecificationMonitor Members](topic3839.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

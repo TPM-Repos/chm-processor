@@ -30,4 +30,4 @@ Top
 [IDataTableTestController Interface](topic1443.md)   
 [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetRuleAndComment Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6711.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskRule Class](topic6704.md) : SetRuleAndComment Method  
 ---  
   
@@ -75,4 +75,4 @@ The version history will not be updated if neither the rule nor the comment has 
 [ComponentTaskRule Class](topic6704.md)   
 [ComponentTaskRule Members](topic6705.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ShouldGenerate() Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4384.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocument Class](topic4356.md) > [ShouldGenerate Method](topic4383.md) : ShouldGenerate() Method  
 ---  
   
@@ -60,4 +60,4 @@ Uses rules result from current project state.
 [ProjectDocument Members](topic4357.md)   
 [Overload List](topic4383.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

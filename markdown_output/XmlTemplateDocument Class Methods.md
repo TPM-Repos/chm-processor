@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 XmlTemplateDocument Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5909.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : XmlTemplateDocument Class  
 ---  
   
@@ -67,4 +67,4 @@ Top
 [XmlTemplateDocument Class](topic5909.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

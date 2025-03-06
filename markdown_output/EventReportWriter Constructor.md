@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventReportWriter Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10415.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [EventReportWriter Class](topic10409.md) : EventReportWriter Constructor  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [EventReportWriter Class](topic10409.md)   
 [EventReportWriter Members](topic10410.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

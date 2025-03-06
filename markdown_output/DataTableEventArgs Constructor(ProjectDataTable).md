@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataTableEventArgs Constructor(ProjectDataTable)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2662.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DataTableEventArgs Class](topic2655.md) > [DataTableEventArgs Constructor](topic2661.md) : DataTableEventArgs Constructor(ProjectDataTable)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [DataTableEventArgs Members](topic2656.md)   
 [Overload List](topic2661.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

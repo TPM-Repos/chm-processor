@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileFormats Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14671.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectPart Class](topic14659.md) : FileFormats Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectPart Class](topic14659.md)   
 [ProjectPart Members](topic14660.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

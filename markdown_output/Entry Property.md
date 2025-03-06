@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Entry Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11558.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationTaskListEntryEventArgs Class](topic11548.md) : Entry Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SpecificationTaskListEntryEventArgs Class](topic11548.md)   
 [SpecificationTaskListEntryEventArgs Members](topic11549.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

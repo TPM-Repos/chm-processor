@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AvailableOperation Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10787.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : AvailableOperation Class  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [AvailableOperation Class](topic10787.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

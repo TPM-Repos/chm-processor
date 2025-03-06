@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TeamName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11939.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [AddUserToTeamTask Class](topic11930.md) : TeamName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [AddUserToTeamTask Class](topic11930.md)   
 [AddUserToTeamTask Members](topic11931.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

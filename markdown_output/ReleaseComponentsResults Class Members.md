@@ -50,4 +50,4 @@ Top
 [ReleaseComponentsResults Class](topic6300.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveAt Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14922.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedFeatureParameterCollection Class](topic14911.md) : RemoveAt Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ReleasedFeatureParameterCollection Class](topic14911.md)   
 [ReleasedFeatureParameterCollection Members](topic14912.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

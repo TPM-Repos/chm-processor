@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Specification.StandardConditions Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11828.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Specification.StandardConditions Namespace  
 ---  
   
@@ -36,4 +36,4 @@ DriveWorks.DomainObject
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

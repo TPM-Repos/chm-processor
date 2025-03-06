@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ModelPreparationResultEventArgs Class   
-[Members](topic15273.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15272.md)  
+[Members](topic15273.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) : ModelPreparationResultEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [ModelPreparationResultEventArgs Members](topic15273.md)   
 [DriveWorks.SolidWorks.Generation Namespace](topic15094.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

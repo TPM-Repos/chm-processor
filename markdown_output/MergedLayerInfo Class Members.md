@@ -40,4 +40,4 @@ Top
 [MergedLayerInfo Class](topic13835.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

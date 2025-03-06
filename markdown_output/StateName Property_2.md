@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12694.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [StoreSpecificationTask Class](topic12685.md) : StateName Property  
 ---  
   
@@ -57,4 +57,4 @@ Can be set to nothing, meaning that it will store the specification in the cance
 [StoreSpecificationTask Class](topic12685.md)   
 [StoreSpecificationTask Members](topic12686.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Execute Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1739.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [IScheduleConnectorTask Interface](topic1734.md) : Execute Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IScheduleConnectorTask Interface](topic1734.md)   
 [IScheduleConnectorTask Members](topic1735.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

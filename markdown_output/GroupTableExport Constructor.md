@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupTableExport Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3420.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupTableExport Class](topic3414.md) : GroupTableExport Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [GroupTableExport Class](topic3414.md)   
 [GroupTableExport Members](topic3415.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

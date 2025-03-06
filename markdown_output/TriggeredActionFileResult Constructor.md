@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TriggeredActionFileResult Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5743.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TriggeredActionFileResult Class](topic5737.md) : TriggeredActionFileResult Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [TriggeredActionFileResult Class](topic5737.md)   
 [TriggeredActionFileResult Members](topic5738.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateChangeEventArgs Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11586.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateChangeEventArgs Class](topic11578.md) > [StateChangeEventArgs Constructor](topic11584.md) : StateChangeEventArgs Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [StateChangeEventArgs Members](topic11579.md)   
 [Overload List](topic11584.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

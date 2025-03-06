@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SupportsNpotTextures Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3800.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [PreviewClientConfiguration Class](topic3793.md) : SupportsNpotTextures Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [PreviewClientConfiguration Class](topic3793.md)   
 [PreviewClientConfiguration Members](topic3794.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectFileExistsException Class   
-[Members](topic4461.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4460.md)  
+[Members](topic4461.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectFileExistsException Class  
 ---  
   
@@ -63,4 +63,4 @@ System.Exception
 [ProjectFileExistsException Members](topic4461.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

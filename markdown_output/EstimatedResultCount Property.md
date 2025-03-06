@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EstimatedResultCount Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2219.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IGroupResultEnumerator Interface](topic2213.md) : EstimatedResultCount Property  
 ---  
   
@@ -55,4 +55,4 @@ The estimated result count, or -1 if not supported.
 [IGroupResultEnumerator Interface](topic2213.md)   
 [IGroupResultEnumerator Members](topic2214.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

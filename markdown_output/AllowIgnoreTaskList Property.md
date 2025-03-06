@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AllowIgnoreTaskList Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11362.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationEnvironment Class](topic11355.md) : AllowIgnoreTaskList Property  
 ---  
   
@@ -57,4 +57,4 @@ The principle consumer of this feature is the specification test feature in whic
 [SpecificationEnvironment Class](topic11355.md)   
 [SpecificationEnvironment Members](topic11356.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

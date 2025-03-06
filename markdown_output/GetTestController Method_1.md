@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTestController Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1545.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [IDocumentTestProvider Interface](topic1540.md) : GetTestController Method  
 ---  
   
@@ -76,4 +76,4 @@ An instance of a type which implements the [IDocumentTestController](topic1532.m
 [IDocumentTestProvider Interface](topic1540.md)   
 [IDocumentTestProvider Members](topic1541.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

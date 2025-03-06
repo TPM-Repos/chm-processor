@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Hidden Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4343.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDetails Class](topic4330.md) : Hidden Property  
 ---  
   
@@ -57,4 +57,4 @@ If a project is hidden, it is not displayed in the list of projects that can be 
 [ProjectDetails Class](topic4330.md)   
 [ProjectDetails Members](topic4331.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

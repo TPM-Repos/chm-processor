@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsVisible Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15404.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace](topic15361.md) > [ReportProcessViewModel Class](topic15390.md) : IsVisible Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReportProcessViewModel Class](topic15390.md)   
 [ReportProcessViewModel Members](topic15391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

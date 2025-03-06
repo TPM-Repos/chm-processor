@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlTypeResolverDelegate Delegate   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9625.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md) : ControlTypeResolverDelegate Delegate  
 ---  
   
@@ -64,4 +64,4 @@ The type of the control or a null reference if no control was found.
 [ControlTypeResolverDelegate Members](topic9625.md)   
 [DriveWorks.Forms.DataModel.Serialization Namespace](topic9591.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

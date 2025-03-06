@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MeasurementHelper Class   
-[Members](topic3686.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3685.md)  
+[Members](topic3686.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : MeasurementHelper Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [MeasurementHelper Members](topic3686.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

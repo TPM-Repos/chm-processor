@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NameSearchProcess Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13195.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) : NameSearchProcess Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [NameSearchProcess Class](topic13195.md)   
 [DriveWorks.Utility Namespace](topic13190.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

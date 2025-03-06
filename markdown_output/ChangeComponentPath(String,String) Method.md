@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChangeComponentPath(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3029.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) > [ChangeComponentPath Method](topic3028.md) : ChangeComponentPath(String,String) Method  
 ---  
   
@@ -77,4 +77,4 @@ True if the component was successfully rereferenced.
 [GroupCapturedComponents Members](topic3023.md)   
 [Overload List](topic3028.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

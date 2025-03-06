@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5621.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TableExportRows Class](topic5612.md) : Remove Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the row was removed.
 [TableExportRows Class](topic5612.md)   
 [TableExportRows Members](topic5613.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

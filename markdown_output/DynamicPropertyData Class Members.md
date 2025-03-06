@@ -44,4 +44,4 @@ Top
 [DynamicPropertyData Class](topic9456.md)   
 [DriveWorks.Forms.DataModel Namespace](topic9371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

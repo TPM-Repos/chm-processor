@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ScheduleConnectorConfiguration Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6857.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Schedule Namespace](topic6848.md) > [ScheduleConnectorConfiguration Class](topic6851.md) : ScheduleConnectorConfiguration Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [ScheduleConnectorConfiguration Class](topic6851.md)   
 [ScheduleConnectorConfiguration Members](topic6852.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

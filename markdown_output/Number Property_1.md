@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Number Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14452.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectBreakLine Class](topic14444.md) : Number Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectBreakLine Class](topic14444.md)   
 [ProjectBreakLine Members](topic14445.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChildSpecificationName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12045.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CopyClosedChildSpecificationTask Class](topic12036.md) : ChildSpecificationName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CopyClosedChildSpecificationTask Class](topic12036.md)   
 [CopyClosedChildSpecificationTask Members](topic12037.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

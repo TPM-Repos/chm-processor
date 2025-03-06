@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotInitializedException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3741.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [NotInitializedException Class](topic3735.md) : NotInitializedException Constructor  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [NotInitializedException Class](topic3735.md)   
 [NotInitializedException Members](topic3736.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

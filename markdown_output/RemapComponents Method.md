@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemapComponents Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3047.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupCapturedComponents Class](topic3022.md) : RemapComponents Method  
 ---  
   
@@ -76,4 +76,4 @@ A mapping of all old paths to new paths.
 [GroupCapturedComponents Class](topic3022.md)   
 [GroupCapturedComponents Members](topic3023.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

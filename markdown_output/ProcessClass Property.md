@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProcessClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10431.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [ProcessEventArgs Class](topic10424.md) : ProcessClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProcessEventArgs Class](topic10424.md)   
 [ProcessEventArgs Members](topic10425.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

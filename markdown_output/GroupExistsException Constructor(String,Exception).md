@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupExistsException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3179.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupExistsException Class](topic3170.md) > [GroupExistsException Constructor](topic3176.md) : GroupExistsException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [GroupExistsException Members](topic3171.md)   
 [Overload List](topic3176.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

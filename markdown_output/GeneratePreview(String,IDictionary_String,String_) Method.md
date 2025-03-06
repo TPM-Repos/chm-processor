@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GeneratePreview(String,IDictionary<String,String>) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4376.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocument Class](topic4356.md) > [GeneratePreview Method](topic4374.md) : GeneratePreview(String,IDictionary<String,String>) Method  
 ---  
   
@@ -84,4 +84,4 @@ System.NotImplementedException| Thrown if the document has specified support for
 [ProjectDocument Members](topic4357.md)   
 [Overload List](topic4374.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

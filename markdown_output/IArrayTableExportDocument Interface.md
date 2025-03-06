@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IArrayTableExportDocument Interface   
-[Members](topic2162.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2161.md)  
+[Members](topic2162.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : IArrayTableExportDocument Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IArrayTableExportDocument Members](topic2162.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

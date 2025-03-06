@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Insert Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10879.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Conditions Class](topic10865.md) : Insert Method  
 ---  
   
@@ -78,4 +78,4 @@ System.ArgumentNullException| Thrown if the condition parameter is a null refere
 [Conditions Class](topic10865.md)   
 [Conditions Members](topic10866.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

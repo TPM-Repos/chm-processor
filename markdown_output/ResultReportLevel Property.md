@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ResultReportLevel Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6967.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) > [ExecutableNodeBase Class](topic6938.md) : ResultReportLevel Property  
 ---  
   
@@ -55,4 +55,4 @@ If this is not set the default level will be used which depends on the final sta
 [ExecutableNodeBase Class](topic6938.md)   
 [ExecutableNodeBase Members](topic6939.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

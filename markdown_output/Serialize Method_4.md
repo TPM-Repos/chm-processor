@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Serialize Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5109.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedEmail Class](topic5098.md) : Serialize Method  
 ---  
   
@@ -59,4 +59,4 @@ This is to be stored in the group as the Data field for a SpecificationDeferredT
 [ReleasedEmail Class](topic5098.md)   
 [ReleasedEmail Members](topic5099.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

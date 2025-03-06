@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ImageResourceName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic970.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [SettingsPageAttribute Class](topic959.md) : ImageResourceName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SettingsPageAttribute Class](topic959.md)   
 [SettingsPageAttribute Members](topic960.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

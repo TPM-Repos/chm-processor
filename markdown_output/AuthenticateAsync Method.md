@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AuthenticateAsync Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10587.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [IAuthenticationProviderAsync Interface](topic10582.md) : AuthenticateAsync Method  
 ---  
   
@@ -68,4 +68,4 @@ An instance of a type derived from [IProviderPrincipal](topic10597.md) which rep
 [IAuthenticationProviderAsync Interface](topic10582.md)   
 [IAuthenticationProviderAsync Members](topic10583.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

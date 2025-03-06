@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InitializeNewCore Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2379.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [AdvancedXmlDocument Class](topic2364.md) : InitializeNewCore Method  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [AdvancedXmlDocument Class](topic2364.md)   
 [AdvancedXmlDocument Members](topic2365.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

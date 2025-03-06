@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskReleaseCondition Class   
-[Members](topic6648.md) Example See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6647.md)  
+[Members](topic6648.md) Example   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) : ComponentTaskReleaseCondition Class  
 ---  
   
@@ -83,4 +83,4 @@ System.MarshalByRefObject
 [ComponentTaskReleaseCondition Members](topic6648.md)   
 [DriveWorks.Components.Tasks Namespace](topic6391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RenameProcess Class   
-[Members](topic10288.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10287.md)  
+[Members](topic10288.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) : RenameProcess Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [RenameProcess Members](topic10288.md)   
 [DriveWorks.Refactoring Namespace](topic10266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginStateChange Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2040.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [IApplicationStateManager Interface](topic2035.md) : BeginStateChange Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [IApplicationStateManager Interface](topic2035.md)   
 [IApplicationStateManager Members](topic2036.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

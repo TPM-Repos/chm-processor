@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsInitialized Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4393.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocument Class](topic4356.md) : IsInitialized Property  
 ---  
   
@@ -55,4 +55,4 @@ When a document is first created, it is not attached to a project and some funct
 [ProjectDocument Class](topic4356.md)   
 [ProjectDocument Members](topic4357.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

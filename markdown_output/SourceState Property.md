@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SourceState Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11588.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [StateChangeEventArgs Class](topic11578.md) : SourceState Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [StateChangeEventArgs Class](topic11578.md)   
 [StateChangeEventArgs Members](topic11579.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxCreateVariable(String,String,String,ProjectVariableCategory) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13075.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxCreateVariable Method](topic13074.md) : CreateTxCreateVariable(String,String,String,ProjectVariableCategory) Method  
 ---  
   
@@ -89,4 +89,4 @@ _category_
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic13074.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

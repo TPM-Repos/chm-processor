@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OnNextMacroName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10191.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [NavigationStep Class](topic10175.md) : OnNextMacroName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [NavigationStep Class](topic10175.md)   
 [NavigationStep Members](topic10176.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

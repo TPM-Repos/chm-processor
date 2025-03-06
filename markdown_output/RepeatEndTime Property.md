@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RepeatEndTime Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6863.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Schedule Namespace](topic6848.md) > [ScheduleConnectorConfiguration Class](topic6851.md) : RepeatEndTime Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ScheduleConnectorConfiguration Class](topic6851.md)   
 [ScheduleConnectorConfiguration Members](topic6852.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

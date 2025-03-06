@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FileSavePostNotifyEventArgs Class   
-[Members](topic13662.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13661.md)  
+[Members](topic13662.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : FileSavePostNotifyEventArgs Class  
 ---  
   
@@ -61,4 +61,4 @@ System.EventArgs
 [FileSavePostNotifyEventArgs Members](topic13662.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

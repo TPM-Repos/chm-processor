@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ShowConfiguration Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2048.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [IHasConfiguration Interface](topic2043.md) : ShowConfiguration Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IHasConfiguration Interface](topic2043.md)   
 [IHasConfiguration Members](topic2044.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

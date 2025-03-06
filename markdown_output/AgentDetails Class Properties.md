@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AgentDetails Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2381.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : AgentDetails Class  
 ---  
   
@@ -33,4 +33,4 @@ Top
 [AgentDetails Class](topic2381.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

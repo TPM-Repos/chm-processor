@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Support.Html Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12833.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Support.Html Namespace  
 ---  
   
@@ -22,4 +22,4 @@ System.Object
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

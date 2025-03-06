@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoveOutput Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4540.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectItemListTypeDef Class](topic4533.md) : RemoveOutput Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ProjectItemListTypeDef Class](topic4533.md)   
 [ProjectItemListTypeDef Members](topic4534.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Columns Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2342.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ITableValue Interface](topic2331.md) : Columns Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ITableValue Interface](topic2331.md)   
 [ITableValue Members](topic2332.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

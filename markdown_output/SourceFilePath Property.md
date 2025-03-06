@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SourceFilePath Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2886.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [FileDocumentBase Class](topic2870.md) : SourceFilePath Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [FileDocumentBase Class](topic2870.md)   
 [FileDocumentBase Members](topic2871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

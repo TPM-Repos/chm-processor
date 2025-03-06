@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SnapshotCreated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3925.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Project Class](topic3859.md) : SnapshotCreated Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Project Class](topic3859.md)   
 [Project Members](topic3860.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

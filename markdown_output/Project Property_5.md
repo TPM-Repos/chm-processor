@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Project Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4214.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectConstantCategories Class](topic4202.md) : Project Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectConstantCategories Class](topic4202.md)   
 [ProjectConstantCategories Members](topic4203.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

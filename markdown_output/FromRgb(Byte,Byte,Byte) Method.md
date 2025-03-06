@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FromRgb(Byte,Byte,Byte) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8872.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SimpleColor Class](topic8856.md) > [FromRgb Method](topic8871.md) : FromRgb(Byte,Byte,Byte) Method  
 ---  
   
@@ -80,4 +80,4 @@ _blue_
 [SimpleColor Members](topic8857.md)   
 [Overload List](topic8871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

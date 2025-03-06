@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Removed Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6703.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskReleaseConditions Class](topic6682.md) : Removed Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [ComponentTaskReleaseConditions Class](topic6682.md)   
 [ComponentTaskReleaseConditions Members](topic6683.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

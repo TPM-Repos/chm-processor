@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvokeShortcut Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic340.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IKeyboardShortcutService Interface](topic334.md) : InvokeShortcut Method  
 ---  
   
@@ -68,4 +68,4 @@ True if an action is associated with the given shortcut keys and executed.
 [IKeyboardShortcutService Interface](topic334.md)   
 [IKeyboardShortcutService Members](topic335.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

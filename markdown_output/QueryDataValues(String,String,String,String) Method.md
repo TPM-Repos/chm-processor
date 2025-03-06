@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 QueryDataValues(String,String,String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2569.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConnectionManager Class](topic2554.md) > [QueryDataValues Method](topic2568.md) : QueryDataValues(String,String,String,String) Method  
 ---  
   
@@ -93,4 +93,4 @@ The result will not include the column headers.
 [ConnectionManager Members](topic2555.md)   
 [Overload List](topic2568.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

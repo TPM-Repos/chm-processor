@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ScaleDenominator Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15014.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedSheet Class](topic15007.md) : ScaleDenominator Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedSheet Class](topic15007.md)   
 [ReleasedSheet Members](topic15008.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

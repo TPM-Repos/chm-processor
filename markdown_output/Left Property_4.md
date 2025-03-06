@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Left Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15050.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedView Class](topic15041.md) : Left Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedView Class](topic15041.md)   
 [ReleasedView Members](topic15042.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

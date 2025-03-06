@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DeleteCalculationTableRowsTask Class   
-[Members](topic12123.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12122.md)  
+[Members](topic12123.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) : DeleteCalculationTableRowsTask Class  
 ---  
   
@@ -72,4 +72,4 @@ System.MarshalByRefObject
 [DeleteCalculationTableRowsTask Members](topic12123.md)   
 [DriveWorks.Specification.StandardTasks Namespace](topic11896.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetProjects(Guid) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3214.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupProjects Class](topic3190.md) > [GetProjects Method](topic3212.md) : GetProjects(Guid) Method  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [GroupProjects Members](topic3191.md)   
 [Overload List](topic3212.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

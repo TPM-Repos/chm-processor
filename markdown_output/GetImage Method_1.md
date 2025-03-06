@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetImage Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic163.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandMonitor Interface](topic158.md) : GetImage Method  
 ---  
   
@@ -68,4 +68,4 @@ An image handle representing the image to be shown wherever the command is used 
 [ICommandMonitor Interface](topic158.md)   
 [ICommandMonitor Members](topic159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

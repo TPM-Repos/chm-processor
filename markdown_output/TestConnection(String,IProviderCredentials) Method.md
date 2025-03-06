@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TestConnection(String,IProviderCredentials) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic259.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IGroupService Interface](topic251.md) > [TestConnection Method](topic258.md) : TestConnection(String,IProviderCredentials) Method  
 ---  
   
@@ -77,4 +77,4 @@ True if the connection was successful, otherwise False.
 [IGroupService Members](topic252.md)   
 [Overload List](topic258.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

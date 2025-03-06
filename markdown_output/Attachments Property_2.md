@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Attachments Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3513.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [InvalidAttachmentsException Class](topic3504.md) : Attachments Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [InvalidAttachmentsException Class](topic3504.md)   
 [InvalidAttachmentsException Members](topic3505.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PackageGroupProcess Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9925.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : PackageGroupProcess Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [PackageGroupProcess Class](topic9925.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

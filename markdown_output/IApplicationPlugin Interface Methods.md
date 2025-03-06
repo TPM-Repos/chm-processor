@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IApplicationPlugin Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2004.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) : IApplicationPlugin Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [IApplicationPlugin Interface](topic2004.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

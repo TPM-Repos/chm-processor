@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BalloonStyle Enumeration   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15306.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation.Extensibility.GenerationTasks.Tasks Namespace](topic15301.md) : BalloonStyle Enumeration  
 ---  
   
@@ -73,4 +73,4 @@ System.Enum
 
 [DriveWorks.SolidWorks.Generation.Extensibility.GenerationTasks.Tasks Namespace](topic15301.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

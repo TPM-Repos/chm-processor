@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddAutoMappedOutput Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4073.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectChildSpecificationProjectDef Class](topic4067.md) : AddAutoMappedOutput Method  
 ---  
   
@@ -68,4 +68,4 @@ The child specification output.
 [ProjectChildSpecificationProjectDef Class](topic4067.md)   
 [ProjectChildSpecificationProjectDef Members](topic4068.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

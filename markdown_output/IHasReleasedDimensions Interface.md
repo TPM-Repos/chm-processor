@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IHasReleasedDimensions Interface   
-[Members](topic14012.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14011.md)  
+[Members](topic14012.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) : IHasReleasedDimensions Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IHasReleasedDimensions Members](topic14012.md)   
 [DriveWorks.SolidWorks.Components Namespace](topic13925.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

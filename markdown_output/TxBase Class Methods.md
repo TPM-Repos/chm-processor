@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TxBase Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13182.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) : TxBase Class  
 ---  
   
@@ -41,4 +41,4 @@ Top
 [TxBase Class](topic13182.md)   
 [DriveWorks.Transactions Namespace](topic12835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

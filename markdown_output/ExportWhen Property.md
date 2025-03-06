@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ExportWhen Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2194.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [IDataExportDefinition Interface](topic2177.md) : ExportWhen Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [IDataExportDefinition Interface](topic2177.md)   
 [IDataExportDefinition Members](topic2178.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

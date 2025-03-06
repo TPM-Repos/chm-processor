@@ -54,4 +54,4 @@ Top
 [GenerationTaskAttribute Class](topic13693.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

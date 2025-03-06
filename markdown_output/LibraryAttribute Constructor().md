@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LibraryAttribute Constructor()   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7208.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Extensibility Namespace](topic7150.md) > [LibraryAttribute Class](topic7201.md) > [LibraryAttribute Constructor](topic7207.md) : LibraryAttribute Constructor()  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [LibraryAttribute Members](topic7202.md)   
 [Overload List](topic7207.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

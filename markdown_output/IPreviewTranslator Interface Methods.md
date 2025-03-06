@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IPreviewTranslator Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7296.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : IPreviewTranslator Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [IPreviewTranslator Interface](topic7296.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

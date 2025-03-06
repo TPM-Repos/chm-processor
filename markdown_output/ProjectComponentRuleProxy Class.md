@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectComponentRuleProxy Class   
-[Members](topic6217.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6216.md)  
+[Members](topic6217.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : ProjectComponentRuleProxy Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [ProjectComponentRuleProxy Members](topic6217.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

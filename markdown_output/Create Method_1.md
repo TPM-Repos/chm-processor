@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Create Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4839.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationProperties Class](topic4833.md) : Create Method  
 ---  
   
@@ -68,4 +68,4 @@ The newly created specification property.
 [ProjectSpecificationProperties Class](topic4833.md)   
 [ProjectSpecificationProperties Members](topic4834.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

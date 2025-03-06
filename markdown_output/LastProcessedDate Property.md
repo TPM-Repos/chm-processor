@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LastProcessedDate Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5116.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedEmail Class](topic5098.md) : LastProcessedDate Property  
 ---  
   
@@ -57,4 +57,4 @@ Nothing, if this email was an email created before DriveWorks 12.2 or we've not 
 [ReleasedEmail Class](topic5098.md)   
 [ReleasedEmail Members](topic5099.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

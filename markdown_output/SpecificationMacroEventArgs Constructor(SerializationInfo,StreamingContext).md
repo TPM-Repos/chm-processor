@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationMacroEventArgs Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11464.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationMacroEventArgs Class](topic11456.md) > [SpecificationMacroEventArgs Constructor](topic11462.md) : SpecificationMacroEventArgs Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [SpecificationMacroEventArgs Members](topic11457.md)   
 [Overload List](topic11462.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

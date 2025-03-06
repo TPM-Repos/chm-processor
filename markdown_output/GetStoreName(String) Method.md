@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetStoreName(String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9417.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicProperty Class](topic9398.md) > [GetStoreName Method](topic9415.md) : GetStoreName(String) Method  
 ---  
   
@@ -69,4 +69,4 @@ The store name for the dynamic extended property on the given control.
 [DynamicProperty Members](topic9399.md)   
 [Overload List](topic9415.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

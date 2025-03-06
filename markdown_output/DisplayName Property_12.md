@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DisplayName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1496.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.DataTables Namespace](topic1432.md) > [GroupDataTableDesignerAttribute Class](topic1488.md) : DisplayName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [GroupDataTableDesignerAttribute Class](topic1488.md)   
 [GroupDataTableDesignerAttribute Members](topic1489.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

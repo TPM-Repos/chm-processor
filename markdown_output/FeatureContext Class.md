@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FeatureContext Class   
-[Members](topic15190.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15189.md)  
+[Members](topic15190.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) : FeatureContext Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [FeatureContext Members](topic15190.md)   
 [DriveWorks.SolidWorks.Generation Namespace](topic15094.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

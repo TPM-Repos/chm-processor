@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleVersionDetails Class   
-[Members](topic5278.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5277.md)  
+[Members](topic5278.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : RuleVersionDetails Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [RuleVersionDetails Members](topic5278.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

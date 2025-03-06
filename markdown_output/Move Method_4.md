@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Move Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3976.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumns Class](topic3968.md) : Move Method  
 ---  
   
@@ -71,4 +71,4 @@ _newIndex_
 [ProjectCalculationTableColumns Class](topic3968.md)   
 [ProjectCalculationTableColumns Members](topic3969.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

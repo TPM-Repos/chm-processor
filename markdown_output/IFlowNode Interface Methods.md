@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IFlowNode Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6873.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.EventFlow Namespace](topic6871.md) : IFlowNode Interface  
 ---  
   
@@ -32,4 +32,4 @@ Top
 [IFlowNode Interface](topic6873.md)   
 [DriveWorks.EventFlow Namespace](topic6871.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

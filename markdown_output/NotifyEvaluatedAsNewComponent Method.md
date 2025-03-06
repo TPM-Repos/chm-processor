@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotifyEvaluatedAsNewComponent Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6138.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [IReleaseTracker Interface](topic6119.md) : NotifyEvaluatedAsNewComponent Method  
 ---  
   
@@ -67,4 +67,4 @@ The unique identifier assigned to the new component is the same as the component
 [IReleaseTracker Interface](topic6119.md)   
 [IReleaseTracker Members](topic6120.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

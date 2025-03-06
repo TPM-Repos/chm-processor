@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ITask Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1986.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.DataManagement.Extensibility Namespace](topic1984.md) : ITask Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [ITask Interface](topic1986.md)   
 [DriveWorks.Applications.DataManagement.Extensibility Namespace](topic1984.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

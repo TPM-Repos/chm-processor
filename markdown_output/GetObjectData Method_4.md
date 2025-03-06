@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetObjectData Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10763.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [WindowsCredentials Class](topic10756.md) : GetObjectData Method  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [WindowsCredentials Class](topic10756.md)   
 [WindowsCredentials Members](topic10757.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

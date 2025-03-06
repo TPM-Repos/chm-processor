@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ChildSpecificationRequestEventArgs Constructor(SpecificationContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7603.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ChildSpecificationRequestEventArgs Class](topic7596.md) > [ChildSpecificationRequestEventArgs Constructor](topic7602.md) : ChildSpecificationRequestEventArgs Constructor(SpecificationContext)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ChildSpecificationRequestEventArgs Members](topic7597.md)   
 [Overload List](topic7602.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

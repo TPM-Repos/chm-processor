@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CopyCapturedComponentAction Class   
-[Members](topic9687.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9686.md)  
+[Members](topic9687.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) : CopyCapturedComponentAction Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [CopyCapturedComponentAction Members](topic9687.md)   
 [DriveWorks.GroupMaintenance Namespace](topic9628.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

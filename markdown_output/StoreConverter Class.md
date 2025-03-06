@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StoreConverter Class   
-[Members](topic9529.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9528.md)  
+[Members](topic9529.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) : StoreConverter Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [StoreConverter Members](topic9529.md)   
 [DriveWorks.Forms.DataModel Namespace](topic9371.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

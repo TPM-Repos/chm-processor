@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7812.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ControlEventArgs Class](topic7806.md) : ControlEventArgs Constructor  
 ---  
   
@@ -33,4 +33,4 @@ Overload| Description
 [ControlEventArgs Class](topic7806.md)   
 [ControlEventArgs Members](topic7807.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

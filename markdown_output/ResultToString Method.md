@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ResultToString Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11146.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [RuleResults Class](topic11136.md) : ResultToString Method  
 ---  
   
@@ -75,4 +75,4 @@ A string representing the result.
 [RuleResults Class](topic11136.md)   
 [RuleResults Members](topic11137.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

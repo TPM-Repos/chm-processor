@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Extension Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14932.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedFormat Class](topic14925.md) : Extension Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedFormat Class](topic14925.md)   
 [ReleasedFormat Members](topic14926.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

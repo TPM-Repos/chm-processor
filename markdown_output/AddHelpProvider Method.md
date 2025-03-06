@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddHelpProvider Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1603.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.RulesBuilder Namespace](topic1581.md) > [IRulesBuilderService Interface](topic1598.md) : AddHelpProvider Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IRulesBuilderService Interface](topic1598.md)   
 [IRulesBuilderService Members](topic1599.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

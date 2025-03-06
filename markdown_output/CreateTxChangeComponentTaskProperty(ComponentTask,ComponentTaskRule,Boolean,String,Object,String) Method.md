@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxChangeComponentTaskProperty(ComponentTask,ComponentTaskRule,Boolean,String,Object,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12947.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxChangeComponentTaskProperty Method](topic12946.md) : CreateTxChangeComponentTaskProperty(ComponentTask,ComponentTaskRule,Boolean,String,Object,String) Method  
 ---  
   
@@ -109,4 +109,4 @@ A transaction that when executed will change the formula and comment of the give
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic12946.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

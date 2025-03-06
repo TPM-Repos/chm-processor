@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TargetName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10276.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Refactoring Namespace](topic10266.md) > [BatchActionEventArgs Class](topic10269.md) : TargetName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [BatchActionEventArgs Class](topic10269.md)   
 [BatchActionEventArgs Members](topic10270.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

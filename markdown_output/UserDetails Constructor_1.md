@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UserDetails Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10747.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Security Namespace](topic10574.md) > [UserDetails Class](topic10740.md) : UserDetails Constructor  
 ---  
   
@@ -68,4 +68,4 @@ _context_
 [UserDetails Class](topic10740.md)   
 [UserDetails Members](topic10741.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

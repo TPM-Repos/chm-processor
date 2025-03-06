@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PreviewServerResult Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3833.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [PreviewServerResult Class](topic3827.md) : PreviewServerResult Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [PreviewServerResult Class](topic3827.md)   
 [PreviewServerResult Members](topic3828.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Started Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13225.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [RuleSearchProcess Class](topic13212.md) : Started Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [RuleSearchProcess Class](topic13212.md)   
 [RuleSearchProcess Members](topic13213.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

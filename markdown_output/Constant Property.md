@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Constant Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2605.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ConstantEventArgs Class](topic2595.md) : Constant Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ConstantEventArgs Class](topic2595.md)   
 [ConstantEventArgs Members](topic2596.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

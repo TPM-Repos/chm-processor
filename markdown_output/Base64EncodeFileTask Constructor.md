@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Base64EncodeFileTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11956.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [Base64EncodeFileTask Class](topic11950.md) : Base64EncodeFileTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [Base64EncodeFileTask Class](topic11950.md)   
 [Base64EncodeFileTask Members](topic11951.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

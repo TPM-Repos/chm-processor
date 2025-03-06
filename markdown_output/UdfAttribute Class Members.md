@@ -49,4 +49,4 @@ Top
 [UdfAttribute Class](topic7256.md)   
 [DriveWorks.Extensibility Namespace](topic7150.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

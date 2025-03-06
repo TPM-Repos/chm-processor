@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CommandInvocationException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic689.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [CommandInvocationException Class](topic681.md) > [CommandInvocationException Constructor](topic687.md) : CommandInvocationException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [CommandInvocationException Members](topic682.md)   
 [Overload List](topic687.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -39,4 +39,4 @@ Top
 [ITask Interface](topic1986.md)   
 [DriveWorks.Applications.DataManagement.Extensibility Namespace](topic1984.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

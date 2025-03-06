@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Model Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15162.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [IModelGenerationContext Interface](topic15157.md) : Model Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IModelGenerationContext Interface](topic15157.md)   
 [IModelGenerationContext Members](topic15158.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

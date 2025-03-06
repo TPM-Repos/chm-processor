@@ -8,7 +8,7 @@ _T_
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetParameterValue<T>(String,Boolean,T) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5160.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleaseParameterDataContainer Class](topic5145.md) > [TryGetParameterValue Method](topic5156.md) : TryGetParameterValue<T>(String,Boolean,T) Method  
 ---  
   
@@ -94,4 +94,4 @@ True if the parameter was found and it's value could successfully be converted t
 [ReleaseParameterDataContainer Members](topic5146.md)   
 [Overload List](topic5156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetRule Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3958.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumn Class](topic3946.md) : GetRule Method  
 ---  
   
@@ -76,4 +76,4 @@ The matching cell item if it exists, or null when create is false.
 [ProjectCalculationTableColumn Class](topic3946.md)   
 [ProjectCalculationTableColumn Members](topic3947.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

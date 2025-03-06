@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupConnectionInfo Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3065.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupConnectionInfo Class](topic3059.md) : GroupConnectionInfo Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [GroupConnectionInfo Class](topic3059.md)   
 [GroupConnectionInfo Members](topic3060.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

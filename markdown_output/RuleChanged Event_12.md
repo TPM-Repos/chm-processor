@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5992.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Abstractions Namespace](topic5939.md) > [INotifyRuleChanged Interface](topic5987.md) : RuleChanged Event  
 ---  
   
@@ -60,4 +60,4 @@ Property| Description
 [INotifyRuleChanged Interface](topic5987.md)   
 [INotifyRuleChanged Members](topic5988.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDrawing Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13874.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [NewSelectionNotifyEventArgs Class](topic13867.md) : IsDrawing Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [NewSelectionNotifyEventArgs Class](topic13867.md)   
 [NewSelectionNotifyEventArgs Members](topic13868.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

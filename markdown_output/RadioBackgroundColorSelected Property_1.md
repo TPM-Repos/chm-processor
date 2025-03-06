@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RadioBackgroundColorSelected Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8638.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [OptionGroup Class](topic8608.md) : RadioBackgroundColorSelected Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [OptionGroup Class](topic8608.md)   
 [OptionGroup Members](topic8609.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

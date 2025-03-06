@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ToArray Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2528.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Columns Class](topic2516.md) : ToArray Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [Columns Class](topic2516.md)   
 [Columns Members](topic2517.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

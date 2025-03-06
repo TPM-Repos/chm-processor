@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Distance1 Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13804.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [MergedBreakLineInfo Class](topic13797.md) : Distance1 Property  
 ---  
   
@@ -57,4 +57,4 @@ Distance in system unitsFirst Breakline Offset from the Left of the view in syst
 [MergedBreakLineInfo Class](topic13797.md)   
 [MergedBreakLineInfo Members](topic13798.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

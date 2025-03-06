@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Value Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10991.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [FlowProperty<T> Class](topic10978.md) : Value Property  
 ---  
   
@@ -63,4 +63,4 @@ If the property is bound and this property is set, the binding rule will be remo
 [FlowProperty<T> Class](topic10978.md)   
 [FlowProperty<T> Members](topic10979.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

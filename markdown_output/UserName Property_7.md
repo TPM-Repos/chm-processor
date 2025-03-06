@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UserName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12743.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [UpdateTeamLeaderStatusTask Class](topic12733.md) : UserName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [UpdateTeamLeaderStatusTask Class](topic12733.md)   
 [UpdateTeamLeaderStatusTask Members](topic12734.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Transition Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10803.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [AvailableTransition Class](topic10796.md) : Transition Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [AvailableTransition Class](topic10796.md)   
 [AvailableTransition Members](topic10797.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

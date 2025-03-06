@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic306.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IHasState Interface](topic300.md) : StateChanged Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasState Interface](topic300.md)   
 [IHasState Members](topic301.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

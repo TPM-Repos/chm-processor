@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Licensed Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13492.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [CaptureViewHostStates Class](topic13474.md) : Licensed Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [CaptureViewHostStates Class](topic13474.md)   
 [CaptureViewHostStates Members](topic13475.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

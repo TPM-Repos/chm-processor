@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportReader Constructor(String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10470.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Reporting Namespace](topic10334.md) > [ReportReader Class](topic10462.md) > [ReportReader Constructor](topic10468.md) : ReportReader Constructor(String)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ReportReader Members](topic10463.md)   
 [Overload List](topic10468.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

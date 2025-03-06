@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ComponentTaskParameterInfo Constructor(String,String,String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6611.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskParameterInfo Class](topic6603.md) > [ComponentTaskParameterInfo Constructor](topic6609.md) : ComponentTaskParameterInfo Constructor(String,String,String)  
 ---  
   
@@ -85,4 +85,4 @@ System.ArgumentException| name is null or empty.
 [ComponentTaskParameterInfo Members](topic6604.md)   
 [Overload List](topic6609.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

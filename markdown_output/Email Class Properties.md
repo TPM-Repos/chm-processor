@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Email Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2768.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : Email Class  
 ---  
   
@@ -54,4 +54,4 @@ Top
 [Email Class](topic2768.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

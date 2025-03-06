@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HostedContextChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9001.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [SpecificationHostControl Class](topic8979.md) : HostedContextChanged Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SpecificationHostControl Class](topic8979.md)   
 [SpecificationHostControl Members](topic8980.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

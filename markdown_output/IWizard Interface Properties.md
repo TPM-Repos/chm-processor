@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IWizard Interface Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic613.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IWizard Interface  
 ---  
   
@@ -40,4 +40,4 @@ Top
 [IWizard Interface](topic613.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

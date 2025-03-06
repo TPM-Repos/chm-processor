@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupNotFoundException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3189.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupNotFoundException Class](topic3180.md) > [GroupNotFoundException Constructor](topic3186.md) : GroupNotFoundException Constructor(String,Exception)  
 ---  
   
@@ -71,4 +71,4 @@ _inner_
 [GroupNotFoundException Members](topic3181.md)   
 [Overload List](topic3186.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

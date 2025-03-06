@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IPendingChangesService Interface Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic355.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : IPendingChangesService Interface  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [IPendingChangesService Interface](topic355.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

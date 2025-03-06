@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Items Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1199.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [VirtualItemsRequestEventArgs Class](topic1192.md) : Items Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [VirtualItemsRequestEventArgs Class](topic1192.md)   
 [VirtualItemsRequestEventArgs Members](topic1193.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

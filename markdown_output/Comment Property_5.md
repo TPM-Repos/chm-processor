@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Comment Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14502.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectDimension Class](topic14493.md) : Comment Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectDimension Class](topic14493.md)   
 [ProjectDimension Members](topic14494.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

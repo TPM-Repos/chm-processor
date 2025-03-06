@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetLibrary Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2085.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) > [ILibraryManager Interface](topic2079.md) : GetLibrary Method  
 ---  
   
@@ -82,4 +82,4 @@ Exception| Description
 [ILibraryManager Interface](topic2079.md)   
 [ILibraryManager Members](topic2080.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

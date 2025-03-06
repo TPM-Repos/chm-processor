@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetVariable Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5028.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectVariables Class](topic5010.md) : TryGetVariable Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the variable is found and returned, otherwise false.
 [ProjectVariables Class](topic5010.md)   
 [ProjectVariables Members](topic5011.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

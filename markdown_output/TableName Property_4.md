@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TableName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12714.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [UpdateGroupTableUsingArrayTask Class](topic12703.md) : TableName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [UpdateGroupTableUsingArrayTask Class](topic12703.md)   
 [UpdateGroupTableUsingArrayTask Members](topic12704.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

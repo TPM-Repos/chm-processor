@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ITransactionManager Interface   
-[Members](topic503.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic502.md)  
+[Members](topic503.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ITransactionManager Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ITransactionManager Members](topic503.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

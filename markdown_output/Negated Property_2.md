@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Negated Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6658.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskReleaseCondition Class](topic6647.md) : Negated Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ComponentTaskReleaseCondition Class](topic6647.md)   
 [ComponentTaskReleaseCondition Members](topic6648.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

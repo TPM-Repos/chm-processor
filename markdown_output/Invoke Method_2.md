@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Invoke Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2309.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ISafeProjectExecutor Interface](topic2303.md) : Invoke Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [ISafeProjectExecutor Interface](topic2303.md)   
 [ISafeProjectExecutor Members](topic2304.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

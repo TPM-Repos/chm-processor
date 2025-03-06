@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TranslatePreview Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7301.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [IPreviewTranslator Interface](topic7296.md) : TranslatePreview Method  
 ---  
   
@@ -80,4 +80,4 @@ If the desired extension is not supported by the translator, then a null referen
 [IPreviewTranslator Interface](topic7296.md)   
 [IPreviewTranslator Members](topic7297.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

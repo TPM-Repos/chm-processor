@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InputEndpointRef Class   
-[Members](topic12894.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12893.md)  
+[Members](topic12894.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) : InputEndpointRef Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [InputEndpointRef Members](topic12894.md)   
 [DriveWorks.Transactions Namespace](topic12835.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

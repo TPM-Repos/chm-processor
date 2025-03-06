@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RemoteGroupServerVersionException Class   
-[Members](topic5208.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5207.md)  
+[Members](topic5208.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : RemoteGroupServerVersionException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [RemoteGroupServerVersionException Members](topic5208.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

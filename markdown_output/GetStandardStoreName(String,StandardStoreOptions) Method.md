@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetStandardStoreName(String,StandardStoreOptions) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9414.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms.DataModel Namespace](topic9371.md) > [DynamicProperty Class](topic9398.md) > [GetStandardStoreName Method](topic9412.md) : GetStandardStoreName(String,StandardStoreOptions) Method  
 ---  
   
@@ -82,4 +82,4 @@ System.ArgumentOutOfRangeException| Thrown when unknown opt value is given.
 [DynamicProperty Members](topic9399.md)   
 [Overload List](topic9412.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

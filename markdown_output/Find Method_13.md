@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Find Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4150.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectComponentSets Class](topic4143.md) : Find Method  
 ---  
   
@@ -68,4 +68,4 @@ A component set, or a null reference if no match is found.
 [ProjectComponentSets Class](topic4143.md)   
 [ProjectComponentSets Members](topic4144.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

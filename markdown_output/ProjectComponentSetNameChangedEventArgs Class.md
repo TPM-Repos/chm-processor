@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectComponentSetNameChangedEventArgs Class   
-[Members](topic4135.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4134.md)  
+[Members](topic4135.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectComponentSetNameChangedEventArgs Class  
 ---  
   
@@ -62,4 +62,4 @@ System.EventArgs
 [ProjectComponentSetNameChangedEventArgs Members](topic4135.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

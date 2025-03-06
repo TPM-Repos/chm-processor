@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventSequenceEventArgs Constructor(FlowEvent)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10893.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [EventSequenceEventArgs Class](topic10886.md) > [EventSequenceEventArgs Constructor](topic10892.md) : EventSequenceEventArgs Constructor(FlowEvent)  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [EventSequenceEventArgs Members](topic10887.md)   
 [Overload List](topic10892.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

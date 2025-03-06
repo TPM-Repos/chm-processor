@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AlreadyInitializedException Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2409.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [AlreadyInitializedException Class](topic2403.md) : AlreadyInitializedException Constructor  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [AlreadyInitializedException Class](topic2403.md)   
 [AlreadyInitializedException Members](topic2404.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

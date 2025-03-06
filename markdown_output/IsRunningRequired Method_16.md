@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsRunningRequired Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12496.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [ReleaseModelsTask Class](topic12489.md) : IsRunningRequired Method  
 ---  
   
@@ -68,4 +68,4 @@ True
 [ReleaseModelsTask Class](topic12489.md)   
 [ReleaseModelsTask Members](topic12490.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

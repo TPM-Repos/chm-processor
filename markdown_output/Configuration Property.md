@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Configuration Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13974.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [IHasProjectConfiguration Interface](topic13969.md) : Configuration Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IHasProjectConfiguration Interface](topic13969.md)   
 [IHasProjectConfiguration Members](topic13970.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

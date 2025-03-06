@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClientXRStatus Class   
-[Members](topic13331.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13330.md)  
+[Members](topic13331.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.XR Namespace](topic13327.md) : ClientXRStatus Class  
 ---  
   
@@ -58,4 +58,4 @@ System.Object
 [ClientXRStatus Members](topic13331.md)   
 [DriveWorks.XR Namespace](topic13327.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

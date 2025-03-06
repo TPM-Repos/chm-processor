@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PropertyChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3674.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JsonDocumentNodeData Class](topic3659.md) : PropertyChanged Event  
 ---  
   
@@ -57,4 +57,4 @@ PropertyName|
 [JsonDocumentNodeData Class](topic3659.md)   
 [JsonDocumentNodeData Members](topic3660.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

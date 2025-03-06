@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SendMessageToUser(String,MessageBoxIcon,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic331.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IInteraction Interface](topic321.md) > [SendMessageToUser Method](topic329.md) : SendMessageToUser(String,MessageBoxIcon,String) Method  
 ---  
   
@@ -80,4 +80,4 @@ _helpTopic_
 [IInteraction Members](topic322.md)   
 [Overload List](topic329.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

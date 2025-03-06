@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EventFlowCommandImage Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1284.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) > [IEventFlowPropertyEditor Interface](topic1279.md) : EventFlowCommandImage Property  
 ---  
   
@@ -55,4 +55,4 @@ This is used when the property is based on a rule.
 [IEventFlowPropertyEditor Interface](topic1279.md)   
 [IEventFlowPropertyEditor Members](topic1280.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

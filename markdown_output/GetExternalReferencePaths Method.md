@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetExternalReferencePaths Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14085.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedAssembly Class](topic14078.md) : GetExternalReferencePaths Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CapturedAssembly Class](topic14078.md)   
 [CapturedAssembly Members](topic14079.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

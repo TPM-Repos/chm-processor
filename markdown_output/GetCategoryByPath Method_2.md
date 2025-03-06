@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetCategoryByPath Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5351.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SpecificationMacroCategories Class](topic5342.md) : GetCategoryByPath Method  
 ---  
   
@@ -68,4 +68,4 @@ The found category or nothing if it could not be found.
 [SpecificationMacroCategories Class](topic5342.md)   
 [SpecificationMacroCategories Members](topic5343.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

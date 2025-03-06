@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetMacro Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11480.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationMacros Class](topic11467.md) : TryGetMacro Method  
 ---  
   
@@ -76,4 +76,4 @@ True if a macro with the given name was found and returned, otherwise false.
 [SpecificationMacros Class](topic11467.md)   
 [SpecificationMacros Members](topic11468.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

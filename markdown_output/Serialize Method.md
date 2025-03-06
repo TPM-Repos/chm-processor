@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Serialize Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11441.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationMacro Class](topic11429.md) : Serialize Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [SpecificationMacro Class](topic11429.md)   
 [SpecificationMacro Members](topic11430.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

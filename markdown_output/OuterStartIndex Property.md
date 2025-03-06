@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 OuterStartIndex Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10551.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) > [IRuleNode Interface](topic10542.md) : OuterStartIndex Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IRuleNode Interface](topic10542.md)   
 [IRuleNode Members](topic10543.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetInputValue(Object,InputValueType) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8377.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [MeasurementTextBox Class](topic8364.md) > [SetInputValue Method](topic8376.md) : SetInputValue(Object,InputValueType) Method  
 ---  
   
@@ -76,4 +76,4 @@ Control implementers should not override [SetInputValue(Object)](topic7721.md) i
 [MeasurementTextBox Members](topic8365.md)   
 [Overload List](topic8376.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

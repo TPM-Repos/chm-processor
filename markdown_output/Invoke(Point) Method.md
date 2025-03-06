@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Invoke(Point) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8349.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [MacroButton Class](topic8340.md) > [Invoke Method](topic8347.md) : Invoke(Point) Method  
 ---  
   
@@ -65,4 +65,4 @@ C#|
 [MacroButton Members](topic8341.md)   
 [Overload List](topic8347.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetProperty Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4841.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationProperties Class](topic4833.md) : TryGetProperty Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the property is found and returned, otherwise false.
 [ProjectSpecificationProperties Class](topic4833.md)   
 [ProjectSpecificationProperties Members](topic4834.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

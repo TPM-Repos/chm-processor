@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SimpleGroupTable Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10009.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupTables Namespace](topic10007.md) : SimpleGroupTable Class  
 ---  
   
@@ -34,4 +34,4 @@ Top
 [SimpleGroupTable Class](topic10009.md)   
 [DriveWorks.GroupTables Namespace](topic10007.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ToggleEnabledDriveApp Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1376.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) > [AdministratorCommands Class](topic1297.md) : ToggleEnabledDriveApp Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [AdministratorCommands Class](topic1297.md)   
 [AdministratorCommands Members](topic1298.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

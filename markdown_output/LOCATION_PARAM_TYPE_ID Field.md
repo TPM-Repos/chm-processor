@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 LOCATION_PARAM_TYPE_ID Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6424.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTask Class](topic6407.md) : LOCATION_PARAM_TYPE_ID Field  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ComponentTask Class](topic6407.md)   
 [ComponentTask Members](topic6408.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

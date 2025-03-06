@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NewName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10123.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [ControlNameChangedEventArgs Class](topic10116.md) : NewName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ControlNameChangedEventArgs Class](topic10116.md)   
 [ControlNameChangedEventArgs Members](topic10117.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

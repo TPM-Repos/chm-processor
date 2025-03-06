@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReadyState Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic501.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IStatusBarService Interface](topic495.md) : ReadyState Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IStatusBarService Interface](topic495.md)   
 [IStatusBarService Members](topic496.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

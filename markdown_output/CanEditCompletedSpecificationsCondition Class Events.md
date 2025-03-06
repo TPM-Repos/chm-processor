@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CanEditCompletedSpecificationsCondition Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11837.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardConditions Namespace](topic11828.md) : CanEditCompletedSpecificationsCondition Class  
 ---  
   
@@ -38,4 +38,4 @@ Top
 [CanEditCompletedSpecificationsCondition Class](topic11837.md)   
 [DriveWorks.Specification.StandardConditions Namespace](topic11828.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

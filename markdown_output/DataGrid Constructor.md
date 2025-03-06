@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataGrid Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7844.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [DataGrid Class](topic7838.md) : DataGrid Constructor  
 ---  
   
@@ -52,4 +52,4 @@ Custom controls should make their constructors private to prevent end-users acci
 [DataGrid Class](topic7838.md)   
 [DataGrid Members](topic7839.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

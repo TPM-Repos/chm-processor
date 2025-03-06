@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.EventFlow Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6871.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.EventFlow Namespace  
 ---  
   
@@ -159,4 +159,4 @@ DriveWorks.EventFlow.SubFlow
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

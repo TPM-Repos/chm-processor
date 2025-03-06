@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IListPropertyEditor Interface   
-[Members](topic1292.md) Example See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1291.md)  
+[Members](topic1292.md) Example   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md) : IListPropertyEditor Interface  
 ---  
   
@@ -92,4 +92,4 @@ C#| ![](dotnetimages/copycode.gif)Copy Code
 [IListPropertyEditor Members](topic1292.md)   
 [DriveWorks.Applications.Administrator.Extensibility Namespace](topic1277.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

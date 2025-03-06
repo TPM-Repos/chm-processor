@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupProjects Class   
-[Members](topic3191.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3190.md)  
+[Members](topic3191.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : GroupProjects Class  
 ---  
   
@@ -60,4 +60,4 @@ System.MarshalByRefObject
 [GroupProjects Members](topic3191.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

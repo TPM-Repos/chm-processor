@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StayOnSchedule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12674.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [StartSpecificationTimerTask Class](topic12661.md) : StayOnSchedule Property  
 ---  
   
@@ -57,4 +57,4 @@ If True, the timer will not be halted during macro execution meaning that if exe
 [StartSpecificationTimerTask Class](topic12661.md)   
 [StartSpecificationTimerTask Members](topic12662.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

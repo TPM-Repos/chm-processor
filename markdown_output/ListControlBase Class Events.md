@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ListControlBase Class Events   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8315.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : ListControlBase Class  
 ---  
   
@@ -37,4 +37,4 @@ Top
 [ListControlBase Class](topic8315.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

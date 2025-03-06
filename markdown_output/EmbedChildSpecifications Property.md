@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EmbedChildSpecifications Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4894.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecificationSettings Class](topic4885.md) : EmbedChildSpecifications Property  
 ---  
   
@@ -57,4 +57,4 @@ This setting only applies if this is the root project and can only be set on .dr
 [ProjectSpecificationSettings Class](topic4885.md)   
 [ProjectSpecificationSettings Members](topic4886.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

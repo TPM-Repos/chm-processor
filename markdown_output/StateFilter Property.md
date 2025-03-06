@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StateFilter Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic173.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ICommandMonitor Interface](topic158.md) : StateFilter Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ICommandMonitor Interface](topic158.md)   
 [ICommandMonitor Members](topic159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

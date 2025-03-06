@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DriveWorks.Specification Namespace Inheritance Hierarchy   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10764.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) : DriveWorks.Specification Namespace  
 ---  
   
@@ -204,4 +204,4 @@ DriveWorks.Specification.StringFlowProperty
 
 [DriveWorks.Engine Assembly](topic2156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

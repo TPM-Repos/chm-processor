@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ISpecificationRequestWithEdit Interface   
-[Members](topic479.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic478.md)  
+[Members](topic479.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ISpecificationRequestWithEdit Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ISpecificationRequestWithEdit Members](topic479.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NotificationEventArgs Class Properties   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10064.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Messaging Namespace](topic10038.md) : NotificationEventArgs Class  
 ---  
   
@@ -31,4 +31,4 @@ Top
 [NotificationEventArgs Class](topic10064.md)   
 [DriveWorks.Messaging Namespace](topic10038.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

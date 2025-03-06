@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetRuleAndComment Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14412.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectAnnotation Class](topic14405.md) : SetRuleAndComment Method  
 ---  
   
@@ -77,4 +77,4 @@ System.NotSupportedException| The rule is not writable.
 [ProjectAnnotation Class](topic14405.md)   
 [ProjectAnnotation Members](topic14406.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

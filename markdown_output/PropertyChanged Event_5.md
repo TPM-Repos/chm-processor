@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 PropertyChanged Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3999.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableRule Class](topic3986.md) : PropertyChanged Event  
 ---  
   
@@ -59,4 +59,4 @@ PropertyName|
 [ProjectCalculationTableRule Class](topic3986.md)   
 [ProjectCalculationTableRule Members](topic3987.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

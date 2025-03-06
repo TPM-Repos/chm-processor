@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTransaction Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13233.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Utility Namespace](topic13190.md) > [RuleSearchResult Class](topic13227.md) : CreateTransaction Method  
 ---  
   
@@ -84,4 +84,4 @@ A transaction which, when executed, will perform the operation.
 [RuleSearchResult Class](topic13227.md)   
 [RuleSearchResult Members](topic13228.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DesignMasterFormatException Constructor(String,Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2692.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [DesignMasterFormatException Class](topic2685.md) > [DesignMasterFormatException Constructor](topic2691.md) : DesignMasterFormatException Constructor(String,Exception)  
 ---  
   
@@ -69,4 +69,4 @@ _innerException_
 [DesignMasterFormatException Members](topic2686.md)   
 [Overload List](topic2691.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

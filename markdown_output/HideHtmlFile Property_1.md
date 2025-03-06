@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 HideHtmlFile Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5907.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [WordDocument Class](topic5885.md) : HideHtmlFile Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [WordDocument Class](topic5885.md)   
 [WordDocument Members](topic5886.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

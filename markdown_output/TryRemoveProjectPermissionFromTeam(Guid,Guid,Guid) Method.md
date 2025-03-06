@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryRemoveProjectPermissionFromTeam(Guid,Guid,Guid) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3334.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSecurity Class](topic3282.md) > [TryRemoveProjectPermissionFromTeam Method](topic3333.md) : TryRemoveProjectPermissionFromTeam(Guid,Guid,Guid) Method  
 ---  
   
@@ -85,4 +85,4 @@ True if both the team and the project were found, and the project permission lis
 [GroupSecurity Members](topic3283.md)   
 [Overload List](topic3333.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

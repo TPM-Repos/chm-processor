@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AddChildComponentFromComponentSet Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6258.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleaseComponentController Class](topic6252.md) : AddChildComponentFromComponentSet Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [ReleaseComponentController Class](topic6252.md)   
 [ReleaseComponentController Members](topic6253.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

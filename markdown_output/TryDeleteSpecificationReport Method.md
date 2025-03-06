@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryDeleteSpecificationReport Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3401.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [GroupSpecifications Class](topic3355.md) : TryDeleteSpecificationReport Method  
 ---  
   
@@ -68,4 +68,4 @@ True if the report was found and deleted, false if it didn't exist.
 [GroupSpecifications Class](topic3355.md)   
 [GroupSpecifications Members](topic3356.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

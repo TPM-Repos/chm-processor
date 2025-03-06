@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 DataElementUpdated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4662.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectMetadataSection Class](topic4654.md) : DataElementUpdated Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectMetadataSection Class](topic4654.md)   
 [ProjectMetadataSection Members](topic4655.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

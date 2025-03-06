@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetGroupSetting(String,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2981.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Group Class](topic2958.md) > [SetGroupSetting Method](topic2980.md) : SetGroupSetting(String,String) Method  
 ---  
   
@@ -76,4 +76,4 @@ Using a null reference (Nothing in Visual Basic) as the value will delete the se
 [Group Members](topic2959.md)   
 [Overload List](topic2980.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

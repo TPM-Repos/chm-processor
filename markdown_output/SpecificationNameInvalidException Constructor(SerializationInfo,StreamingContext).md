@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SpecificationNameInvalidException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11498.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [SpecificationNameInvalidException Class](topic11488.md) > [SpecificationNameInvalidException Constructor](topic11494.md) : SpecificationNameInvalidException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [SpecificationNameInvalidException Members](topic11489.md)   
 [Overload List](topic11494.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

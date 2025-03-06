@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetAdministrationController Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1522.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Administrator.Extensibility.Documents Namespace](topic1507.md) > [IDocumentDesigner Interface](topic1517.md) : GetAdministrationController Method  
 ---  
   
@@ -76,4 +76,4 @@ An instance of a type which implements the [IDocumentAdministrationController](t
 [IDocumentDesigner Interface](topic1517.md)   
 [IDocumentDesigner Members](topic1518.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

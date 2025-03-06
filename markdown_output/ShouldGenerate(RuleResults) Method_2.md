@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ShouldGenerate(RuleResults) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3780.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [OdbcExport Class](topic3763.md) > [ShouldGenerate Method](topic3779.md) : ShouldGenerate(RuleResults) Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [OdbcExport Members](topic3764.md)   
 [Overload List](topic3779.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

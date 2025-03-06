@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IComponentTask Interface   
-[Members](topic6394.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6393.md)  
+[Members](topic6394.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) : IComponentTask Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IComponentTask Members](topic6394.md)   
 [DriveWorks.Components.Tasks Namespace](topic6391.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

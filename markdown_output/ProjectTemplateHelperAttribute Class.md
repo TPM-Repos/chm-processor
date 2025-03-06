@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectTemplateHelperAttribute Class   
-[Members](topic2145.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2144.md)  
+[Members](topic2145.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Extensibility Namespace](topic1995.md) : ProjectTemplateHelperAttribute Class  
 ---  
   
@@ -71,4 +71,4 @@ System.Attribute
 [ProjectTemplateHelperAttribute Members](topic2145.md)   
 [DriveWorks.Applications.Extensibility Namespace](topic1995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

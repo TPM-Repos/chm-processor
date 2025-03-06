@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 MessageDataCorruptException Class   
-[Members](topic3693.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3692.md)  
+[Members](topic3693.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : MessageDataCorruptException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [MessageDataCorruptException Members](topic3693.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

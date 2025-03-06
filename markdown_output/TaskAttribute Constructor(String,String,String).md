@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TaskAttribute Constructor(String,String,String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11667.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [TaskAttribute Class](topic11659.md) > [TaskAttribute Constructor](topic11665.md) : TaskAttribute Constructor(String,String,String)  
 ---  
   
@@ -79,4 +79,4 @@ _categoryName_
 [TaskAttribute Members](topic11660.md)   
 [Overload List](topic11665.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

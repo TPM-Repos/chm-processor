@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StatusMessageEventArgs Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9987.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [StatusMessageEventArgs Class](topic9981.md) : StatusMessageEventArgs Constructor  
 ---  
   
@@ -70,4 +70,4 @@ _isError_
 [StatusMessageEventArgs Class](topic9981.md)   
 [StatusMessageEventArgs Members](topic9982.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

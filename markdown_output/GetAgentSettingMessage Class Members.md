@@ -38,4 +38,4 @@ Top
 [GetAgentSettingMessage Class](topic10049.md)   
 [DriveWorks.Messaging Namespace](topic10038.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

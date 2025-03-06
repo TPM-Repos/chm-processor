@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TargetName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6353.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) > [ReleasedComponentDetails Class](topic6336.md) : TargetName Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ReleasedComponentDetails Class](topic6336.md)   
 [ReleasedComponentDetails Members](topic6337.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

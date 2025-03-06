@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TaskListNotEmptyException Class   
-[Members](topic11692.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11691.md)  
+[Members](topic11692.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : TaskListNotEmptyException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [TaskListNotEmptyException Members](topic11692.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

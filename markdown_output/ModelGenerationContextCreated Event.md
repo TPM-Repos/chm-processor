@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ModelGenerationContextCreated Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15155.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [IGenerationService Interface](topic15147.md) : ModelGenerationContextCreated Event  
 ---  
   
@@ -59,4 +59,4 @@ Property| Description
 [IGenerationService Interface](topic15147.md)   
 [IGenerationService Members](topic15148.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Complete Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1753.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [ISolidWorksOperation Interface](topic1748.md) : Complete Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ISolidWorksOperation Interface](topic1748.md)   
 [ISolidWorksOperation Members](topic1749.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

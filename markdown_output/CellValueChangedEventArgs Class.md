@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CellValueChangedEventArgs Class   
-[Members](topic2480.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic2479.md)  
+[Members](topic2480.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : CellValueChangedEventArgs Class  
 ---  
   
@@ -60,4 +60,4 @@ System.EventArgs
 [CellValueChangedEventArgs Members](topic2480.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

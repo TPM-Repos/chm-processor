@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Remove Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14282.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [CapturedInstanceCollection Class](topic14274.md) : Remove Method  
 ---  
   
@@ -35,4 +35,4 @@ Overload| Description
 [CapturedInstanceCollection Class](topic14274.md)   
 [CapturedInstanceCollection Members](topic14275.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

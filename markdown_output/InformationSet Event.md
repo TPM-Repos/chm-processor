@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InformationSet Event   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1877.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [GroupConnectorBase<T> Class](topic1857.md) : InformationSet Event  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [GroupConnectorBase<T> Class](topic1857.md)   
 [GroupConnectorBase<T> Members](topic1858.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

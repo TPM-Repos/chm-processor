@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectDetails Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4336.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDetails Class](topic4330.md) : ProjectDetails Constructor  
 ---  
   
@@ -32,4 +32,4 @@ Overload| Description
 [ProjectDetails Class](topic4330.md)   
 [ProjectDetails Members](topic4331.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

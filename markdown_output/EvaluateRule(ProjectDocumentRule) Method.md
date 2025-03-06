@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EvaluateRule(ProjectDocumentRule) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4371.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDocument Class](topic4356.md) > [EvaluateRule Method](topic4370.md) : EvaluateRule(ProjectDocumentRule) Method  
 ---  
   
@@ -69,4 +69,4 @@ The result of the evaluated rule.
 [ProjectDocument Members](topic4357.md)   
 [Overload List](topic4370.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

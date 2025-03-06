@@ -69,4 +69,4 @@ Top
 [ProjectComponentRule Class](topic6198.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

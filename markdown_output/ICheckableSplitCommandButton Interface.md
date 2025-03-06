@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ICheckableSplitCommandButton Interface   
-[Members](topic73.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic72.md)  
+[Members](topic73.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) : ICheckableSplitCommandButton Interface  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ICheckableSplitCommandButton Members](topic73.md)   
 [DriveWorks.Applications Namespace](topic16.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

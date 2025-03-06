@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 UpdateLine Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5668.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [TextDocumentLine Class](topic5659.md) : UpdateLine Method  
 ---  
   
@@ -79,4 +79,4 @@ _value_
 [TextDocumentLine Class](topic5659.md)   
 [TextDocumentLine Members](topic5660.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

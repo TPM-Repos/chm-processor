@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 States Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13882.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [ProhibitedStatesAttribute Class](topic13875.md) : States Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProhibitedStatesAttribute Class](topic13875.md)   
 [ProhibitedStatesAttribute Members](topic13876.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

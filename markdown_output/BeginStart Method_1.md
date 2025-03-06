@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 BeginStart Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1659.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) > [IAutopilotService Interface](topic1654.md) : BeginStart Method  
 ---  
   
@@ -56,4 +56,4 @@ System.InvalidOperationException| A group has not been opened.
 [IAutopilotService Interface](topic1654.md)   
 [IAutopilotService Members](topic1655.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

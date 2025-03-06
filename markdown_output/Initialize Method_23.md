@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Initialize Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic421.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IRequiresApplication Interface](topic416.md) : Initialize Method  
 ---  
   
@@ -63,4 +63,4 @@ C#|
 [IRequiresApplication Interface](topic416.md)   
 [IRequiresApplication Members](topic417.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

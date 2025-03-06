@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsDynamic Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6643.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components.Tasks Namespace](topic6391.md) > [ComponentTaskProperty Class](topic6633.md) : IsDynamic Property  
 ---  
   
@@ -55,4 +55,4 @@ To switch a dynamic state of a property ensure [CanMakeDynamic](topic6641.md) is
 [ComponentTaskProperty Class](topic6633.md)   
 [ComponentTaskProperty Members](topic6634.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

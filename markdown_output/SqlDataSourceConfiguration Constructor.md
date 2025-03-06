@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SqlDataSourceConfiguration Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6813.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Connectors.Database Namespace](topic6754.md) > [SqlDataSourceConfiguration Class](topic6807.md) : SqlDataSourceConfiguration Constructor  
 ---  
   
@@ -66,4 +66,4 @@ The XML will be live edited as properties change in this configuration.
 [SqlDataSourceConfiguration Class](topic6807.md)   
 [SqlDataSourceConfiguration Members](topic6808.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FinishNavigationStep Class Methods   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10145.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) : FinishNavigationStep Class  
 ---  
   
@@ -43,4 +43,4 @@ Top
 [FinishNavigationStep Class](topic10145.md)   
 [DriveWorks.Navigation Namespace](topic10114.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

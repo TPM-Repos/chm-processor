@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectPermissionException Constructor(SerializationInfo,StreamingContext)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4680.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectPermissionException Class](topic4672.md) > [ProjectPermissionException Constructor](topic4678.md) : ProjectPermissionException Constructor(SerializationInfo,StreamingContext)  
 ---  
   
@@ -69,4 +69,4 @@ _context_
 [ProjectPermissionException Members](topic4673.md)   
 [Overload List](topic4678.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

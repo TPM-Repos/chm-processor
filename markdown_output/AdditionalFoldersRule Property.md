@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 AdditionalFoldersRule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4799.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectSpecialVariables Class](topic4782.md) : AdditionalFoldersRule Property  
 ---  
   
@@ -57,4 +57,4 @@ Each individual additional folder should be delimited by a pipe-bar character, e
 [ProjectSpecialVariables Class](topic4782.md)   
 [ProjectSpecialVariables Members](topic4783.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

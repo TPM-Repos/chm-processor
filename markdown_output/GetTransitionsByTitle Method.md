@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetTransitionsByTitle Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11796.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [Transitions Class](topic11787.md) : GetTransitionsByTitle Method  
 ---  
   
@@ -68,4 +68,4 @@ An array of transitions.
 [Transitions Class](topic11787.md)   
 [Transitions Members](topic11788.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

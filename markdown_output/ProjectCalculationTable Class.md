@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectCalculationTable Class   
-[Members](topic3927.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3926.md)  
+[Members](topic3927.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ProjectCalculationTable Class  
 ---  
   
@@ -63,4 +63,4 @@ System.MarshalByRefObject
 [ProjectCalculationTable Members](topic3927.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

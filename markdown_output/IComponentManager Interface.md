@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IComponentManager Interface   
-[Members](topic13386.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13385.md)  
+[Members](topic13386.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : IComponentManager Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [IComponentManager Members](topic13386.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

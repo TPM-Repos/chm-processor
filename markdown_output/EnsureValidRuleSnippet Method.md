@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 EnsureValidRuleSnippet Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4909.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectUtility Class](topic4899.md) : EnsureValidRuleSnippet Method  
 ---  
   
@@ -84,4 +84,4 @@ Whether or not the given indices have been changed.
 [ProjectUtility Class](topic4899.md)   
 [ProjectUtility Members](topic4900.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

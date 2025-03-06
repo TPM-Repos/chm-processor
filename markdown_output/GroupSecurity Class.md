@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GroupSecurity Class   
-[Members](topic3283.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3282.md)  
+[Members](topic3283.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : GroupSecurity Class  
 ---  
   
@@ -62,4 +62,4 @@ System.MarshalByRefObject
 [GroupSecurity Members](topic3283.md)   
 [DriveWorks Namespace](topic2159.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

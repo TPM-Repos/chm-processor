@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Scopes Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14529.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectDrawing Class](topic14516.md) : Scopes Property  
 ---  
   
@@ -49,4 +49,4 @@ C#|
 [ProjectDrawing Class](topic14516.md)   
 [ProjectDrawing Members](topic14517.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

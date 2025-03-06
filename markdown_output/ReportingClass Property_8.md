@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReportingClass Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11978.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CancelSpecificationTask Class](topic11971.md) : ReportingClass Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [CancelSpecificationTask Class](topic11971.md)   
 [CancelSpecificationTask Members](topic11972.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

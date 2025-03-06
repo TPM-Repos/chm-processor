@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 IsRunningRequired Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12102.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [CreateClosedChildSpecificationTask Class](topic12094.md) : IsRunningRequired Method  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [CreateClosedChildSpecificationTask Class](topic12094.md)   
 [CreateClosedChildSpecificationTask Members](topic12095.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

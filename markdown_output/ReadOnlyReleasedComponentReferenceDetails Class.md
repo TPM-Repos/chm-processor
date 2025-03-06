@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ReadOnlyReleasedComponentReferenceDetails Class   
-[Members](topic6240.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic6239.md)  
+[Members](topic6240.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Components Namespace](topic6089.md) : ReadOnlyReleasedComponentReferenceDetails Class  
 ---  
   
@@ -60,4 +60,4 @@ System.Object
 [ReadOnlyReleasedComponentReferenceDetails Members](topic6240.md)   
 [DriveWorks.Components Namespace](topic6089.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

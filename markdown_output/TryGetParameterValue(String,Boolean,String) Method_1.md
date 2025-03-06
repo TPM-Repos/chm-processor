@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetParameterValue(String,Boolean,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5158.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleaseParameterDataContainer Class](topic5145.md) > [TryGetParameterValue Method](topic5156.md) : TryGetParameterValue(String,Boolean,String) Method  
 ---  
   
@@ -85,4 +85,4 @@ True if the parameter was found.
 [ReleaseParameterDataContainer Members](topic5146.md)   
 [Overload List](topic5156.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

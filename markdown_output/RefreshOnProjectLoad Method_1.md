@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RefreshOnProjectLoad Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4301.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectDataTable Class](topic4282.md) : RefreshOnProjectLoad Method  
 ---  
   
@@ -55,4 +55,4 @@ True if the data table is to be refreshed on project load.
 [ProjectDataTable Class](topic4282.md)   
 [ProjectDataTable Members](topic4283.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

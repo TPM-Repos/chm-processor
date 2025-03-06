@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetCategories Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5349.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [SpecificationMacroCategories Class](topic5342.md) : GetCategories Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [SpecificationMacroCategories Class](topic5342.md)   
 [SpecificationMacroCategories Members](topic5343.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

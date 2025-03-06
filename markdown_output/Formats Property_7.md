@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Formats Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15006.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ReleasedPart Class](topic14994.md) : Formats Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ReleasedPart Class](topic14994.md)   
 [ReleasedPart Members](topic14995.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetState(String,State) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11624.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) > [States Class](topic11612.md) > [TryGetState Method](topic11622.md) : TryGetState(String,State) Method  
 ---  
   
@@ -77,4 +77,4 @@ True if the state is found.
 [States Members](topic11613.md)   
 [Overload List](topic11622.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RenameColumn Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3978.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectCalculationTableColumns Class](topic3968.md) : RenameColumn Method  
 ---  
   
@@ -71,4 +71,4 @@ _newName_
 [ProjectCalculationTableColumns Class](topic3968.md)   
 [ProjectCalculationTableColumns Members](topic3969.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

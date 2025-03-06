@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RuleText Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12269.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [EvaluateRuleValueTask Class](topic12258.md) : RuleText Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [EvaluateRuleValueTask Class](topic12258.md)   
 [EvaluateRuleValueTask Members](topic12259.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

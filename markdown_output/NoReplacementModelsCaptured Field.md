@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 NoReplacementModelsCaptured Field   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15458.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Integration Namespace](topic15418.md) > [CommandNames Class](topic15420.md) : NoReplacementModelsCaptured Field  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [CommandNames Class](topic15420.md)   
 [CommandNames Members](topic15421.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FunctionLocalizedName Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic10522.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Rules Namespace](topic10510.md) > [IFunctionInformation Interface](topic10512.md) : FunctionLocalizedName Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IFunctionInformation Interface](topic10512.md)   
 [IFunctionInformation Members](topic10513.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

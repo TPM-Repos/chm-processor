@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Drawing Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic15140.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Generation Namespace](topic15094.md) > [IDrawingGenerationContext Interface](topic15135.md) : Drawing Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [IDrawingGenerationContext Interface](topic15135.md)   
 [IDrawingGenerationContext Members](topic15136.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

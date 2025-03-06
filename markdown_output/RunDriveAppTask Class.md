@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RunDriveAppTask Class   
-[Members](topic1943.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic1942.md)  
+[Members](topic1943.md)   
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md) : RunDriveAppTask Class  
 ---  
   
@@ -59,4 +59,4 @@ System.Object
 [RunDriveAppTask Members](topic1943.md)   
 [DriveWorks.Applications.Autopilot.Extensibility Namespace](topic1633.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

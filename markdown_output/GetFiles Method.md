@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetFiles Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic9909.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.GroupMaintenance Namespace](topic9628.md) > [FilePickingOptions Class](topic9902.md) : GetFiles Method  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [FilePickingOptions Class](topic9902.md)   
 [FilePickingOptions Members](topic9903.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

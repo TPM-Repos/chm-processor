@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ClearHistory Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic508.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [ITransactionManager Interface](topic502.md) : ClearHistory Method  
 ---  
   
@@ -50,4 +50,4 @@ C#|
 [ITransactionManager Interface](topic502.md)   
 [ITransactionManager Members](topic503.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InsertHtmlViewAfter(String,String,String,String,String,StateFilter,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic591.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IViewRegistrationService Interface](topic578.md) > [InsertHtmlViewAfter Method](topic590.md) : InsertHtmlViewAfter(String,String,String,String,String,StateFilter,String) Method  
 ---  
   
@@ -118,4 +118,4 @@ Views may not be nested deeper than two levels.
 [IViewRegistrationService Members](topic579.md)   
 [Overload List](topic590.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

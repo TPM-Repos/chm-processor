@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 TryGetParameterValueAsDateTime Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic5162.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleaseParameterDataContainer Class](topic5145.md) : TryGetParameterValueAsDateTime Method  
 ---  
   
@@ -76,4 +76,4 @@ True if the parameter was found and it's value could successfully be converted t
 [ReleaseParameterDataContainer Class](topic5145.md)   
 [ReleaseParameterDataContainer Members](topic5146.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

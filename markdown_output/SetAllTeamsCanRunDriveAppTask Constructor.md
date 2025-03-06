@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetAllTeamsCanRunDriveAppTask Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12563.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [SetAllTeamsCanRunDriveAppTask Class](topic12557.md) : SetAllTeamsCanRunDriveAppTask Constructor  
 ---  
   
@@ -46,4 +46,4 @@ C#|
 [SetAllTeamsCanRunDriveAppTask Class](topic12557.md)   
 [SetAllTeamsCanRunDriveAppTask Members](topic12558.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

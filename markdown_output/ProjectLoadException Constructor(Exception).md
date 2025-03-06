@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ProjectLoadException Constructor(Exception)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4576.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectLoadException Class](topic4568.md) > [ProjectLoadException Constructor](topic4574.md) : ProjectLoadException Constructor(Exception)  
 ---  
   
@@ -61,4 +61,4 @@ C#|
 [ProjectLoadException Members](topic4569.md)   
 [Overload List](topic4574.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

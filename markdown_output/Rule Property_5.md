@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Rule Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic14504.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks.Components Namespace](topic13925.md) > [ProjectDimension Class](topic14493.md) : Rule Property  
 ---  
   
@@ -53,4 +53,4 @@ C#|
 [ProjectDimension Class](topic14493.md)   
 [ProjectDimension Members](topic14494.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CaptureViewAttribute Constructor(String,String,String,String,String)   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13466.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [CaptureViewAttribute Class](topic13455.md) > [CaptureViewAttribute Constructor](topic13461.md) : CaptureViewAttribute Constructor(String,String,String,String,String)  
 ---  
   
@@ -95,4 +95,4 @@ _insertAfter_
 [CaptureViewAttribute Members](topic13456.md)   
 [Overload List](topic13461.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

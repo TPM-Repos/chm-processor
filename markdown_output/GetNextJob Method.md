@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 GetNextJob Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic3601.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [JobQueue Class](topic3594.md) : GetNextJob Method  
 ---  
   
@@ -68,4 +68,4 @@ The next job to process.
 [JobQueue Class](topic3594.md)   
 [JobQueue Members](topic3595.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

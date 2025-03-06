@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 Component Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic12454.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification.StandardTasks Namespace](topic11896.md) > [RegenerateAndOverwriteComponentTask Class](topic12446.md) : Component Property  
 ---  
   
@@ -57,4 +57,4 @@ This value is either the Globally Unique Identifier (GUID) or the Target Path of
 [RegenerateAndOverwriteComponentTask Class](topic12446.md)   
 [RegenerateAndOverwriteComponentTask Members](topic12447.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

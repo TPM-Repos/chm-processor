@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 InvalidTransitionTargetException Class   
-[Members](topic11028.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic11027.md)  
+[Members](topic11028.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Specification Namespace](topic10764.md) : InvalidTransitionTargetException Class  
 ---  
   
@@ -62,4 +62,4 @@ System.Exception
 [InvalidTransitionTargetException Members](topic11028.md)   
 [DriveWorks.Specification Namespace](topic10764.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

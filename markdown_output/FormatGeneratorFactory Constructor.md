@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 FormatGeneratorFactory Constructor   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13676.md)  
+  
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) > [FormatGeneratorFactory Class](topic13670.md) : FormatGeneratorFactory Constructor  
 ---  
   
@@ -62,4 +62,4 @@ C#|
 [FormatGeneratorFactory Class](topic13670.md)   
 [FormatGeneratorFactory Members](topic13671.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

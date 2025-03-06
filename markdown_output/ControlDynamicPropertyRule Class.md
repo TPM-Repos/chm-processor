@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ControlDynamicPropertyRule Class   
-[Members](topic7789.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic7788.md)  
+[Members](topic7789.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) : ControlDynamicPropertyRule Class  
 ---  
   
@@ -59,4 +59,4 @@ System.Object
 [ControlDynamicPropertyRule Members](topic7789.md)   
 [DriveWorks.Forms Namespace](topic7266.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

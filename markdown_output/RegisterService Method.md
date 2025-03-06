@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 RegisterService Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic441.md)  
+  
 [DriveWorks.Applications Assembly](topic13.md) > [DriveWorks.Applications Namespace](topic16.md) > [IServiceManager Interface](topic435.md) : RegisterService Method  
 ---  
   
@@ -82,4 +82,4 @@ If the service object is a [CreateServiceObjectHandler](topic1268.md) delegate, 
 [IServiceManager Interface](topic435.md)   
 [IServiceManager Members](topic436.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

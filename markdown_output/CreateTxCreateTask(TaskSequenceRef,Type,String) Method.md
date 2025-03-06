@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 CreateTxCreateTask(TaskSequenceRef,Type,String) Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13070.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Transactions Namespace](topic12835.md) > [ProjectTransactionFactory Class](topic12928.md) > [CreateTxCreateTask Method](topic13069.md) : CreateTxCreateTask(TaskSequenceRef,Type,String) Method  
 ---  
   
@@ -81,4 +81,4 @@ _taskTitle_
 [ProjectTransactionFactory Members](topic12929.md)   
 [Overload List](topic13069.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

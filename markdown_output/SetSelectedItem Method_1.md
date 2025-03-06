@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 SetSelectedItem Method   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic8322.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Forms Namespace](topic7266.md) > [ListControlBase Class](topic8315.md) : SetSelectedItem Method  
 ---  
   
@@ -71,4 +71,4 @@ C#|
 [ListControlBase Class](topic8315.md)   
 [ListControlBase Members](topic8316.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

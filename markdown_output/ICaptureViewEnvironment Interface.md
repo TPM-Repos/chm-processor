@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 ICaptureViewEnvironment Interface   
-[Members](topic13354.md) See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic13353.md)  
+[Members](topic13354.md)   
 [DriveWorks.SolidWorks Assembly](topic13342.md) > [DriveWorks.SolidWorks Namespace](topic13345.md) : ICaptureViewEnvironment Interface  
 ---  
   
@@ -48,4 +48,4 @@ C#|
 [ICaptureViewEnvironment Members](topic13354.md)   
 [DriveWorks.SolidWorks Namespace](topic13345.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+

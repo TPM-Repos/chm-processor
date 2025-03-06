@@ -5,7 +5,7 @@
 DriveWorks SDK Documentation  |   
 ---|---  
 StartTime Property   
-See Also [Send Feedback](mailto:apisupport@driveworks.co.uk?subject=Documentation Feedback: topic4749.md)  
+  
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ProjectRuleEvent Class](topic4738.md) : StartTime Property  
 ---  
   
@@ -51,4 +51,4 @@ C#|
 [ProjectRuleEvent Class](topic4738.md)   
 [ProjectRuleEvent Members](topic4739.md)
 
-©2024 DriveWorks Ltd. All Rights Reserved.
+
