@@ -21,24 +21,24 @@ For a list of all members of this type, see [ProjectCalculationTableColumn membe
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetCellReferenceName](topic3952.md)| Converts a column display name to a rule reference name that can be used within a table only.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetContext](topic3953.md)| Gets a rule context for a particular cell. This is useful when evaluating common with the context of a specific cell.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic3954.md)| Gets an IEnumerator that will yield all explicitly set cell rules.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetFullCellReferenceName](topic3955.md)| Gets a full rule reference name (including the table name) to the specified cell.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetFullRuleId](topic3956.md)| Gets a rule reference for the specified cell.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetName](topic3957.md)| Converts a column display name to a column name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetRule](topic3958.md)| Gets an explicit rule from this column for the specified row.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetRules](topic3959.md)| Get's all cell rules that re explicitly set in the column.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveRule](topic3960.md)| Clears a cell rule at the specified index, causing it to use the column's common rule.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetCellReferenceName](topic3952.md)| Converts a column display name to a rule reference name that can be used within a table only.   
+Public Method| [GetContext](topic3953.md)| Gets a rule context for a particular cell. This is useful when evaluating common with the context of a specific cell.   
+Public Method| [GetEnumerator](topic3954.md)| Gets an IEnumerator that will yield all explicitly set cell rules.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetFullCellReferenceName](topic3955.md)| Gets a full rule reference name (including the table name) to the specified cell.   
+Public Method| [GetFullRuleId](topic3956.md)| Gets a rule reference for the specified cell.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetName](topic3957.md)| Converts a column display name to a column name.   
+Public Method| [GetRule](topic3958.md)| Gets an explicit rule from this column for the specified row.   
+Public Method| [GetRules](topic3959.md)| Get's all cell rules that re explicitly set in the column.   
+Public Method| [RemoveRule](topic3960.md)| Clears a cell rule at the specified index, causing it to use the column's common rule.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

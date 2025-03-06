@@ -2,8 +2,8 @@ import os
 import re
 
 def remove_image_references(directory):
-    # Pattern to match the header with flexible whitespace
-    pattern = r'^\s*DriveWorks SDK Documentation  \|   \n---\|---  \n'
+    # Pattern to match method images and replace with text
+    pattern = r'!\[(Public|Protected) Method\]\(dotnetimages/\w+Method\.gif\)'
     
     # Walk through all files in the directory
     for root, _, files in os.walk(directory):
@@ -16,8 +16,8 @@ def remove_image_references(directory):
                     with open(filepath, 'r', encoding='utf-8') as f:
                         content = f.read()
                     
-                    # Remove the pattern and ensure newlines are preserved
-                    new_content = re.sub(pattern, '', content)
+                    # Replace image markdown with just the method type
+                    new_content = re.sub(pattern, r'\1 Method', content)
                     
                     # Only write if content changed
                     if new_content != content:

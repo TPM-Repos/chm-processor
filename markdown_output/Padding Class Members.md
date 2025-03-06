@@ -42,7 +42,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [ToString](topic8683.md)|   
+Public Method| [ToString](topic8683.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -29,10 +29,10 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14126.md)| Adds a new reference to the specified part or sub-assembly.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14127.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14128.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14129.md)|   
+Public Method| [Add](topic14126.md)| Adds a new reference to the specified part or sub-assembly.   
+Public Method| [GetEnumerator](topic14127.md)|   
+Public Method| [Remove](topic14128.md)|   
+Public Method| [RemoveAt](topic14129.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

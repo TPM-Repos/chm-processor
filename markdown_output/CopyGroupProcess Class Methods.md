@@ -21,20 +21,20 @@ For a list of all members of this type, see [CopyGroupProcess members](topic9777
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CheckStopped](topic9782.md)| Checks to see if the process is canceled.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateCopyGroupProcess](topic9783.md)| Creates a new instance of the [CopyGroupProcess](topic9776.md).   
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic9784.md)| Overloaded.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetActions](topic9787.md)| Gets a collection of all actions.   
-![Public Method](dotnetimages/publicMethod.gif)| [Start](topic9790.md)| Starts the process of copying a group.   
-![Public Method](dotnetimages/publicMethod.gif)| [StopCopy](topic9791.md)| Stops the process from executing (if it was).   
+Public Method| [CheckStopped](topic9782.md)| Checks to see if the process is canceled.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateCopyGroupProcess](topic9783.md)| Creates a new instance of the [CopyGroupProcess](topic9776.md).   
+Public Method| [Dispose](topic9784.md)| Overloaded.   
+Public Method| [GetActions](topic9787.md)| Gets a collection of all actions.   
+Public Method| [Start](topic9790.md)| Starts the process of copying a group.   
+Public Method| [StopCopy](topic9791.md)| Stops the process from executing (if it was).   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetTargetPath](topic9788.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [PlanActions](topic9789.md)|   
+Protected Method| [GetTargetPath](topic9788.md)|   
+Protected Method| [PlanActions](topic9789.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

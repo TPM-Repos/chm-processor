@@ -21,27 +21,27 @@ For a list of all members of this type, see [ComponentTaskCollection members](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic6473.md)| Adds a new task to the collection and returns the newly created task.   
-![Public Method](dotnetimages/publicMethod.gif)| [Clear](topic6475.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Contains](topic6476.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [CopyTo](topic6477.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic6478.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator1](topic6479.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [IndexOf](topic6480.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Insert](topic6482.md)| Creates and inserts a new [ComponentTask](topic6407.md) at the given index.   
-![Public Method](dotnetimages/publicMethod.gif)| [Move](topic6483.md)| Moves the task at oldIndex to newIndex.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic6485.md)| Removes the given task from the collection and deletes it from the project.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic6486.md)|   
+Public Method| [Add](topic6473.md)| Adds a new task to the collection and returns the newly created task.   
+Public Method| [Clear](topic6475.md)|   
+Public Method| [Contains](topic6476.md)|   
+Public Method| [CopyTo](topic6477.md)|   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEnumerator](topic6478.md)|   
+Public Method| [GetEnumerator1](topic6479.md)|   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [IndexOf](topic6480.md)|   
+Public Method| [Insert](topic6482.md)| Creates and inserts a new [ComponentTask](topic6407.md) at the given index.   
+Public Method| [Move](topic6483.md)| Moves the task at oldIndex to newIndex.   
+Public Method| [Remove](topic6485.md)| Removes the given task from the collection and deletes it from the project.   
+Public Method| [RemoveAt](topic6486.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [AddCore](topic6474.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [AddCore](topic6474.md)|   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

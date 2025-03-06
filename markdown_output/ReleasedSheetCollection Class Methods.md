@@ -15,10 +15,10 @@ For a list of all members of this type, see [ReleasedSheetCollection members](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic15023.md)| Adds a new sheet.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic15024.md)| Gets an enumerator which enumerates over the sheets in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic15025.md)| Removes the given sheet.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic15026.md)| Removes the sheet at the given index.   
+Public Method| [Add](topic15023.md)| Adds a new sheet.   
+Public Method| [GetEnumerator](topic15024.md)| Gets an enumerator which enumerates over the sheets in the collection.   
+Public Method| [Remove](topic15025.md)| Removes the given sheet.   
+Public Method| [RemoveAt](topic15026.md)| Removes the sheet at the given index.   
 Top
 
 # See Also

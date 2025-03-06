@@ -21,9 +21,9 @@ For a list of all members of this type, see [ProjectDocumentRule members](topic4
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic4405.md)| Gets the version history for the document rule.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetDisplayName](topic4406.md)| Sets the display name, see remarks for details.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic4407.md)| Sets the rule and comment in a single operation.   
+Public Method| [GetVersionHistory](topic4405.md)| Gets the version history for the document rule.   
+Public Method| [SetDisplayName](topic4406.md)| Sets the display name, see remarks for details.   
+Public Method| [SetRuleAndComment](topic4407.md)| Sets the rule and comment in a single operation.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

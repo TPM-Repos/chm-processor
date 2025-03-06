@@ -15,10 +15,10 @@ For a list of all members of this type, see [ReleasedLayerCollection members](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14982.md)| Adds a new layer.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14983.md)| Gets an enumerator which enumerates over the layers in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14984.md)| Removes the given layer.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14985.md)| Removes the layer at the given index.   
+Public Method| [Add](topic14982.md)| Adds a new layer.   
+Public Method| [GetEnumerator](topic14983.md)| Gets an enumerator which enumerates over the layers in the collection.   
+Public Method| [Remove](topic14984.md)| Removes the given layer.   
+Public Method| [RemoveAt](topic14985.md)| Removes the layer at the given index.   
 Top
 
 # See Also

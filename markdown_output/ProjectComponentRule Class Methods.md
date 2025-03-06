@@ -21,19 +21,19 @@ For a list of all members of this type, see [ProjectComponentRule members](topic
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic6204.md)| Gets the version history for the item.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic6207.md)| Sets the rule and comment in a single operation.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetVersionHistory](topic6204.md)| Gets the version history for the item.   
+Public Method| [SetRuleAndComment](topic6207.md)| Sets the rule and comment in a single operation.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseCommentChanged](topic6205.md)| Raises the [CommentChanged](topic6214.md) event.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseRuleChanged](topic6206.md)| Raises the RuleChanged event.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseCommentChanged](topic6205.md)| Raises the [CommentChanged](topic6214.md) event.   
+Protected Method| [RaiseRuleChanged](topic6206.md)| Raises the RuleChanged event.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -21,31 +21,31 @@ For a list of all members of this type, see [FlowProperty<T> members](topic10979
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Bind](topic10952.md)| Overloaded. Binds the property to a rule. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [Connect](topic10955.md)| Connects this input to the given output. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [ConvertToNativeType](topic10986.md)| Overridden.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Disconnect](topic10957.md)|  (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetValue](topic10988.md)| Overridden.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic10959.md)|  (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [SetValue](topic10990.md)| Overridden.   
-![Public Method](dotnetimages/publicMethod.gif)| [Unbind](topic10964.md)| Unbinds the property. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
+Public Method| [Bind](topic10952.md)| Overloaded. Binds the property to a rule. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
+Public Method| [Connect](topic10955.md)| Connects this input to the given output. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
+Public Method| [ConvertToNativeType](topic10986.md)| Overridden.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Disconnect](topic10957.md)|  (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetValue](topic10988.md)| Overridden.   
+Public Method| [GetVersionHistory](topic10959.md)|  (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
+Public Method| [SetValue](topic10990.md)| Overridden.   
+Public Method| [Unbind](topic10964.md)| Unbinds the property. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [ConvertFromObject](topic10984.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [ConvertFromString](topic10985.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [ConvertToString](topic10987.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [InitializeCore](topic10989.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConnectionAdded](topic7040.md)| Raises the [DriveWorks.EventFlow.InputConnectionEndpoint.ConnectionAdded](topic7042.md) event. (Inherited from [DriveWorks.EventFlow.InputConnectionEndpoint](topic7033.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConnectionRemoved](topic7041.md)| Raises the [DriveWorks.EventFlow.InputConnectionEndpoint.ConnectionRemoved](topic7043.md) event. (Inherited from [DriveWorks.EventFlow.InputConnectionEndpoint](topic7033.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseRuleChanged](topic10961.md)| Raises the [RuleChanged](topic10976.md) event. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseValueChanged](topic10962.md)| Raises the [ValueChanged](topic10977.md) event. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
+Protected Method| [ConvertFromObject](topic10984.md)|   
+Protected Method| [ConvertFromString](topic10985.md)|   
+Protected Method| [ConvertToString](topic10987.md)|   
+Protected Method| [InitializeCore](topic10989.md)| Overridden.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseConnectionAdded](topic7040.md)| Raises the [DriveWorks.EventFlow.InputConnectionEndpoint.ConnectionAdded](topic7042.md) event. (Inherited from [DriveWorks.EventFlow.InputConnectionEndpoint](topic7033.md))  
+Protected Method| [RaiseConnectionRemoved](topic7041.md)| Raises the [DriveWorks.EventFlow.InputConnectionEndpoint.ConnectionRemoved](topic7043.md) event. (Inherited from [DriveWorks.EventFlow.InputConnectionEndpoint](topic7033.md))  
+Protected Method| [RaiseRuleChanged](topic10961.md)| Raises the [RuleChanged](topic10976.md) event. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
+Protected Method| [RaiseValueChanged](topic10962.md)| Raises the [ValueChanged](topic10977.md) event. (Inherited from [DriveWorks.Specification.FlowProperty](topic10946.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

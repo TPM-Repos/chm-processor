@@ -29,17 +29,17 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic7017.md)| Gets an enumerator suitable for enumerating the nodes in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [IndexOf](topic7019.md)| Gets the index of the given node.   
+Public Method| [GetEnumerator](topic7017.md)| Gets an enumerator suitable for enumerating the nodes in the collection.   
+Public Method| [IndexOf](topic7019.md)| Gets the index of the given node.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [IEnumerable_GetEnumerator](topic7018.md)| Gets an enumerator suitable for enumerating the nodes in the collection.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseNodeCreated](topic7020.md)| Raise the [NodeCreated](topic7024.md) event.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseNodeDeleted](topic7021.md)| Raise the [NodeDeleted](topic7025.md) event.   
+Protected Method| [IEnumerable_GetEnumerator](topic7018.md)| Gets an enumerator suitable for enumerating the nodes in the collection.   
+Protected Method| [RaiseNodeCreated](topic7020.md)| Raise the [NodeCreated](topic7024.md) event.   
+Protected Method| [RaiseNodeDeleted](topic7021.md)| Raise the [NodeDeleted](topic7025.md) event.   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

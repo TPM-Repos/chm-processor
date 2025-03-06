@@ -29,17 +29,17 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Save](topic6654.md)| Pushes the current condition information into the backing store. (Inherited from [DriveWorks.Components.Tasks.ComponentTaskReleaseCondition](topic6647.md))  
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Save](topic6654.md)| Pushes the current condition information into the backing store. (Inherited from [DriveWorks.Components.Tasks.ComponentTaskReleaseCondition](topic6647.md))  
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Evaluate](topic6752.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [Evaluate](topic6752.md)| Overridden.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # Public Events

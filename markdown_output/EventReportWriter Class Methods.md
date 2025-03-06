@@ -21,19 +21,19 @@ For a list of all members of this type, see [EventReportWriter members](topic104
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [BeginProcess](topic10416.md)| Overloaded. Overridden. Begins a process.   
-![Public Method](dotnetimages/publicMethod.gif)| [EndProcess](topic10419.md)| Overridden. Ends the current process.   
-![Public Method](dotnetimages/publicMethod.gif)| [WriteEntry](topic10420.md)| Overridden. Writes a report entry to the report.   
+Public Method| [BeginProcess](topic10416.md)| Overloaded. Overridden. Begins a process.   
+Public Method| [EndProcess](topic10419.md)| Overridden. Ends the current process.   
+Public Method| [WriteEntry](topic10420.md)| Overridden. Writes a report entry to the report.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [AssertNotDisposed](topic10482.md)| Throws an System.ObjectDisposedException if the object has been disposed. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Dispose](topic10487.md)| Disposes the report writer and flushes its contents to the report. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Finalize](topic10489.md)| Handles object finalization. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Finish](topic10490.md)| Finishes the report, flushing any cached contents to the report if necessary. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
+Protected Method| [AssertNotDisposed](topic10482.md)| Throws an System.ObjectDisposedException if the object has been disposed. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
+Protected Method| [Dispose](topic10487.md)| Disposes the report writer and flushes its contents to the report. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
+Protected Method| [Finalize](topic10489.md)| Handles object finalization. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
+Protected Method| [Finish](topic10490.md)| Finishes the report, flushing any cached contents to the report if necessary. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

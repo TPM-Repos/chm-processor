@@ -15,7 +15,7 @@ For a list of all members of this type, see [RunProjectTask members](topic1952.m
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Execute](topic1958.md)| Run the Project using the project name specified in the arguments property. Invokes a transition specified in the arguments property.   
+Public Method| [Execute](topic1958.md)| Run the Project using the project name specified in the arguments property. Invokes a transition specified in the arguments property.   
 Top
 
 # See Also

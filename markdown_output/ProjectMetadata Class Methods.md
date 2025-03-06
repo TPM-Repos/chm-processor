@@ -21,16 +21,16 @@ For a list of all members of this type, see [ProjectMetadata members](topic4648.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetSection](topic4653.md)| Gets the specified section from the project metadata file.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetSection](topic4653.md)| Gets the specified section from the project metadata file.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

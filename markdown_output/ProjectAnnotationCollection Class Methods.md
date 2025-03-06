@@ -21,8 +21,8 @@ For a list of all members of this type, see [ProjectAnnotationCollection members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14425.md)| Looks for an annotation with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14426.md)| Gets an enumerator which can enumerate over the items in the collection.   
+Public Method| [Find](topic14425.md)| Looks for an annotation with the given name.   
+Public Method| [GetEnumerator](topic14426.md)| Gets an enumerator which can enumerate over the items in the collection.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

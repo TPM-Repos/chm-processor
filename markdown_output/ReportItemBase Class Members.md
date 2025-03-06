@@ -26,14 +26,14 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CompareTo](topic15382.md)|   
+Public Method| [CompareTo](topic15382.md)|   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaisePropertyChanged](topic15383.md)|   
+Protected Method| [RaisePropertyChanged](topic15383.md)|   
 Top
 
 # Public Events

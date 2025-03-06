@@ -15,7 +15,7 @@ For a list of all members of this type, see [TextDocumentLine members](topic5660
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [UpdateLine](topic5668.md)| Updates the rule, comment and value for this line.   
+Public Method| [UpdateLine](topic5668.md)| Updates the rule, comment and value for this line.   
 Top
 
 # See Also

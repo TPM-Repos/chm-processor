@@ -28,22 +28,22 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [RegisterAnyProperty](topic10911.md)| Overloaded. Creates a new specification flow property which can store any data. Static values will always be represented as strings.   
-![Public Method](dotnetimages/publicMethod.gif)| [RegisterBooleanProperty](topic10915.md)| Overloaded. Creates a new specification flow property which can store boolean data.   
-![Public Method](dotnetimages/publicMethod.gif)| [RegisterDoubleProperty](topic10920.md)| Overloaded. Creates a new specification flow property which can store floating-point data.   
-![Public Method](dotnetimages/publicMethod.gif)| [RegisterIArrayValueProperty](topic10925.md)| Overloaded. Creates a new specification flow property which can store IArrayValue data.   
-![Public Method](dotnetimages/publicMethod.gif)| [RegisterInt32Property](topic10930.md)| Overloaded. Creates a new specification flow property which can store 32-bit integral data.   
-![Public Method](dotnetimages/publicMethod.gif)| [RegisterInt64Property](topic10935.md)| Overloaded. Creates a new specification flow property which can store 64-bit integral data.   
-![Public Method](dotnetimages/publicMethod.gif)| [RegisterStringProperty](topic10940.md)| Overloaded. Creates a new specification flow property which can store string data.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [RegisterAnyProperty](topic10911.md)| Overloaded. Creates a new specification flow property which can store any data. Static values will always be represented as strings.   
+Public Method| [RegisterBooleanProperty](topic10915.md)| Overloaded. Creates a new specification flow property which can store boolean data.   
+Public Method| [RegisterDoubleProperty](topic10920.md)| Overloaded. Creates a new specification flow property which can store floating-point data.   
+Public Method| [RegisterIArrayValueProperty](topic10925.md)| Overloaded. Creates a new specification flow property which can store IArrayValue data.   
+Public Method| [RegisterInt32Property](topic10930.md)| Overloaded. Creates a new specification flow property which can store 32-bit integral data.   
+Public Method| [RegisterInt64Property](topic10935.md)| Overloaded. Creates a new specification flow property which can store 64-bit integral data.   
+Public Method| [RegisterStringProperty](topic10940.md)| Overloaded. Creates a new specification flow property which can store string data.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -21,14 +21,14 @@ For a list of all members of this type, see [DeleteFeaturesGenerationTask member
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Execute](topic15325.md)| Overridden.   
+Public Method| [Execute](topic15325.md)| Overridden.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [SetExecutionResult](topic13686.md)| Sets the result of this task. (Inherited from [DriveWorks.SolidWorks.GenerationTask](topic13678.md))  
+Protected Method| [SetExecutionResult](topic13686.md)| Sets the result of this task. (Inherited from [DriveWorks.SolidWorks.GenerationTask](topic13678.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

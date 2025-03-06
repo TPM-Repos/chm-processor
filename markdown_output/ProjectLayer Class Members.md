@@ -30,8 +30,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic14644.md)| Gets the version history for the feature parameter.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic14645.md)| Sets the rule and comment in a single operation.   
+Public Method| [GetVersionHistory](topic14644.md)| Gets the version history for the feature parameter.   
+Public Method| [SetRuleAndComment](topic14645.md)| Sets the rule and comment in a single operation.   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

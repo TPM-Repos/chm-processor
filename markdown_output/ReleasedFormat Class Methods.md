@@ -15,7 +15,7 @@ For a list of all members of this type, see [ReleasedFormat members](topic14926.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetParameter](topic14931.md)| Attempts to get the parameter data that matches the specified address.   
+Public Method| [TryGetParameter](topic14931.md)| Attempts to get the parameter data that matches the specified address.   
 Top
 
 # See Also

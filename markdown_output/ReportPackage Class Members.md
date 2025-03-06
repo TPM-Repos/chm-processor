@@ -29,9 +29,9 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Close](topic10458.md)| Closes the current package connection.   
-![Public Method](dotnetimages/publicMethod.gif)| [CreateReportWriter](topic10459.md)| Creates a new report with the given title in the package.   
-![Public Method](dotnetimages/publicMethod.gif)| [Open](topic10460.md)| Opens a new report package.   
+Public Method| [Close](topic10458.md)| Closes the current package connection.   
+Public Method| [CreateReportWriter](topic10459.md)| Creates a new report with the given title in the package.   
+Public Method| [Open](topic10460.md)| Opens a new report package.   
 Top
 
 # See Also

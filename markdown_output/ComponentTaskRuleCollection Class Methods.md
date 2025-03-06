@@ -21,18 +21,18 @@ For a list of all members of this type, see [ComponentTaskRuleCollection members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic6729.md)| Gets an enumerator that iterates over the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator1](topic6730.md)| Gets an enumerator that iterates over the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetPath](topic6731.md)|   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEnumerator](topic6729.md)| Gets an enumerator that iterates over the collection.   
+Public Method| [GetEnumerator1](topic6730.md)| Gets an enumerator that iterates over the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetPath](topic6731.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -15,10 +15,10 @@ For a list of all members of this type, see [ReleasedBreakLineCollection members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14798.md)| Adds a new break-line.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14799.md)| Gets an enumerator which enumerates over the break-lines in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14800.md)| Removes the given break-line.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14801.md)| Removes the break-line at the given index.   
+Public Method| [Add](topic14798.md)| Adds a new break-line.   
+Public Method| [GetEnumerator](topic14799.md)| Gets an enumerator which enumerates over the break-lines in the collection.   
+Public Method| [Remove](topic14800.md)| Removes the given break-line.   
+Public Method| [RemoveAt](topic14801.md)| Removes the break-line at the given index.   
 Top
 
 # See Also

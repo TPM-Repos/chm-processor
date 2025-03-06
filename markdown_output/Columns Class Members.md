@@ -21,22 +21,22 @@ The following tables list the members exposed by [Columns](topic2516.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic2522.md)| Adds a new column to the column collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Clear](topic2523.md)| Removes all columns from the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic2524.md)| Returns an enumerator that iterates through the [Columns](topic2516.md).   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [MoveColumnDown](topic2525.md)| Moves the column to a position after its following sibling.   
-![Public Method](dotnetimages/publicMethod.gif)| [MoveColumnUp](topic2526.md)| Moves the column to a position before its preceding sibling.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic2527.md)| Removes a column from the column collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [ToArray](topic2528.md)| Gets an array of all the columns which have been defined.   
+Public Method| [Add](topic2522.md)| Adds a new column to the column collection.   
+Public Method| [Clear](topic2523.md)| Removes all columns from the collection.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEnumerator](topic2524.md)| Returns an enumerator that iterates through the [Columns](topic2516.md).   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [MoveColumnDown](topic2525.md)| Moves the column to a position after its following sibling.   
+Public Method| [MoveColumnUp](topic2526.md)| Moves the column to a position before its preceding sibling.   
+Public Method| [Remove](topic2527.md)| Removes a column from the column collection.   
+Public Method| [ToArray](topic2528.md)| Gets an array of all the columns which have been defined.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

@@ -15,8 +15,8 @@ For a list of all members of this type, see [TaskRef members](topic13150.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetConditionSequenceRef](topic13155.md)| Gets a reference to the task's condition sequence.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetTask](topic13156.md)| Gets the task from the specified project.   
+Public Method| [GetConditionSequenceRef](topic13155.md)| Gets a reference to the task's condition sequence.   
+Public Method| [GetTask](topic13156.md)| Gets the task from the specified project.   
 Top
 
 # See Also

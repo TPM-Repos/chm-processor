@@ -15,16 +15,16 @@ For a list of all members of this type, see [TxAggregateTransaction members](top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Execute](topic13181.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Execute](topic13181.md)|   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # See Also

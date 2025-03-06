@@ -37,20 +37,20 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CheckStopped](topic9782.md)| Checks to see if the process is canceled. (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreatePackageGroupProcess](topic9931.md)| Creates a new instance of the [PackageGroupProcess](topic9925.md) class.   
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic9932.md)| Overloaded. Overridden.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetActions](topic9787.md)| Gets a collection of all actions. (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [Start](topic9790.md)| Starts the process of copying a group. (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [StopCopy](topic9791.md)| Stops the process from executing (if it was). (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
+Public Method| [CheckStopped](topic9782.md)| Checks to see if the process is canceled. (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreatePackageGroupProcess](topic9931.md)| Creates a new instance of the [PackageGroupProcess](topic9925.md) class.   
+Public Method| [Dispose](topic9932.md)| Overloaded. Overridden.   
+Public Method| [GetActions](topic9787.md)| Gets a collection of all actions. (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
+Public Method| [Start](topic9790.md)| Starts the process of copying a group. (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
+Public Method| [StopCopy](topic9791.md)| Stops the process from executing (if it was). (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetTargetPath](topic9788.md)|  (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [PlanActions](topic9934.md)| Overridden.   
+Protected Method| [GetTargetPath](topic9788.md)|  (Inherited from [DriveWorks.GroupMaintenance.CopyGroupProcess](topic9776.md))  
+Protected Method| [PlanActions](topic9934.md)| Overridden.   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

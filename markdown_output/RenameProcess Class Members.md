@@ -15,17 +15,17 @@ The following tables list the members exposed by [RenameProcess](topic10287.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Abort](topic10293.md)| Aborts the process. Process cannot be aborted after the renaming phase begins.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Start](topic10294.md)|   
+Public Method| [Abort](topic10293.md)| Aborts the process. Process cannot be aborted after the renaming phase begins.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Start](topic10294.md)|   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # Public Events

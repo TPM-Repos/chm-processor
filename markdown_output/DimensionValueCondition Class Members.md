@@ -41,7 +41,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Evaluate](topic13543.md)| Overridden.   
+Protected Method| [Evaluate](topic13543.md)| Overridden.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -15,10 +15,10 @@ For a list of all members of this type, see [ReleasedFeatureCollection members](
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14893.md)| Adds and returns a new feature.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14894.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14895.md)| Overloaded. Removes the given feature.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14898.md)| Removes the feature at the specified index.   
+Public Method| [Add](topic14893.md)| Adds and returns a new feature.   
+Public Method| [GetEnumerator](topic14894.md)|   
+Public Method| [Remove](topic14895.md)| Overloaded. Removes the given feature.   
+Public Method| [RemoveAt](topic14898.md)| Removes the feature at the specified index.   
 Top
 
 # See Also

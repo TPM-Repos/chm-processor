@@ -21,24 +21,24 @@ The following tables list the members exposed by [ProjectMessages](topic4627.md)
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateMessage](topic4633.md)| Creates and returns a new message.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetMessage](topic4634.md)| Gets the message with the specified display name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetMessages](topic4635.md)| Gets all the messages which exist in the project.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetMessage](topic4641.md)| Gets the message with the specified display name.   
+Public Method| [CreateMessage](topic4633.md)| Creates and returns a new message.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetMessage](topic4634.md)| Gets the message with the specified display name.   
+Public Method| [GetMessages](topic4635.md)| Gets all the messages which exist in the project.   
+Public Method| [TryGetMessage](topic4641.md)| Gets the message with the specified display name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseMessageCommentChanged](topic4636.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseMessageCreated](topic4637.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseMessageDeleted](topic4638.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseMessageMessageChanged](topic4639.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseMessageRuleChanged](topic4640.md)|   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseMessageCommentChanged](topic4636.md)|   
+Protected Method| [RaiseMessageCreated](topic4637.md)|   
+Protected Method| [RaiseMessageDeleted](topic4638.md)|   
+Protected Method| [RaiseMessageMessageChanged](topic4639.md)|   
+Protected Method| [RaiseMessageRuleChanged](topic4640.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

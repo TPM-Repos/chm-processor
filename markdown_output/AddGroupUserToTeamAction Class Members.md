@@ -32,15 +32,15 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Execute](topic9649.md)| Overridden. Executes this action.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCanExecute](topic9650.md)| Overridden. Checks to see if the action can be executed or not.   
+Public Method| [Execute](topic9649.md)| Overridden. Executes this action.   
+Public Method| [GetCanExecute](topic9650.md)| Overridden. Checks to see if the action can be executed or not.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaisePropertyChanged](topic9943.md)| Raises the [ProcessActionBase.PropertyChanged](topic9948.md) event. (Inherited from [DriveWorks.GroupMaintenance.ProcessActionBase](topic9935.md))  
+Protected Method| [RaisePropertyChanged](topic9943.md)| Raises the [ProcessActionBase.PropertyChanged](topic9948.md) event. (Inherited from [DriveWorks.GroupMaintenance.ProcessActionBase](topic9935.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

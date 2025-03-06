@@ -15,20 +15,20 @@ The following tables list the members exposed by [RuleResults](topic11136.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetResult](topic11142.md)| Gets the result for the rule with the specified identifier.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Load](topic11143.md)| Overloaded. Loads the rule results from the given XML reader.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [ResultToString](topic11146.md)| Takes the result of a rule calculation and coverts it to a string.   
-![Public Method](dotnetimages/publicMethod.gif)| [Save](topic11147.md)| Saves the rule results to the specified XML writer.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetResult](topic11148.md)| Tries getting the result for the rule with the specified identifier.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetResult](topic11142.md)| Gets the result for the rule with the specified identifier.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Load](topic11143.md)| Overloaded. Loads the rule results from the given XML reader.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [ResultToString](topic11146.md)| Takes the result of a rule calculation and coverts it to a string.   
+Public Method| [Save](topic11147.md)| Saves the rule results to the specified XML writer.   
+Public Method| [TryGetResult](topic11148.md)| Tries getting the result for the rule with the specified identifier.   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # See Also

@@ -21,7 +21,7 @@ For a list of all members of this type, see [ProjectFileFormatCollection members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14585.md)| Gets an object which can enumerate over the items in the collection.   
+Public Method| [GetEnumerator](topic14585.md)| Gets an object which can enumerate over the items in the collection.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

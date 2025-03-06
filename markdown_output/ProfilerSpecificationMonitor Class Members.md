@@ -37,8 +37,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic3845.md)| Overloaded.   
-![Public Method](dotnetimages/publicMethod.gif)| [Initialize](topic3848.md)| Performs any initialization needed for monitoring this specification in the profiler.   
+Public Method| [Dispose](topic3845.md)| Overloaded.   
+Public Method| [Initialize](topic3848.md)| Performs any initialization needed for monitoring this specification in the profiler.   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

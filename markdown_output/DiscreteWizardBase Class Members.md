@@ -21,10 +21,10 @@ The following tables list the members exposed by [DiscreteWizardBase](topic737.m
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [CancelCore](topic743.md)| Performs any additional processing required before canceling.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [CreateStep](topic744.md)| Overloaded. Creates a new instance of the **DiscreteWizardStep`2** class.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [FinishCore](topic748.md)| Performs any additional processing required before finishing.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [Initialize](topic749.md)| Called by the inheritor before the wizard is used to ensure that the initial state is setup.   
+Protected Method| [CancelCore](topic743.md)| Performs any additional processing required before canceling.   
+Protected Method| [CreateStep](topic744.md)| Overloaded. Creates a new instance of the **DiscreteWizardStep`2** class.   
+Protected Method| [FinishCore](topic748.md)| Performs any additional processing required before finishing.   
+Protected Method| [Initialize](topic749.md)| Called by the inheritor before the wizard is used to ensure that the initial state is setup.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

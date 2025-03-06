@@ -22,7 +22,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [NotifyEvaluatedAsStandardAlternativeWithInvalidPath](topic6299.md)|   
+Public Method| [NotifyEvaluatedAsStandardAlternativeWithInvalidPath](topic6299.md)|   
 Top
 
 # See Also

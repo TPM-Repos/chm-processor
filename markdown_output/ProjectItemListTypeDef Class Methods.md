@@ -21,18 +21,18 @@ For a list of all members of this type, see [ProjectItemListTypeDef members](top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AddOutput](topic4539.md)| Adds a new output binging to this type definition.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveOutput](topic4540.md)| Removes an output from this list of outputs.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetOutput](topic4541.md)| Attempts to get a specified output from the given item type column name.   
+Public Method| [AddOutput](topic4539.md)| Adds a new output binging to this type definition.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [RemoveOutput](topic4540.md)| Removes an output from this list of outputs.   
+Public Method| [TryGetOutput](topic4541.md)| Attempts to get a specified output from the given item type column name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

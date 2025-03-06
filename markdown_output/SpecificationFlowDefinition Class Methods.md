@@ -15,20 +15,20 @@ For a list of all members of this type, see [SpecificationFlowDefinition members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Customize](topic11393.md)| Let the definition know it has been customized and therefore the changes need persisting in the project.   
-![Public Method](dotnetimages/publicMethod.gif)| [ExportXml](topic11394.md)| Get a copy of the current specification flow XML.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetDefaultSpecificationFlow](topic11395.md)| Gets the XML representing the default specification flow.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [LoadSpecificationFlow](topic11396.md)| Loads in a custom specification flow from XML.   
-![Public Method](dotnetimages/publicMethod.gif)| [ResetDefault](topic11397.md)| Resets the specification-flow to the default.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Customize](topic11393.md)| Let the definition know it has been customized and therefore the changes need persisting in the project.   
+Public Method| [ExportXml](topic11394.md)| Get a copy of the current specification flow XML.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetDefaultSpecificationFlow](topic11395.md)| Gets the XML representing the default specification flow.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [LoadSpecificationFlow](topic11396.md)| Loads in a custom specification flow from XML.   
+Public Method| [ResetDefault](topic11397.md)| Resets the specification-flow to the default.   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # See Also

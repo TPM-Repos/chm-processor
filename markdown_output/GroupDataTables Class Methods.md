@@ -21,8 +21,8 @@ For a list of all members of this type, see [GroupDataTables members](topic3137.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AddTable](topic3142.md)| Overloaded. Adds a table of the specified type to the group.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetTable](topic3145.md)| Overloaded. Attempts to find a table with the specified name.   
+Public Method| [AddTable](topic3142.md)| Overloaded. Adds a table of the specified type to the group.   
+Public Method| [TryGetTable](topic3145.md)| Overloaded. Attempts to find a table with the specified name.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -28,7 +28,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetAccessor](topic4169.md)| Attempt to get the accessor associated with the specified key.   
+Public Method| [TryGetAccessor](topic4169.md)| Attempt to get the accessor associated with the specified key.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

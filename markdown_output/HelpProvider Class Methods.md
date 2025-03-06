@@ -21,8 +21,8 @@ For a list of all members of this type, see [HelpProvider members](topic845.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetTopicName](topic851.md)| Gets the topic name specified in the control or on the first visual parent of the control.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [SetTopicName](topic852.md)| Sets the help topic name for the specified control.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetTopicName](topic851.md)| Gets the topic name specified in the control or on the first visual parent of the control.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [SetTopicName](topic852.md)| Sets the help topic name for the specified control.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -21,7 +21,7 @@ For a list of all members of this type, see [ProjectViewDimensionCollection memb
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14743.md)| Gets an enumerator which can enumerate over the items in the collection.   
+Public Method| [GetEnumerator](topic14743.md)| Gets an enumerator which can enumerate over the items in the collection.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

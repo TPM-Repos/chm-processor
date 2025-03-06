@@ -21,8 +21,8 @@ For a list of all members of this type, see [ProjectFeatureParameterCollection m
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14575.md)| Looks for a parameter with the given address.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14576.md)|   
+Public Method| [Find](topic14575.md)| Looks for a parameter with the given address.   
+Public Method| [GetEnumerator](topic14576.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

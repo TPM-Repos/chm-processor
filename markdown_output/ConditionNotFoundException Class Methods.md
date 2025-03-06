@@ -21,10 +21,10 @@ For a list of all members of this type, see [ConditionNotFoundException members]
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| GetBaseException|  (Inherited from System.Exception)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic10863.md)| Overridden.   
-![Public Method](dotnetimages/publicMethod.gif)| GetType|  (Inherited from System.Exception)  
-![Public Method](dotnetimages/publicMethod.gif)| ToString|  (Inherited from System.Exception)  
+Public Method| GetBaseException|  (Inherited from System.Exception)  
+Public Method| [GetObjectData](topic10863.md)| Overridden.   
+Public Method| GetType|  (Inherited from System.Exception)  
+Public Method| ToString|  (Inherited from System.Exception)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

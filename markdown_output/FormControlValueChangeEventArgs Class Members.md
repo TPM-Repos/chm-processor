@@ -29,11 +29,11 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateClickEventArgs](topic2901.md)| Overloaded. Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a click input.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateCustomSourceEventArgs](topic2904.md)| Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a custom source.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateKeyboardEventArgs](topic2905.md)| Overloaded. Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a keyboard input.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateMouseWheelEventArgs](topic2908.md)| Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a mouse wheel input.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateRuleEventArgs](topic2909.md)| Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a change caused by a system triggered update.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateClickEventArgs](topic2901.md)| Overloaded. Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a click input.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateCustomSourceEventArgs](topic2904.md)| Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a custom source.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateKeyboardEventArgs](topic2905.md)| Overloaded. Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a keyboard input.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateMouseWheelEventArgs](topic2908.md)| Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a mouse wheel input.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateRuleEventArgs](topic2909.md)| Initializes an instance of [FormControlValueChangeEventArgs](topic2895.md) with values describing a change caused by a system triggered update.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

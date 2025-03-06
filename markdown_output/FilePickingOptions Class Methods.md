@@ -21,9 +21,9 @@ For a list of all members of this type, see [FilePickingOptions members](topic99
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetFiles](topic9909.md)| Gets an effective collection of all files that are included based on the current options.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetModel](topic9910.md)| Creates a new representation of all files and folders within the root and their inclusion state.   
-![Public Method](dotnetimages/publicMethod.gif)| [UpdateModel](topic9911.md)| Takes an existing model and updates it to match the current file system.   
+Public Method| [GetFiles](topic9909.md)| Gets an effective collection of all files that are included based on the current options.   
+Public Method| [GetModel](topic9910.md)| Creates a new representation of all files and folders within the root and their inclusion state.   
+Public Method| [UpdateModel](topic9911.md)| Takes an existing model and updates it to match the current file system.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

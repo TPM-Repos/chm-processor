@@ -15,10 +15,10 @@ The following tables list the members exposed by [TableExportColumns](topic5579.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic5585.md)| Adds a column to this collection with the specified header.   
-![Public Method](dotnetimages/publicMethod.gif)| [Clear](topic5586.md)| Removes all columns from this collection of columns.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic5587.md)| Gets an enumerator that iterates over the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic5588.md)| Removes the specified column from this collection of columns.   
+Public Method| [Add](topic5585.md)| Adds a column to this collection with the specified header.   
+Public Method| [Clear](topic5586.md)| Removes all columns from this collection of columns.   
+Public Method| [GetEnumerator](topic5587.md)| Gets an enumerator that iterates over the collection.   
+Public Method| [Remove](topic5588.md)| Removes the specified column from this collection of columns.   
 Top
 
 # See Also

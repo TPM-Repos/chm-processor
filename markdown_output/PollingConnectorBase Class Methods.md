@@ -21,12 +21,12 @@ For a list of all members of this type, see [PollingConnectorBase members](topic
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnExecute](topic1920.md)| Performs the work on each polling interval.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnInitialize](topic1840.md)| When overridden in a derived class, performs the work required to initialize the connector. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.ConnectorBase](topic1834.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnStart](topic1921.md)| Overridden. Performs the work required to start the connector.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnStop](topic1922.md)| Overridden. Provides the work required to stop the connector.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseStarted](topic1843.md)| Raises the [Started](topic1847.md) event. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.ConnectorBase](topic1834.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseStopped](topic1844.md)| Raises the [Stopped](topic1848.md) event. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.ConnectorBase](topic1834.md))  
+Protected Method| [OnExecute](topic1920.md)| Performs the work on each polling interval.   
+Protected Method| [OnInitialize](topic1840.md)| When overridden in a derived class, performs the work required to initialize the connector. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.ConnectorBase](topic1834.md))  
+Protected Method| [OnStart](topic1921.md)| Overridden. Performs the work required to start the connector.   
+Protected Method| [OnStop](topic1922.md)| Overridden. Provides the work required to stop the connector.   
+Protected Method| [RaiseStarted](topic1843.md)| Raises the [Started](topic1847.md) event. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.ConnectorBase](topic1834.md))  
+Protected Method| [RaiseStopped](topic1844.md)| Raises the [Stopped](topic1848.md) event. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.ConnectorBase](topic1834.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -21,7 +21,7 @@ The following tables list the members exposed by [ControlDeserializer](topic9604
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Deserialize](topic9610.md)| Deserializes the control in the specified XML reader.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Deserialize](topic9610.md)| Deserializes the control in the specified XML reader.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

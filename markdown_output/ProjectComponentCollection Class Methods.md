@@ -21,7 +21,7 @@ For a list of all members of this type, see [ProjectComponentCollection members]
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14468.md)|   
+Public Method| [GetEnumerator](topic14468.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

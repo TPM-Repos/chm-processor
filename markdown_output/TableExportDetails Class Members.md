@@ -30,14 +30,14 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CommitChanges](topic5595.md)| Applies all changed values to the export document.   
+Public Method| [CommitChanges](topic5595.md)| Applies all changed values to the export document.   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [CommitChangesCore](topic5596.md)| Applies all changed values to the element.   
+Protected Method| [CommitChangesCore](topic5596.md)| Applies all changed values to the element.   
 Top
 
 # See Also

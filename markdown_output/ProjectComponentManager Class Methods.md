@@ -21,10 +21,10 @@ For a list of all members of this type, see [ProjectComponentManager members](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic4101.md)| Cleans up the resources used by the project component manager.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetProjectCapturedComponentIds](topic4102.md)| Gets a collection of captured component Ids, as specified in the project file.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetProjectComponentSetIds](topic4103.md)| Gets a collection of all captured component sets within the project.   
-![Public Method](dotnetimages/publicMethod.gif)| [UpdateProjectComponentIds](topic4104.md)| Will update the project file with the given component identifiers.   
+Public Method| [Dispose](topic4101.md)| Cleans up the resources used by the project component manager.   
+Public Method| [GetProjectCapturedComponentIds](topic4102.md)| Gets a collection of captured component Ids, as specified in the project file.   
+Public Method| [GetProjectComponentSetIds](topic4103.md)| Gets a collection of all captured component sets within the project.   
+Public Method| [UpdateProjectComponentIds](topic4104.md)| Will update the project file with the given component identifiers.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

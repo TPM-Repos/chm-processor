@@ -36,11 +36,11 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Create](topic10677.md)| Initializes a new instance of the [DriveWorksCredentials](topic10669.md) type.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateFromHash](topic10678.md)| Initializes a new instance of the [DriveWorksCredentials](topic10669.md) type.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic10679.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetPassword](topic10680.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [SetPassword](topic10681.md)| Hashes and stores the given password.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Create](topic10677.md)| Initializes a new instance of the [DriveWorksCredentials](topic10669.md) type.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateFromHash](topic10678.md)| Initializes a new instance of the [DriveWorksCredentials](topic10669.md) type.   
+Public Method| [GetObjectData](topic10679.md)|   
+Public Method| [GetPassword](topic10680.md)|   
+Public Method| [SetPassword](topic10681.md)| Hashes and stores the given password.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

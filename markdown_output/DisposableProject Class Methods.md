@@ -21,14 +21,14 @@ For a list of all members of this type, see [DisposableProject members](topic272
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic2735.md)| Closes the project represented by the instance.   
+Public Method| [Dispose](topic2735.md)| Closes the project represented by the instance.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Finalize](topic2736.md)|   
+Protected Method| [Finalize](topic2736.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

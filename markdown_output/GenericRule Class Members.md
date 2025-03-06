@@ -40,8 +40,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic6055.md)| Sets the rule and comment at the same time.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleName](topic6056.md)| Sets the reference name for this rule.   
+Public Method| [SetRuleAndComment](topic6055.md)| Sets the rule and comment at the same time.   
+Public Method| [SetRuleName](topic6056.md)| Sets the reference name for this rule.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

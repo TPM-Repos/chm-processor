@@ -31,18 +31,18 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Equals](topic4561.md)| Determines whether two ProjectListItemData objects are equal.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetItemValueNative](topic4562.md)| Retrieves the item value for the specified column name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetItemValuesNative](topic4563.md)| The values from the item. Key is column name and value is the current value.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Equals](topic4561.md)| Determines whether two ProjectListItemData objects are equal.   
+Public Method| [GetItemValueNative](topic4562.md)| Retrieves the item value for the specified column name.   
+Public Method| [GetItemValuesNative](topic4563.md)| The values from the item. Key is column name and value is the current value.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

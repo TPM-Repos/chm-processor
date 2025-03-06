@@ -21,7 +21,7 @@ The following tables list the members exposed by [MeasurementHelper](topic3685.m
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [ConvertDistanceUnits](topic3691.md)| Converts the given measurement of distance into an alternative representation.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [ConvertDistanceUnits](topic3691.md)| Converts the given measurement of distance into an alternative representation.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -21,9 +21,9 @@ For a list of all members of this type, see [ClipboardSupport members](topic1350
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [ClipboardContains](topic13514.md)|   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetDataFromClipboard](topic13515.md)| Retrieves the data from the clipboard.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetDelimitedLine](topic13516.md)| Converts the specified array of values into a delimited line of text.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [ClipboardContains](topic13514.md)|   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetDataFromClipboard](topic13515.md)| Retrieves the data from the clipboard.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetDelimitedLine](topic13516.md)| Converts the specified array of values into a delimited line of text.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

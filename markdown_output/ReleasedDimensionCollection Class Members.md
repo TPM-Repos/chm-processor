@@ -23,10 +23,10 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14844.md)| Adds a new dimension to the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14845.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14846.md)| Removes the given dimension from the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14847.md)| Removes the item at the specified index.   
+Public Method| [Add](topic14844.md)| Adds a new dimension to the collection.   
+Public Method| [GetEnumerator](topic14845.md)|   
+Public Method| [Remove](topic14846.md)| Removes the given dimension from the collection.   
+Public Method| [RemoveAt](topic14847.md)| Removes the item at the specified index.   
 Top
 
 # See Also

@@ -27,22 +27,22 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AddChildComponentFromComponentSet](topic6258.md)| Overloaded. Adds the named component set as a child of the component being released.   
-![Public Method](dotnetimages/publicMethod.gif)| [AddDrivenChildComponent](topic6261.md)| Overloaded. Adds a new component as a child of the component being released.   
-![Public Method](dotnetimages/publicMethod.gif)| [AddStaticChildReplacement](topic6264.md)| Adds a new static child replacement for the child with the given master path   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetComponentByComponentSetName](topic6265.md)| Gets the root component for the component set with the given name from the local release results. See remarks for details.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetComponentByName](topic6266.md)| Gets a component with the given name from the local release results. See remarks for details.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetReferenceByComponentSetName](topic6267.md)| Gets the root component reference for the component set with the given name from the local release results. See remarks for details.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetTasksInScope](topic6268.md)| Gets all scoped tasks in the given scope.   
+Public Method| [AddChildComponentFromComponentSet](topic6258.md)| Overloaded. Adds the named component set as a child of the component being released.   
+Public Method| [AddDrivenChildComponent](topic6261.md)| Overloaded. Adds a new component as a child of the component being released.   
+Public Method| [AddStaticChildReplacement](topic6264.md)| Adds a new static child replacement for the child with the given master path   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetComponentByComponentSetName](topic6265.md)| Gets the root component for the component set with the given name from the local release results. See remarks for details.   
+Public Method| [GetComponentByName](topic6266.md)| Gets a component with the given name from the local release results. See remarks for details.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetReferenceByComponentSetName](topic6267.md)| Gets the root component reference for the component set with the given name from the local release results. See remarks for details.   
+Public Method| [GetTasksInScope](topic6268.md)| Gets all scoped tasks in the given scope.   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # See Also

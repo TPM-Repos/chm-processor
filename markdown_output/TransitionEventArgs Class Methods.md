@@ -15,7 +15,7 @@ For a list of all members of this type, see [TransitionEventArgs members](topic1
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic11785.md)|   
+Protected Method| [GetObjectData](topic11785.md)|   
 Top
 
 # See Also

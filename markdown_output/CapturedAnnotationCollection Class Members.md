@@ -29,11 +29,11 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14069.md)| Adds a new annotation.   
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14070.md)| Looks for an annotation with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14071.md)| Gets an enumerator which enumerates over the annotations in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14072.md)| Overloaded. Removes the given annotation.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14075.md)| Removes the annotation at the given index.   
+Public Method| [Add](topic14069.md)| Adds a new annotation.   
+Public Method| [Find](topic14070.md)| Looks for an annotation with the given name.   
+Public Method| [GetEnumerator](topic14071.md)| Gets an enumerator which enumerates over the annotations in the collection.   
+Public Method| [Remove](topic14072.md)| Overloaded. Removes the given annotation.   
+Public Method| [RemoveAt](topic14075.md)| Removes the annotation at the given index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

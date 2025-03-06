@@ -29,8 +29,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14512.md)| Looks for a dimension with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14513.md)| Gets an object which can enumerate over the items in the collection.   
+Public Method| [Find](topic14512.md)| Looks for a dimension with the given name.   
+Public Method| [GetEnumerator](topic14513.md)| Gets an object which can enumerate over the items in the collection.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

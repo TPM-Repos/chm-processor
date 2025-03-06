@@ -21,7 +21,7 @@ For a list of all members of this type, see [DocumentEventArgs members](topic274
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic2748.md)|   
+Protected Method| [GetObjectData](topic2748.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -35,8 +35,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [NotifyRequirementsChanged](topic7126.md)| Called whenever the value of any mapped inputs or connections have changed and this node should re-evaluate whether it can execute or not. (Inherited from [DriveWorks.EventFlow.StartNode](topic7120.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetOutputEndpoint](topic7127.md)| Attempts to retrieve the end point with the given name. (Inherited from [DriveWorks.EventFlow.StartNode](topic7120.md))  
+Public Method| [NotifyRequirementsChanged](topic7126.md)| Called whenever the value of any mapped inputs or connections have changed and this node should re-evaluate whether it can execute or not. (Inherited from [DriveWorks.EventFlow.StartNode](topic7120.md))  
+Public Method| [TryGetOutputEndpoint](topic7127.md)| Attempts to retrieve the end point with the given name. (Inherited from [DriveWorks.EventFlow.StartNode](topic7120.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

@@ -29,7 +29,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetCondition](topic12849.md)| Gets the condition from the specified project.   
+Public Method| [GetCondition](topic12849.md)| Gets the condition from the specified project.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

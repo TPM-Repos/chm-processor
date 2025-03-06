@@ -22,11 +22,11 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic5606.md)| Adds a cell with the specified column header to this row.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCells](topic5607.md)| Gets all cells that have been given a value on this export row.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic5608.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic5609.md)| Removes the specified cell from this row.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetCell](topic5610.md)| Attempts to get the cell for the specified header.   
+Public Method| [Add](topic5606.md)| Adds a cell with the specified column header to this row.   
+Public Method| [GetCells](topic5607.md)| Gets all cells that have been given a value on this export row.   
+Public Method| [GetEnumerator](topic5608.md)|   
+Public Method| [Remove](topic5609.md)| Removes the specified cell from this row.   
+Public Method| [TryGetCell](topic5610.md)| Attempts to get the cell for the specified header.   
 Top
 
 # See Also

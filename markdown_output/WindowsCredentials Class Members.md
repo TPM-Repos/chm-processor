@@ -22,7 +22,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic10763.md)|   
+Public Method| [GetObjectData](topic10763.md)|   
 Top
 
 # See Also

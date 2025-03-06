@@ -38,7 +38,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic10655.md)| Sets the info with information about this instance.   
+Public Method| [GetObjectData](topic10655.md)| Sets the info with information about this instance.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

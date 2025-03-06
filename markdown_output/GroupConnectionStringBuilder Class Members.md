@@ -40,7 +40,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetConnectionString](topic3077.md)| Gets a group connection string based on the current property values.   
+Public Method| [GetConnectionString](topic3077.md)| Gets a group connection string based on the current property values.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

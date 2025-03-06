@@ -28,7 +28,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetScopeNames](topic13742.md)|   
+Public Method| [GetScopeNames](topic13742.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

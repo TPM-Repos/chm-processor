@@ -30,25 +30,25 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AddItem](topic4517.md)| Adds a new item to this item list.   
-![Public Method](dotnetimages/publicMethod.gif)| [AddTypeDefinition](topic4518.md)| Creates a new [ProjectItemListTypeDef](topic4533.md) instance and adds it to this [ProjectItemListDef](topic4511.md).   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [DeleteItem](topic4519.md)| Removes a item from the item list.   
-![Public Method](dotnetimages/publicMethod.gif)| [EditItem](topic4520.md)| Edits an existing item in this item list.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetData](topic4521.md)| Gets information about the item that have been added to the current project or specification.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetItems](topic4522.md)| Gets an collection of all items in this item list.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [MoveItemDown](topic4523.md)| Moves an item down in the list of items.   
-![Public Method](dotnetimages/publicMethod.gif)| [MoveItemUp](topic4524.md)| Moves an item up in the list of items.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveTypeDefinition](topic4525.md)| Removes a type definition from the item list.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetTypeDefinition](topic4526.md)| Gets the type definition for a specific dialog.   
+Public Method| [AddItem](topic4517.md)| Adds a new item to this item list.   
+Public Method| [AddTypeDefinition](topic4518.md)| Creates a new [ProjectItemListTypeDef](topic4533.md) instance and adds it to this [ProjectItemListDef](topic4511.md).   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [DeleteItem](topic4519.md)| Removes a item from the item list.   
+Public Method| [EditItem](topic4520.md)| Edits an existing item in this item list.   
+Public Method| [GetData](topic4521.md)| Gets information about the item that have been added to the current project or specification.   
+Public Method| [GetItems](topic4522.md)| Gets an collection of all items in this item list.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [MoveItemDown](topic4523.md)| Moves an item down in the list of items.   
+Public Method| [MoveItemUp](topic4524.md)| Moves an item up in the list of items.   
+Public Method| [RemoveTypeDefinition](topic4525.md)| Removes a type definition from the item list.   
+Public Method| [TryGetTypeDefinition](topic4526.md)| Gets the type definition for a specific dialog.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

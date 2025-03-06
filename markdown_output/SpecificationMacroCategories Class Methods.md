@@ -15,12 +15,12 @@ For a list of all members of this type, see [SpecificationMacroCategories member
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateCategory](topic5348.md)| Creates a new project category with the specified name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCategories](topic5349.md)| Gets an array of the root-level categories.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCategory](topic5350.md)| Gets the named category.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCategoryByPath](topic5351.md)| Gets the category with the specified path.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetMacros](topic5352.md)| Gets all the macros which haven't been registered with a specific category.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetCategory](topic5353.md)| Gets the named category.   
+Public Method| [CreateCategory](topic5348.md)| Creates a new project category with the specified name.   
+Public Method| [GetCategories](topic5349.md)| Gets an array of the root-level categories.   
+Public Method| [GetCategory](topic5350.md)| Gets the named category.   
+Public Method| [GetCategoryByPath](topic5351.md)| Gets the category with the specified path.   
+Public Method| [GetMacros](topic5352.md)| Gets all the macros which haven't been registered with a specific category.   
+Public Method| [TryGetCategory](topic5353.md)| Gets the named category.   
 Top
 
 # See Also

@@ -15,9 +15,9 @@ For a list of all members of this type, see [ReleasedEmail members](topic5099.md
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AddFailure](topic5105.md)| Logs a failed attempt at sending this email.   
-![Public Method](dotnetimages/publicMethod.gif)| [Load](topic5106.md)| Overloaded. Reads the information stored about the email from the specified stream.   
-![Public Method](dotnetimages/publicMethod.gif)| [Serialize](topic5109.md)| Serializes the information about the email.   
+Public Method| [AddFailure](topic5105.md)| Logs a failed attempt at sending this email.   
+Public Method| [Load](topic5106.md)| Overloaded. Reads the information stored about the email from the specified stream.   
+Public Method| [Serialize](topic5109.md)| Serializes the information about the email.   
 Top
 
 # See Also

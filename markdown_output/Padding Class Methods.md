@@ -21,7 +21,7 @@ For a list of all members of this type, see [Padding members](topic8677.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [ToString](topic8683.md)|   
+Public Method| [ToString](topic8683.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -30,19 +30,19 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Clear](topic4718.md)| Removes all recorded information.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEvents](topic4720.md)| Gets all logical events in a flat chronological order.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetRuleEvents](topic4721.md)| Gets all rule events in a flat chronological order.   
-![Public Method](dotnetimages/publicMethod.gif)| [StartProfileEvent](topic4722.md)| Begins a new logical event scope in the profiler.   
+Public Method| [Clear](topic4718.md)| Removes all recorded information.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEvents](topic4720.md)| Gets all logical events in a flat chronological order.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetRuleEvents](topic4721.md)| Gets all rule events in a flat chronological order.   
+Public Method| [StartProfileEvent](topic4722.md)| Begins a new logical event scope in the profiler.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

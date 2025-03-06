@@ -29,8 +29,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetNode](topic12915.md)| Gets the node from the specified project.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetOutputEndpointRef](topic12916.md)| Overloaded. Get a reference to one of the node's output endpoints.   
+Public Method| [GetNode](topic12915.md)| Gets the node from the specified project.   
+Public Method| [GetOutputEndpointRef](topic12916.md)| Overloaded. Get a reference to one of the node's output endpoints.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

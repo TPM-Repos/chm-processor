@@ -43,7 +43,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic2758.md)|   
+Public Method| [GetObjectData](topic2758.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

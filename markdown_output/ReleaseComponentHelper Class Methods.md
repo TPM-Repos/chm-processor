@@ -15,7 +15,7 @@ For a list of all members of this type, see [ReleaseComponentHelper members](top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Release](topic6281.md)| Overloaded. Releases the components specified by the given string and returns the results.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Release](topic6281.md)| Overloaded. Releases the components specified by the given string and returns the results.   
 Top
 
 # See Also

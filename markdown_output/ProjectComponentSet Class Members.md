@@ -34,18 +34,18 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [LoadComponent](topic4112.md)| Loads the component from the component file.   
-![Public Method](dotnetimages/publicMethod.gif)| [Save](topic4113.md)| Saves the component set.   
-![Public Method](dotnetimages/publicMethod.gif)| [UnloadComponent](topic4114.md)| Unloads the component if one is loaded, any unsaved changes are lost.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [LoadComponent](topic4112.md)| Loads the component from the component file.   
+Public Method| [Save](topic4113.md)| Saves the component set.   
+Public Method| [UnloadComponent](topic4114.md)| Unloads the component if one is loaded, any unsaved changes are lost.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

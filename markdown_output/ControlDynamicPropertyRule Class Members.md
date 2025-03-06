@@ -43,8 +43,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic7795.md)| Gets the version history for this rule.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic7796.md)| Sets the formula and comment for this rule.   
+Public Method| [GetVersionHistory](topic7795.md)| Gets the version history for this rule.   
+Public Method| [SetRuleAndComment](topic7796.md)| Sets the formula and comment for this rule.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

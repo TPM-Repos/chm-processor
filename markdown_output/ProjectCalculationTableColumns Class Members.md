@@ -29,21 +29,21 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic3974.md)| Adds a new column to this collection of columns.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic3975.md)| Returns an enumerator that iterates through the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Move](topic3976.md)| Moves a column from an index to the specified new index.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic3977.md)| Removes a column the collection of columns.   
-![Public Method](dotnetimages/publicMethod.gif)| [RenameColumn](topic3978.md)| Renames a column.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGet](topic3979.md)| Attempts to find a matching column based on the name specified.   
+Public Method| [Add](topic3974.md)| Adds a new column to this collection of columns.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEnumerator](topic3975.md)| Returns an enumerator that iterates through the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Move](topic3976.md)| Moves a column from an index to the specified new index.   
+Public Method| [Remove](topic3977.md)| Removes a column the collection of columns.   
+Public Method| [RenameColumn](topic3978.md)| Renames a column.   
+Public Method| [TryGet](topic3979.md)| Attempts to find a matching column based on the name specified.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

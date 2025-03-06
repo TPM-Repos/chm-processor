@@ -23,21 +23,21 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Clear](topic11719.md)| Clears all of the tasks.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateTask](topic11720.md)| Overloaded. Creates and adds a new task to the task sequence.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic11729.md)| Gets an enumerator suitable for enumerating the tasks in the task sequence.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [IndexOf](topic11730.md)| Gets the index of the given task.   
-![Public Method](dotnetimages/publicMethod.gif)| [Move](topic11731.md)| Move the task from its current index to the specified index.   
-![Public Method](dotnetimages/publicMethod.gif)| [ToArray](topic11732.md)| Copies the tasks to a new array and returns it.   
+Public Method| [Clear](topic11719.md)| Clears all of the tasks.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [CreateTask](topic11720.md)| Overloaded. Creates and adds a new task to the task sequence.   
+Public Method| [GetEnumerator](topic11729.md)| Gets an enumerator suitable for enumerating the tasks in the task sequence.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [IndexOf](topic11730.md)| Gets the index of the given task.   
+Public Method| [Move](topic11731.md)| Move the task from its current index to the specified index.   
+Public Method| [ToArray](topic11732.md)| Copies the tasks to a new array and returns it.   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # Public Events

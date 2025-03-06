@@ -28,8 +28,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateProvider](topic10624.md)| Creates an instance of the provider which has been registered with the specified providerName.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [RegisterProvider](topic10625.md)| Registers an authentication provider with DriveWorks.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CreateProvider](topic10624.md)| Creates an instance of the provider which has been registered with the specified providerName.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [RegisterProvider](topic10625.md)| Registers an authentication provider with DriveWorks.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

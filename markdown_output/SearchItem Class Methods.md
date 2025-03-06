@@ -15,14 +15,14 @@ For a list of all members of this type, see [SearchItem members](topic13271.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic13277.md)|   
+Public Method| [SetRuleAndComment](topic13277.md)|   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetVersionHistory](topic13276.md)|   
+Protected Method| [GetVersionHistory](topic13276.md)|   
 Top
 
 # See Also

@@ -29,10 +29,10 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14301.md)| Adds a new layer.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14302.md)| Gets an enumerator which enumerates over the layers in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14303.md)| Removes the given layer.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14304.md)| Removes the layer at the given index.   
+Public Method| [Add](topic14301.md)| Adds a new layer.   
+Public Method| [GetEnumerator](topic14302.md)| Gets an enumerator which enumerates over the layers in the collection.   
+Public Method| [Remove](topic14303.md)| Removes the given layer.   
+Public Method| [RemoveAt](topic14304.md)| Removes the layer at the given index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

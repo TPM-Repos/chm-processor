@@ -21,18 +21,18 @@ For a list of all members of this type, see [InputConnectionEndpoint members](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Connect](topic7039.md)| Connects this input to the given output.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Connect](topic7039.md)| Connects this input to the given output.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConnectionAdded](topic7040.md)| Raises the [ConnectionAdded](topic7042.md) event.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConnectionRemoved](topic7041.md)| Raises the [ConnectionRemoved](topic7043.md) event.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseConnectionAdded](topic7040.md)| Raises the [ConnectionAdded](topic7042.md) event.   
+Protected Method| [RaiseConnectionRemoved](topic7041.md)| Raises the [ConnectionRemoved](topic7043.md) event.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

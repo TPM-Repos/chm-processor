@@ -21,7 +21,7 @@ For a list of all members of this type, see [PendingChangeEventArgs members](top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AddChange](topic897.md)| Registers a change with the event raiser, to be applied if deemed necessary.   
+Public Method| [AddChange](topic897.md)| Registers a change with the event raiser, to be applied if deemed necessary.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

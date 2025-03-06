@@ -21,16 +21,16 @@ For a list of all members of this type, see [BufferedRuleWithVersionHistory memb
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Flush](topic6024.md)| Flushes the buffered values to the rule which is being buffered. (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic6042.md)| Gets the version history for the rule.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic6026.md)| Sets the rule and comment at the same time. (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
+Public Method| [Flush](topic6024.md)| Flushes the buffered values to the rule which is being buffered. (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
+Public Method| [GetVersionHistory](topic6042.md)| Gets the version history for the rule.   
+Public Method| [SetRuleAndComment](topic6026.md)| Sets the rule and comment at the same time. (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [FlushCore](topic6025.md)|  (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
+Protected Method| [FlushCore](topic6025.md)|  (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -21,10 +21,10 @@ For a list of all members of this type, see [AzureAuthenticationProvider members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Authenticate](topic10641.md)| Authenticates [AzureCredentials](topic10646.md).   
-![Public Method](dotnetimages/publicMethod.gif)| [AuthenticateAsync](topic10642.md)| Authenticates [AzureCredentials](topic10646.md) asynchronously.   
-![Public Method](dotnetimages/publicMethod.gif)| [CreatePrincipal](topic10643.md)| Constructs a principal corresponding to the given information.   
-![Public Method](dotnetimages/publicMethod.gif)| [Initialize](topic10644.md)| Creates a Public Client with the Tenant and Client IDs.   
+Public Method| [Authenticate](topic10641.md)| Authenticates [AzureCredentials](topic10646.md).   
+Public Method| [AuthenticateAsync](topic10642.md)| Authenticates [AzureCredentials](topic10646.md) asynchronously.   
+Public Method| [CreatePrincipal](topic10643.md)| Constructs a principal corresponding to the given information.   
+Public Method| [Initialize](topic10644.md)| Creates a Public Client with the Tenant and Client IDs.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

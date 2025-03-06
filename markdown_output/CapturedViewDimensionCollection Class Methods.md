@@ -21,10 +21,10 @@ For a list of all members of this type, see [CapturedViewDimensionCollection mem
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14390.md)| Adds a new dimension.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14391.md)| Gets an enumerator which enumerates over the dimensions in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14392.md)| Removes the given dimension.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14393.md)| Removes the dimension at the given index.   
+Public Method| [Add](topic14390.md)| Adds a new dimension.   
+Public Method| [GetEnumerator](topic14391.md)| Gets an enumerator which enumerates over the dimensions in the collection.   
+Public Method| [Remove](topic14392.md)| Removes the given dimension.   
+Public Method| [RemoveAt](topic14393.md)| Removes the dimension at the given index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

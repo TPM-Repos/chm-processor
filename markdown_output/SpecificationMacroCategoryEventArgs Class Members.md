@@ -29,7 +29,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic5394.md)|   
+Protected Method| [GetObjectData](topic5394.md)|   
 Top
 
 # See Also

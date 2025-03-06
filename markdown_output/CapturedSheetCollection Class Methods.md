@@ -21,10 +21,10 @@ For a list of all members of this type, see [CapturedSheetCollection members](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14337.md)| Adds a new sheet.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14338.md)| Gets an enumerator which enumerates over the sheets in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14339.md)| Removes the given sheet.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14340.md)| Removes the sheet at the given index.   
+Public Method| [Add](topic14337.md)| Adds a new sheet.   
+Public Method| [GetEnumerator](topic14338.md)| Gets an enumerator which enumerates over the sheets in the collection.   
+Public Method| [Remove](topic14339.md)| Removes the given sheet.   
+Public Method| [RemoveAt](topic14340.md)| Removes the sheet at the given index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

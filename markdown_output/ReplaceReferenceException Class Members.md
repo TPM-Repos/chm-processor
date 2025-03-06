@@ -36,10 +36,10 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| GetBaseException|  (Inherited from System.Exception)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic15300.md)| Overridden.   
-![Public Method](dotnetimages/publicMethod.gif)| GetType|  (Inherited from System.Exception)  
-![Public Method](dotnetimages/publicMethod.gif)| ToString|  (Inherited from System.Exception)  
+Public Method| GetBaseException|  (Inherited from System.Exception)  
+Public Method| [GetObjectData](topic15300.md)| Overridden.   
+Public Method| GetType|  (Inherited from System.Exception)  
+Public Method| ToString|  (Inherited from System.Exception)  
 Top
 
 # Protected Events

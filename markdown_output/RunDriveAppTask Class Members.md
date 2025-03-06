@@ -29,7 +29,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Execute](topic1949.md)| Runs the DriveApp using the alias name specified in the arguments property.   
+Public Method| [Execute](topic1949.md)| Runs the DriveApp using the alias name specified in the arguments property.   
 Top
 
 # See Also

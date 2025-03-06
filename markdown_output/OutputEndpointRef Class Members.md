@@ -21,7 +21,7 @@ The following tables list the members exposed by [OutputEndpointRef](topic12921.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEndpoint](topic12927.md)| Retrieves the endpoint this reference refers to.   
+Public Method| [GetEndpoint](topic12927.md)| Retrieves the endpoint this reference refers to.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

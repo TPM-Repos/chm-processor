@@ -29,18 +29,18 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Create](topic4839.md)| Creates a new specification property with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Move](topic4840.md)| Moves the property at the given index to the specified new index.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetProperty](topic4841.md)| Tries to get a specification property with the specified name.   
+Public Method| [Create](topic4839.md)| Creates a new specification property with the given name.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Move](topic4840.md)| Moves the property at the given index to the specified new index.   
+Public Method| [TryGetProperty](topic4841.md)| Tries to get a specification property with the specified name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

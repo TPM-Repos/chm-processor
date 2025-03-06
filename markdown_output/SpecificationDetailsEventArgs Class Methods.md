@@ -15,7 +15,7 @@ For a list of all members of this type, see [SpecificationDetailsEventArgs membe
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic11331.md)|   
+Protected Method| [GetObjectData](topic11331.md)|   
 Top
 
 # See Also

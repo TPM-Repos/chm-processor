@@ -21,15 +21,15 @@ For a list of all members of this type, see [DiscreteWizardStep members](topic75
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetControl](topic756.md)| Gets the control which provides the UI for the step.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetNextStep](topic757.md)| Gets the next step if the state is valid, a null reference if the state is not valid, or [FinishStep](topic766.md) if the wizard's next action is to finish.   
+Public Method| [GetControl](topic756.md)| Gets the control which provides the UI for the step.   
+Public Method| [GetNextStep](topic757.md)| Gets the next step if the state is valid, a null reference if the state is not valid, or [FinishStep](topic766.md) if the wizard's next action is to finish.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnNextStepChanged](topic758.md)| Raises the [NextStepChanged](topic769.md) event.   
+Protected Method| [OnNextStepChanged](topic758.md)| Raises the [NextStepChanged](topic769.md) event.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

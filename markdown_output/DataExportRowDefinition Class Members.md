@@ -21,9 +21,9 @@ The following tables list the members exposed by [DataExportRowDefinition](topic
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AddField](topic2641.md)| Adds a cell to the row.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetFields](topic2642.md)| Returns a dictionary of the fields that have been specified on this row.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveField](topic2643.md)| Removes a cell from the row.   
+Public Method| [AddField](topic2641.md)| Adds a cell to the row.   
+Public Method| [GetFields](topic2642.md)| Returns a dictionary of the fields that have been specified on this row.   
+Public Method| [RemoveField](topic2643.md)| Removes a cell from the row.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

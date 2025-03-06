@@ -15,7 +15,7 @@ For a list of all members of this type, see [StateChangeEventArgs members](topic
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic11587.md)|   
+Protected Method| [GetObjectData](topic11587.md)|   
 Top
 
 # See Also

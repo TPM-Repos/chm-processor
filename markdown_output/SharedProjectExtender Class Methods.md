@@ -15,7 +15,7 @@ For a list of all members of this type, see [SharedProjectExtender members](topi
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnInitialize](topic7254.md)| Called by DriveWorks when the shared project extender has been initialized.   
+Protected Method| [OnInitialize](topic7254.md)| Called by DriveWorks when the shared project extender has been initialized.   
 Top
 
 # See Also

@@ -21,10 +21,10 @@ For a list of all members of this type, see [AuthenticationProviderNameAttribute
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| Equals|  (Inherited from System.Attribute)  
-![Public Method](dotnetimages/publicMethod.gif)| GetHashCode|  (Inherited from System.Attribute)  
-![Public Method](dotnetimages/publicMethod.gif)| IsDefaultAttribute|  (Inherited from System.Attribute)  
-![Public Method](dotnetimages/publicMethod.gif)| Match|  (Inherited from System.Attribute)  
+Public Method| Equals|  (Inherited from System.Attribute)  
+Public Method| GetHashCode|  (Inherited from System.Attribute)  
+Public Method| IsDefaultAttribute|  (Inherited from System.Attribute)  
+Public Method| Match|  (Inherited from System.Attribute)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -15,7 +15,7 @@ For a list of all members of this type, see [ReleaseComponentReportTracker membe
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [NotifyEvaluatedAsStandardAlternativeWithInvalidPath](topic6299.md)|   
+Public Method| [NotifyEvaluatedAsStandardAlternativeWithInvalidPath](topic6299.md)|   
 Top
 
 # See Also

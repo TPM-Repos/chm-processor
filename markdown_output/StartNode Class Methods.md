@@ -15,8 +15,8 @@ For a list of all members of this type, see [StartNode members](topic7121.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [NotifyRequirementsChanged](topic7126.md)| Called whenever the value of any mapped inputs or connections have changed and this node should re-evaluate whether it can execute or not.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetOutputEndpoint](topic7127.md)| Attempts to retrieve the end point with the given name.   
+Public Method| [NotifyRequirementsChanged](topic7126.md)| Called whenever the value of any mapped inputs or connections have changed and this node should re-evaluate whether it can execute or not.   
+Public Method| [TryGetOutputEndpoint](topic7127.md)| Attempts to retrieve the end point with the given name.   
 Top
 
 # See Also

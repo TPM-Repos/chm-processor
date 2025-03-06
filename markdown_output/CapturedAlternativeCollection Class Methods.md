@@ -21,11 +21,11 @@ For a list of all members of this type, see [CapturedAlternativeCollection membe
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14045.md)| Adds and returns a new alternative.   
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14046.md)| Looks for an alternative with the given alternative name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14047.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14048.md)| Overloaded. Removes the alternative with the specified name from the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14051.md)| Removes the item at the specified index.   
+Public Method| [Add](topic14045.md)| Adds and returns a new alternative.   
+Public Method| [Find](topic14046.md)| Looks for an alternative with the given alternative name.   
+Public Method| [GetEnumerator](topic14047.md)|   
+Public Method| [Remove](topic14048.md)| Overloaded. Removes the alternative with the specified name from the collection.   
+Public Method| [RemoveAt](topic14051.md)| Removes the item at the specified index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

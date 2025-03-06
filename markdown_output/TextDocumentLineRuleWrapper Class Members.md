@@ -28,8 +28,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic5682.md)| Gets the version history for the line's rule.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic5683.md)| Sets the rule and comment.   
+Public Method| [GetVersionHistory](topic5682.md)| Gets the version history for the line's rule.   
+Public Method| [SetRuleAndComment](topic5683.md)| Sets the rule and comment.   
 Top
 
 # See Also

@@ -35,7 +35,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Authenticate](topic10667.md)| Authenticates DriveWorks credentials.   
+Public Method| [Authenticate](topic10667.md)| Authenticates DriveWorks credentials.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

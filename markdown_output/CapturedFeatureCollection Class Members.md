@@ -29,11 +29,11 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14207.md)| Adds and returns a new feature.   
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14208.md)| Looks for a feature with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14209.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14210.md)| Overloaded. Removes the given feature.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14213.md)| Removes the feature at the specified index.   
+Public Method| [Add](topic14207.md)| Adds and returns a new feature.   
+Public Method| [Find](topic14208.md)| Looks for a feature with the given name.   
+Public Method| [GetEnumerator](topic14209.md)|   
+Public Method| [Remove](topic14210.md)| Overloaded. Removes the given feature.   
+Public Method| [RemoveAt](topic14213.md)| Removes the feature at the specified index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

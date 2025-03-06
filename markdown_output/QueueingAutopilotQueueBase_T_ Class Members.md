@@ -36,20 +36,20 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [BeginStart](topic1931.md)| Begins the process of starting the queue on a new thread.   
-![Public Method](dotnetimages/publicMethod.gif)| [BeginStop](topic1932.md)| Begins the process of stopping the queue.   
+Public Method| [BeginStart](topic1931.md)| Begins the process of starting the queue on a new thread.   
+Public Method| [BeginStop](topic1932.md)| Begins the process of stopping the queue.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Execute](topic1933.md)| Must be overridden to perform the main work of the queue on the specified item.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [Initialize](topic1934.md)| Can be overridden to perform custom initialization when the queue is created.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [InitializeThread](topic1935.md)| Can be overridden to customize the thread that is used for execution.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnStart](topic1936.md)| Can be overridden to perform one-time initialization when the queue is started.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnStop](topic1937.md)| Can be overridden to perform shutdown when the queue is stopped.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [QueueItem](topic1938.md)| Queues the specified work item.   
+Protected Method| [Execute](topic1933.md)| Must be overridden to perform the main work of the queue on the specified item.   
+Protected Method| [Initialize](topic1934.md)| Can be overridden to perform custom initialization when the queue is created.   
+Protected Method| [InitializeThread](topic1935.md)| Can be overridden to customize the thread that is used for execution.   
+Protected Method| [OnStart](topic1936.md)| Can be overridden to perform one-time initialization when the queue is started.   
+Protected Method| [OnStop](topic1937.md)| Can be overridden to perform shutdown when the queue is stopped.   
+Protected Method| [QueueItem](topic1938.md)| Queues the specified work item.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

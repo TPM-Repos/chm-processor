@@ -21,7 +21,7 @@ For a list of all members of this type, see [DriveAppDetails members](topic2751.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic2758.md)|   
+Public Method| [GetObjectData](topic2758.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

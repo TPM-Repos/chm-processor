@@ -21,8 +21,8 @@ For a list of all members of this type, see [CopyGroupOptionsEnvironment members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic9766.md)| Disposes of any running operations in the environment.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetProjectComponents](topic9767.md)| Gets all components in the source group along with any project specific information and hierarchies.   
+Public Method| [Dispose](topic9766.md)| Disposes of any running operations in the environment.   
+Public Method| [GetProjectComponents](topic9767.md)| Gets all components in the source group along with any project specific information and hierarchies.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

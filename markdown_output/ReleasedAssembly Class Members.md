@@ -34,18 +34,18 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Initialize](topic14774.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [PreProcessReleaseData](topic14775.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [TrackParameterRelease](topic15038.md)|  (Inherited from [DriveWorks.SolidWorks.Components.ReleasedSolidWorksComponent](topic15029.md))  
+Protected Method| [Initialize](topic14774.md)| Overridden.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [PreProcessReleaseData](topic14775.md)| Overridden.   
+Protected Method| [TrackParameterRelease](topic15038.md)|  (Inherited from [DriveWorks.SolidWorks.Components.ReleasedSolidWorksComponent](topic15029.md))  
 Top
 
 # See Also

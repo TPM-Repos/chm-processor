@@ -15,7 +15,7 @@ For a list of all members of this type, see [SpecificationDocumentEventArgs memb
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic11353.md)|   
+Protected Method| [GetObjectData](topic11353.md)|   
 Top
 
 # See Also

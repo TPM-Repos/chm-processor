@@ -35,19 +35,19 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [ChangeExternalReferencePath](topic14313.md)| Changes all matching alternatives in this part using the provided map.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetExternalReferencePaths](topic14314.md)| Gets a collection of all alternative paths that this part has.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [ChangeExternalReferencePath](topic14313.md)| Changes all matching alternatives in this part using the provided map.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetExternalReferencePaths](topic14314.md)| Gets a collection of all alternative paths that this part has.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Initialize](topic14315.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [LoadData](topic14316.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [Initialize](topic14315.md)| Overridden.   
+Protected Method| [LoadData](topic14316.md)|   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

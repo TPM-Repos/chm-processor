@@ -21,20 +21,20 @@ The following tables list the members exposed by [ProjectDocuments](topic4434.md
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateDocument](topic4440.md)| Overloaded. Creates and adds a new document to the project.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetDocument](topic4443.md)| Gets the document with the specified name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic4444.md)| Gets an enumerator which enumerates the documents in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [ToArray](topic4445.md)| Copies the documents to a new array and returns it.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetDocument](topic4446.md)| Tries to get a document with the specified name.   
+Public Method| [CreateDocument](topic4440.md)| Overloaded. Creates and adds a new document to the project.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetDocument](topic4443.md)| Gets the document with the specified name.   
+Public Method| [GetEnumerator](topic4444.md)| Gets an enumerator which enumerates the documents in the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [ToArray](topic4445.md)| Copies the documents to a new array and returns it.   
+Public Method| [TryGetDocument](topic4446.md)| Tries to get a document with the specified name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

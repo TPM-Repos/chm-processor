@@ -21,21 +21,21 @@ For a list of all members of this type, see [ControlCollection members](topic776
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic7772.md)| Overloaded. Creates and adds a new control with the specified name.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [EnsureNamesAvailable](topic7776.md)| Ensures that the names of the given controls are not taken.   
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic7777.md)| Finds a control with the specified name by performing a linear search.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic7778.md)| Returns an enumerator that can be used to iterate through the items in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Move](topic7779.md)| Move a control from its current index to the specified index, to adjust it's z-index.   
-![Public Method](dotnetimages/publicMethod.gif)| [ProposeNewControlName](topic7780.md)| Overloaded. Proposes a new control name, for example in a copy and paste operation.   
+Public Method| [Add](topic7772.md)| Overloaded. Creates and adds a new control with the specified name.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [EnsureNamesAvailable](topic7776.md)| Ensures that the names of the given controls are not taken.   
+Public Method| [Find](topic7777.md)| Finds a control with the specified name by performing a linear search.   
+Public Method| [GetEnumerator](topic7778.md)| Returns an enumerator that can be used to iterate through the items in the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Move](topic7779.md)| Move a control from its current index to the specified index, to adjust it's z-index.   
+Public Method| [ProposeNewControlName](topic7780.md)| Overloaded. Proposes a new control name, for example in a copy and paste operation.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

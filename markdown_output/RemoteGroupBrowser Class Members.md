@@ -22,8 +22,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Start](topic5172.md)| Starts the browser service.   
-![Public Method](dotnetimages/publicMethod.gif)| [Stop](topic5173.md)| Stops the browser service.   
+Public Method| [Start](topic5172.md)| Starts the browser service.   
+Public Method| [Stop](topic5173.md)| Stops the browser service.   
 Top
 
 # See Also

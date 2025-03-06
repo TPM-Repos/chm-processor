@@ -25,8 +25,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [DeleteToleranceData](topic14832.md)| Deletes the tolerance data for the dimension if there is any.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetToleranceData](topic14833.md)| Sets the tolerance data for the dimension, creating it if it doesn't already exist.   
+Public Method| [DeleteToleranceData](topic14832.md)| Deletes the tolerance data for the dimension if there is any.   
+Public Method| [SetToleranceData](topic14833.md)| Sets the tolerance data for the dimension, creating it if it doesn't already exist.   
 Top
 
 # See Also

@@ -35,7 +35,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic3713.md)|   
+Protected Method| [GetObjectData](topic3713.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

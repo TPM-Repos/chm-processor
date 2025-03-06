@@ -29,22 +29,22 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Clear](topic10871.md)| Clears all of the conditions.   
-![Public Method](dotnetimages/publicMethod.gif)| [CreateCondition](topic10872.md)| Overloaded. Creates and adds a new condition to the condition sequence.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic10877.md)| Gets an enumerator suitable for enumerating the conditions in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [IndexOf](topic10878.md)| Gets the index of the given condition.   
-![Public Method](dotnetimages/publicMethod.gif)| [Insert](topic10879.md)| Inserts the condition into the condition sequence at the specified index.   
-![Public Method](dotnetimages/publicMethod.gif)| [Move](topic10880.md)| Move the condition from its current index to the specified index.   
-![Public Method](dotnetimages/publicMethod.gif)| [ToArray](topic10881.md)| Copies the conditions into a new array and returns it.   
+Public Method| [Clear](topic10871.md)| Clears all of the conditions.   
+Public Method| [CreateCondition](topic10872.md)| Overloaded. Creates and adds a new condition to the condition sequence.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEnumerator](topic10877.md)| Gets an enumerator suitable for enumerating the conditions in the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [IndexOf](topic10878.md)| Gets the index of the given condition.   
+Public Method| [Insert](topic10879.md)| Inserts the condition into the condition sequence at the specified index.   
+Public Method| [Move](topic10880.md)| Move the condition from its current index to the specified index.   
+Public Method| [ToArray](topic10881.md)| Copies the conditions into a new array and returns it.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

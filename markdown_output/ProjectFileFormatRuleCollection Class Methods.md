@@ -21,7 +21,7 @@ For a list of all members of this type, see [ProjectFileFormatRuleCollection mem
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14609.md)| Returns an object that can be used to iterate through all items in this collection.   
+Public Method| [GetEnumerator](topic14609.md)| Returns an object that can be used to iterate through all items in this collection.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

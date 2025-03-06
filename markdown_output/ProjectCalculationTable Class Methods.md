@@ -21,20 +21,20 @@ For a list of all members of this type, see [ProjectCalculationTable members](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetName](topic3932.md)| Gets the invariant name of the table from a display name.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetTableReferenceName](topic3933.md)| Converts a table display name to a reference name (how it would be used in rules).   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveRow](topic3934.md)| Removes the specified row from the calculation table.   
-![Public Method](dotnetimages/publicMethod.gif)| [SaveToString](topic3935.md)| Saves the underlying XML Element of the Calculation Table to a string.   
-![Public Method](dotnetimages/publicMethod.gif)| [Serialize](topic3936.md)| Serializes this [ProjectCalculationTable](topic3926.md) to the provided System.Xml.XmlWriter.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetName](topic3932.md)| Gets the invariant name of the table from a display name.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetTableReferenceName](topic3933.md)| Converts a table display name to a reference name (how it would be used in rules).   
+Public Method| [RemoveRow](topic3934.md)| Removes the specified row from the calculation table.   
+Public Method| [SaveToString](topic3935.md)| Saves the underlying XML Element of the Calculation Table to a string.   
+Public Method| [Serialize](topic3936.md)| Serializes this [ProjectCalculationTable](topic3926.md) to the provided System.Xml.XmlWriter.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

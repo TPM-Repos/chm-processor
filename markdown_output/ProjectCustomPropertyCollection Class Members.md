@@ -29,8 +29,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14489.md)| Looks for a custom property with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14490.md)| Gets an object which can enumerate over the items in the collection.   
+Public Method| [Find](topic14489.md)| Looks for a custom property with the given name.   
+Public Method| [GetEnumerator](topic14490.md)| Gets an object which can enumerate over the items in the collection.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

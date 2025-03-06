@@ -23,19 +23,19 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateState](topic11619.md)| Creates and returns a new state.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic11620.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetState](topic11621.md)| Gets the state with the specified identifier.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetState](topic11622.md)| Overloaded. Tries to get the state with the specified identifier.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [CreateState](topic11619.md)| Creates and returns a new state.   
+Public Method| [GetEnumerator](topic11620.md)|   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetState](topic11621.md)| Gets the state with the specified identifier.   
+Public Method| [TryGetState](topic11622.md)| Overloaded. Tries to get the state with the specified identifier.   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # Public Events

@@ -21,8 +21,8 @@ For a list of all members of this type, see [BasicLockSafeProjectExecutor member
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [BeginInvoke](topic2437.md)| Invokes an action asynchronously on a new thread.   
-![Public Method](dotnetimages/publicMethod.gif)| [Invoke](topic2438.md)| Invokes an action synchronously on the current thread.   
+Public Method| [BeginInvoke](topic2437.md)| Invokes an action asynchronously on a new thread.   
+Public Method| [Invoke](topic2438.md)| Invokes an action synchronously on the current thread.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

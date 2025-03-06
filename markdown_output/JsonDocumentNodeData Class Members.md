@@ -39,7 +39,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [NotifyPropertyChanged](topic3668.md)|   
+Protected Method| [NotifyPropertyChanged](topic3668.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

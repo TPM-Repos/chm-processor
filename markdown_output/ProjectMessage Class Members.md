@@ -34,24 +34,24 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Delete](topic4607.md)| Deletes the message.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic4609.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic4615.md)| Sets the rule and comment in a single operation.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Delete](topic4607.md)| Deletes the message.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetVersionHistory](topic4609.md)|   
+Public Method| [SetRuleAndComment](topic4615.md)| Sets the rule and comment in a single operation.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [DeleteCore](topic4608.md)| Performs the work of deleting the message.   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseCommentChanged](topic4610.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseDeleted](topic4611.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseMessageChanged](topic4612.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseRuleChanged](topic4613.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [SaveVersion](topic4614.md)|   
+Protected Method| [DeleteCore](topic4608.md)| Performs the work of deleting the message.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseCommentChanged](topic4610.md)|   
+Protected Method| [RaiseDeleted](topic4611.md)|   
+Protected Method| [RaiseMessageChanged](topic4612.md)|   
+Protected Method| [RaiseRuleChanged](topic4613.md)|   
+Protected Method| [SaveVersion](topic4614.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

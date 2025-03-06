@@ -34,7 +34,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [UpdateLine](topic5668.md)| Updates the rule, comment and value for this line.   
+Public Method| [UpdateLine](topic5668.md)| Updates the rule, comment and value for this line.   
 Top
 
 # Public Events

@@ -21,8 +21,8 @@ The following tables list the members exposed by [CopyGroupOptionsSerializer](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [DeserializeConfiguration](topic9774.md)| Deserializes an XML file containing a configuration for a Copy Group or Pack and Go process.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [SerializeConfiguration](topic9775.md)| Serialize the values of the CopyGroupOptions to XML to be used as a configuration for 'Copy Group' and 'Pack and Go' processes.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [DeserializeConfiguration](topic9774.md)| Deserializes an XML file containing a configuration for a Copy Group or Pack and Go process.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [SerializeConfiguration](topic9775.md)| Serialize the values of the CopyGroupOptions to XML to be used as a configuration for 'Copy Group' and 'Pack and Go' processes.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

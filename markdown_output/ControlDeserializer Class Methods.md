@@ -21,7 +21,7 @@ For a list of all members of this type, see [ControlDeserializer members](topic9
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Deserialize](topic9610.md)| Deserializes the control in the specified XML reader.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Deserialize](topic9610.md)| Deserializes the control in the specified XML reader.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

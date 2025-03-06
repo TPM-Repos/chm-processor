@@ -21,24 +21,24 @@ For a list of all members of this type, see [ExecutableNodeBase members](topic69
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEditor](topic6945.md)| Gets the editor for this node.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetInputEndpoint](topic6955.md)| Attempts to find an input with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetOutputEndpoint](topic6956.md)| Attempts to retrieve the output end point with the given name.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEditor](topic6945.md)| Gets the editor for this node.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [TryGetInputEndpoint](topic6955.md)| Attempts to find an input with the given name.   
+Public Method| [TryGetOutputEndpoint](topic6956.md)| Attempts to retrieve the output end point with the given name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [ExecuteNodeCore](topic6944.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseLeftChanged](topic6946.md)| Raises the [LeftChanged](topic6978.md) event.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseNameChanged](topic6947.md)| Raises the [NameChanged](topic6979.md) event.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseTopChanged](topic6948.md)| Raises the [TopChanged](topic6981.md) event.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseWidthChanged](topic6949.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [SetState](topic6950.md)| Overloaded. Sets the result of executing this node.   
+Protected Method| [ExecuteNodeCore](topic6944.md)|   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseLeftChanged](topic6946.md)| Raises the [LeftChanged](topic6978.md) event.   
+Protected Method| [RaiseNameChanged](topic6947.md)| Raises the [NameChanged](topic6979.md) event.   
+Protected Method| [RaiseTopChanged](topic6948.md)| Raises the [TopChanged](topic6981.md) event.   
+Protected Method| [RaiseWidthChanged](topic6949.md)|   
+Protected Method| [SetState](topic6950.md)| Overloaded. Sets the result of executing this node.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

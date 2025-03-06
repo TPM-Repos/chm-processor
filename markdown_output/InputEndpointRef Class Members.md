@@ -21,7 +21,7 @@ The following tables list the members exposed by [InputEndpointRef](topic12893.m
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEndpoint](topic12899.md)| Gets the endpoint this refers to.   
+Public Method| [GetEndpoint](topic12899.md)| Gets the endpoint this refers to.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

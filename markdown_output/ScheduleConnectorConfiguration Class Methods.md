@@ -15,18 +15,18 @@ For a list of all members of this type, see [ScheduleConnectorConfiguration memb
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetClone](topic3091.md)| Creates a cloned version of this object. (Inherited from [DriveWorks.GroupConnectorInformation](topic3084.md))  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetClone](topic3091.md)| Creates a cloned version of this object. (Inherited from [DriveWorks.GroupConnectorInformation](topic3084.md))  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [EnsureDataStored](topic6858.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnInitialized](topic6859.md)| Overridden.   
+Protected Method| [EnsureDataStored](topic6858.md)| Overridden.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [OnInitialized](topic6859.md)| Overridden.   
 Top
 
 # See Also

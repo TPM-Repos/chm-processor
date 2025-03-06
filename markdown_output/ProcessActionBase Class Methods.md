@@ -21,15 +21,15 @@ For a list of all members of this type, see [ProcessActionBase members](topic993
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Execute](topic9941.md)| Executes this action.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCanExecute](topic9942.md)| Checks to see if the action can be executed or not.   
+Public Method| [Execute](topic9941.md)| Executes this action.   
+Public Method| [GetCanExecute](topic9942.md)| Checks to see if the action can be executed or not.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaisePropertyChanged](topic9943.md)| Raises the [PropertyChanged](topic9948.md) event.   
+Protected Method| [RaisePropertyChanged](topic9943.md)| Raises the [PropertyChanged](topic9948.md) event.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -28,25 +28,25 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateConstant](topic4252.md)| Overloaded. Creates a new constant with the specified name.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetConstant](topic4255.md)| Gets the constant with the specified display name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetConstants](topic4256.md)| Gets all the constants which exist in the project.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetConstant](topic4263.md)| Gets the constant with the specified display name.   
+Public Method| [CreateConstant](topic4252.md)| Overloaded. Creates a new constant with the specified name.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetConstant](topic4255.md)| Gets the constant with the specified display name.   
+Public Method| [GetConstants](topic4256.md)| Gets all the constants which exist in the project.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [TryGetConstant](topic4263.md)| Gets the constant with the specified display name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConstantCategoryChanged](topic4257.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConstantCommentChanged](topic4258.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConstantCreated](topic4259.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConstantDeleted](topic4260.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConstantNameChanged](topic4261.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseConstantValueChanged](topic4262.md)|   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseConstantCategoryChanged](topic4257.md)|   
+Protected Method| [RaiseConstantCommentChanged](topic4258.md)|   
+Protected Method| [RaiseConstantCreated](topic4259.md)|   
+Protected Method| [RaiseConstantDeleted](topic4260.md)|   
+Protected Method| [RaiseConstantNameChanged](topic4261.md)|   
+Protected Method| [RaiseConstantValueChanged](topic4262.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

@@ -35,8 +35,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [ShouldOverwriteExistingGeneratedTarget](topic15352.md)| Retrieves a saved 'Overwrite All' setting and/or prompts the user via a dialog as whether to overwrite the existing generated target.   
-![Public Method](dotnetimages/publicMethod.gif)| [ShouldOverwriteExistingNonGeneratedTarget](topic15353.md)| Retrieves a saved 'Overwrite All' setting and/or prompts the user via a dialog as whether to overwrite the existing non-generated target.   
+Public Method| [ShouldOverwriteExistingGeneratedTarget](topic15352.md)| Retrieves a saved 'Overwrite All' setting and/or prompts the user via a dialog as whether to overwrite the existing generated target.   
+Public Method| [ShouldOverwriteExistingNonGeneratedTarget](topic15353.md)| Retrieves a saved 'Overwrite All' setting and/or prompts the user via a dialog as whether to overwrite the existing non-generated target.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

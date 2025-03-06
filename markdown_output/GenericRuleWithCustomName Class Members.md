@@ -39,7 +39,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic6073.md)| Sets the rule and comment at the same time.   
+Public Method| [SetRuleAndComment](topic6073.md)| Sets the rule and comment at the same time.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

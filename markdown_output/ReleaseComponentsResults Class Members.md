@@ -29,12 +29,12 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [ConvertToReferenceTree](topic6306.md)| Converts the release results to a complete component reference tree by copying across reference information from this release session, and retrieving information for precedent components that were released in other sessions from the group.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetComponent](topic6307.md)| Gets a released component based on it's unique identifier.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetComponentReferences](topic6308.md)| Gets the references for the component with the specified identifer.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetRootComponent](topic6309.md)| Gets a root component based on the name of the component set   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Load](topic6310.md)| Overloaded. Loads the released component results from the given XML.   
-![Public Method](dotnetimages/publicMethod.gif)| [Save](topic6315.md)| Saves the released component results as an XML document.   
+Public Method| [ConvertToReferenceTree](topic6306.md)| Converts the release results to a complete component reference tree by copying across reference information from this release session, and retrieving information for precedent components that were released in other sessions from the group.   
+Public Method| [GetComponent](topic6307.md)| Gets a released component based on it's unique identifier.   
+Public Method| [GetComponentReferences](topic6308.md)| Gets the references for the component with the specified identifer.   
+Public Method| [GetRootComponent](topic6309.md)| Gets a root component based on the name of the component set   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [Load](topic6310.md)| Overloaded. Loads the released component results from the given XML.   
+Public Method| [Save](topic6315.md)| Saves the released component results as an XML document.   
 Top
 
 # See Also

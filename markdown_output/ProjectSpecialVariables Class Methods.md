@@ -21,21 +21,21 @@ For a list of all members of this type, see [ProjectSpecialVariables members](to
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [SetCurrentClientDetails](topic4788.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [SetCurrentClientLanguages](topic4789.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [SetFormContainerHeight](topic4790.md)| Overloaded.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetFormContainerWidth](topic4793.md)| Overloaded.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetTouchPointHitPosition](topic4796.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [SetXRStatus](topic4797.md)|   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [SetCurrentClientDetails](topic4788.md)|   
+Public Method| [SetCurrentClientLanguages](topic4789.md)|   
+Public Method| [SetFormContainerHeight](topic4790.md)| Overloaded.   
+Public Method| [SetFormContainerWidth](topic4793.md)| Overloaded.   
+Public Method| [SetTouchPointHitPosition](topic4796.md)|   
+Public Method| [SetXRStatus](topic4797.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

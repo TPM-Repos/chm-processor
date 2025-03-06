@@ -28,7 +28,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [IsValueEqual](topic13255.md)| Determines whether the specified token represents an identical part of a rule as the current token.   
+Public Method| [IsValueEqual](topic13255.md)| Determines whether the specified token represents an identical part of a rule as the current token.   
 Top
 
 # See Also

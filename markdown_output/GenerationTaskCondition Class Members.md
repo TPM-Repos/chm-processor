@@ -34,7 +34,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Evaluate](topic13713.md)| When overridden by a derived class, evaluates the condition.   
+Protected Method| [Evaluate](topic13713.md)| When overridden by a derived class, evaluates the condition.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -32,21 +32,21 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEditor](topic1864.md)| Gets the editor user interface for this group connector.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetInformation](topic1868.md)| Sets the connector's information.   
-![Public Method](dotnetimages/publicMethod.gif)| [Start](topic1869.md)| Starts this connector running.   
-![Public Method](dotnetimages/publicMethod.gif)| [Stop](topic1870.md)| Stops this connector running.   
+Public Method| [GetEditor](topic1864.md)| Gets the editor user interface for this group connector.   
+Public Method| [SetInformation](topic1868.md)| Sets the connector's information.   
+Public Method| [Start](topic1869.md)| Starts this connector running.   
+Public Method| [Stop](topic1870.md)| Stops this connector running.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [AddEvent](topic1863.md)| Adds an event into the application log.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnInformationSet](topic1865.md)| Sets the connector's information.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnStart](topic1866.md)| Performs the work required to start the connector.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnStop](topic1867.md)| Provides the work required to stop the connector.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [StoreInformation](topic1871.md)| When called this will store the current information into this group.   
+Protected Method| [AddEvent](topic1863.md)| Adds an event into the application log.   
+Protected Method| [OnInformationSet](topic1865.md)| Sets the connector's information.   
+Protected Method| [OnStart](topic1866.md)| Performs the work required to start the connector.   
+Protected Method| [OnStop](topic1867.md)| Provides the work required to stop the connector.   
+Protected Method| [StoreInformation](topic1871.md)| When called this will store the current information into this group.   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

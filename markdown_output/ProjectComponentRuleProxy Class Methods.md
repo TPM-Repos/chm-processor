@@ -21,19 +21,19 @@ For a list of all members of this type, see [ProjectComponentRuleProxy members](
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic6222.md)| Overridden.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic6223.md)| Overridden.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetVersionHistory](topic6222.md)| Overridden.   
+Public Method| [SetRuleAndComment](topic6223.md)| Overridden.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseCommentChanged](topic6205.md)| Raises the [CommentChanged](topic6214.md) event. (Inherited from [DriveWorks.Components.ProjectComponentRule](topic6198.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseRuleChanged](topic6206.md)| Raises the RuleChanged event. (Inherited from [DriveWorks.Components.ProjectComponentRule](topic6198.md))  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseCommentChanged](topic6205.md)| Raises the [CommentChanged](topic6214.md) event. (Inherited from [DriveWorks.Components.ProjectComponentRule](topic6198.md))  
+Protected Method| [RaiseRuleChanged](topic6206.md)| Raises the RuleChanged event. (Inherited from [DriveWorks.Components.ProjectComponentRule](topic6198.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -21,7 +21,7 @@ For a list of all members of this type, see [CustomPropertyValueCondition member
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Evaluate](topic13534.md)| Overridden.   
+Protected Method| [Evaluate](topic13534.md)| Overridden.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

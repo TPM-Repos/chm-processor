@@ -15,10 +15,10 @@ For a list of all members of this type, see [TableExportRows members](topic5613.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic5618.md)| Adds a row to this collection of rows.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic5619.md)| Gets an enumerator that iterates over the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Insert](topic5620.md)| Inserts a row to this collection of rows.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic5621.md)| Removes the specified row from this collection of rows.   
+Public Method| [Add](topic5618.md)| Adds a row to this collection of rows.   
+Public Method| [GetEnumerator](topic5619.md)| Gets an enumerator that iterates over the collection.   
+Public Method| [Insert](topic5620.md)| Inserts a row to this collection of rows.   
+Public Method| [Remove](topic5621.md)| Removes the specified row from this collection of rows.   
 Top
 
 # See Also

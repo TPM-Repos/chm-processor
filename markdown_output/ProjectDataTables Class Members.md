@@ -21,22 +21,22 @@ The following tables list the members exposed by [ProjectDataTables](topic4311.m
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateDataTable](topic4317.md)| Overloaded. Creates and adds a new document to the project.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic4320.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic4321.md)| Gets an enumerator which enumerates the data tables in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetTable](topic4322.md)| Gets the table with the specified name.   
-![Public Method](dotnetimages/publicMethod.gif)| [RefreshAll](topic4324.md)| Refreshes all data sources in the project.   
-![Public Method](dotnetimages/publicMethod.gif)| [ToArray](topic4325.md)| Copies the data tables to a new array and returns it.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetTable](topic4326.md)| Tries to get a table with the specified name.   
+Public Method| [CreateDataTable](topic4317.md)| Overloaded. Creates and adds a new document to the project.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Dispose](topic4320.md)|   
+Public Method| [GetEnumerator](topic4321.md)| Gets an enumerator which enumerates the data tables in the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetTable](topic4322.md)| Gets the table with the specified name.   
+Public Method| [RefreshAll](topic4324.md)| Refreshes all data sources in the project.   
+Public Method| [ToArray](topic4325.md)| Copies the data tables to a new array and returns it.   
+Public Method| [TryGetTable](topic4326.md)| Tries to get a table with the specified name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

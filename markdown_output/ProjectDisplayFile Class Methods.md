@@ -21,8 +21,8 @@ For a list of all members of this type, see [ProjectDisplayFile members](topic43
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Disconnect](topic4352.md)| Ensures that event handlers are unbound.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseValueChanged](topic4353.md)| Raises the [ValueChanged](topic4355.md) event.   
+Protected Method| [Disconnect](topic4352.md)| Ensures that event handlers are unbound.   
+Protected Method| [RaiseValueChanged](topic4353.md)| Raises the [ValueChanged](topic4355.md) event.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

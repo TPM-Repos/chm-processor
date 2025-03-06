@@ -15,8 +15,8 @@ For a list of all members of this type, see [ReportReader members](topic10463.md
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetReportAsXDocument](topic10471.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Load](topic10473.md)|   
+Public Method| [GetReportAsXDocument](topic10471.md)|   
+Public Method| [Load](topic10473.md)|   
 Top
 
 # See Also

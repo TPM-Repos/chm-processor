@@ -21,8 +21,8 @@ For a list of all members of this type, see [GeneralGroupSettings members](topic
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic2947.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetDocumentGenerationBehaviourOptions](topic2948.md)| Gets the available options for document generation.   
+Public Method| [Dispose](topic2947.md)|   
+Public Method| [GetDocumentGenerationBehaviourOptions](topic2948.md)| Gets the available options for document generation.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

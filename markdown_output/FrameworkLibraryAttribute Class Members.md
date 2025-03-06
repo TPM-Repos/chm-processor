@@ -35,11 +35,11 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| Equals|  (Inherited from System.Attribute)  
-![Public Method](dotnetimages/publicMethod.gif)| GetHashCode|  (Inherited from System.Attribute)  
-![Public Method](dotnetimages/publicMethod.gif)| IsDefaultAttribute|  (Inherited from System.Attribute)  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [IsFrameworkLibrary](topic7190.md)| Tests the specified assembly to see whether it is a framework library.   
-![Public Method](dotnetimages/publicMethod.gif)| Match|  (Inherited from System.Attribute)  
+Public Method| Equals|  (Inherited from System.Attribute)  
+Public Method| GetHashCode|  (Inherited from System.Attribute)  
+Public Method| IsDefaultAttribute|  (Inherited from System.Attribute)  
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [IsFrameworkLibrary](topic7190.md)| Tests the specified assembly to see whether it is a framework library.   
+Public Method| Match|  (Inherited from System.Attribute)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

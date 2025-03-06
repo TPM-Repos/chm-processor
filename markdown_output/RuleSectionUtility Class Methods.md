@@ -15,7 +15,7 @@ For a list of all members of this type, see [RuleSectionUtility members](topic52
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetLocalizedName](topic5276.md)| Gets the localized name of the specified enum.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [GetLocalizedName](topic5276.md)| Gets the localized name of the specified enum.   
 Top
 
 # See Also

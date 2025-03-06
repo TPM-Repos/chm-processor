@@ -15,10 +15,10 @@ For a list of all members of this type, see [ReleasedCustomPropertyCollection me
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14818.md)| Adds and returns a new custom property with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14819.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14820.md)| Overloaded. Removes the custom property with the specified name from the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14823.md)| Removes the property at the specified index.   
+Public Method| [Add](topic14818.md)| Adds and returns a new custom property with the given name.   
+Public Method| [GetEnumerator](topic14819.md)|   
+Public Method| [Remove](topic14820.md)| Overloaded. Removes the custom property with the specified name from the collection.   
+Public Method| [RemoveAt](topic14823.md)| Removes the property at the specified index.   
 Top
 
 # See Also

@@ -29,7 +29,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14468.md)|   
+Public Method| [GetEnumerator](topic14468.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

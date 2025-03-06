@@ -21,11 +21,11 @@ For a list of all members of this type, see [CapturedDimensionCollection members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14168.md)| Adds a new dimension to the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14169.md)| Looks for a dimension with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14170.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14171.md)| Overloaded. Removes the item with the specified name from the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14174.md)| Removes the item at the specified index.   
+Public Method| [Add](topic14168.md)| Adds a new dimension to the collection.   
+Public Method| [Find](topic14169.md)| Looks for a dimension with the given name.   
+Public Method| [GetEnumerator](topic14170.md)|   
+Public Method| [Remove](topic14171.md)| Overloaded. Removes the item with the specified name from the collection.   
+Public Method| [RemoveAt](topic14174.md)| Removes the item at the specified index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

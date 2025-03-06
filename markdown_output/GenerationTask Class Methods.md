@@ -21,14 +21,14 @@ For a list of all members of this type, see [GenerationTask members](topic13679.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Execute](topic13685.md)| Executes the task.   
+Public Method| [Execute](topic13685.md)| Executes the task.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [SetExecutionResult](topic13686.md)| Sets the result of this task.   
+Protected Method| [SetExecutionResult](topic13686.md)| Sets the result of this task.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

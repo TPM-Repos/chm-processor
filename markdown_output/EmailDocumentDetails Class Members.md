@@ -44,7 +44,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CommitChanges](topic2800.md)| Pushes changes to the original email document.   
+Public Method| [CommitChanges](topic2800.md)| Pushes changes to the original email document.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

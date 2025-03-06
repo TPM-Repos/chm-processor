@@ -21,17 +21,17 @@ For a list of all members of this type, see [ProjectComponents members](topic623
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Extract](topic6235.md)| Removes components of the specified type from the collection and returns them in a new collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic6236.md)| Gets an enumerator which supports enumeration of the components in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Extract](topic6235.md)| Removes components of the specified type from the collection and returns them in a new collection.   
+Public Method| [GetEnumerator](topic6236.md)| Gets an enumerator which supports enumeration of the components in the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

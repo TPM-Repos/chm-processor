@@ -29,11 +29,11 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnInitialize](topic1840.md)| When overridden in a derived class, performs the work required to initialize the connector.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnStart](topic1841.md)| Performs the work required to start the connector.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnStop](topic1842.md)| Provides the work required to stop the connector.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseStarted](topic1843.md)| Raises the [Started](topic1847.md) event.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseStopped](topic1844.md)| Raises the [Stopped](topic1848.md) event.   
+Protected Method| [OnInitialize](topic1840.md)| When overridden in a derived class, performs the work required to initialize the connector.   
+Protected Method| [OnStart](topic1841.md)| Performs the work required to start the connector.   
+Protected Method| [OnStop](topic1842.md)| Provides the work required to stop the connector.   
+Protected Method| [RaiseStarted](topic1843.md)| Raises the [Started](topic1847.md) event.   
+Protected Method| [RaiseStopped](topic1844.md)| Raises the [Stopped](topic1848.md) event.   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

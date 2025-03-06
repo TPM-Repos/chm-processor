@@ -21,32 +21,32 @@ For a list of all members of this type, see [ProjectVariable members](topic4928.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Delete](topic4934.md)| Deletes the variable   
-![Public Method](dotnetimages/publicMethod.gif)| [EnumerateVersionHistory](topic4937.md)| Gets the version history for the variable.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic4938.md)| Gets the version history for the variable.   
-![Public Method](dotnetimages/publicMethod.gif)| [Serialize](topic4946.md)| Serializes this [ProjectVariable](topic4927.md) to the provided System.Xml.XmlWriter.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic4949.md)| Sets the rule and comment in a single operation.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Delete](topic4934.md)| Deletes the variable   
+Public Method| [EnumerateVersionHistory](topic4937.md)| Gets the version history for the variable.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetVersionHistory](topic4938.md)| Gets the version history for the variable.   
+Public Method| [Serialize](topic4946.md)| Serializes this [ProjectVariable](topic4927.md) to the provided System.Xml.XmlWriter.   
+Public Method| [SetRuleAndComment](topic4949.md)| Sets the rule and comment in a single operation.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [ConnectValueChangedEvent](topic4933.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [DeleteCore](topic4935.md)| Performs the work of deleting the variable from the backing store.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [DisconnectValueChangedEvent](topic4936.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseCategoryChanged](topic4939.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseCommentChanged](topic4940.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseDeleted](topic4941.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseNameChanged](topic4942.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseRuleChanged](topic4943.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseValueChanged](topic4944.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [SaveVersion](topic4945.md)| Adds an entry to the variable's history.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [SetCategoryCore](topic4947.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [SetDisplayNameCore](topic4948.md)|   
+Protected Method| [ConnectValueChangedEvent](topic4933.md)|   
+Protected Method| [DeleteCore](topic4935.md)| Performs the work of deleting the variable from the backing store.   
+Protected Method| [DisconnectValueChangedEvent](topic4936.md)|   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseCategoryChanged](topic4939.md)|   
+Protected Method| [RaiseCommentChanged](topic4940.md)|   
+Protected Method| [RaiseDeleted](topic4941.md)|   
+Protected Method| [RaiseNameChanged](topic4942.md)|   
+Protected Method| [RaiseRuleChanged](topic4943.md)|   
+Protected Method| [RaiseValueChanged](topic4944.md)|   
+Protected Method| [SaveVersion](topic4945.md)| Adds an entry to the variable's history.   
+Protected Method| [SetCategoryCore](topic4947.md)|   
+Protected Method| [SetDisplayNameCore](topic4948.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

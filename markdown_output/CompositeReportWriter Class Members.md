@@ -35,10 +35,10 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [BeginProcess](topic10372.md)| Overloaded. Begins a process.   
-![Public Method](dotnetimages/publicMethod.gif)| [EndProcess](topic10375.md)| Ends the current process.   
-![Public Method](dotnetimages/publicMethod.gif)| [Finish](topic10376.md)| Finishes the report.   
-![Public Method](dotnetimages/publicMethod.gif)| [WriteEntry](topic10377.md)| Writes a report entry to current process in the report.   
+Public Method| [BeginProcess](topic10372.md)| Overloaded. Begins a process.   
+Public Method| [EndProcess](topic10375.md)| Ends the current process.   
+Public Method| [Finish](topic10376.md)| Finishes the report.   
+Public Method| [WriteEntry](topic10377.md)| Writes a report entry to current process in the report.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

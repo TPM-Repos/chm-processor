@@ -21,7 +21,7 @@ For a list of all members of this type, see [ProjectDetailsEventArgs members](to
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic11121.md)|   
+Protected Method| [GetObjectData](topic11121.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

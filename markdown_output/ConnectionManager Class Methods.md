@@ -21,22 +21,22 @@ For a list of all members of this type, see [ConnectionManager members](topic255
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [DbExecute](topic2560.md)| Executes a query against a database.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetData](topic2561.md)| Overloaded. Performs a DriveWorks GetData operation given an arbitrary SQL statement.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetDataDispatch](topic2564.md)| Performs a DriveWorks GetData operation given a GetData string.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetOdbcConnection](topic2565.md)| Gets an ODBC connection.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetSqlConnection](topic2566.md)| Gets a SQL connection.   
-![Public Method](dotnetimages/publicMethod.gif)| [QueryData](topic2567.md)| Performs a DriveWorks QueryData operation given an arbitrary SQL statement.   
-![Public Method](dotnetimages/publicMethod.gif)| [QueryDataValues](topic2568.md)| Overloaded. Performs a DriveWorks QueryData operation given an arbitrary SQL statement.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [DbExecute](topic2560.md)| Executes a query against a database.   
+Public Method| [GetData](topic2561.md)| Overloaded. Performs a DriveWorks GetData operation given an arbitrary SQL statement.   
+Public Method| [GetDataDispatch](topic2564.md)| Performs a DriveWorks GetData operation given a GetData string.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetOdbcConnection](topic2565.md)| Gets an ODBC connection.   
+Public Method| [GetSqlConnection](topic2566.md)| Gets a SQL connection.   
+Public Method| [QueryData](topic2567.md)| Performs a DriveWorks QueryData operation given an arbitrary SQL statement.   
+Public Method| [QueryDataValues](topic2568.md)| Overloaded. Performs a DriveWorks QueryData operation given an arbitrary SQL statement.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

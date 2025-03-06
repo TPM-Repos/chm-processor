@@ -15,7 +15,7 @@ For a list of all members of this type, see [RuleSearchResult members](topic1322
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateTransaction](topic13233.md)| Creates a new transaction responsible for changing the rule of the item.   
+Public Method| [CreateTransaction](topic13233.md)| Creates a new transaction responsible for changing the rule of the item.   
 Top
 
 # See Also

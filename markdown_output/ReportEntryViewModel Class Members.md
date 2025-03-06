@@ -37,14 +37,14 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CompareTo](topic15382.md)|  (Inherited from [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer.ReportItemBase](topic15376.md))  
+Public Method| [CompareTo](topic15382.md)|  (Inherited from [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer.ReportItemBase](topic15376.md))  
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaisePropertyChanged](topic15383.md)|  (Inherited from [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer.ReportItemBase](topic15376.md))  
+Protected Method| [RaisePropertyChanged](topic15383.md)|  (Inherited from [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer.ReportItemBase](topic15376.md))  
 Top
 
 # Public Events

@@ -15,21 +15,21 @@ For a list of all members of this type, see [SpecificationMacros members](topic1
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic11473.md)| Overloaded. Adds a new macro with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic11477.md)| Gets an object which can be used to enumerate the macros in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetMacro](topic11478.md)| Gets the macro with the specified name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetMacros](topic11479.md)| Gets all macros.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetMacro](topic11480.md)| Attempts to get the macro with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [UpgradeToEventFlow](topic11481.md)|   
+Public Method| [Add](topic11473.md)| Overloaded. Adds a new macro with the given name.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEnumerator](topic11477.md)| Gets an object which can be used to enumerate the macros in the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetMacro](topic11478.md)| Gets the macro with the specified name.   
+Public Method| [GetMacros](topic11479.md)| Gets all macros.   
+Public Method| [TryGetMacro](topic11480.md)| Attempts to get the macro with the given name.   
+Public Method| [UpgradeToEventFlow](topic11481.md)|   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # See Also

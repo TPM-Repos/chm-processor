@@ -21,9 +21,9 @@ The following tables list the members exposed by [NodeCollectionRef](topic12900.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromMacro](topic12906.md)| Gets a node collection ref from a macro.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCollection](topic12907.md)| Gets the collection from the specified project.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetNodeRef](topic12908.md)| Gets a reference to the node at the given index.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromMacro](topic12906.md)| Gets a node collection ref from a macro.   
+Public Method| [GetCollection](topic12907.md)| Gets the collection from the specified project.   
+Public Method| [GetNodeRef](topic12908.md)| Gets a reference to the node at the given index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

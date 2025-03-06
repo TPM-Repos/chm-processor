@@ -29,10 +29,10 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14280.md)| Adds and returns a new instance.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14281.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14282.md)| Overloaded. Removes the instance with the specified address from the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14285.md)| Removes the item at the specified index.   
+Public Method| [Add](topic14280.md)| Adds and returns a new instance.   
+Public Method| [GetEnumerator](topic14281.md)|   
+Public Method| [Remove](topic14282.md)| Overloaded. Removes the instance with the specified address from the collection.   
+Public Method| [RemoveAt](topic14285.md)| Removes the item at the specified index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

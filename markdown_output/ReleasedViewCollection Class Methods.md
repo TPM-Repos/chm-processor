@@ -15,10 +15,10 @@ For a list of all members of this type, see [ReleasedViewCollection members](top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic15063.md)| Adds a new view.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic15064.md)| Gets an enumerator which enumerates over the views in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic15065.md)| Removes the given view.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic15066.md)| Removes the view at the given index.   
+Public Method| [Add](topic15063.md)| Adds a new view.   
+Public Method| [GetEnumerator](topic15064.md)| Gets an enumerator which enumerates over the views in the collection.   
+Public Method| [Remove](topic15065.md)| Removes the given view.   
+Public Method| [RemoveAt](topic15066.md)| Removes the view at the given index.   
 Top
 
 # See Also

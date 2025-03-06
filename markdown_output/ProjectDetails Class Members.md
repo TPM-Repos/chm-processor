@@ -40,8 +40,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic4338.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetProjectFilePath](topic4339.md)| Gets the fully-qualified path to the project file.   
+Public Method| [GetObjectData](topic4338.md)|   
+Public Method| [GetProjectFilePath](topic4339.md)| Gets the fully-qualified path to the project file.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

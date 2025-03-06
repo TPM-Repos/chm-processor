@@ -21,7 +21,7 @@ For a list of all members of this type, see [InputEndpointRef members](topic1289
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEndpoint](topic12899.md)| Gets the endpoint this refers to.   
+Public Method| [GetEndpoint](topic12899.md)| Gets the endpoint this refers to.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

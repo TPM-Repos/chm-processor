@@ -21,7 +21,7 @@ For a list of all members of this type, see [DimensionValueCondition members](to
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Evaluate](topic13543.md)| Overridden.   
+Protected Method| [Evaluate](topic13543.md)| Overridden.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

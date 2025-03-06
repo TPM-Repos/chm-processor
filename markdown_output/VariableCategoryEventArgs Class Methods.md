@@ -15,7 +15,7 @@ For a list of all members of this type, see [VariableCategoryEventArgs members](
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic5860.md)|   
+Protected Method| [GetObjectData](topic5860.md)|   
 Top
 
 # See Also

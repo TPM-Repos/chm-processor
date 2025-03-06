@@ -21,7 +21,7 @@ For a list of all members of this type, see [FormatGeneratorFactory members](top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetGenerator](topic13677.md)| Gets a generator from the specified file extension.   
+Public Method| [GetGenerator](topic13677.md)| Gets a generator from the specified file extension.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

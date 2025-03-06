@@ -15,18 +15,18 @@ For a list of all members of this type, see [ReleasedDrawing members](topic14860
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Initialize](topic14865.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [PreProcessReleaseData](topic14866.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| [TrackParameterRelease](topic14867.md)| Overridden.   
+Protected Method| [Initialize](topic14865.md)| Overridden.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [PreProcessReleaseData](topic14866.md)| Overridden.   
+Protected Method| [TrackParameterRelease](topic14867.md)| Overridden.   
 Top
 
 # See Also

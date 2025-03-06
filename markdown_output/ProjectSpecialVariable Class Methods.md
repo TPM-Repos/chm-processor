@@ -21,20 +21,20 @@ For a list of all members of this type, see [ProjectSpecialVariable members](top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic4768.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic4772.md)| Sets the rule and comment in a single operation.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetVersionHistory](topic4768.md)|   
+Public Method| [SetRuleAndComment](topic4772.md)| Sets the rule and comment in a single operation.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseCommentChanged](topic4769.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseRuleChanged](topic4770.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseValueChanged](topic4771.md)|   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseCommentChanged](topic4769.md)|   
+Protected Method| [RaiseRuleChanged](topic4770.md)|   
+Protected Method| [RaiseValueChanged](topic4771.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

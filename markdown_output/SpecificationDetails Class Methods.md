@@ -15,9 +15,9 @@ For a list of all members of this type, see [SpecificationDetails members](topic
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetMetadataPath](topic11298.md)| Gets the fully-qualified path to the metadata directory.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetProjectFilePath](topic11299.md)| Gets the fully-qualified path to the project file.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetSpecificationFilePath](topic11300.md)| Gets the fully-qualified path to the specification file.   
+Public Method| [GetMetadataPath](topic11298.md)| Gets the fully-qualified path to the metadata directory.   
+Public Method| [GetProjectFilePath](topic11299.md)| Gets the fully-qualified path to the project file.   
+Public Method| [GetSpecificationFilePath](topic11300.md)| Gets the fully-qualified path to the specification file.   
 Top
 
 # See Also

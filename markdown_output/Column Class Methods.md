@@ -21,17 +21,17 @@ For a list of all members of this type, see [Column members](topic2507.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [MoveDown](topic2512.md)| Moves the column to a position after its following sibling.   
-![Public Method](dotnetimages/publicMethod.gif)| [MoveUp](topic2513.md)| Moves the column to a position before its preceding sibling.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [MoveDown](topic2512.md)| Moves the column to a position after its following sibling.   
+Public Method| [MoveUp](topic2513.md)| Moves the column to a position before its preceding sibling.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

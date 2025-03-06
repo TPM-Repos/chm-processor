@@ -21,10 +21,10 @@ For a list of all members of this type, see [FlowPropertyData members](topic1287
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Apply](topic12882.md)| Overloaded. Applies the property data to the given property.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromCondition](topic12885.md)| Gets an array of [FlowPropertyData](topic12873.md) instances for the given condition's properties.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromProperty](topic12886.md)| Gets a [FlowPropertyData](topic12873.md) instance from the given flow property.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromTask](topic12887.md)| Gets an array of [FlowPropertyData](topic12873.md) instances for the given task's properties.   
+Public Method| [Apply](topic12882.md)| Overloaded. Applies the property data to the given property.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromCondition](topic12885.md)| Gets an array of [FlowPropertyData](topic12873.md) instances for the given condition's properties.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromProperty](topic12886.md)| Gets a [FlowPropertyData](topic12873.md) instance from the given flow property.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromTask](topic12887.md)| Gets an array of [FlowPropertyData](topic12873.md) instances for the given task's properties.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

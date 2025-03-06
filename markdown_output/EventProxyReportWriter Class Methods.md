@@ -21,10 +21,10 @@ For a list of all members of this type, see [EventProxyReportWriter members](top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [BeginProcess](topic10401.md)| Overloaded. Overridden. Begins a process.   
-![Public Method](dotnetimages/publicMethod.gif)| [EndProcess](topic10404.md)| Overridden. Ends the current process.   
-![Public Method](dotnetimages/publicMethod.gif)| [Finish](topic10447.md)| Finishes the report. (Inherited from [DriveWorks.Reporting.ProxyReportWriter](topic10434.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [WriteEntry](topic10405.md)| Overridden. Writes a report entry to current process in the report.   
+Public Method| [BeginProcess](topic10401.md)| Overloaded. Overridden. Begins a process.   
+Public Method| [EndProcess](topic10404.md)| Overridden. Ends the current process.   
+Public Method| [Finish](topic10447.md)| Finishes the report. (Inherited from [DriveWorks.Reporting.ProxyReportWriter](topic10434.md))  
+Public Method| [WriteEntry](topic10405.md)| Overridden. Writes a report entry to current process in the report.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

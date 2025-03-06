@@ -21,14 +21,14 @@ For a list of all members of this type, see [CapturedFormatCollection members](t
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14255.md)| Adds a new format to the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Bind](topic14256.md)| Allows the specified format to have rules driven based on the provided parameter names.   
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14257.md)| Looks for a format with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [FindIndex](topic14258.md)| Finds the file format with the given name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14259.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14260.md)| Overloaded. Removes the given format from the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14263.md)| Removes the item at the specified index.   
-![Public Method](dotnetimages/publicMethod.gif)| [Unbind](topic14264.md)| Removes all rule information for the specified captured format.   
+Public Method| [Add](topic14255.md)| Adds a new format to the collection.   
+Public Method| [Bind](topic14256.md)| Allows the specified format to have rules driven based on the provided parameter names.   
+Public Method| [Find](topic14257.md)| Looks for a format with the given name.   
+Public Method| [FindIndex](topic14258.md)| Finds the file format with the given name.   
+Public Method| [GetEnumerator](topic14259.md)|   
+Public Method| [Remove](topic14260.md)| Overloaded. Removes the given format from the collection.   
+Public Method| [RemoveAt](topic14263.md)| Removes the item at the specified index.   
+Public Method| [Unbind](topic14264.md)| Removes all rule information for the specified captured format.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

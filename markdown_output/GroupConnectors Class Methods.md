@@ -21,20 +21,20 @@ For a list of all members of this type, see [GroupConnectors members](topic3098.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AddConnector](topic3103.md)| Adds a connector of the specified type to the group.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetConnectors](topic3104.md)| Gets all connectors within the group.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic3105.md)| Removes the specified connector from the group.   
-![Public Method](dotnetimages/publicMethod.gif)| [Store](topic3106.md)| Overloaded. Adds or updates the specified details to the group.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetConnector](topic3109.md)| Attempts to find a connector with the specified name.   
+Public Method| [AddConnector](topic3103.md)| Adds a connector of the specified type to the group.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetConnectors](topic3104.md)| Gets all connectors within the group.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Remove](topic3105.md)| Removes the specified connector from the group.   
+Public Method| [Store](topic3106.md)| Overloaded. Adds or updates the specified details to the group.   
+Public Method| [TryGetConnector](topic3109.md)| Attempts to find a connector with the specified name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

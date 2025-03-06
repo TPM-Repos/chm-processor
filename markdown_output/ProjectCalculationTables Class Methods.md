@@ -21,20 +21,20 @@ For a list of all members of this type, see [ProjectCalculationTables members](t
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic4006.md)| Overloaded. Creates a new table in this collection.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic4009.md)| Returns an enumerator that iterates through the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic4010.md)| Removes a matching table from this collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Rename](topic4011.md)| Renames a table.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetTable](topic4012.md)| Attempts to get a table with the specified name.   
+Public Method| [Add](topic4006.md)| Overloaded. Creates a new table in this collection.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetEnumerator](topic4009.md)| Returns an enumerator that iterates through the collection.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Remove](topic4010.md)| Removes a matching table from this collection.   
+Public Method| [Rename](topic4011.md)| Renames a table.   
+Public Method| [TryGetTable](topic4012.md)| Attempts to get a table with the specified name.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

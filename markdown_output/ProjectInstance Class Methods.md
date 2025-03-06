@@ -21,8 +21,8 @@ For a list of all members of this type, see [ProjectInstance members](topic14617
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic14622.md)| Gets the version history for the feature parameter.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic14623.md)| Sets the rule and comment in a single operation.   
+Public Method| [GetVersionHistory](topic14622.md)| Gets the version history for the feature parameter.   
+Public Method| [SetRuleAndComment](topic14623.md)| Sets the rule and comment in a single operation.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

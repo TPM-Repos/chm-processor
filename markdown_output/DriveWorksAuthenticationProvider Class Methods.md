@@ -21,7 +21,7 @@ For a list of all members of this type, see [DriveWorksAuthenticationProvider me
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Authenticate](topic10667.md)| Authenticates DriveWorks credentials.   
+Public Method| [Authenticate](topic10667.md)| Authenticates DriveWorks credentials.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

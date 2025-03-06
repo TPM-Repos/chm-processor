@@ -32,28 +32,28 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateDecision](topic10228.md)| Creates a new decision.   
-![Public Method](dotnetimages/publicMethod.gif)| [CreateForm](topic10229.md)| Creates a new form.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetControl](topic10232.md)| Gets a control given its name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetDecisions](topic10233.md)| Gets all of the decisions in the navigation.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetForms](topic10234.md)| Gets the project's forms.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetStep](topic10235.md)| Gets the named navigation step.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetSteps](topic10236.md)| Gets all of the steps in the navigation.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetControl](topic10240.md)| Overloaded. Gets a control given its name.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetStep](topic10243.md)| Overloaded. Gets the named navigation step.   
+Public Method| [CreateDecision](topic10228.md)| Creates a new decision.   
+Public Method| [CreateForm](topic10229.md)| Creates a new form.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetControl](topic10232.md)| Gets a control given its name.   
+Public Method| [GetDecisions](topic10233.md)| Gets all of the decisions in the navigation.   
+Public Method| [GetForms](topic10234.md)| Gets the project's forms.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetStep](topic10235.md)| Gets the named navigation step.   
+Public Method| [GetSteps](topic10236.md)| Gets all of the steps in the navigation.   
+Public Method| [TryGetControl](topic10240.md)| Overloaded. Gets a control given its name.   
+Public Method| [TryGetStep](topic10243.md)| Overloaded. Gets the named navigation step.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [Dispose](topic10231.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseNavigationStepCreated](topic10237.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseNavigationStepDeleted](topic10238.md)|   
-![Protected Method](dotnetimages/protectedMethod.gif)| [RaiseNavigationStepNameChanged](topic10239.md)|   
+Protected Method| [Dispose](topic10231.md)|   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [RaiseNavigationStepCreated](topic10237.md)|   
+Protected Method| [RaiseNavigationStepDeleted](topic10238.md)|   
+Protected Method| [RaiseNavigationStepNameChanged](topic10239.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

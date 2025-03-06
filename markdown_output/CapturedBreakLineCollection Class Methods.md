@@ -21,10 +21,10 @@ For a list of all members of this type, see [CapturedBreakLineCollection members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Add](topic14107.md)| Adds a new break-line.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14108.md)| Gets an enumerator which enumerates over the break-lines in the collection.   
-![Public Method](dotnetimages/publicMethod.gif)| [Remove](topic14109.md)| Removes the given break-line.   
-![Public Method](dotnetimages/publicMethod.gif)| [RemoveAt](topic14110.md)| Removes the break-line at the given index.   
+Public Method| [Add](topic14107.md)| Adds a new break-line.   
+Public Method| [GetEnumerator](topic14108.md)| Gets an enumerator which enumerates over the break-lines in the collection.   
+Public Method| [Remove](topic14109.md)| Removes the given break-line.   
+Public Method| [RemoveAt](topic14110.md)| Removes the break-line at the given index.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

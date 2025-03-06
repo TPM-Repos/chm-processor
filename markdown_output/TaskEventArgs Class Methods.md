@@ -15,7 +15,7 @@ For a list of all members of this type, see [TaskEventArgs members](topic11673.m
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic11681.md)|   
+Protected Method| [GetObjectData](topic11681.md)|   
 Top
 
 # See Also

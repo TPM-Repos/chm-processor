@@ -21,9 +21,9 @@ For a list of all members of this type, see [ExecutableNodeRef members](topic128
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetInputEndpointRef](topic12870.md)| Get a reference to one of the node's input endpoints.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetNode](topic12915.md)| Gets the node from the specified project. (Inherited from [DriveWorks.Transactions.NodeRef](topic12909.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [GetOutputEndpointRef](topic12871.md)| Overloaded. Overridden. Get a reference to one of the node's output endpoints.   
+Public Method| [GetInputEndpointRef](topic12870.md)| Get a reference to one of the node's input endpoints.   
+Public Method| [GetNode](topic12915.md)| Gets the node from the specified project. (Inherited from [DriveWorks.Transactions.NodeRef](topic12909.md))  
+Public Method| [GetOutputEndpointRef](topic12871.md)| Overloaded. Overridden. Get a reference to one of the node's output endpoints.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

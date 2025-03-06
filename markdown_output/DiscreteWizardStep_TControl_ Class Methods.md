@@ -21,16 +21,16 @@ For a list of all members of this type, see [DiscreteWizardStep<TControl> member
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetControl](topic776.md)| Overridden. Gets the control which provides the UI for the step.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetControlTyped](topic777.md)| Gets the control.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetNextStep](topic778.md)| Overridden. Gets the next step if the state is valid, a null reference if the state is not valid, or [FinishStep](topic766.md) if the wizard's next action is to finish.   
+Public Method| [GetControl](topic776.md)| Overridden. Gets the control which provides the UI for the step.   
+Public Method| [GetControlTyped](topic777.md)| Gets the control.   
+Public Method| [GetNextStep](topic778.md)| Overridden. Gets the next step if the state is valid, a null reference if the state is not valid, or [FinishStep](topic766.md) if the wizard's next action is to finish.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnNextStepChanged](topic758.md)| Raises the [NextStepChanged](topic769.md) event. (Inherited from [DriveWorks.Applications.DiscreteWizardStep](topic750.md))  
+Protected Method| [OnNextStepChanged](topic758.md)| Raises the [NextStepChanged](topic769.md) event. (Inherited from [DriveWorks.Applications.DiscreteWizardStep](topic750.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

@@ -35,8 +35,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AssertUnlocked](topic6086.md)| Throws an System.InvalidOperationException if the object is locked.   
-![Public Method](dotnetimages/publicMethod.gif)| [Lock](topic6087.md)| Locks the object.   
+Public Method| [AssertUnlocked](topic6086.md)| Throws an System.InvalidOperationException if the object is locked.   
+Public Method| [Lock](topic6087.md)| Locks the object.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

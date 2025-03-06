@@ -38,8 +38,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [AreAllIncluded](topic1086.md)| Checks whether the state filter means that the filtered entity is included in the specified state by verifying that all of the included states are included in the state.   
-![Public Method](dotnetimages/publicMethod.gif)| [IsIncluded](topic1087.md)| Checks whether the state filter means that the filtered entity is included in the specified state.   
+Public Method| [AreAllIncluded](topic1086.md)| Checks whether the state filter means that the filtered entity is included in the specified state by verifying that all of the included states are included in the state.   
+Public Method| [IsIncluded](topic1087.md)| Checks whether the state filter means that the filtered entity is included in the specified state.   
 Top
 
 # See Also

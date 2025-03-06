@@ -21,7 +21,7 @@ For a list of all members of this type, see [GenerationSettings members](topic15
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Load](topic15245.md)| Loads settings from the specified group.   
+Public Method| [Load](topic15245.md)| Loads settings from the specified group.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

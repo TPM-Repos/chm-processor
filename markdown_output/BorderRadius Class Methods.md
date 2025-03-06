@@ -21,7 +21,7 @@ For a list of all members of this type, see [BorderRadius members](topic7329.md)
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [ToString](topic7335.md)|   
+Public Method| [ToString](topic7335.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

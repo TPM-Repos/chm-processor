@@ -26,7 +26,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetFullName](topic5815.md)| Gets the full name of the macro.   
+Public Method| [GetFullName](topic5815.md)| Gets the full name of the macro.   
 Top
 
 # See Also

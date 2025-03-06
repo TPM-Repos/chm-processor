@@ -15,8 +15,8 @@ For a list of all members of this type, see [RuleSearchProcess members](topic132
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Search](topic13218.md)| Starts the search process. section  
-![Public Method](dotnetimages/publicMethod.gif)| [StopSearch](topic13219.md)| Stops the search process.   
+Public Method| [Search](topic13218.md)| Starts the search process. section  
+Public Method| [StopSearch](topic13219.md)| Stops the search process.   
 Top
 
 # See Also

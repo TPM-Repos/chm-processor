@@ -15,7 +15,7 @@ For a list of all members of this type, see [UserDetails members](topic10741.md)
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic10748.md)|   
+Public Method| [GetObjectData](topic10748.md)|   
 Top
 
 # See Also

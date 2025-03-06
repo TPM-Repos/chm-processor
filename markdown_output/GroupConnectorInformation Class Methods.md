@@ -21,18 +21,18 @@ For a list of all members of this type, see [GroupConnectorInformation members](
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetClone](topic3091.md)| Creates a cloned version of this object.   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetClone](topic3091.md)| Creates a cloned version of this object.   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [EnsureDataStored](topic3090.md)| Called to stores all current information to the [Data](topic3093.md) property.   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
-![Protected Method](dotnetimages/protectedMethod.gif)| [OnInitialized](topic3092.md)| Called when basic information and data has been updated or set.   
+Protected Method| [EnsureDataStored](topic3090.md)| Called to stores all current information to the [Data](topic3093.md) property.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [OnInitialized](topic3092.md)| Called when basic information and data has been updated or set.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

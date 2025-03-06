@@ -21,10 +21,10 @@ For a list of all members of this type, see [JobQueue members](topic3595.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Dispose](topic3600.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetNextJob](topic3601.md)| Gets the next job in the queue.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetCompleted](topic3602.md)| Flags the specified job as having been completed by the current client.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetFailed](topic3603.md)| Flags the specified job as having failed to be processed by the current client.   
+Public Method| [Dispose](topic3600.md)|   
+Public Method| [GetNextJob](topic3601.md)| Gets the next job in the queue.   
+Public Method| [SetCompleted](topic3602.md)| Flags the specified job as having been completed by the current client.   
+Public Method| [SetFailed](topic3603.md)| Flags the specified job as having failed to be processed by the current client.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

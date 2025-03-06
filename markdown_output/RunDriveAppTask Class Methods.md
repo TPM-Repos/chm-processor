@@ -15,7 +15,7 @@ For a list of all members of this type, see [RunDriveAppTask members](topic1943.
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Execute](topic1949.md)| Runs the DriveApp using the alias name specified in the arguments property.   
+Public Method| [Execute](topic1949.md)| Runs the DriveApp using the alias name specified in the arguments property.   
 Top
 
 # See Also

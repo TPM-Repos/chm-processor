@@ -23,10 +23,10 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromMacro](topic13146.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetNode](topic13147.md)| Overridden.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetOutputEndpointRef](topic12916.md)| Overloaded. Get a reference to one of the node's output endpoints. (Inherited from [DriveWorks.Transactions.NodeRef](topic12909.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [GetStartNode](topic13148.md)|   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromMacro](topic13146.md)|   
+Public Method| [GetNode](topic13147.md)| Overridden.   
+Public Method| [GetOutputEndpointRef](topic12916.md)| Overloaded. Get a reference to one of the node's output endpoints. (Inherited from [DriveWorks.Transactions.NodeRef](topic12909.md))  
+Public Method| [GetStartNode](topic13148.md)|   
 Top
 
 # See Also

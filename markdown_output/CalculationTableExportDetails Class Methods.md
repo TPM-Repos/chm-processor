@@ -21,14 +21,14 @@ For a list of all members of this type, see [CalculationTableExportDetails membe
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CommitChanges](topic5595.md)| Applies all changed values to the export document. (Inherited from [DriveWorks.TableExportDetails](topic5589.md))  
+Public Method| [CommitChanges](topic5595.md)| Applies all changed values to the export document. (Inherited from [DriveWorks.TableExportDetails](topic5589.md))  
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [CommitChangesCore](topic2456.md)| Overridden.   
+Protected Method| [CommitChangesCore](topic2456.md)| Overridden.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

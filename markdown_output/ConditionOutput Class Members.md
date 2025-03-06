@@ -36,18 +36,18 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Fulfill](topic7080.md)| Assign a static value to this input. (Inherited from [DriveWorks.EventFlow.NodeOutput](topic7074.md))  
-![Public Method](dotnetimages/publicMethod.gif)| [GetConnections](topic7081.md)| Gets all connections that has been made to this output. (Inherited from [DriveWorks.EventFlow.NodeOutput](topic7074.md))  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Unlock](topic6907.md)| Unlocks this condition path. Letting the [IFlowNode](topic6873.md) execution engine know that it should follow the connections made to this output.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Fulfill](topic7080.md)| Assign a static value to this input. (Inherited from [DriveWorks.EventFlow.NodeOutput](topic7074.md))  
+Public Method| [GetConnections](topic7081.md)| Gets all connections that has been made to this output. (Inherited from [DriveWorks.EventFlow.NodeOutput](topic7074.md))  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Unlock](topic6907.md)| Unlocks this condition path. Letting the [IFlowNode](topic6873.md) execution engine know that it should follow the connections made to this output.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

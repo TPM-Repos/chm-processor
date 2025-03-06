@@ -42,15 +42,15 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Flush](topic6024.md)| Flushes the buffered values to the rule which is being buffered.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic6026.md)| Sets the rule and comment at the same time.   
+Public Method| [Flush](topic6024.md)| Flushes the buffered values to the rule which is being buffered.   
+Public Method| [SetRuleAndComment](topic6026.md)| Sets the rule and comment at the same time.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [FlushCore](topic6025.md)|   
+Protected Method| [FlushCore](topic6025.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

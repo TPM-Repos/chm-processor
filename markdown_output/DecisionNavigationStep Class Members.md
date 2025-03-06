@@ -43,21 +43,21 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Delete](topic10183.md)| Deletes the step from the navigation. (Inherited from [DriveWorks.Navigation.NavigationStep](topic10175.md))  
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetVersionHistory](topic10132.md)| Gets the rule condition rule history for this decision.   
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic10133.md)| Overloaded. Sets the rule and the comment for the Decision Step.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Delete](topic10183.md)| Deletes the step from the navigation. (Inherited from [DriveWorks.Navigation.NavigationStep](topic10175.md))  
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetVersionHistory](topic10132.md)| Gets the rule condition rule history for this decision.   
+Public Method| [SetRuleAndComment](topic10133.md)| Overloaded. Sets the rule and the comment for the Decision Step.   
 Top
 
 # ![](dotnetimages/collapse.gif)Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [AssertNotDeleted](topic10181.md)| Checks to see if the item has been deleted, and if it has, throws an instance of the [DriveWorks.ItemDeletedException](topic3549.md) exception. (Inherited from [DriveWorks.Navigation.NavigationStep](topic10175.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [ChangeNameCore](topic10182.md)| When overridden by a derived class, changes the name of the navigation step. (Inherited from [DriveWorks.Navigation.NavigationStep](topic10175.md))  
-![Protected Method](dotnetimages/protectedMethod.gif)| [DeleteCore](topic10131.md)| Overridden.   
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| [AssertNotDeleted](topic10181.md)| Checks to see if the item has been deleted, and if it has, throws an instance of the [DriveWorks.ItemDeletedException](topic3549.md) exception. (Inherited from [DriveWorks.Navigation.NavigationStep](topic10175.md))  
+Protected Method| [ChangeNameCore](topic10182.md)| When overridden by a derived class, changes the name of the navigation step. (Inherited from [DriveWorks.Navigation.NavigationStep](topic10175.md))  
+Protected Method| [DeleteCore](topic10131.md)| Overridden.   
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # ![](dotnetimages/collapse.gif)Public Events

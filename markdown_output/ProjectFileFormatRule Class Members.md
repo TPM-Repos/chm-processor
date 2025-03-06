@@ -33,7 +33,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [SetRuleAndComment](topic14596.md)| Sets both the rule and comment for this property in one action.   
+Public Method| [SetRuleAndComment](topic14596.md)| Sets both the rule and comment for this property in one action.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

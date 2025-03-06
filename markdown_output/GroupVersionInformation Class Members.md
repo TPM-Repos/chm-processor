@@ -38,10 +38,10 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CompareTo](topic3456.md)| Compares the specified [GroupVersionInformation](topic3446.md) with the current instance.   
-![Public Method](dotnetimages/publicMethod.gif)| [Equals](topic3457.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetObjectData](topic3458.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [ToString](topic3459.md)|   
+Public Method| [CompareTo](topic3456.md)| Compares the specified [GroupVersionInformation](topic3446.md) with the current instance.   
+Public Method| [Equals](topic3457.md)|   
+Public Method| [GetObjectData](topic3458.md)|   
+Public Method| [ToString](topic3459.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)Public Operators

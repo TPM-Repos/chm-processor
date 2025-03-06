@@ -21,7 +21,7 @@ For a list of all members of this type, see [GenerationTaskScopeProvider members
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetScopeNames](topic13742.md)|   
+Public Method| [GetScopeNames](topic13742.md)|   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

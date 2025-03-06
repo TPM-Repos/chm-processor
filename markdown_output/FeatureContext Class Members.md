@@ -33,7 +33,7 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [GetParsedInput](topic15195.md)| Gets the parsed input with the given name.   
+Public Method| [GetParsedInput](topic15195.md)| Gets the parsed input with the given name.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

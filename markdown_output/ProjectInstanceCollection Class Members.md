@@ -29,8 +29,8 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Find](topic14634.md)| Looks for an instance with the given address.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetEnumerator](topic14635.md)| Gets an object which can enumerate over the items in the collection.   
+Public Method| [Find](topic14634.md)| Looks for an instance with the given address.   
+Public Method| [GetEnumerator](topic14635.md)| Gets an object which can enumerate over the items in the collection.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

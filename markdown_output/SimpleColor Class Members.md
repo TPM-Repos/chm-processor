@@ -26,15 +26,15 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CompareTo](topic8862.md)| Overloaded.   
-![Public Method](dotnetimages/publicMethod.gif)| [Equals](topic8865.md)| Overloaded.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromArgb](topic8868.md)| Initializes a new instance of the [SimpleColor](topic8856.md) class.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromColor](topic8869.md)| Initializes a new instance of the [SimpleColor](topic8856.md) class.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromName](topic8870.md)| Initializes a new instance of the [SimpleColor](topic8856.md) class.   
-![Public Method](dotnetimages/publicMethod.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromRgb](topic8871.md)| Overloaded. Initializes a new instance of the [SimpleColor](topic8856.md) class.   
-![Public Method](dotnetimages/publicMethod.gif)| [ToColor](topic8874.md)| Converts the simple color to its GDI representation.   
-![Public Method](dotnetimages/publicMethod.gif)| [ToInt32](topic8875.md)| Converts the color to an integer in the order ARGB.   
-![Public Method](dotnetimages/publicMethod.gif)| [ToString](topic8876.md)| Returns the string version of the color.   
+Public Method| [CompareTo](topic8862.md)| Overloaded.   
+Public Method| [Equals](topic8865.md)| Overloaded.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromArgb](topic8868.md)| Initializes a new instance of the [SimpleColor](topic8856.md) class.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromColor](topic8869.md)| Initializes a new instance of the [SimpleColor](topic8856.md) class.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromName](topic8870.md)| Initializes a new instance of the [SimpleColor](topic8856.md) class.   
+Public Method![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [FromRgb](topic8871.md)| Overloaded. Initializes a new instance of the [SimpleColor](topic8856.md) class.   
+Public Method| [ToColor](topic8874.md)| Converts the simple color to its GDI representation.   
+Public Method| [ToInt32](topic8875.md)| Converts the color to an integer in the order ARGB.   
+Public Method| [ToString](topic8876.md)| Returns the string version of the color.   
 Top
 
 # See Also

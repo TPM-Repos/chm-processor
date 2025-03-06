@@ -27,24 +27,24 @@ Top
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [CreateCategory](topic5365.md)| Creates a new project category with the specified name.   
-![Public Method](dotnetimages/publicMethod.gif)| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [Delete](topic5366.md)| Deletes an empty project category.   
-![Public Method](dotnetimages/publicMethod.gif)| [Equals](topic5367.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCategories](topic5368.md)| Gets all the category's child categories.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetCategory](topic5369.md)| Gets the child project category with the specified name.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetFullPath](topic5370.md)| Gets the fully qualified path to the project category.   
-![Public Method](dotnetimages/publicMethod.gif)| [GetHashCode](topic5371.md)|   
-![Public Method](dotnetimages/publicMethod.gif)| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
-![Public Method](dotnetimages/publicMethod.gif)| [GetMacros](topic5372.md)| Gets all the macros in the category.   
-![Public Method](dotnetimages/publicMethod.gif)| [TryGetCategory](topic5373.md)| Tries to get a category with the specified name.   
+Public Method| [CreateCategory](topic5365.md)| Creates a new project category with the specified name.   
+Public Method| CreateObjRef|  (Inherited from System.MarshalByRefObject)  
+Public Method| [Delete](topic5366.md)| Deletes an empty project category.   
+Public Method| [Equals](topic5367.md)|   
+Public Method| [GetCategories](topic5368.md)| Gets all the category's child categories.   
+Public Method| [GetCategory](topic5369.md)| Gets the child project category with the specified name.   
+Public Method| [GetFullPath](topic5370.md)| Gets the fully qualified path to the project category.   
+Public Method| [GetHashCode](topic5371.md)|   
+Public Method| GetLifetimeService|  (Inherited from System.MarshalByRefObject)  
+Public Method| [GetMacros](topic5372.md)| Gets all the macros in the category.   
+Public Method| [TryGetCategory](topic5373.md)| Tries to get a category with the specified name.   
 Top
 
 # Protected Methods
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
+Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
 # Public Events

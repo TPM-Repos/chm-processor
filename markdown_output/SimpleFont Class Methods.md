@@ -15,8 +15,8 @@ For a list of all members of this type, see [SimpleFont members](topic8883.md).
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Equals](topic8890.md)| Overloaded.   
-![Public Method](dotnetimages/publicMethod.gif)| [ToString](topic8893.md)| Returns the string version of the font.   
+Public Method| [Equals](topic8890.md)| Overloaded.   
+Public Method| [ToString](topic8893.md)| Returns the string version of the font.   
 Top
 
 # See Also

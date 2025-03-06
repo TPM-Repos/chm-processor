@@ -21,8 +21,8 @@ For a list of all members of this type, see [NameSearchProcess members](topic131
 
 | Name| Description  
 ---|---|---  
-![Public Method](dotnetimages/publicMethod.gif)| [Search](topic13201.md)| Starts the search process.   
-![Public Method](dotnetimages/publicMethod.gif)| [StopSearch](topic13202.md)| Stops the searching process if it is running.   
+Public Method| [Search](topic13201.md)| Starts the search process.   
+Public Method| [StopSearch](topic13202.md)| Stops the searching process if it is running.   
 Top
 
 # ![](dotnetimages/collapse.gif)See Also

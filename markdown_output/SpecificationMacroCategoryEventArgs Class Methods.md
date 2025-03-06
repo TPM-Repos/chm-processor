@@ -15,7 +15,7 @@ For a list of all members of this type, see [SpecificationMacroCategoryEventArgs
 
 | Name| Description  
 ---|---|---  
-![Protected Method](dotnetimages/protectedMethod.gif)| [GetObjectData](topic5394.md)|   
+Protected Method| [GetObjectData](topic5394.md)|   
 Top
 
 # See Also
