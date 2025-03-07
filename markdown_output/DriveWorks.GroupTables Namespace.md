@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,13 +9,13 @@ See Also [Inheritance Hierarchy](topic10008.md) [Send Feedback](mailto:apisuppor
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
 ![Class](dotnetimages/Class.gif)| [SimpleGroupTable](topic10009.md) | Provides access to a data store that is stored and synced throughout a DriveWorks group.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

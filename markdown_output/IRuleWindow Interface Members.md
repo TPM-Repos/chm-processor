@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -16,7 +14,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [IRuleWindow](topic1607.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -30,7 +28,7 @@ The following tables list the members exposed by [IRuleWindow](topic1607.md).
 ![ Property](dotnetimages/Property.gif)| [FormulaSelectionStart](topic1621.md)| Gets/sets the current selection's start index for the active rule's formula.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -38,7 +36,7 @@ Top
 ![ Method](dotnetimages/Method.gif)| [InsertValue](topic1613.md)| Inserts specified value into either the active rule's formula or the currently active wizard.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

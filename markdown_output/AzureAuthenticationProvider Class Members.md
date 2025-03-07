@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,21 +15,21 @@ Glossary Item Box
 
 The following tables list the members exposed by [AzureAuthenticationProvider](topic10634.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [AzureAuthenticationProvider Constructor](topic10640.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Fields
+# Public Fields
 
 | Name| Description  
 ---|---|---  
 ![Public Field](dotnetimages/publicField.gif)| [ProviderName](topic10645.md)| Gets the name of the authentication provider.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -41,7 +39,7 @@ Public Method| [CreatePrincipal](topic10643.md)| Constructs a principal correspo
 Public Method| [Initialize](topic10644.md)| Creates a Public Client with the Tenant and Client IDs.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

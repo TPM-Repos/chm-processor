@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +15,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [ProjectDetails](topic4330.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [ProjectDetails Constructor](topic4337.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -36,7 +34,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [Name](topic4345.md)| Gets/sets the name of of the project.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -44,7 +42,7 @@ Public Method| [GetObjectData](topic4338.md)|
 Public Method| [GetProjectFilePath](topic4339.md)| Gets the fully-qualified path to the project file.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

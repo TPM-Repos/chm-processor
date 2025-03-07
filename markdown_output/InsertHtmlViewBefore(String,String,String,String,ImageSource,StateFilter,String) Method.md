@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -38,7 +36,7 @@ Glossary Item Box
 
 Inserts a new view before an existing view. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -54,7 +52,7 @@ Visual Basic (Declaration)|
        ByVal _htmlPath_ As String _
     )   
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -100,17 +98,17 @@ _stateFilter_
 _htmlPath_
     A URI which identifies the HTML file to load.
 
-# ![](dotnetimages/collapse.gif)Remarks
+# Remarks
 
 Views are organized into two levels, a parent view generally categorizes and describes its children (this view is usually an HTML view), and the children provide access to capabilities related to the parent (these are usually control views).
 
 Views may not be nested deeper than two levels.
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

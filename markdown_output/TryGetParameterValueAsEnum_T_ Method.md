@@ -1,12 +1,3 @@
-       
-
-_T_
-    The type to convert the released parameter value to.
-
-   
----  
-DriveWorks SDK Documentation  |   
----|---  
 TryGetParameterValueAsEnum<T> Method   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [ReleasedComponentTask Class](topic5061.md) : TryGetParameterValueAsEnum<T> Method  

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 For a list of all members of this type, see [GroupDataTable members](topic3111.md).
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -28,7 +26,7 @@ Public Method| [SetRows](topic3126.md)| Updates rows of this table with the spec
 Public Method| [SetTableData](topic3127.md)| Sets the data of this table to the specified data.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -39,7 +37,7 @@ Protected Method| [OnMetaDataChanged](topic3124.md)| Called whenever the data pr
 Protected Method| [RaiseTableDataChanged](topic3125.md)| Raises the [TableDataChanged](topic3135.md) event.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

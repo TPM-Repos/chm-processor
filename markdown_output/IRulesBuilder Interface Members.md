@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -16,7 +14,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [IRulesBuilder](topic1590.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -24,14 +22,14 @@ The following tables list the members exposed by [IRulesBuilder](topic1590.md).
 ![ Property](dotnetimages/Property.gif)| [ServiceManager](topic1596.md)| Gets a service manager which provides access to services provided by the rules builder.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
 ![ Event](dotnetimages/Event.gif)| [Closing](topic1597.md)| Raised by the RulesBuilder when it is closing.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

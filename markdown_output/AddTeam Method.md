@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -20,7 +18,7 @@ Glossary Item Box
 
 Adds the team with the specified identifier to the collection. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -30,7 +28,7 @@ Visual Basic (Declaration)|
        ByVal _teamId_ As Guid _
     )   
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -52,15 +50,15 @@ C#|
  _teamId_
     The unique identifier of the team to add.
 
-# ![](dotnetimages/collapse.gif)Remarks
+# Remarks
 
 If an attempt is made to add a team to an instance which is marked as "All Teams Allowed", i.e. the [IsUniversal](topic11756.md) property returns true, no action is taken by this method until the list is cleared by calling the [Clear](topic11744.md) method first, or until the [IsUniversal](topic11756.md) property is set to false.
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

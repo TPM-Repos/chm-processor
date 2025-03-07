@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [ProjectVariableCategory](topic4983.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -29,7 +27,7 @@ The following tables list the members exposed by [ProjectVariableCategory](topic
 ![Public Property](dotnetimages/publicProperty.gif)| [Project](topic5005.md)| Gets the project to which the project category belongs.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -46,14 +44,14 @@ Public Method| [GetVariables](topic4996.md)| Gets all the variables in the categ
 Public Method| [TryGetCategory](topic4997.md)| Tries to get a category with the specified name.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -63,14 +61,14 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [ParentChanged](topic5009.md)| Raised when the parent is changed.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Operators
+# Public Operators
 
 ![public Operator](dotnetimages/publicOperator.gif) [Equality](topic4998.md) |   
 ---|---  
 ![public Operator](dotnetimages/publicOperator.gif) [Inequality](topic4999.md) |   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

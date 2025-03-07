@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 For a list of all members of this type, see [FlowProperties members](topic10906.md).
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -32,14 +30,14 @@ Public Method| [RegisterInt64Property](topic10935.md)| Overloaded. Creates a new
 Public Method| [RegisterStringProperty](topic10940.md)| Overloaded. Creates a new specification flow property which can store string data.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

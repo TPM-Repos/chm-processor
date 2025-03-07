@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 Gets information about the item that have been added to the current project or specification. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -25,7 +23,7 @@ Visual Basic (Declaration)|
     
     Public Function GetData() As DataTable  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -44,11 +42,11 @@ C#|
 
 An instance of the System.Data.DataTable type which has been populated with information about the item. The data table consists of one row for each item, and is populated with the data for each column in the [Columns](topic4527.md) property, as well as two additional columns called Name and Type which identify the item name, and the dialog from which the item was created.
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

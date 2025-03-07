@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,11 +15,11 @@ Glossary Item Box
 
 Represents a logical endpoint on a [IFlowNode](topic6873.md) that allows logical connections to be made between the node this output belongs to and the node a [NodeNavigationInput](topic7058.md) belongs to. 
 
-# ![](dotnetimages/collapse.gif)Object Model
+# Object Model
 
 ![](dotnetdiagramimages/image377.png)
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -30,7 +28,7 @@ Visual Basic (Declaration)|
     Public Class NodeNavigationOutput 
        Inherits [NodeOutput](topic7074.md)  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -42,7 +40,7 @@ C#|
     
     public class NodeNavigationOutput : [NodeOutput](topic7074.md)   
   
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 System.MarshalByRefObject  
@@ -51,11 +49,11 @@ System.MarshalByRefObject
 **DriveWorks.EventFlow.NodeNavigationOutput**  
 
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -16,7 +14,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [IProjectService](topic382.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -27,7 +25,7 @@ The following tables list the members exposed by [IProjectService](topic382.md).
 ![ Property](dotnetimages/Property.gif)| [SupportsOpenProject](topic396.md)| Gets a boolean indicating whether the implementation supports projects being opened by 3rd party code.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -38,7 +36,7 @@ Top
 ![ Method](dotnetimages/Method.gif)| [RaiseProjectRenameStarted](topic391.md)| Raises the [ProjectRenameStarted](topic402.md) event with the given parameters.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -50,7 +48,7 @@ Top
 ![ Event](dotnetimages/Event.gif)| [ProjectRenameStarted](topic402.md)| Raised when a project has started the renaming process.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

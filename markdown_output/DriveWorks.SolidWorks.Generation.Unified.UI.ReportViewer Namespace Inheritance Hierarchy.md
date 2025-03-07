@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer Namespace Inheritance H
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer.ReportItemBase](topic15376.md)  
@@ -28,7 +26,7 @@ System.Windows.Controls.UserControl
 [DriveWorks.SolidWorks.Generation.Unified.UI.ReportViewer.ReportStatusSummary](topic15407.md)  
 
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

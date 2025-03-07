@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [MacroStartNode](topic7050.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -31,7 +29,7 @@ The following tables list the members exposed by [MacroStartNode](topic7050.md).
 ![Public Property](dotnetimages/publicProperty.gif)| [Top](topic7133.md)| Gets the top position of this start node. (Inherited from [DriveWorks.EventFlow.StartNode](topic7120.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -39,7 +37,7 @@ Public Method| [NotifyRequirementsChanged](topic7126.md)| Called whenever the va
 Public Method| [TryGetOutputEndpoint](topic7127.md)| Attempts to retrieve the end point with the given name. (Inherited from [DriveWorks.EventFlow.StartNode](topic7120.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -47,7 +45,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [TopChanged](topic7135.md)| Occurs whenever the [StartNode.Top](topic7133.md) property's value has changed. (Inherited from [DriveWorks.EventFlow.StartNode](topic7120.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

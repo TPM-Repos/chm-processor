@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [GroupDataTables](topic3136.md).
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -25,7 +23,7 @@ Public Method| [AddTable](topic3142.md)| Overloaded. Adds a table of the specifi
 Public Method| [TryGetTable](topic3145.md)| Overloaded. Attempts to find a table with the specified name.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -33,7 +31,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [TableDeleted](topic3149.md)| Raised when a table is removed from the group.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

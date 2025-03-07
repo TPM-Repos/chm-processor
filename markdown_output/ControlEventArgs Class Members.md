@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,21 +15,21 @@ Glossary Item Box
 
 The following tables list the members exposed by [ControlEventArgs](topic7806.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [ControlEventArgs Constructor](topic7812.md)| Overloaded.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
 ![Public Property](dotnetimages/publicProperty.gif)| [Control](topic7815.md)| Gets the control that was affected by the event.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

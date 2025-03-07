@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 Gets the context of the parent specification if the current specification is a child specification. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -25,7 +23,7 @@ Visual Basic (Declaration)|
     
     Public ReadOnly Property ParentContext As [SpecificationContext](topic11149.md)  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -40,15 +38,15 @@ C#|
     
     public [SpecificationContext](topic11149.md) ParentContext {get;}  
   
-# ![](dotnetimages/collapse.gif)Remarks
+# Remarks
 
 If this is a root level context, this property will return a null reference (Nothing in Visual Basic).
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

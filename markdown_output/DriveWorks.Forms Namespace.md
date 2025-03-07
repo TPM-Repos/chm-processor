@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides the DriveWorks Engine-level types related to the DriveWorks Forms technology. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -71,7 +69,7 @@ Provides the DriveWorks Engine-level types related to the DriveWorks Forms techn
 ![Class](dotnetimages/Class.gif)| [UploadControl](topic9323.md) | Provides an implementation of a file uploading control.  
 ![Class](dotnetimages/Class.gif)| [WebFrameControl](topic9356.md) | Represents a control that can display a web page.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -81,7 +79,7 @@ Provides the DriveWorks Engine-level types related to the DriveWorks Forms techn
 ![Interface](dotnetimages/Interface.gif)| [IPreviewResourceHandler](topic7286.md) | Handles resource fetching and caching for a particular preview result.  
 ![Interface](dotnetimages/Interface.gif)| [IPreviewTranslator](topic7296.md) | Provides a contract to an [EffectivePreviewResult](topic8075.md) translator.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
@@ -92,7 +90,7 @@ Provides the DriveWorks Engine-level types related to the DriveWorks Forms techn
 ![Delegate](dotnetimages/Delegate.gif)| [PreviewControl.PreviewStartingEventHandler](topic9369.md) |   
 ![Delegate](dotnetimages/Delegate.gif)| [PreviewControl.PreviewSuccessEventHandler](topic9370.md) |   
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -123,7 +121,7 @@ Provides the DriveWorks Engine-level types related to the DriveWorks Forms techn
 ![Enumeration](dotnetimages/Enumeration.gif)| [VerticalControlAlignment](topic7326.md) | Represents the vertical alignment of a control's content.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [VerticalTextAlignment](topic7327.md) | Controls the vertical alignment of a piece of text.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

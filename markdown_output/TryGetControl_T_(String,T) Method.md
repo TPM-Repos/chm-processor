@@ -1,12 +1,3 @@
-       
-
-_T_
-    
-
-   
----  
-DriveWorks SDK Documentation  |   
----|---  
 TryGetControl<T>(String,T) Method   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks.Navigation Namespace](topic10114.md) > [ProjectNavigation Class](topic10222.md) > [TryGetControl Method](topic10240.md) : TryGetControl<T>(String,T) Method  

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides the basis for captured, project, and released components in DriveWorks. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -36,7 +34,7 @@ Provides the basis for captured, project, and released components in DriveWorks.
 ![Class](dotnetimages/Class.gif)| [ReleasedComponentTaskCondition](topic6370.md) | Represents a released [DriveWorks.Components.Tasks.ComponentTaskCondition](topic6493.md).  
 ![Class](dotnetimages/Class.gif)| [ReleaseEnvironment](topic6379.md) | Provides the environment required for releasing one or more components.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -46,7 +44,7 @@ Provides the basis for captured, project, and released components in DriveWorks.
 ![Interface](dotnetimages/Interface.gif)| [IReleaseParameterTracker](topic6113.md) | Provides support for a component being released to provide diagnosting information about a parameter which was released.  
 ![Interface](dotnetimages/Interface.gif)| [IReleaseTracker](topic6119.md) | Provides a contract for an object which is used to track the release of components.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -54,7 +52,7 @@ Provides the basis for captured, project, and released components in DriveWorks.
 ![Enumeration](dotnetimages/Enumeration.gif)| [ReleasedComponentFlags](topic6145.md) | Specifies additional behaviour for [ReleasedComponent](topic6324.md)s.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [ReleasedComponentReferenceAction](topic6146.md) | Specifies the action to take for a released component reference.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

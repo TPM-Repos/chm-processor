@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ DriveWorks.Connectors.Http Namespace Inheritance Hierarchy
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 System.MarshalByRefObject  
@@ -20,7 +18,7 @@ DriveWorks.DomainObject
 [DriveWorks.Connectors.Http.HttpConnectorConfiguration](topic6838.md)  
 
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [FlowProperty](topic10946.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -38,14 +36,14 @@ The following tables list the members exposed by [FlowProperty](topic10946.md).
 ![Public Property](dotnetimages/publicProperty.gif)| [ValueType](topic6929.md)| The underlying CLR type of the end point. (Inherited from [DriveWorks.EventFlow.ConnectionEndpoint](topic6918.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
 ![Protected Property](dotnetimages/protectedProperty.gif)| [DataElement](topic10967.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -61,7 +59,7 @@ Public Method| [SetValue](topic10963.md)| Sets the value of the property.
 Public Method| [Unbind](topic10964.md)| Unbinds the property.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -73,7 +71,7 @@ Protected Method| [RaiseRuleChanged](topic10961.md)| Raises the [RuleChanged](to
 Protected Method| [RaiseValueChanged](topic10962.md)| Raises the [ValueChanged](topic10977.md) event.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -83,7 +81,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [ValueChanged](topic10977.md)| Raised when the value for this flow property is changed.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

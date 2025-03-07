@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [ComponentTaskAccessor](topic6429.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -25,14 +23,14 @@ The following tables list the members exposed by [ComponentTaskAccessor](topic64
 ![Public Property](dotnetimages/publicProperty.gif)| [TotalTaskCount](topic6454.md)| Gets the total number of tasks in the accessor.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
 ![Protected Property](dotnetimages/protectedProperty.gif)| [Collections](topic6452.md)| Gets the task collections this accessor manages.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -44,14 +42,14 @@ Public Method| [IsNameTaken](topic6450.md)| Checks if the given name is occupied
 Public Method| [Remove](topic6451.md)| Removes the given task from the collection and deletes it from the project.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| [EnsureCollection](topic6441.md)| Ensures that a task collection for the given location has been created.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

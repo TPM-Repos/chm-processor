@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -20,7 +18,7 @@ Glossary Item Box
 
 Invokes the specified transition. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -30,7 +28,7 @@ Visual Basic (Declaration)|
        ByVal _transitionName_ As String _
     ) As Boolean  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -57,7 +55,7 @@ C#|
 
 True if the transition was successfully invoked, false if one or more conditions caused the transition to be aborted.
 
-# ![](dotnetimages/collapse.gif)Exceptions
+# Exceptions
 
 Exception| Description  
 ---|---  
@@ -69,11 +67,11 @@ System.IO.PathTooLongException| One or more paths are too long to complete the s
 System.InvalidOperationException| The transition can't be invoked because an operation or transition is already being processed, or because the transition takes one running state to another running state.  
 [TaskExecutionException](topic11683.md)| The transition can't be invoked because a task threw an unhandled exception.  
   
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [PollingConnectorBase](topic1914.md).
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
@@ -27,7 +25,7 @@ The following tables list the members exposed by [PollingConnectorBase](topic191
 ![Protected Property](dotnetimages/protectedProperty.gif)| [PollingInterval](topic1924.md)| Gets/sets the polling interval.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -39,7 +37,7 @@ Protected Method| [RaiseStarted](topic1843.md)| Raises the [Started](topic1847.m
 Protected Method| [RaiseStopped](topic1844.md)| Raises the [Stopped](topic1848.md) event. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.ConnectorBase](topic1834.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -47,7 +45,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [Stopped](topic1848.md)| Occurs when a connector has stopped. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.ConnectorBase](topic1834.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

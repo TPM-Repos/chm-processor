@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ See Also [Inheritance Hierarchy](topic10039.md) [Send Feedback](mailto:apisuppor
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -25,7 +23,7 @@ Glossary Item Box
 ![Class](dotnetimages/Class.gif)| [StartAgentNotification](topic10100.md) | Serves as a notification message specifying that an agent should start.  
 ![Class](dotnetimages/Class.gif)| [StopAgentNotification](topic10107.md) | Serves as a notification message specifying that an agent should stop.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

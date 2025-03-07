@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,11 +15,11 @@ Glossary Item Box
 
 Represents a captured SolidWorks assembly. 
 
-# ![](dotnetimages/collapse.gif)Object Model
+# Object Model
 
 ![](dotnetdiagramimages/image773.png)
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -32,7 +30,7 @@ Visual Basic (Declaration)|
        Inherits [CapturedSolidWorksComponent](topic14343.md)
        Implements [DriveWorks.Components.IHasReferences](topic6099.md), [IHasCapturedAlternatives](topic13927.md), [IHasCapturedCustomProperties](topic13933.md), [IHasCapturedDimensions](topic13939.md), [IHasCapturedFeatures](topic13945.md), [IHasCapturedFormats](topic13951.md), [IHasCapturedReferences](topic13957.md)   
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -45,7 +43,7 @@ C#|
     [[ComponentFactoryAttribute](topic6167.md)(DriveWorks.SolidWorks.Components.AssemblyFactory)]
     public class CapturedAssembly : [CapturedSolidWorksComponent](topic14343.md), [DriveWorks.Components.IHasReferences](topic6099.md), [IHasCapturedAlternatives](topic13927.md), [IHasCapturedCustomProperties](topic13933.md), [IHasCapturedDimensions](topic13939.md), [IHasCapturedFeatures](topic13945.md), [IHasCapturedFormats](topic13951.md), [IHasCapturedReferences](topic13957.md)    
   
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 System.MarshalByRefObject  
@@ -54,11 +52,11 @@ System.MarshalByRefObject
 **DriveWorks.SolidWorks.Components.CapturedAssembly**  
 
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

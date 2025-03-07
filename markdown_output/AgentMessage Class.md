@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,11 +15,11 @@ Glossary Item Box
 
 Provides information about a received agent message. 
 
-# ![](dotnetimages/collapse.gif)Object Model
+# Object Model
 
 ![](dotnetdiagramimages/image495.png)
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -31,7 +29,7 @@ Visual Basic (Declaration)|
     <KnownTypeAttribute(MethodName="", Type=System.Byte[])>
     Public Class AgentMessage   
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -45,17 +43,17 @@ C#|
     [KnownTypeAttribute(MethodName="", Type=System.Byte[])]
     public class AgentMessage   
   
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 **DriveWorks.Messaging.AgentMessage**  
 
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

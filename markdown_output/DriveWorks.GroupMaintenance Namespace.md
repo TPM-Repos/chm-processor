@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ See Also [Inheritance Hierarchy](topic9629.md) [Send Feedback](mailto:apisupport
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -49,13 +47,13 @@ Glossary Item Box
 ![Class](dotnetimages/Class.gif)| [StatusMessageEventArgs](topic9981.md) | Event args that describe a status message.  
 ![Class](dotnetimages/Class.gif)| [StorageItemModel](topic9992.md) | Represents a file or folder on disk.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
 ![Delegate](dotnetimages/Delegate.gif)| [ReportMethod](topic10006.md) | Signature for a delegate that is used for reporting.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -73,7 +71,7 @@ Glossary Item Box
 ![Enumeration](dotnetimages/Enumeration.gif)| [CreateDirectoryAction.CreateDirectoryStatus](topic9641.md) | Presents the status of a [CreateDirectoryAction](topic9882.md).  
 ![Enumeration](dotnetimages/Enumeration.gif)| [RemapComponentsAction.RemapComponentsStatus](topic9642.md) | Presents the status of a [RemapComponentsAction](topic9949.md).  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides the standard tasks that are available for use in specification flows. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -106,13 +104,13 @@ Provides the standard tasks that are available for use in specification flows.
 ![Class](dotnetimages/Class.gif)| [UpdateUserPasswordTask](topic12811.md) |   
 ![Class](dotnetimages/Class.gif)| [ZipFolderTask](topic12822.md) | Provides a task which will create a zip from the given folder location. The contents of the folder will be added to the zip, including sub folders. An overwrite option exists.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
 ![Interface](dotnetimages/Interface.gif)| [ICopySpecificationHostService](topic11898.md) | Provides a contract for hosts which support the copying of a specification using the [CopySpecificationTask](topic12084.md) task.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [ProjectCalculationTableColumn](topic3946.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -28,7 +26,7 @@ The following tables list the members exposed by [ProjectCalculationTableColumn]
 ![Public Property](dotnetimages/publicProperty.gif)| [Type](topic3965.md)| The type of the column.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -45,14 +43,14 @@ Public Method| [GetRules](topic3959.md)| Get's all cell rules that re explicitly
 Public Method| [RemoveRule](topic3960.md)| Clears a cell rule at the specified index, causing it to use the column's common rule.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -60,7 +58,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [PropertyChanged](topic3967.md)| Raised when a property is changed, such as name or type.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

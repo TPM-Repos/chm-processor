@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +15,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [ControlCollection](topic7766.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
 ![Public Property](dotnetimages/publicProperty.gif)| [Item](topic7783.md)| Gets the control at the given index.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -38,14 +36,14 @@ Public Method| [Move](topic7779.md)| Move a control from its current index to th
 Public Method| [ProposeNewControlName](topic7780.md)| Overloaded. Proposes a new control name, for example in a copy and paste operation.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -55,7 +53,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [ControlRemoved](topic7787.md)| Raised when a control is removed from the collection.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

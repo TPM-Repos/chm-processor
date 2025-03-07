@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -16,7 +14,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [ICommandMonitor](topic158.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -29,7 +27,7 @@ The following tables list the members exposed by [ICommandMonitor](topic158.md).
 ![ Property](dotnetimages/Property.gif)| [StateFilter](topic173.md)| Gets the filter which determines in which application states the command is visible.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -39,7 +37,7 @@ Top
 ![ Method](dotnetimages/Method.gif)| [ValidateContext](topic166.md)| Validates the specified context is suitable for the command.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -51,7 +49,7 @@ Top
 ![ Event](dotnetimages/Event.gif)| [IsValidChanged](topic179.md)| Raised when the [IsValid](topic170.md) property changes.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

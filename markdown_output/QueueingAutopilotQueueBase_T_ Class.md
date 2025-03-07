@@ -1,9 +1,7 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
 _T_
     
 
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -20,11 +18,11 @@ Glossary Item Box
 
 Provides a base class to make implementing queueing autopilot queues easier. 
 
-# ![](dotnetimages/collapse.gif)Object Model
+# Object Model
 
 ![](dotnetdiagramimages/image67.png)
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -33,7 +31,7 @@ Visual Basic (Declaration)|
     Public MustInherit Class QueueingAutopilotQueueBase(Of T) 
        Implements [IAutopilotQueue](topic1635.md), [DriveWorks.Extensibility.IExtension](topic7152.md)   
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -45,22 +43,22 @@ C#|
     
     public abstract class QueueingAutopilotQueueBase<T> : [IAutopilotQueue](topic1635.md), [DriveWorks.Extensibility.IExtension](topic7152.md)    
   
-# ![](dotnetimages/collapse.gif)Type Parameters
+# Type Parameters
 
 _T_
     
 
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 **DriveWorks.Applications.Autopilot.Extensibility.QueueingAutopilotQueueBase <T>**  
 
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

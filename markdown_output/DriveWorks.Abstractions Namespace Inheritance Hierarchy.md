@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ DriveWorks.Abstractions Namespace Inheritance Hierarchy
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 [DriveWorks.Abstractions.AliasRule](topic6001.md)  
@@ -22,7 +20,7 @@ System.Object
 [DriveWorks.Abstractions.Lock](topic6079.md)  
 
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

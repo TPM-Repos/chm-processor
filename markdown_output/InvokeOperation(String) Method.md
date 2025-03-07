@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -20,7 +18,7 @@ Glossary Item Box
 
 Invokes the specified operation. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -30,7 +28,7 @@ Visual Basic (Declaration)|
        ByVal _operationName_ As String _
     ) As Boolean  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -57,7 +55,7 @@ C#|
 
 True if the operation was successfully invoked, false if one or more conditions caused the operation to be aborted.
 
-# ![](dotnetimages/collapse.gif)Exceptions
+# Exceptions
 
 Exception| Description  
 ---|---  
@@ -65,11 +63,11 @@ Exception| Description
 System.UnauthorizedAccessException| Thrown if the current user does not have permission to invoke the operation.  
 [TaskExecutionException](topic11683.md)| The transition can't be invoked because a task threw an unhandled exception.  
   
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

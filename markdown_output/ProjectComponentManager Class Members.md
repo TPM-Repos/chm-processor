@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,21 +15,21 @@ Glossary Item Box
 
 The following tables list the members exposed by [ProjectComponentManager](topic4094.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [ProjectComponentManager Constructor](topic4100.md)| Creates a new instance of the [ProjectComponentManager](topic4094.md) class.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
 ![Public Property](dotnetimages/publicProperty.gif)| [ProjectLocation](topic4105.md)| Gets the location of the project file that is being used by this manager.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -41,7 +39,7 @@ Public Method| [GetProjectComponentSetIds](topic4103.md)| Gets a collection of a
 Public Method| [UpdateProjectComponentIds](topic4104.md)| Will update the project file with the given component identifiers.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

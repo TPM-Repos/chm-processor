@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ Glossary Item Box
 
 The DriveWorks.Applications is one of the main extensibility libraries in DriveWorks. It contains interfaces for most of the services that can be requested from DriveWorks applications, such as [ISpecificationService Interface](topic489.md), and also contains types which are commonly implemented or inherited by extensions to DriveWorks - for example [WizardBase Class](topic1200.md). 
 
-# ![](dotnetimages/collapse.gif)Namespaces
+# Namespaces
 
 Namespace| Description  
 ---|---  

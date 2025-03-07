@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 For a list of all members of this type, see [ComponentTaskCondition members](topic6494.md).
 
-# ![](dotnetimages/collapse.gif)Public Fields
+# Public Fields
 
 | Name| Description  
 ---|---|---  
@@ -26,7 +24,7 @@ For a list of all members of this type, see [ComponentTaskCondition members](top
 ![Public Field](dotnetimages/publicField.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [TITLE_PARAM_TYPE_ID](topic6509.md)| Gets the unique identifier of the [Title](topic6505.md) parameter in the release data.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

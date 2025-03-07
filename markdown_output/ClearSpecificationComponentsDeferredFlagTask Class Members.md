@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +15,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [ClearSpecificationComponentsDeferredFlagTask](topic12010.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [ClearSpecificationComponentsDeferredFlagTask Constructor](topic12016.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -48,7 +46,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [Width](topic11657.md)| Gets/sets the width of the task. (Inherited from [DriveWorks.Specification.Task](topic11629.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
@@ -56,7 +54,7 @@ Top
 ![Protected Property](dotnetimages/protectedProperty.gif)| [ResultReportLevel](topic6967.md)| Gets the reporting level to use when writing the result of this node to the report. (Inherited from [DriveWorks.EventFlow.ExecutableNodeBase](topic6938.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -69,7 +67,7 @@ Public Method| [TryGetInputEndpoint](topic6955.md)| Attempts to find an input wi
 Public Method| [TryGetOutputEndpoint](topic11646.md)| Attempts to retrieve the end point with the given name. (Inherited from [DriveWorks.Specification.Task](topic11629.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -91,7 +89,7 @@ Protected Method| [RequiresSingleContext](topic11645.md)| Determines whether the
 Protected Method| [SetState](topic6950.md)| Overloaded. Sets the result of executing this node. (Inherited from [DriveWorks.EventFlow.ExecutableNodeBase](topic6938.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -105,7 +103,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [WidthChanged](topic6982.md)| Occurs when the width of the node has changed. (Inherited from [DriveWorks.EventFlow.ExecutableNodeBase](topic6938.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

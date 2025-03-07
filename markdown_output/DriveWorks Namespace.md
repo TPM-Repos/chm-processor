@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides the main DriveWorks Engine types. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -250,7 +248,7 @@ Provides the main DriveWorks Engine types.
 ![Class](dotnetimages/Class.gif)| [WordDocument](topic5885.md) | Provides the capability to work with Microsoft Word documents.  
 ![Class](dotnetimages/Class.gif)| [XmlTemplateDocument](topic5909.md) | Provides the capability to work with XML documents.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -275,7 +273,7 @@ Provides the main DriveWorks Engine types.
 ![Interface](dotnetimages/Interface.gif)| [ISpecificationFileCopyService](topic2316.md) | Provides the contract for objects that copy files relating to specifications.  
 ![Interface](dotnetimages/Interface.gif)| [ITableValue](topic2331.md) | Represents a tabular value which can be used with DriveWorks' controls.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
@@ -290,7 +288,7 @@ Provides the main DriveWorks Engine types.
 ![Delegate](dotnetimages/Delegate.gif)| [VariableCategoryChangedEventHandler](topic5937.md) | Represents the method that will handle the event raised when a variable category is changed.  
 ![Delegate](dotnetimages/Delegate.gif)| [VariableChangedEventHandler](topic5938.md) | Represents the method that will handle the event raised when a variable is changed.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -315,7 +313,7 @@ Provides the main DriveWorks Engine types.
 ![Enumeration](dotnetimages/Enumeration.gif)| [RuleSection](topic2362.md) | Represents a part of DriveWorks containing rules.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [SpecificationPropertiesResult](topic2363.md) | Represents the result of trying to retrieve the properties for a Specification.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

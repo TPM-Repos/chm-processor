@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,21 +15,21 @@ Glossary Item Box
 
 The following tables list the members exposed by [ComponentTaskConditions](topic6561.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [ComponentTaskConditions Constructor](topic6567.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Fields
+# Public Fields
 
 | Name| Description  
 ---|---|---  
 ![Public Field](dotnetimages/publicField.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [CONDITIONS_RELEASE_ID](topic6585.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -41,7 +39,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [Task](topic6584.md)| Gets the task this condition is associated with.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -58,14 +56,14 @@ Public Method| [RemoveAt](topic6579.md)| Removes the condition at the specified 
 Public Method| [Save](topic6580.md)| Saves the conditions in this collection to the highest bidder.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -74,7 +72,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [Removed](topic6588.md)| The event that gets raised whenever a condition has been removed from this collection.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

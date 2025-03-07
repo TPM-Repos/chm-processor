@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides common SolidWorks services and types. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -59,7 +57,7 @@ Provides common SolidWorks services and types.
 ![Class](dotnetimages/Class.gif)| [ResultEventArgs](topic13909.md) | Represents a wrapper event args for events that expects event handlers to return a value.  
 ![Class](dotnetimages/Class.gif)| [VerifyingGenerationRequiredEventArgs](topic13917.md) | Represents the event data for the VerifyingGenerationRequired event.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -71,13 +69,13 @@ Provides common SolidWorks services and types.
 ![Interface](dotnetimages/Interface.gif)| [ISolidWorksState](topic13419.md) | Represents the current SolidWorks state.  
 ![Interface](dotnetimages/Interface.gif)| [ISpecificationsManager](topic13440.md) | Represents common specification manager functionality.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
 ![Delegate](dotnetimages/Delegate.gif)| [FileFormatGenerator.AdditionalFileGeneratedEventHandler](topic13924.md) |   
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -87,7 +85,7 @@ Provides common SolidWorks services and types.
 ![Enumeration](dotnetimages/Enumeration.gif)| [MergedItemState](topic13453.md) | Represents the state of a merged item.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [TaskExecutionResult](topic13454.md) | Represents the execution result of a [GenerationTask](topic13678.md).  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

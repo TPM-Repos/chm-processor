@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,18 +15,18 @@ Glossary Item Box
 
 Registers a new DriveApp in the group. 
 
-# ![](dotnetimages/collapse.gif)Overload List
+# Overload List
 
 Overload| Description  
 ---|---  
 [RegisterDriveApp(String,String,String,String,String,String,IEnumerable<String>,String)](topic3216.md)| Registers a new DriveApp in the group.   
 [RegisterDriveApp(Guid,String,String,String,String,String,String,IEnumerable<String>,String)](topic3217.md)| Registers a DriveApp in the group.   
   
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

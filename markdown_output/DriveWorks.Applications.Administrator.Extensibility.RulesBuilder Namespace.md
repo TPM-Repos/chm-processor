@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,13 +9,13 @@ See Also [Inheritance Hierarchy](topic1582.md) [Send Feedback](mailto:apisupport
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
 ![Class](dotnetimages/Class.gif)| [RulesBuilderResult](topic1622.md) | Provides the result data from invoking the rules builder.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -26,7 +24,7 @@ Glossary Item Box
 ![Interface](dotnetimages/Interface.gif)| [IRulesBuilderService](topic1598.md) | Provides access to the rules builder.  
 ![Interface](dotnetimages/Interface.gif)| [IRuleWindow](topic1607.md) | Provides a contract for interacting with a rules builder window.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +15,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [EventReportWriter](topic10409.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [EventReportWriter Constructor](topic10415.md)| Initializes a new instance of the [EventReportWriter](topic10409.md) type.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -32,7 +30,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [ProcessDepth](topic10493.md)| Gets the current depth of processes. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -41,7 +39,7 @@ Public Method| [EndProcess](topic10419.md)| Overridden. Ends the current process
 Public Method| [WriteEntry](topic10420.md)| Overridden. Writes a report entry to the report.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -51,7 +49,7 @@ Protected Method| [Finalize](topic10489.md)| Handles object finalization. (Inher
 Protected Method| [Finish](topic10490.md)| Finishes the report, flushing any cached contents to the report if necessary. (Inherited from [DriveWorks.Reporting.ReportWriterBase](topic10476.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -60,7 +58,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [ProcessEnded](topic10423.md)| Raised when a process is ended.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

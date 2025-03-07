@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -16,7 +14,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [IGroupService](topic251.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -25,7 +23,7 @@ The following tables list the members exposed by [IGroupService](topic251.md).
 ![ Property](dotnetimages/Property.gif)| [SupportsOpenGroup](topic264.md)| Gets a boolean indicating whether the implementation supports groups being opened by 3rd party code.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -35,7 +33,7 @@ Top
 ![ Method](dotnetimages/Method.gif)| [TryOpenGroup](topic261.md)| Tries to open the specified group with the given credentials.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -45,7 +43,7 @@ Top
 ![ Event](dotnetimages/Event.gif)| [GroupOpening](topic268.md)| Raised when a group is about to be opened.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 Raised whenever any control is renamed. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -25,7 +23,7 @@ Visual Basic (Declaration)|
     
     Public Event ControlNameChanged As EventHandler(Of ControlNameChangedEventArgs)  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -40,7 +38,7 @@ C#|
     
     public event EventHandler<ControlNameChangedEventArgs> ControlNameChanged  
   
-# ![](dotnetimages/collapse.gif)Event Data
+# Event Data
 
 The event handler receives an argument of type [ControlNameChangedEventArgs](topic10116.md) containing data related to this event. The following **ControlNameChangedEventArgs** properties provide information specific to this event.
 
@@ -50,11 +48,11 @@ Property| Description
 [NewName](topic10123.md)| The new name of the control.   
 [OldName](topic10124.md)| The original name of the control   
   
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

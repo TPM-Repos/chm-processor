@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +15,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [GroupVersionInformation](topic3446.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [GroupVersionInformation Constructor](topic3452.md)| Overloaded.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -34,7 +32,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [Revision](topic3467.md)| Gets the revision version number.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -44,7 +42,7 @@ Public Method| [GetObjectData](topic3458.md)|
 Public Method| [ToString](topic3459.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Operators
+# Public Operators
 
 ![public Operator](dotnetimages/publicOperator.gif) [Equality](topic3460.md) |   
 ---|---  
@@ -53,7 +51,7 @@ Top
 ![public Operator](dotnetimages/publicOperator.gif) [Less Than](topic3463.md) |   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

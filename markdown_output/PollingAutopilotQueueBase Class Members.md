@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [PollingAutopilotQueueBase](topic1898.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -25,7 +23,7 @@ The following tables list the members exposed by [PollingAutopilotQueueBase](top
 ![Public Property](dotnetimages/publicProperty.gif)| [SyncRoot](topic1913.md)| Gets an object which can be use to synchronize access to the queue.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -33,7 +31,7 @@ Public Method| [BeginStart](topic1904.md)| Begins the process of starting the qu
 Public Method| [BeginStop](topic1905.md)| Begins the process of stopping the queue.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -45,7 +43,7 @@ Protected Method| [OnStop](topic1910.md)| Can be overridden to perform shutdown 
 Protected Method| [WaitForIntervalOrStopRequest](topic1911.md)| Waits until either the polling interval elapses, or a request to stop is made.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

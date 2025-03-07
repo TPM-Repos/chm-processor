@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,14 +9,14 @@ See Also [Inheritance Hierarchy](topic1433.md) [Send Feedback](mailto:apisupport
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
 ![Class](dotnetimages/Class.gif)| [DataTableDesignerAttribute](topic1478.md) | Applied to a class implementing the [IDataTableDesigner](topic1434.md) interface to provide information about the data table designer.  
 ![Class](dotnetimages/Class.gif)| [GroupDataTableDesignerAttribute](topic1488.md) | Applied to a class implementing the [IGroupDataTableDesigner](topic1462.md) interface to provide information about the group data table designer.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -29,7 +27,7 @@ Glossary Item Box
 ![Interface](dotnetimages/Interface.gif)| [IGroupDataTableDesigner](topic1462.md) | Provides a contract for objects which provide support for creating and administering group data tables.  
 ![Interface](dotnetimages/Interface.gif)| [IGroupDataTableViewController](topic1471.md) | Provides a contract between the DriveWorks Administrator DataTable management view, and a data table designer's view UI.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

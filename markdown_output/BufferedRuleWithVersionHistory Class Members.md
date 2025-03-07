@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +15,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [BufferedRuleWithVersionHistory](topic6035.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [BufferedRuleWithVersionHistory Constructor](topic6041.md)| Initializes a new instance of the [BufferedRuleWithVersionHistory](topic6035.md) type.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -38,7 +36,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [Type](topic6034.md)| Gets the rule type. (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -47,14 +45,14 @@ Public Method| [GetVersionHistory](topic6042.md)| Gets the version history for t
 Public Method| [SetRuleAndComment](topic6026.md)| Sets the rule and comment at the same time. (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| [FlushCore](topic6025.md)|  (Inherited from [DriveWorks.Abstractions.BufferedRule](topic6017.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

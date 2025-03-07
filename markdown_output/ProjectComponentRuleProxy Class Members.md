@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [ProjectComponentRuleProxy](topic6216.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -27,7 +25,7 @@ The following tables list the members exposed by [ProjectComponentRuleProxy](top
 ![Public Property](dotnetimages/publicProperty.gif)| [Rule](topic6228.md)| Overridden.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
@@ -36,7 +34,7 @@ Top
 ![Protected Property](dotnetimages/protectedProperty.gif)| [IsWritable](topic6211.md)| Determines whether the rule and comment can be written to. (Inherited from [DriveWorks.Components.ProjectComponentRule](topic6198.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -46,7 +44,7 @@ Public Method| [GetVersionHistory](topic6222.md)| Overridden.
 Public Method| [SetRuleAndComment](topic6223.md)| Overridden.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -55,7 +53,7 @@ Protected Method| [RaiseCommentChanged](topic6205.md)| Raises the [CommentChange
 Protected Method| [RaiseRuleChanged](topic6206.md)| Raises the RuleChanged event. (Inherited from [DriveWorks.Components.ProjectComponentRule](topic6198.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -63,7 +61,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [RuleChanged](topic6215.md)| Raised when the rule has been changed. (Inherited from [DriveWorks.Components.ProjectComponentRule](topic6198.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

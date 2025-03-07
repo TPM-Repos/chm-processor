@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,11 +15,11 @@ Glossary Item Box
 
 Attribute that should be assigned to inheritors of [FileFormatGenerator](topic13579.md) to specify their target file extensions. 
 
-# ![](dotnetimages/collapse.gif)Object Model
+# Object Model
 
 ![](dotnetdiagramimages/image738.png)
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -33,7 +31,7 @@ Visual Basic (Declaration)|
     Public NotInheritable Class FileFormatGeneratorAttribute 
        Inherits [FileExtensionAttribute](topic13564.md)  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -48,11 +46,11 @@ C#|
        Inherited=true)]
     public sealed class FileFormatGeneratorAttribute : [FileExtensionAttribute](topic13564.md)   
   
-# ![](dotnetimages/collapse.gif)Remarks
+# Remarks
 
 This can be applied multiple times for the same class if that class converts more than one file extension.
 
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 System.Attribute  
@@ -60,11 +58,11 @@ System.Attribute
 **DriveWorks.SolidWorks.FileFormatGeneratorAttribute**  
 
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

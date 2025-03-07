@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides the standard conditions that are available for use in specification flows. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -28,7 +26,7 @@ Provides the standard conditions that are available for use in specification flo
 ![Class](dotnetimages/Class.gif)| [SpecificationCompleteCondition](topic11883.md) | A specification-flow condition which checks whether a running specification is complete.  
 ![Class](dotnetimages/Class.gif)| [SpecificationTypeCondition](topic11889.md) | A specification-flow condition which checks the type of specification.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

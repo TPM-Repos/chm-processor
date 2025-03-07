@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides support for renaming items in a DriveWorks Project. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -24,13 +22,13 @@ Provides support for renaming items in a DriveWorks Project.
 ![Class](dotnetimages/Class.gif)| [SearchFinishedEventArgs](topic10317.md) | Provides event data for the [RenameProcess.SearchFinished](topic10303.md).  
 ![Class](dotnetimages/Class.gif)| [SearchStartedEventArgs](topic10326.md) | Provides event data for the [RenameProcess.SearchStarted](topic10304.md).  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
 ![Enumeration](dotnetimages/Enumeration.gif)| [BatchActionOptions](topic10268.md) | Provides an enumeration of potential batch operations.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

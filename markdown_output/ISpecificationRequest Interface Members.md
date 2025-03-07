@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -16,7 +14,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [ISpecificationRequest](topic1778.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -24,7 +22,7 @@ The following tables list the members exposed by [ISpecificationRequest](topic17
 ![ Property](dotnetimages/Property.gif)| [TransitionName](topic1786.md)| Gets the name of the transition to invoke when the specification has been filled in.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -32,7 +30,7 @@ Top
 ![ Method](dotnetimages/Method.gif)| [AddInput](topic1784.md)| Adds an input to be changed in the specification.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -42,7 +40,7 @@ Top
 ![ Event](dotnetimages/Event.gif)| [TransitionFailed](topic1790.md)| Occurs when the specification is being processed and a transition with the given name is invalid.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

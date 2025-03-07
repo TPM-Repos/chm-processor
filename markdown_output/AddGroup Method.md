@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -23,7 +21,7 @@ Glossary Item Box
 
 Creates a new group which will contain related command buttons. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -34,7 +32,7 @@ Visual Basic (Declaration)|
        ByVal _linkedViewName_ As String _
     ) As [ICommandBarGroup](topic99.md)  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -61,17 +59,17 @@ C#|
 _linkedViewName_
     The name of a view to which the group is linked, or a null reference (Nothing in Visual Basic), if the group is always visible.
 
-# ![](dotnetimages/collapse.gif)Remarks
+# Remarks
 
 Command bar groups can be linked to views, which means they will only be visible if the linked view is the active view.
 
 If a view wishes to create a command button group, it should use the [ViewControl.CommandBarManager](topic1142.md) property to access a [IViewCommandBarManager](topic543.md) rather than using this interface.
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

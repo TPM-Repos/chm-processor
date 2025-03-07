@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,28 +15,28 @@ Glossary Item Box
 
 The following tables list the members exposed by [ProjectProfileRuleEventArgs](topic4728.md).
 
-# ![](dotnetimages/collapse.gif)Protected Constructors
+# Protected Constructors
 
 | Name| Description  
 ---|---|---  
 ![Protected Constructor](dotnetimages/protectedConstructor.gif)| [ProjectProfileRuleEventArgs Constructor](topic4735.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
 ![Public Property](dotnetimages/publicProperty.gif)| [RuleEvent](topic4737.md)| Gets the project rule event.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| [GetObjectData](topic4736.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

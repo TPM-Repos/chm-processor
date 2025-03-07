@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 Raised when a component set's name changes. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -25,7 +23,7 @@ Visual Basic (Declaration)|
     
     Public Event ComponentSetNameChanged As EventHandler(Of ProjectComponentSetNameChangedEventArgs)  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -40,7 +38,7 @@ C#|
     
     public event EventHandler<ProjectComponentSetNameChangedEventArgs> ComponentSetNameChanged  
   
-# ![](dotnetimages/collapse.gif)Event Data
+# Event Data
 
 The event handler receives an argument of type [ProjectComponentSetNameChangedEventArgs](topic4134.md) containing data related to this event. The following **ProjectComponentSetNameChangedEventArgs** properties provide information specific to this event.
 
@@ -50,11 +48,11 @@ Property| Description
 [NewName](topic4141.md)| Gets the new name of the component set.   
 [OldName](topic4142.md)| Gets the old name of the component set.   
   
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

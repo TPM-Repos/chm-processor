@@ -1,12 +1,3 @@
-       
-
-_T_
-    
-
-   
----  
-DriveWorks SDK Documentation  |   
----|---  
 SetService<T> Method   
   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) > [Project Class](topic3859.md) : SetService<T> Method  

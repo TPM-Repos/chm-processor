@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ See Also [Inheritance Hierarchy](topic1508.md) [Send Feedback](mailto:apisupport
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -19,7 +17,7 @@ Glossary Item Box
 ![Class](dotnetimages/Class.gif)| [Document3DDesignerAttribute](topic1557.md) | Applied to a class implementing the [IDocumentDesigner](topic1517.md) interface to provide information about the 3D document designer.  
 ![Class](dotnetimages/Class.gif)| [DocumentDesignerAttribute](topic1568.md) | Applied to a class implementing the [IDocumentDesigner](topic1517.md) interface to provide information about the document designer.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -29,7 +27,7 @@ Glossary Item Box
 ![Interface](dotnetimages/Interface.gif)| [IDocumentTestController](topic1532.md) | Used to control a document's test capability.  
 ![Interface](dotnetimages/Interface.gif)| [IDocumentTestProvider](topic1540.md) | When implemented by a document designer, provides support for specification test.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

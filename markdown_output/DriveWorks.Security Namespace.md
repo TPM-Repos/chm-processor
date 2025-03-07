@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides types related to DriveWorks Group and Project security. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -31,7 +29,7 @@ Provides types related to DriveWorks Group and Project security.
 ![Class](dotnetimages/Class.gif)| [UserDetails](topic10740.md) | Provides information about a registered user in a DriveWorks group.  
 ![Class](dotnetimages/Class.gif)| [WindowsCredentials](topic10756.md) |   
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -41,13 +39,13 @@ Provides types related to DriveWorks Group and Project security.
 ![Interface](dotnetimages/Interface.gif)| [IProviderPrincipal](topic10597.md) | Represents a provider-specific security principal.  
 ![Interface](dotnetimages/Interface.gif)| [IProviderRole](topic10608.md) | Represents a provider-specific security role.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
 ![Enumeration](dotnetimages/Enumeration.gif)| [GroupTablePermission](topic10616.md) | Provides information about permissions of access to group tables.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

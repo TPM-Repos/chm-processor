@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [DiscreteWizardStep<TControl>](topic770.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -32,7 +30,7 @@ The following tables list the members exposed by [DiscreteWizardStep<TControl>](
 ![Public Property](dotnetimages/publicProperty.gif)| [Wizard](topic783.md)| Gets the wizard to which the step belongs.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -41,14 +39,14 @@ Public Method| [GetControlTyped](topic777.md)| Gets the control.
 Public Method| [GetNextStep](topic778.md)| Overridden. Gets the next step if the state is valid, a null reference if the state is not valid, or [FinishStep](topic766.md) if the wizard's next action is to finish.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| [OnNextStepChanged](topic758.md)| Raises the [NextStepChanged](topic769.md) event. (Inherited from [DriveWorks.Applications.DiscreteWizardStep](topic750.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -57,7 +55,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [NextStepChanged](topic769.md)| Raised if the next step has changed, e.g. a different option was chosen, or the state has become valid/invalid. (Inherited from [DriveWorks.Applications.DiscreteWizardStep](topic750.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

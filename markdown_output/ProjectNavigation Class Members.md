@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [ProjectNavigation](topic10222.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -28,7 +26,7 @@ The following tables list the members exposed by [ProjectNavigation](topic10222.
 ![Public Property](dotnetimages/publicProperty.gif)| [StartStep](topic10250.md)| Gets the first step in the navigation.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -45,7 +43,7 @@ Public Method| [TryGetControl](topic10240.md)| Overloaded. Gets a control given 
 Public Method| [TryGetStep](topic10243.md)| Overloaded. Gets the named navigation step.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -56,7 +54,7 @@ Protected Method| [RaiseNavigationStepDeleted](topic10238.md)|
 Protected Method| [RaiseNavigationStepNameChanged](topic10239.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -68,7 +66,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [NavigationStepNameChanged](topic10256.md)| Raised when the name of a navigation step is changed.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

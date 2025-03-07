@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,13 +9,13 @@ See Also [Inheritance Hierarchy](topic10511.md) [Send Feedback](mailto:apisuppor
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
 ![Class](dotnetimages/Class.gif)| [BasicRuleNode](topic10558.md) | Provides a basic implementation of [IRuleNode](topic10542.md)  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -26,14 +24,14 @@ Glossary Item Box
 ![Interface](dotnetimages/Interface.gif)| [IRuleError](topic10534.md) | Provides a contract for an object containing information on an error from a rule.  
 ![Interface](dotnetimages/Interface.gif)| [IRuleNode](topic10542.md) | Provides a contract for an object containing information on a parsed rule node.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
 ![Enumeration](dotnetimages/Enumeration.gif)| [RuleNodeType](topic10556.md) | Represents the type of a node in an abstract syntax tree for a rule.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [RuleParseErrorType](topic10557.md) | Represents the type of error from a rule.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

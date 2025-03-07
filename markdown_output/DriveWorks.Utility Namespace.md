@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides helper types. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -26,7 +24,7 @@ Provides helper types.
 ![Class](dotnetimages/Class.gif)| [SearchItem](topic13270.md) | Provides data on a found item from the [search process](topic13195.md) class.  
 ![Class](dotnetimages/Class.gif)| [ValidationUtility](topic13287.md) | Provides common validation routines.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -34,7 +32,7 @@ Provides helper types.
 ![Enumeration](dotnetimages/Enumeration.gif)| [ValidateNameResult](topic13193.md) | DriveWorks name validation results.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [ValidatePathResult](topic13194.md) | DriveWorks path validation results.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

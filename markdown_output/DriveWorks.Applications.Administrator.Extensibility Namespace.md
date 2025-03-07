@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,14 +9,14 @@ See Also [Inheritance Hierarchy](topic1278.md) [Send Feedback](mailto:apisupport
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
 ![Class](dotnetimages/Class.gif)| [AdministratorCommands](topic1297.md) | Provides access to the names of common commands in DriveWorks Administrator.  
 ![Class](dotnetimages/Class.gif)| [AdministratorViewNames](topic1388.md) | Provides access to the names of common views in DriveWorks Administrator.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -26,7 +24,7 @@ Glossary Item Box
 ![Interface](dotnetimages/Interface.gif)| [IHasWpfControl](topic1285.md) | Provides a contract for an object to have a WPF based control  
 ![Interface](dotnetimages/Interface.gif)| [IListPropertyEditor](topic1291.md) | Provides a contract for a **IPropertyEditor** class that signals that DriveWorks should use inline dropdown property behaviour instead of the **IPropertyEditor.EditValue** method to edit the property's value.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

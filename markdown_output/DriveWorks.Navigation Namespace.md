@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides types related to working with the DriveWorks Forms navigation in projects. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -28,14 +26,14 @@ Provides types related to working with the DriveWorks Forms navigation in projec
 ![Class](dotnetimages/Class.gif)| [ProjectNavigation](topic10222.md) | Provides access to a project's navigation information.  
 ![Class](dotnetimages/Class.gif)| [StartNavigationStep](topic10257.md) | Represents the initial step in a project's navigation.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
 ![Delegate](dotnetimages/Delegate.gif)| [NavigationStepChangedEventHandler](topic10264.md) | Represents the method that will handle the event raised when a navigation step is changed.  
 ![Delegate](dotnetimages/Delegate.gif)| [NavigationStepNameChangedEventHandler](topic10265.md) | Represents the method that will handle the event raised when a navigation step's name is changed.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides types related to running DriveWorks Projects. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -81,7 +79,7 @@ Provides types related to running DriveWorks Projects.
 ![Class](dotnetimages/Class.gif)| [Transitions](topic11787.md) | Manages the transitions which are available for a given state in a specification-flow.  
 ![Class](dotnetimages/Class.gif)| [UnparsableFlowPropertyValueException](topic11805.md) | Thrown when a FlowProperty's rule results in a value that can't be parsed to the FlowProperty's type.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
@@ -97,7 +95,7 @@ Provides types related to running DriveWorks Projects.
 ![Delegate](dotnetimages/Delegate.gif)| [TaskEventHandler](topic11826.md) | Represents a method which will handle a task event.  
 ![Delegate](dotnetimages/Delegate.gif)| [TransitionEventHandler](topic11827.md) | Represents a method which will handle a transition event.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -111,7 +109,7 @@ Provides types related to running DriveWorks Projects.
 ![Enumeration](dotnetimages/Enumeration.gif)| [StateType](topic10773.md) | Represents the type of state.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [TaskListEntryType](topic10774.md) | The type of a task list entry.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

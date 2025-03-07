@@ -1,12 +1,3 @@
-       
-
-_T_
-    
-
-   
----  
-DriveWorks SDK Documentation  |   
----|---  
 ValueEventArgs<T> Class   
 [Members](topic5844.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ValueEventArgs<T> Class  

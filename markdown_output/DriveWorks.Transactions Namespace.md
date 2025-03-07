@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides support for modifying DriveWorks Projects in a way that is compatible with the Undo/Redo system in DriveWorks Applications. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -32,13 +30,13 @@ Provides support for modifying DriveWorks Projects in a way that is compatible w
 ![Class](dotnetimages/Class.gif)| [TxAggregateTransaction](topic13172.md) | Provides support for aggregating multiple transactions into a single transaction which will succeed or fail atomically.  
 ![Class](dotnetimages/Class.gif)| [TxBase](topic13182.md) | Provides a helper base class for transactions to automatically implement double-commit prevention.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
 ![Interface](dotnetimages/Interface.gif)| [ITransaction](topic12837.md) | Provides a contract for objects which provide undo/redo capabilities to an operation.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

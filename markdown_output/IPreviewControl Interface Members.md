@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -16,14 +14,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [IPreviewControl](topic362.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
 ![ Property](dotnetimages/Property.gif)| [IsInstantModeEnabled](topic380.md)| Disables animation and ensures that manual previews auto display.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -42,14 +40,14 @@ Top
 ![ Method](dotnetimages/Method.gif)| [SetZoomLimits](topic379.md)| Set Min and Max zoom distance for the orbit camera.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
 ![ Event](dotnetimages/Event.gif)| [FrameRendered](topic381.md)| Raised whenever an image of the preview has finished displaying in the control.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

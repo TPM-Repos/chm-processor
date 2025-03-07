@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [FlowNodeCollection](topic7011.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -25,7 +23,7 @@ The following tables list the members exposed by [FlowNodeCollection](topic7011.
 ![Public Property](dotnetimages/publicProperty.gif)| [Item](topic7023.md)| Gets the node at the specified index.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -33,7 +31,7 @@ Public Method| [GetEnumerator](topic7017.md)| Gets an enumerator suitable for en
 Public Method| [IndexOf](topic7019.md)| Gets the index of the given node.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -42,7 +40,7 @@ Protected Method| [RaiseNodeCreated](topic7020.md)| Raise the [NodeCreated](topi
 Protected Method| [RaiseNodeDeleted](topic7021.md)| Raise the [NodeDeleted](topic7025.md) event.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -50,7 +48,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [NodeDeleted](topic7025.md)| The event raised when a node has been deleted from the collection.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

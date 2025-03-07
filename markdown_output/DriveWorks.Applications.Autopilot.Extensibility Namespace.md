@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ See Also [Inheritance Hierarchy](topic1634.md) [Send Feedback](mailto:apisupport
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -30,7 +28,7 @@ Glossary Item Box
 ![Class](dotnetimages/Class.gif)| [SpecificationRequestInputsDrivenEventArgs](topic1960.md) | Provides information about the results of driving a specification request's inputs.  
 ![Class](dotnetimages/Class.gif)| [TransitionFailedEventArgs](topic1968.md) | Provides event data for the [ISpecificationRequest.TransitionFailed](topic1790.md) event.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -51,7 +49,7 @@ Glossary Item Box
 ![Interface](dotnetimages/Interface.gif)| [ITranslationRequest](topic1791.md) | Represents a translation request.  
 ![Interface](dotnetimages/Interface.gif)| [ITranslator](topic1801.md) | Provides a contract for plug-ins which can take raw data and translate it into an series of [ISpecificationRequest](topic1778.md) instances.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
@@ -61,7 +59,7 @@ Glossary Item Box
 ![Delegate](dotnetimages/Delegate.gif)| [IAutopilotService.PriorityTagsAddedEventHandler](topic1980.md) | Represents a method that will handle the [IAutopilotService.PriorityTagsAdded](topic1685.md) event.  
 ![Delegate](dotnetimages/Delegate.gif)| [IAutopilotService.PriorityTagsRemovedEventHandler](topic1981.md) | Represents a method that will handle the [IAutopilotService.PriorityTagsRemoved](topic1686.md) event.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -69,7 +67,7 @@ Glossary Item Box
 ![Enumeration](dotnetimages/Enumeration.gif)| [SolidWorksOperationPriority](topic1808.md) | Represents the relative priority of an operation being coordinated by the [ISolidWorksHealthMonitor](topic1741.md).  
 ![Enumeration](dotnetimages/Enumeration.gif)| [SolidWorksOperationType](topic1809.md) | Indicates the type of an operation being coordinated by the [ISolidWorksHealthMonitor](topic1741.md).  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

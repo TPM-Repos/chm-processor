@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [GroupPollingConnectorBase<T>](topic1878.md).
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
@@ -29,7 +27,7 @@ The following tables list the members exposed by [GroupPollingConnectorBase<T>](
 ![Protected Property](dotnetimages/protectedProperty.gif)| [PollingInterval](topic1887.md)| Gets/sets the polling interval.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -39,7 +37,7 @@ Public Method| [Start](topic1869.md)| Starts this connector running. (Inherited 
 Public Method| [Stop](topic1870.md)| Stops this connector running. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.GroupConnectorBase<T>](topic1857.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -51,14 +49,14 @@ Protected Method| [OnStop](topic1886.md)| Overridden. Stops the polling thread.
 Protected Method| [StoreInformation](topic1871.md)| When called this will store the current information into this group. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.GroupConnectorBase<T>](topic1857.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
 ![Public Event](dotnetimages/publicEvent.gif)| [InformationSet](topic1877.md)| Raised when the connector's information has been set. (Inherited from [DriveWorks.Applications.Autopilot.Extensibility.GroupConnectorBase<T>](topic1857.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

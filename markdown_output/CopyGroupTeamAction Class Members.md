@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [CopyGroupTeamAction](topic9806.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -28,7 +26,7 @@ The following tables list the members exposed by [CopyGroupTeamAction](topic9806
 ![Public Property](dotnetimages/publicProperty.gif)| [WillExecute](topic9947.md)| Returns whether or not this action wants to execute. (Inherited from [DriveWorks.GroupMaintenance.ProcessActionBase](topic9935.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -36,21 +34,21 @@ Public Method| [Execute](topic9812.md)| Overridden. Executes this action.
 Public Method| [GetCanExecute](topic9813.md)| Overridden. Checks to see if the action can be executed or not.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| [RaisePropertyChanged](topic9943.md)| Raises the [ProcessActionBase.PropertyChanged](topic9948.md) event. (Inherited from [DriveWorks.GroupMaintenance.ProcessActionBase](topic9935.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
 ![Public Event](dotnetimages/publicEvent.gif)| [PropertyChanged](topic9948.md)| Raised when a property on this object changes. (Inherited from [DriveWorks.GroupMaintenance.ProcessActionBase](topic9935.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

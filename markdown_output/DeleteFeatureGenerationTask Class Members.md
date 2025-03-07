@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +15,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [DeleteFeatureGenerationTask](topic15309.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [DeleteFeatureGenerationTask Constructor](topic15315.md)|   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -34,7 +32,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [ResultDetails](topic13692.md)| Gets/sets the detailed result of the task. (Inherited from [DriveWorks.SolidWorks.GenerationTask](topic13678.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
@@ -42,21 +40,21 @@ Top
 ![Protected Property](dotnetimages/protectedProperty.gif)| [Report](topic13691.md)| Gets the report for the task. (Inherited from [DriveWorks.SolidWorks.GenerationTask](topic13678.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
 Public Method| [Execute](topic15316.md)| Overridden.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| [SetExecutionResult](topic13686.md)| Sets the result of this task. (Inherited from [DriveWorks.SolidWorks.GenerationTask](topic13678.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

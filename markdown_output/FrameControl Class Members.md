@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [FrameControl](topic8112.md).
 
-# ![](dotnetimages/collapse.gif)Public Fields
+# Public Fields
 
 | Name| Description  
 ---|---|---  
@@ -26,7 +24,7 @@ The following tables list the members exposed by [FrameControl](topic8112.md).
 ![Public Field](dotnetimages/publicField.gif)![static \(Shared in Visual Basic\)](dotnetimages/static.gif)| [VerticalScrollVisibilityProperty](topic8125.md)| Provides the backing store for the [VerticalScrollBarVisibility](topic8122.md) property.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -56,7 +54,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [Width](topic7745.md)| Gets/sets the control width. (Inherited from [DriveWorks.Forms.ControlBase](topic7698.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -74,7 +72,7 @@ Public Method| [SetInputValue](topic7720.md)| Overloaded. Sets the current input
 Public Method| [WithTransientEvent](topic7725.md)| Attaches the given event to the given property of the control so that changes to the property will include the event details, and returns an implementation of System.IDisposable that will detach when it is disposed. (Inherited from [DriveWorks.Forms.ControlBase](topic7698.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -92,7 +90,7 @@ Protected Method| [TryExecuteOnChangeMacro](topic7723.md)|  (Inherited from [Dri
 Protected Method| [Validate](topic7724.md)| When overridden by a derived control, validates the control's properties after a change. (Inherited from [DriveWorks.Forms.ControlBase](topic7698.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -105,7 +103,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [ValueChanged](topic7765.md)| Raised when the value of a property on the control changes. (Inherited from [DriveWorks.Forms.ControlBase](topic7698.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

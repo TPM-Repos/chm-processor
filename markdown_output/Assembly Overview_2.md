@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ Glossary Item Box
 
 Provides the core DriveWorks API which provides support for working with groups and projects, and which is common to all DriveWorks applications. 
 
-# ![](dotnetimages/collapse.gif)Namespaces
+# Namespaces
 
 Namespace| Description  
 ---|---  

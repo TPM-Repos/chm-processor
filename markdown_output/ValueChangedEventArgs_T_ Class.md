@@ -1,12 +1,3 @@
-       
-
-_T_
-    The type for the value that has changed
-
-   
----  
-DriveWorks SDK Documentation  |   
----|---  
 ValueChangedEventArgs<T> Class   
 [Members](topic5835.md)   
 [DriveWorks.Engine Assembly](topic2156.md) > [DriveWorks Namespace](topic2159.md) : ValueChangedEventArgs<T> Class  

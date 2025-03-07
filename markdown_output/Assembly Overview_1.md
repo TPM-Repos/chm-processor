@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ Glossary Item Box
 
 Provides types related to DriveWorks' SolidWorks capabilities.
 
-# ![](dotnetimages/collapse.gif)Namespaces
+# Namespaces
 
 Namespace| Description  
 ---|---  

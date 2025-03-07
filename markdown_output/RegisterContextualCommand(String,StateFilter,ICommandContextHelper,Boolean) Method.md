@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
+Collapse All Expand All Language Filter: All  Language Filter: Multiple  Language Filter: Visual Basic (Declaration) Language Filter: Visual Basic (Usage) Language Filter: C#  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -29,7 +27,7 @@ Glossary Item Box
 
 Registers the given contextual command with the command manager. 
 
-# ![](dotnetimages/collapse.gif)Syntax
+# Syntax
 
 Visual Basic (Declaration)|   
 ---|---  
@@ -42,7 +40,7 @@ Visual Basic (Declaration)|
        ByVal _enabled_ As Boolean _
     ) As [ICommand](topic77.md)  
   
-Visual Basic (Usage)| ![](dotnetimages/copycode.gif)Copy Code  
+Visual Basic (Usage)| Copy Code  
 ---|---  
       
     
@@ -81,17 +79,17 @@ _enabled_
 
 An implementation of the [ICommand](topic77.md) interface representing the newly registered command.
 
-# ![](dotnetimages/collapse.gif)Remarks
+# Remarks
 
 Commands can be classified as context-aware, or basic commands. A context-aware command is one which changes its behavior depending on the contextual data passed to its invoke method, it may also provide a custom title and description based on the context to which it is applied.
 
 One example of a context-aware command would be the open group command, without any context, this command will show the open group dialog, however, context data could also be specified identifying the specific group to open.
 
-# ![](dotnetimages/collapse.gif)Requirements
+# Requirements
 
 **Target Platforms:** Please see DriveWorks software prerequisites.
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

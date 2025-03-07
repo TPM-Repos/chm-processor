@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,14 +15,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [ProfilerSpecificationMonitor](topic3838.md).
 
-# ![](dotnetimages/collapse.gif)Public Constructors
+# Public Constructors
 
 | Name| Description  
 ---|---|---  
 ![Public Constructor](dotnetimages/publicConstructor.gif)| [ProfilerSpecificationMonitor Constructor](topic3844.md)| Creates a new instance of the [ProfilerSpecificationMonitor](topic3838.md) class.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -33,7 +31,7 @@ Top
 ![Public Property](dotnetimages/publicProperty.gif)| [Project](topic3851.md)| Gets the project for the specification being monitored.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -41,7 +39,7 @@ Public Method| [Dispose](topic3845.md)| Overloaded.
 Public Method| [Initialize](topic3848.md)| Performs any initialization needed for monitoring this specification in the profiler.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -54,7 +52,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [ProjectChanged](topic3858.md)| Raised when the instance of the project for this specification has changed.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

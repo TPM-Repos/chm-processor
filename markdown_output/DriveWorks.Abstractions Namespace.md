@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides types which provide abstractions which are common in the DriveWorks Engine such as common interfaces implemented by rules bound objects. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -24,7 +22,7 @@ Provides types which provide abstractions which are common in the DriveWorks Eng
 ![Class](dotnetimages/Class.gif)| [GenericRuleWithCustomName](topic6063.md) | Provides a simple implementation of the [IHasRule](topic5947.md) implementation with customized support for the MyName function.  
 ![Class](dotnetimages/Class.gif)| [Lock](topic6079.md) | Provides an object which can be used to help implement the [ILockable](topic5981.md) interface.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -38,7 +36,7 @@ Provides types which provide abstractions which are common in the DriveWorks Eng
 ![Interface](dotnetimages/Interface.gif)| [INotifyRuleChanged](topic5987.md) | Provides a contract for an object to notify when its rule changes.  
 ![Interface](dotnetimages/Interface.gif)| [IResourceUrlProvider](topic5993.md) | Provides a contract for retrieving URLs for resources.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

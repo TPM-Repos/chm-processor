@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -16,14 +14,14 @@ Glossary Item Box
 
 The following tables list the members exposed by [ISolidWorksService](topic13411.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
 ![ Property](dotnetimages/Property.gif)| [SolidWorks](topic13416.md)| Gets the current instance of SolidWorks, or a null reference (Nothing in Visual Basic) if the application is not connected to SolidWorks.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -31,7 +29,7 @@ Top
 ![ Event](dotnetimages/Event.gif)| [Disconnected](topic13418.md)| Occurs when DriveWorks disconnects from the current instance of SolidWorks.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

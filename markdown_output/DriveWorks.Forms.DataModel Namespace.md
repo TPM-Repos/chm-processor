@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides the data model for DriveWorks Forms. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -28,13 +26,13 @@ Provides the data model for DriveWorks Forms.
 ![Class](dotnetimages/Class.gif)| [StoreConverter](topic9528.md) | Provides methods for converting between different types of store values.  
 ![Class](dotnetimages/Class.gif)| [ValueChangedEventArgs](topic9575.md) | Provides event data for the [ValueChangedEventHandler](topic9590.md) event.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
 ![Interface](dotnetimages/Interface.gif)| [IPropertyValueConverter](topic9373.md) | Provides a mechanism for converting values to and from their native representations in the backing store.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
@@ -42,7 +40,7 @@ Provides the data model for DriveWorks Forms.
 ![Delegate](dotnetimages/Delegate.gif)| [RuleChangedEventHandler](topic9589.md) | Represents the method that will handle a rule changed event.  
 ![Delegate](dotnetimages/Delegate.gif)| [ValueChangedEventHandler](topic9590.md) | Represents the method that will handle a value changed event.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -50,7 +48,7 @@ Provides the data model for DriveWorks Forms.
 ![Enumeration](dotnetimages/Enumeration.gif)| [PropertyBehavior](topic9383.md) | Controls the dynamic behavior of a property.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [StandardStoreOptions](topic9384.md) | Standard DriveWorks property stores.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

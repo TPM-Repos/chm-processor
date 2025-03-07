@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides types related to DriveWorks model generation. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -30,7 +28,7 @@ Provides types related to DriveWorks model generation.
 ![Class](dotnetimages/Class.gif)| [PreparationFailedException](topic15281.md) | Represents an exception thrown during the preparation phase of a generation engine.  
 ![Class](dotnetimages/Class.gif)| [ReplaceReferenceException](topic15291.md) | Represents the exception thrown when an exception occurs during reference replacement.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -39,13 +37,13 @@ Provides types related to DriveWorks model generation.
 ![Interface](dotnetimages/Interface.gif)| [IGenerationService](topic15147.md) | Provides access to the component in a DriveWorks application which is responsible for model generation.  
 ![Interface](dotnetimages/Interface.gif)| [IModelGenerationContext](topic15157.md) | Provides contextual information about a single model being generated.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
 ![Enumeration](dotnetimages/Enumeration.gif)| [ModelPreparationResult](topic15169.md) | The result of preparing the model.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

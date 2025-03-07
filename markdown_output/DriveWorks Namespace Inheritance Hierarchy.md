@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ DriveWorks Namespace Inheritance Hierarchy
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Inheritance Hierarchy
+# Inheritance Hierarchy
 
 System.Object  
 [DriveWorks.AgentDetails](topic2381.md)  
@@ -274,7 +272,7 @@ DriveWorks.Internal.DesignMasters.TitanDM.TitanVariablesProvider
 [DriveWorks.SpecificationMacroCategory](topic5359.md)  
 
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

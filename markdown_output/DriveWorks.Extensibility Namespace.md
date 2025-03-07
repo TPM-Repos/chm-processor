@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides types related to DriveWorks Engine-level extensibility. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -28,13 +26,13 @@ Provides types related to DriveWorks Engine-level extensibility.
 ![Class](dotnetimages/Class.gif)| [SharedProjectExtender](topic7248.md) | Provides support for extending all DriveWorks projects with additional functions.  
 ![Class](dotnetimages/Class.gif)| [UdfAttribute](topic7256.md) | Designates a method on a [ProjectExtender](topic7232.md) or a [SharedProjectExtender](topic7248.md) as a user defined function to be available in a design master.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
 ![Interface](dotnetimages/Interface.gif)| [IExtension](topic7152.md) | Provides a marker interface which must be implemented by all types which are obtainable from an extension library.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

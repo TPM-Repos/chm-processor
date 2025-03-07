@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [GroupDataTable](topic3110.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -26,14 +24,14 @@ The following tables list the members exposed by [GroupDataTable](topic3110.md).
 ![Public Property](dotnetimages/publicProperty.gif)| [Name](topic3131.md)| Gets the display name for this table.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
 ![Protected Property](dotnetimages/protectedProperty.gif)| [IsDirty](topic3129.md)| Gets if the cache table data is not the latest version.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -44,7 +42,7 @@ Public Method| [SetRows](topic3126.md)| Updates rows of this table with the spec
 Public Method| [SetTableData](topic3127.md)| Sets the data of this table to the specified data.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -55,7 +53,7 @@ Protected Method| [OnMetaDataChanged](topic3124.md)| Called whenever the data pr
 Protected Method| [RaiseTableDataChanged](topic3125.md)| Raises the [TableDataChanged](topic3135.md) event.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -65,7 +63,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [TableDataChanged](topic3135.md)| Raised when the data in this table changes.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

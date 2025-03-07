@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides support for serializing and deserializing DriveWorks Forms. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -21,13 +19,13 @@ Provides support for serializing and deserializing DriveWorks Forms.
 ![Class](dotnetimages/Class.gif)| [ControlDeserializer](topic9604.md) | Provides support for deserializing controls from their XML representation.  
 ![Class](dotnetimages/Class.gif)| [PropertyData](topic9611.md) | Provides the data required by a property on a control.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
 ![Delegate](dotnetimages/Delegate.gif)| [ControlTypeResolverDelegate](topic9625.md) | Represents a method which can resolve a control type based on its plugin-assembly qualified type name.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

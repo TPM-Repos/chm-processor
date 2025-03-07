@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [ComponentTaskProperty](topic6633.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -37,7 +35,7 @@ The following tables list the members exposed by [ComponentTaskProperty](topic66
 ![Public Property](dotnetimages/publicProperty.gif)| [Value](topic6645.md)| Gets/sets the value of the rule.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -48,14 +46,14 @@ Public Method| [SetIsDynamic](topic6639.md)| Changes whether this property is bo
 Public Method| [SetRuleAndComment](topic6640.md)| Overridden. Sets the rule and comment in a single operation and updates the version history.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
 Protected Method| MemberwiseClone| Overloaded. (Inherited from System.MarshalByRefObject)  
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -63,7 +61,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [RuleChanged](topic6722.md)| Raised when the [ComponentTaskRule.Rule](topic6719.md) property has changed. (Inherited from [DriveWorks.Components.Tasks.ComponentTaskRule](topic6704.md))  
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

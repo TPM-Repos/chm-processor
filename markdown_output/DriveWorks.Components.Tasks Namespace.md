@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ See Also [Inheritance Hierarchy](topic6392.md) [Send Feedback](mailto:apisupport
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -37,20 +35,20 @@ Glossary Item Box
 ![Class](dotnetimages/Class.gif)| [ComponentTaskRule](topic6704.md) | Represents the rule for a [ComponentTask](topic6407.md) parameter.  
 ![Class](dotnetimages/Class.gif)| [ComponentTaskRuleCollection](topic6723.md) | Represents a collection of rules for a [ComponentTask](topic6407.md).  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
 ![Interface](dotnetimages/Interface.gif)| [IComponentTask](topic6393.md) | Represents the common interface for all [ComponentTask](topic6407.md)s.  
 ![Interface](dotnetimages/Interface.gif)| [IComponentTaskCondition](topic6399.md) | Represents the basic contract of a [ComponentTaskCondition](topic6493.md) that is evaluated at run time.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
 ![Enumeration](dotnetimages/Enumeration.gif)| [ComponentTaskSequenceLocation](topic6406.md) | Represents the different locations in the generation sequence that tasks can scheduled for execution.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

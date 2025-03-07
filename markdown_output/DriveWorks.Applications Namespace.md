@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Contains types for services that can be requested by DriveWorks extensions. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -67,7 +65,7 @@ Contains types for services that can be requested by DriveWorks extensions.
 ![Class](dotnetimages/Class.gif)| [WizardBase](topic1200.md) | Provides a base implementation of the [IWizard](topic613.md) interface which makes it easier to create wizards for use with DriveWorks applications.  
 ![Class](dotnetimages/Class.gif)| [WizardRunningException](topic1257.md) | Thrown when an attempt is made to show a wizard when a wizard service is already showing another wizard.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -136,7 +134,7 @@ Contains types for services that can be requested by DriveWorks extensions.
 ![Interface](dotnetimages/Interface.gif)| [IWizardService](topic642.md) | Provides a contract for a service capable of running a wizard.  
 ![Interface](dotnetimages/Interface.gif)| [IWizardStep](topic648.md) | Provides a convenient contract for retrieving information about a wizard step which implements this interface.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
@@ -151,7 +149,7 @@ Contains types for services that can be requested by DriveWorks extensions.
 ![Delegate](dotnetimages/Delegate.gif)| [VirtualItemSelectedEventHandler](topic1275.md) | Represents a method which will handle the [IVirtualSplitCommandButton.VirtualItemSelected](topic606.md) event.  
 ![Delegate](dotnetimages/Delegate.gif)| [VirtualItemsRequestEventHandler](topic1276.md) | The event handler delegate used for events such as [IVirtualSplitCommandButton.DropDownOpening](topic603.md) which request virtual items.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
@@ -163,7 +161,7 @@ Contains types for services that can be requested by DriveWorks extensions.
 ![Enumeration](dotnetimages/Enumeration.gif)| [SettingLevel](topic661.md) | Represents the level at which a setting is stored.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [SettingsPagePosition](topic662.md) | Specifies the position of a settings page relative to another.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Contains types specifically related to the extensibility system, for example, [IApplicationPlugin Interface](topic2004.md)
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -23,7 +21,7 @@ Contains types specifically related to the extensibility system, for example, [I
 ![Class](dotnetimages/Class.gif)| [ProjectCreationData](topic2132.md) | Provides information about a project to be created.  
 ![Class](dotnetimages/Class.gif)| [ProjectTemplateHelperAttribute](topic2144.md) | Supports automatic discovery of project template helpers in a library.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -39,14 +37,14 @@ Contains types specifically related to the extensibility system, for example, [I
 ![Interface](dotnetimages/Interface.gif)| [ILibraryManager](topic2079.md) | Provides access to libraries.  
 ![Interface](dotnetimages/Interface.gif)| [IProjectTemplateHelper](topic2091.md) | Provides a contract for types which provide project creation capabilities.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
 ![Delegate](dotnetimages/Delegate.gif)| [ApplicationPluginLoadedEventHandler](topic2154.md) | Represents a method that will handle the [IApplicationPluginManager.ApplicationPluginLoaded](topic2027.md) event.  
 ![Delegate](dotnetimages/Delegate.gif)| [LibraryEventHandler](topic2155.md) | Represents a method that will handle events for the [ILibraryManager](topic2079.md) class.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

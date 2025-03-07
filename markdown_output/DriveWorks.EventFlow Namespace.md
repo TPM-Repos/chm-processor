@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -11,7 +9,7 @@ See Also [Inheritance Hierarchy](topic6872.md) [Send Feedback](mailto:apisupport
   
 Glossary Item Box
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -37,7 +35,7 @@ Glossary Item Box
 ![Class](dotnetimages/Class.gif)| [SubFlowInputsNode](topic7136.md) | This node represents the inputs to a SubFlow.  
 ![Class](dotnetimages/Class.gif)| [SubFlowOutputsNode](topic7143.md) | Represents the outputs of a **SubFlow**.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -45,13 +43,13 @@ Glossary Item Box
 ![Interface](dotnetimages/Interface.gif)| [INodeEditor](topic6888.md) | Represents a visual editor for a [IFlowNode](topic6873.md).  
 ![Interface](dotnetimages/Interface.gif)| [INodeEndpointCollection](topic6894.md) | Represents the owner of a [DriveWorks.Specification.FlowProperty](topic10946.md) or [NodeOutput](topic7074.md).  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
 ![Enumeration](dotnetimages/Enumeration.gif)| [NodeExecutionState](topic6900.md) | Represents the state of a [ExecutableNodeBase](topic6938.md).  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All ![](dotnetimages/drpdown.gif) Members Options: Show All  Members Options: Filtered   
+Collapse All Expand All Members Options: Show All  Members Options: Filtered   
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -17,7 +15,7 @@ Glossary Item Box
 
 The following tables list the members exposed by [FileFormatGenerator](topic13579.md).
 
-# ![](dotnetimages/collapse.gif)Public Properties
+# Public Properties
 
 | Name| Description  
 ---|---|---  
@@ -26,7 +24,7 @@ The following tables list the members exposed by [FileFormatGenerator](topic1357
 ![Public Property](dotnetimages/publicProperty.gif)| [TemporaryDirectory](topic13603.md)| Gets/sets the temporary directory used during generation.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Properties
+# Protected Properties
 
 | Name| Description  
 ---|---|---  
@@ -38,7 +36,7 @@ Top
 ![Protected Property](dotnetimages/protectedProperty.gif)| [TargetModel](topic13602.md)| Gets/sets the target model that the additional file is created from.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Methods
+# Public Methods
 
 | Name| Description  
 ---|---|---  
@@ -47,7 +45,7 @@ Public Method| [GetParameters](topic13586.md)| Gets all parameters that should b
 Public Method| [PrepareGeneration](topic13588.md)| Overloaded. Called before main generation, should be used to initialize and evaluate parameters to determine if generation can take place.   
 Top
 
-# ![](dotnetimages/collapse.gif)Protected Methods
+# Protected Methods
 
 | Name| Description  
 ---|---|---  
@@ -58,7 +56,7 @@ Protected Method| [TrySaveAs](topic13593.md)| Helper method that will attempt to
 Protected Method| [TrySaveTemporaryFile](topic13594.md)| Attempts to save the file to the specified temporary location.   
 Top
 
-# ![](dotnetimages/collapse.gif)Public Events
+# Public Events
 
 | Name| Description  
 ---|---|---  
@@ -67,7 +65,7 @@ Top
 ![Public Event](dotnetimages/publicEvent.gif)| [AdditionalFileGenerated](topic13606.md)| Raised when an additional file format is saved.   
 Top
 
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

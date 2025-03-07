@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides types related to reporting capabilities. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -28,7 +26,7 @@ Provides types related to reporting capabilities.
 ![Class](dotnetimages/Class.gif)| [ReportWriterBase](topic10476.md) | Provides a simple base class from which report writers can inherit.  
 ![Class](dotnetimages/Class.gif)| [TraceReportWriter](topic10494.md) | Implements a report writer which writes to the tracing framework.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -36,21 +34,21 @@ Provides types related to reporting capabilities.
 ![Interface](dotnetimages/Interface.gif)| [IReportWriter](topic10344.md) | Provides a contract for report writers capable of logging reports for the DriveWorks Engine.  
 ![Interface](dotnetimages/Interface.gif)| [IReportWriterFactory](topic10355.md) | Provides a contract for an object which can create instances of implementations of the [IReportWriter](topic10344.md) interface for a set of related reports.  
   
-# ![](dotnetimages/collapse.gif)Delegates
+# Delegates
 
 | Delegate| Description  
 ---|---|---  
 ![Delegate](dotnetimages/Delegate.gif)| [EntryEventHandler](topic10508.md) | Represents a method that will handle events related to report entries.  
 ![Delegate](dotnetimages/Delegate.gif)| [ProcessEventHandler](topic10509.md) | Represents a method that will handle events related to report processes.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
 ![Enumeration](dotnetimages/Enumeration.gif)| [ReportEntryType](topic10361.md) | Represents the type of an entry in a report.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [ReportingLevel](topic10362.md) | Represents the reporting level.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 

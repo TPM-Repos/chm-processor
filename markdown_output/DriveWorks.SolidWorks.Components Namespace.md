@@ -1,6 +1,4 @@
-![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/collapse.gif) ![](dotnetimages/expand.gif) ![](dotnetimages/drpdown.gif) ![](dotnetimages/drpdown_orange.gif) ![](dotnetimages/copycode.gif) ![](dotnetimages/copycodeHighlight.gif)
-
-![](dotnetimages/collapse.gif) Collapse All Expand All  
+Collapse All Expand All  
 ---  
 DriveWorks SDK Documentation  |   
 ---|---  
@@ -13,7 +11,7 @@ Glossary Item Box
 
 Provides support for captured, project, and released SolidWorks parts, assemblies, and drawings. 
 
-# ![](dotnetimages/collapse.gif)Classes
+# Classes
 
 | Class| Description  
 ---|---|---  
@@ -111,7 +109,7 @@ Provides support for captured, project, and released SolidWorks parts, assemblie
 ![Class](dotnetimages/Class.gif)| [ReleasedViewDimension](topic15069.md) | Represents a released view dimension.  
 ![Class](dotnetimages/Class.gif)| [ReleasedViewDimensionCollection](topic15078.md) | Provides a collection of view dimensions.  
   
-# ![](dotnetimages/collapse.gif)Interfaces
+# Interfaces
 
 | Interface| Description  
 ---|---|---  
@@ -133,14 +131,14 @@ Provides support for captured, project, and released SolidWorks parts, assemblie
 ![Interface](dotnetimages/Interface.gif)| [IHasReleasedFeatures](topic14017.md) | Implemented by components which expose features.  
 ![Interface](dotnetimages/Interface.gif)| [IHasReleasedFormats](topic14023.md) | Implemented by released components which expose file formats.  
   
-# ![](dotnetimages/collapse.gif)Enumerations
+# Enumerations
 
 | Enumeration| Description  
 ---|---|---  
 ![Enumeration](dotnetimages/Enumeration.gif)| [FeatureSuppressionState](topic14029.md) | Specifies the desired suppression state of a released feature.  
 ![Enumeration](dotnetimages/Enumeration.gif)| [ViewDimensionRelativeTo](topic14030.md) | Specifies the side of the view that a dimension is captured relative to.  
   
-# ![](dotnetimages/collapse.gif)See Also
+# See Also
 
 #### Reference
 
